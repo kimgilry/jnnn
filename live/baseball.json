@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T04:12:37.675183+09:00",
+  "generatedAt": "2026-08-20T05:00:19.015432+09:00",
   "dateKST": "2026-08-20",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1544
+      "games": 1545
     }
   },
   "games": [
@@ -308,11 +308,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1544,
+    "rawGames": 1545,
     "evaluatedPicks": 384,
     "correct": 196,
     "accuracy": 51.04,
-    "coverage": 24.87,
+    "coverage": 24.85,
     "YRFI": {
       "picks": 211,
       "correct": 105,
@@ -443,7 +443,7 @@
       },
       "Pittsburgh Pirates": {
         "games": 30,
-        "scored1stPct": 10.0,
+        "scored1stPct": 13.3,
         "allowed1stPct": 26.7
       },
       "Texas Rangers": {
