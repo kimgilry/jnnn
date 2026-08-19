@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Collect pre-game baseball data
+      - name: Collect pre-game baseball + 1st inning backtest
         run: python3 collector/baseball_collector.py
       - name: Commit live JSON
         run: |
@@ -21,5 +21,5 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add live/baseball.json
           git diff --cached --quiet && exit 0
-          git commit -m "Update baseball pre-game data"
+          git commit -m "Update baseball live + 1st inning data"
           git push
