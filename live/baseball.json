@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T05:00:19.015432+09:00",
+  "generatedAt": "2026-08-20T06:43:58.015234+09:00",
   "dateKST": "2026-08-20",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1545
+      "games": 1548
     }
   },
   "games": [
@@ -101,9 +101,9 @@
       "homeLosses": 74,
       "awayWinPct": 0.3889,
       "homeWinPct": 0.4173,
-      "awayStarter": "",
+      "awayStarter": "Gage Jump",
       "homeStarter": "Randy Dobnak",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -116,11 +116,11 @@
       "away": "Atlanta Braves",
       "home": "Chicago White Sox",
       "awayWins": 74,
-      "awayLosses": 52,
-      "homeWins": 65,
+      "awayLosses": 53,
+      "homeWins": 66,
       "homeLosses": 60,
-      "awayWinPct": 0.5873,
-      "homeWinPct": 0.52,
+      "awayWinPct": 0.5827,
+      "homeWinPct": 0.5238,
       "awayStarter": "Grant Holmes",
       "homeStarter": "Anthony Kay",
       "awayStarterStatus": "확인완료",
@@ -308,15 +308,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1545,
-    "evaluatedPicks": 384,
+    "rawGames": 1548,
+    "evaluatedPicks": 385,
     "correct": 196,
-    "accuracy": 51.04,
-    "coverage": 24.85,
+    "accuracy": 50.91,
+    "coverage": 24.87,
     "YRFI": {
-      "picks": 211,
+      "picks": 212,
       "correct": 105,
-      "accuracy": 49.76
+      "accuracy": 49.53
     },
     "NRFI": {
       "picks": 173,
@@ -404,7 +404,7 @@
       "Atlanta Braves": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 20.0
       },
       "Washington Nationals": {
         "games": 30,
@@ -424,7 +424,7 @@
       "Minnesota Twins": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 50.0
+        "allowed1stPct": 46.7
       },
       "New York Mets": {
         "games": 30,
@@ -438,7 +438,7 @@
       },
       "Chicago Cubs": {
         "games": 30,
-        "scored1stPct": 40.0,
+        "scored1stPct": 36.7,
         "allowed1stPct": 30.0
       },
       "Pittsburgh Pirates": {
@@ -454,7 +454,7 @@
       "San Diego Padres": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 20.0
+        "allowed1stPct": 16.7
       },
       "Colorado Rockies": {
         "games": 30,
