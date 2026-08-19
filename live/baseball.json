@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T07:56:21.352318+09:00",
+  "generatedAt": "2026-08-20T08:52:42.052878+09:00",
   "dateKST": "2026-08-20",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1548
+      "games": 1549
     }
   },
   "games": [
@@ -308,11 +308,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1548,
+    "rawGames": 1549,
     "evaluatedPicks": 385,
     "correct": 196,
     "accuracy": 50.91,
-    "coverage": 24.87,
+    "coverage": 24.85,
     "YRFI": {
       "picks": 212,
       "correct": 105,
@@ -418,7 +418,7 @@
       },
       "Boston Red Sox": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 33.3,
         "allowed1stPct": 16.7
       },
       "Minnesota Twins": {
@@ -469,7 +469,7 @@
       "Arizona Diamondbacks": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 26.7
       },
       "Los Angeles Dodgers": {
         "games": 30,
