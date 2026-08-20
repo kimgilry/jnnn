@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T06:03:28.690298+09:00",
+  "generatedAt": "2026-08-21T07:03:40.493152+09:00",
   "dateKST": "2026-08-21",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1548
+      "games": 1550
     }
   },
   "games": [
@@ -37,10 +37,10 @@
       "home": "Milwaukee Brewers",
       "awayWins": 75,
       "awayLosses": 53,
-      "homeWins": 78,
+      "homeWins": 79,
       "homeLosses": 49,
       "awayWinPct": 0.5859,
-      "homeWinPct": 0.6142,
+      "homeWinPct": 0.6172,
       "awayStarter": "Chris Sale",
       "homeStarter": "Jacob Misiorowski",
       "awayStarterStatus": "확인완료",
@@ -82,9 +82,9 @@
       "awayWinPct": 0.4884,
       "homeWinPct": 0.5635,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Cam Schlittler",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -177,10 +177,10 @@
       "home": "Kansas City Royals",
       "awayWins": 61,
       "awayLosses": 66,
-      "homeWins": 54,
+      "homeWins": 55,
       "homeLosses": 74,
       "awayWinPct": 0.4803,
-      "homeWinPct": 0.4219,
+      "homeWinPct": 0.4264,
       "awayStarter": "Troy Melton",
       "homeStarter": "Noah Cameron",
       "awayStarterStatus": "확인완료",
@@ -196,10 +196,10 @@
       "away": "Athletics",
       "home": "Houston Astros",
       "awayWins": 49,
-      "awayLosses": 78,
+      "awayLosses": 79,
       "homeWins": 64,
       "homeLosses": 63,
-      "awayWinPct": 0.3858,
+      "awayWinPct": 0.3828,
       "homeWinPct": 0.5039,
       "awayStarter": "J.T. Ginn",
       "homeStarter": "",
@@ -318,9 +318,9 @@
       "awayWins": 74,
       "awayLosses": 54,
       "homeWins": 60,
-      "homeLosses": 67,
+      "homeLosses": 68,
       "awayWinPct": 0.5781,
-      "homeWinPct": 0.4724,
+      "homeWinPct": 0.4688,
       "awayStarter": "Matthew Boyd",
       "homeStarter": "Emerson Hancock",
       "awayStarterStatus": "확인완료",
@@ -428,11 +428,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1548,
+    "rawGames": 1550,
     "evaluatedPicks": 375,
     "correct": 195,
     "accuracy": 52.0,
-    "coverage": 24.22,
+    "coverage": 24.19,
     "YRFI": {
       "picks": 203,
       "correct": 103,
@@ -463,7 +463,7 @@
       },
       "Milwaukee Brewers": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 30.0,
         "allowed1stPct": 13.3
       },
       "Detroit Tigers": {
@@ -578,8 +578,8 @@
       },
       "Athletics": {
         "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 30.0
+        "scored1stPct": 30.0,
+        "allowed1stPct": 33.3
       },
       "Houston Astros": {
         "games": 30,
@@ -589,7 +589,7 @@
       "Seattle Mariners": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 43.3
+        "allowed1stPct": 46.7
       },
       "St. Louis Cardinals": {
         "games": 30,
