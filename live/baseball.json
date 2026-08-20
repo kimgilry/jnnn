@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T07:03:40.493152+09:00",
+  "generatedAt": "2026-08-21T08:43:07.097291+09:00",
   "dateKST": "2026-08-21",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -202,9 +202,9 @@
       "awayWinPct": 0.3828,
       "homeWinPct": 0.5039,
       "awayStarter": "J.T. Ginn",
-      "homeStarter": "",
+      "homeStarter": "Hayden Wesneski",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -221,10 +221,10 @@
       "homeLosses": 65,
       "awayWinPct": 0.3937,
       "homeWinPct": 0.4882,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "awayStarter": "Reid Detmers",
+      "homeStarter": "MacKenzie Gore",
+      "awayStarterStatus": "확인완료",
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
