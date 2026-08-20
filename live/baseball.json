@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T01:00:58.200452+09:00",
+  "generatedAt": "2026-08-21T02:51:52.011623+09:00",
   "dateKST": "2026-08-21",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -101,9 +101,9 @@
       "homeLosses": 59,
       "awayWinPct": 0.4127,
       "homeWinPct": 0.5354,
-      "awayStarter": "",
+      "awayStarter": "Logan Webb",
       "homeStarter": "Sonny Gray",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -141,9 +141,9 @@
       "homeLosses": 66,
       "awayWinPct": 0.6032,
       "homeWinPct": 0.4803,
-      "awayStarter": "",
+      "awayStarter": "Freddy Peralta",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
     },
     {
@@ -162,9 +162,9 @@
       "awayWinPct": 0.4531,
       "homeWinPct": 0.5238,
       "awayStarter": "Sean Manaea",
-      "homeStarter": "",
+      "homeStarter": "Sean Burke",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -182,9 +182,9 @@
       "awayWinPct": 0.4803,
       "homeWinPct": 0.4219,
       "awayStarter": "Troy Melton",
-      "homeStarter": "",
+      "homeStarter": "Noah Cameron",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
