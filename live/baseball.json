@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T04:46:30.222865+09:00",
+  "generatedAt": "2026-08-21T06:03:28.690298+09:00",
   "dateKST": "2026-08-21",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1545
+      "games": 1548
     }
   },
   "games": [
@@ -35,11 +35,11 @@
       "status": "경기전",
       "away": "Atlanta Braves",
       "home": "Milwaukee Brewers",
-      "awayWins": 74,
+      "awayWins": 75,
       "awayLosses": 53,
       "homeWins": 78,
       "homeLosses": 49,
-      "awayWinPct": 0.5827,
+      "awayWinPct": 0.5859,
       "homeWinPct": 0.6142,
       "awayStarter": "Chris Sale",
       "homeStarter": "Jacob Misiorowski",
@@ -75,11 +75,11 @@
       "status": "경기전",
       "away": "Toronto Blue Jays",
       "home": "New York Yankees",
-      "awayWins": 62,
+      "awayWins": 63,
       "awayLosses": 66,
       "homeWins": 71,
       "homeLosses": 55,
-      "awayWinPct": 0.4844,
+      "awayWinPct": 0.4884,
       "homeWinPct": 0.5635,
       "awayStarter": "",
       "homeStarter": "",
@@ -96,10 +96,10 @@
       "away": "San Francisco Giants",
       "home": "Boston Red Sox",
       "awayWins": 52,
-      "awayLosses": 74,
+      "awayLosses": 75,
       "homeWins": 68,
       "homeLosses": 59,
-      "awayWinPct": 0.4127,
+      "awayWinPct": 0.4094,
       "homeWinPct": 0.5354,
       "awayStarter": "Logan Webb",
       "homeStarter": "Sonny Gray",
@@ -136,15 +136,15 @@
       "away": "Tampa Bay Rays",
       "home": "Baltimore Orioles",
       "awayWins": 76,
-      "awayLosses": 50,
+      "awayLosses": 51,
       "homeWins": 61,
       "homeLosses": 66,
-      "awayWinPct": 0.6032,
+      "awayWinPct": 0.5984,
       "homeWinPct": 0.4803,
       "awayStarter": "Freddy Peralta",
-      "homeStarter": "",
+      "homeStarter": "Trevor Rogers",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -158,9 +158,9 @@
       "awayWins": 58,
       "awayLosses": 70,
       "homeWins": 66,
-      "homeLosses": 60,
+      "homeLosses": 61,
       "awayWinPct": 0.4531,
-      "homeWinPct": 0.5238,
+      "homeWinPct": 0.5197,
       "awayStarter": "Sean Manaea",
       "homeStarter": "Sean Burke",
       "awayStarterStatus": "확인완료",
@@ -235,11 +235,11 @@
       "status": "경기전",
       "away": "Cleveland Guardians",
       "home": "Colorado Rockies",
-      "awayWins": 61,
+      "awayWins": 62,
       "awayLosses": 66,
       "homeWins": 50,
       "homeLosses": 77,
-      "awayWinPct": 0.4803,
+      "awayWinPct": 0.4844,
       "homeWinPct": 0.3937,
       "awayStarter": "Joey Cantillo",
       "homeStarter": "Tanner Gordon",
@@ -428,20 +428,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1545,
-    "evaluatedPicks": 374,
-    "correct": 194,
-    "accuracy": 51.87,
-    "coverage": 24.21,
+    "rawGames": 1548,
+    "evaluatedPicks": 375,
+    "correct": 195,
+    "accuracy": 52.0,
+    "coverage": 24.22,
     "YRFI": {
       "picks": 203,
       "correct": 103,
       "accuracy": 50.74
     },
     "NRFI": {
-      "picks": 171,
-      "correct": 91,
-      "accuracy": 53.22
+      "picks": 172,
+      "correct": 92,
+      "accuracy": 53.49
     },
     "window": 20,
     "minGames": 10,
@@ -453,7 +453,7 @@
     "teamRatesLast30": {
       "Atlanta Braves": {
         "games": 30,
-        "scored1stPct": 23.3,
+        "scored1stPct": 20.0,
         "allowed1stPct": 20.0
       },
       "Washington Nationals": {
@@ -509,7 +509,7 @@
       "San Francisco Giants": {
         "games": 30,
         "scored1stPct": 20.0,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 30.0
       },
       "New York Yankees": {
         "games": 30,
@@ -553,7 +553,7 @@
       },
       "Cleveland Guardians": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 40.0,
         "allowed1stPct": 20.0
       },
       "Toronto Blue Jays": {
