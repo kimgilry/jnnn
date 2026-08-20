@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T02:51:52.011623+09:00",
+  "generatedAt": "2026-08-21T04:46:30.222865+09:00",
   "dateKST": "2026-08-21",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1544
+      "games": 1545
     }
   },
   "games": [
@@ -55,11 +55,11 @@
       "status": "경기전",
       "away": "St. Louis Cardinals",
       "home": "Philadelphia Phillies",
-      "awayWins": 65,
+      "awayWins": 66,
       "awayLosses": 63,
       "homeWins": 70,
       "homeLosses": 58,
-      "awayWinPct": 0.5078,
+      "awayWinPct": 0.5116,
       "homeWinPct": 0.5469,
       "awayStarter": "",
       "homeStarter": "Jesús Luzardo",
@@ -256,10 +256,10 @@
       "away": "Cincinnati Reds",
       "home": "Arizona Diamondbacks",
       "awayWins": 61,
-      "awayLosses": 66,
+      "awayLosses": 67,
       "homeWins": 67,
       "homeLosses": 61,
-      "awayWinPct": 0.4803,
+      "awayWinPct": 0.4766,
       "homeWinPct": 0.5234,
       "awayStarter": "Nick Lodolo",
       "homeStarter": "Eduardo Rodriguez",
@@ -322,9 +322,9 @@
       "awayWinPct": 0.5781,
       "homeWinPct": 0.4724,
       "awayStarter": "Matthew Boyd",
-      "homeStarter": "",
+      "homeStarter": "Emerson Hancock",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "KBO Official",
@@ -428,11 +428,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1544,
+    "rawGames": 1545,
     "evaluatedPicks": 374,
     "correct": 194,
     "accuracy": 51.87,
-    "coverage": 24.22,
+    "coverage": 24.21,
     "YRFI": {
       "picks": 203,
       "correct": 103,
@@ -543,7 +543,7 @@
       },
       "Cincinnati Reds": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 23.3,
         "allowed1stPct": 30.0
       },
       "Baltimore Orioles": {
@@ -593,7 +593,7 @@
       },
       "St. Louis Cardinals": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 30.0,
         "allowed1stPct": 20.0
       },
       "Miami Marlins": {
