@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T04:08:41.287875+09:00",
+  "generatedAt": "2026-08-22T04:56:20.485999+09:00",
   "dateKST": "2026-08-22",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -61,9 +61,9 @@
       "homeLosses": 49,
       "awayWinPct": 0.5859,
       "homeWinPct": 0.6172,
-      "awayStarter": "",
+      "awayStarter": "Martín Pérez",
       "homeStarter": "Logan Henderson",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
