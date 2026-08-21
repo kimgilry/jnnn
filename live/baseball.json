@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T08:43:07.097291+09:00",
+  "generatedAt": "2026-08-21T12:31:54.781235+09:00",
   "dateKST": "2026-08-21",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1550
+      "games": 1553
     }
   },
   "games": [
@@ -77,10 +77,10 @@
       "home": "New York Yankees",
       "awayWins": 63,
       "awayLosses": 66,
-      "homeWins": 71,
+      "homeWins": 72,
       "homeLosses": 55,
       "awayWinPct": 0.4884,
-      "homeWinPct": 0.5635,
+      "homeWinPct": 0.5669,
       "awayStarter": "",
       "homeStarter": "Cam Schlittler",
       "awayStarterStatus": "미확인",
@@ -116,14 +116,14 @@
       "away": "Washington Nationals",
       "home": "Miami Marlins",
       "awayWins": 61,
-      "awayLosses": 67,
+      "awayLosses": 68,
       "homeWins": 64,
       "homeLosses": 64,
-      "awayWinPct": 0.4766,
+      "awayWinPct": 0.4729,
       "homeWinPct": 0.5,
-      "awayStarter": "",
+      "awayStarter": "Brad Lord",
       "homeStarter": "Ryan Gusto",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -138,9 +138,9 @@
       "awayWins": 76,
       "awayLosses": 51,
       "homeWins": 61,
-      "homeLosses": 66,
+      "homeLosses": 67,
       "awayWinPct": 0.5984,
-      "homeWinPct": 0.4803,
+      "homeWinPct": 0.4766,
       "awayStarter": "Freddy Peralta",
       "homeStarter": "Trevor Rogers",
       "awayStarterStatus": "확인완료",
@@ -198,9 +198,9 @@
       "awayWins": 49,
       "awayLosses": 79,
       "homeWins": 64,
-      "homeLosses": 63,
+      "homeLosses": 64,
       "awayWinPct": 0.3828,
-      "homeWinPct": 0.5039,
+      "homeWinPct": 0.5,
       "awayStarter": "J.T. Ginn",
       "homeStarter": "Hayden Wesneski",
       "awayStarterStatus": "확인완료",
@@ -215,12 +215,12 @@
       "status": "경기전",
       "away": "Los Angeles Angels",
       "home": "Texas Rangers",
-      "awayWins": 50,
+      "awayWins": 51,
       "awayLosses": 77,
-      "homeWins": 62,
+      "homeWins": 63,
       "homeLosses": 65,
-      "awayWinPct": 0.3937,
-      "homeWinPct": 0.4882,
+      "awayWinPct": 0.3984,
+      "homeWinPct": 0.4922,
       "awayStarter": "Reid Detmers",
       "homeStarter": "MacKenzie Gore",
       "awayStarterStatus": "확인완료",
@@ -428,20 +428,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1550,
-    "evaluatedPicks": 375,
-    "correct": 195,
-    "accuracy": 52.0,
-    "coverage": 24.19,
+    "rawGames": 1553,
+    "evaluatedPicks": 378,
+    "correct": 197,
+    "accuracy": 52.12,
+    "coverage": 24.34,
     "YRFI": {
       "picks": 203,
       "correct": 103,
       "accuracy": 50.74
     },
     "NRFI": {
-      "picks": 172,
-      "correct": 92,
-      "accuracy": 53.49
+      "picks": 175,
+      "correct": 94,
+      "accuracy": 53.71
     },
     "window": 20,
     "minGames": 10,
@@ -459,7 +459,7 @@
       "Washington Nationals": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 23.3
       },
       "Milwaukee Brewers": {
         "games": 30,
@@ -538,7 +538,7 @@
       },
       "Texas Rangers": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 30.0,
         "allowed1stPct": 20.0
       },
       "Cincinnati Reds": {
@@ -549,7 +549,7 @@
       "Baltimore Orioles": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 16.7
+        "allowed1stPct": 13.3
       },
       "Cleveland Guardians": {
         "games": 30,
@@ -569,7 +569,7 @@
       "Los Angeles Angels": {
         "games": 30,
         "scored1stPct": 33.3,
-        "allowed1stPct": 20.0
+        "allowed1stPct": 23.3
       },
       "Kansas City Royals": {
         "games": 30,
@@ -583,8 +583,8 @@
       },
       "Houston Astros": {
         "games": 30,
-        "scored1stPct": 23.3,
-        "allowed1stPct": 26.7
+        "scored1stPct": 26.7,
+        "allowed1stPct": 30.0
       },
       "Seattle Mariners": {
         "games": 30,
