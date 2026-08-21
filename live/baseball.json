@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T06:56:08.917777+09:00",
+  "generatedAt": "2026-08-22T07:56:14.554553+09:00",
   "dateKST": "2026-08-22",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1544
+      "games": 1545
     }
   },
   "games": [
@@ -56,11 +56,11 @@
       "away": "Atlanta Braves",
       "home": "Milwaukee Brewers",
       "awayWins": 75,
-      "awayLosses": 53,
-      "homeWins": 79,
+      "awayLosses": 54,
+      "homeWins": 80,
       "homeLosses": 49,
-      "awayWinPct": 0.5859,
-      "homeWinPct": 0.6172,
+      "awayWinPct": 0.5814,
+      "homeWinPct": 0.6202,
       "awayStarter": "Martín Pérez",
       "homeStarter": "Logan Henderson",
       "awayStarterStatus": "확인완료",
@@ -428,20 +428,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1544,
-    "evaluatedPicks": 382,
-    "correct": 199,
-    "accuracy": 52.09,
-    "coverage": 24.74,
+    "rawGames": 1545,
+    "evaluatedPicks": 383,
+    "correct": 200,
+    "accuracy": 52.22,
+    "coverage": 24.79,
     "YRFI": {
       "picks": 202,
       "correct": 103,
       "accuracy": 50.99
     },
     "NRFI": {
-      "picks": 180,
-      "correct": 96,
-      "accuracy": 53.33
+      "picks": 181,
+      "correct": 97,
+      "accuracy": 53.59
     },
     "window": 20,
     "minGames": 10,
