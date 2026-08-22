@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T07:53:21.649368+09:00",
+  "generatedAt": "2026-08-23T08:47:20.002641+09:00",
   "dateKST": "2026-08-23",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1547
+      "games": 1548
     }
   },
   "games": [
@@ -96,11 +96,11 @@
       "away": "Washington Nationals",
       "home": "Miami Marlins",
       "awayWins": 61,
-      "awayLosses": 69,
-      "homeWins": 65,
+      "awayLosses": 70,
+      "homeWins": 66,
       "homeLosses": 64,
-      "awayWinPct": 0.4692,
-      "homeWinPct": 0.5039,
+      "awayWinPct": 0.4656,
+      "homeWinPct": 0.5077,
       "awayStarter": "Jackson Kent",
       "homeStarter": "Janson Junk",
       "awayStarterStatus": "확인완료",
@@ -428,20 +428,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1547,
-    "evaluatedPicks": 387,
+    "rawGames": 1548,
+    "evaluatedPicks": 388,
     "correct": 205,
-    "accuracy": 52.97,
-    "coverage": 25.02,
+    "accuracy": 52.84,
+    "coverage": 25.06,
     "YRFI": {
       "picks": 205,
       "correct": 104,
       "accuracy": 50.73
     },
     "NRFI": {
-      "picks": 182,
+      "picks": 183,
       "correct": 101,
-      "accuracy": 55.49
+      "accuracy": 55.19
     },
     "window": 20,
     "minGames": 10,
@@ -483,7 +483,7 @@
       },
       "Miami Marlins": {
         "games": 30,
-        "scored1stPct": 13.3,
+        "scored1stPct": 16.7,
         "allowed1stPct": 16.7
       },
       "San Francisco Giants": {
@@ -503,8 +503,8 @@
       },
       "Washington Nationals": {
         "games": 30,
-        "scored1stPct": 23.3,
-        "allowed1stPct": 23.3
+        "scored1stPct": 20.0,
+        "allowed1stPct": 26.7
       },
       "Chicago White Sox": {
         "games": 30,
