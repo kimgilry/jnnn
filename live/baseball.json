@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T04:54:36.998832+09:00",
+  "generatedAt": "2026-08-23T05:54:28.452417+09:00",
   "dateKST": "2026-08-23",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1545
+      "games": 1547
     }
   },
   "games": [
@@ -75,12 +75,12 @@
       "status": "경기전",
       "away": "Toronto Blue Jays",
       "home": "New York Yankees",
-      "awayWins": 63,
+      "awayWins": 64,
       "awayLosses": 67,
       "homeWins": 73,
-      "homeLosses": 55,
-      "awayWinPct": 0.4846,
-      "homeWinPct": 0.5703,
+      "homeLosses": 56,
+      "awayWinPct": 0.4885,
+      "homeWinPct": 0.5659,
       "awayStarter": "José Soriano",
       "homeStarter": "Carlos Rodón",
       "awayStarterStatus": "확인완료",
@@ -316,11 +316,11 @@
       "away": "Atlanta Braves",
       "home": "Milwaukee Brewers",
       "awayWins": 75,
-      "awayLosses": 54,
-      "homeWins": 80,
+      "awayLosses": 55,
+      "homeWins": 81,
       "homeLosses": 49,
-      "awayWinPct": 0.5814,
-      "homeWinPct": 0.6202,
+      "awayWinPct": 0.5769,
+      "homeWinPct": 0.6231,
       "awayStarter": "Tyler Mahle",
       "homeStarter": "Shane Drohan",
       "awayStarterStatus": "확인완료",
@@ -428,20 +428,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1545,
-    "evaluatedPicks": 385,
+    "rawGames": 1547,
+    "evaluatedPicks": 387,
     "correct": 205,
-    "accuracy": 53.25,
-    "coverage": 24.92,
+    "accuracy": 52.97,
+    "coverage": 25.02,
     "YRFI": {
       "picks": 205,
       "correct": 104,
       "accuracy": 50.73
     },
     "NRFI": {
-      "picks": 180,
+      "picks": 182,
       "correct": 101,
-      "accuracy": 56.11
+      "accuracy": 55.49
     },
     "window": 20,
     "minGames": 10,
@@ -478,8 +478,8 @@
       },
       "Toronto Blue Jays": {
         "games": 30,
-        "scored1stPct": 16.7,
-        "allowed1stPct": 16.7
+        "scored1stPct": 20.0,
+        "allowed1stPct": 13.3
       },
       "Miami Marlins": {
         "games": 30,
@@ -543,8 +543,8 @@
       },
       "New York Yankees": {
         "games": 30,
-        "scored1stPct": 10.0,
-        "allowed1stPct": 23.3
+        "scored1stPct": 6.7,
+        "allowed1stPct": 26.7
       },
       "Houston Astros": {
         "games": 30,
@@ -558,8 +558,8 @@
       },
       "Milwaukee Brewers": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 13.3
+        "scored1stPct": 26.7,
+        "allowed1stPct": 16.7
       },
       "Detroit Tigers": {
         "games": 30,
@@ -588,8 +588,8 @@
       },
       "Atlanta Braves": {
         "games": 30,
-        "scored1stPct": 20.0,
-        "allowed1stPct": 20.0
+        "scored1stPct": 23.3,
+        "allowed1stPct": 16.7
       },
       "Colorado Rockies": {
         "games": 30,
