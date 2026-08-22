@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T05:54:28.452417+09:00",
+  "generatedAt": "2026-08-23T06:49:04.697321+09:00",
   "dateKST": "2026-08-23",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -221,9 +221,9 @@
       "homeLosses": 59,
       "awayWinPct": 0.4062,
       "homeWinPct": 0.5391,
-      "awayStarter": "",
+      "awayStarter": "Matt Wilkinson",
       "homeStarter": "Jake Bennett",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
