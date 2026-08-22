@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T14:59:31.579923+09:00",
+  "generatedAt": "2026-08-22T16:47:37.878335+09:00",
   "dateKST": "2026-08-22",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -10,7 +10,7 @@
     },
     "KBO": {
       "ok": true,
-      "games": 5
+      "games": 3
     },
     "NPB": {
       "ok": true,
@@ -325,46 +325,6 @@
       "homeStarter": "Casey Mize",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
-    },
-    {
-      "source": "KBO Official",
-      "league": "KBO",
-      "gamePk": "19:00|DOOSAN|LOTTE",
-      "timeKST": "19:00",
-      "startISO": "",
-      "status": "경기전",
-      "away": "DOOSAN",
-      "home": "LOTTE",
-      "awayWins": null,
-      "awayLosses": null,
-      "homeWins": null,
-      "homeLosses": null,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
-    },
-    {
-      "source": "KBO Official",
-      "league": "KBO",
-      "gamePk": "19:00|SSG|KT",
-      "timeKST": "19:00",
-      "startISO": "",
-      "status": "경기전",
-      "away": "SSG",
-      "home": "KT",
-      "awayWins": null,
-      "awayLosses": null,
-      "homeWins": null,
-      "homeLosses": null,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
     },
     {
       "source": "KBO Official",
