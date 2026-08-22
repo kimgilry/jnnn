@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T16:47:37.878335+09:00",
+  "generatedAt": "2026-08-22T18:03:08.199643+09:00",
   "dateKST": "2026-08-22",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -10,7 +10,7 @@
     },
     "KBO": {
       "ok": true,
-      "games": 3
+      "games": 2
     },
     "NPB": {
       "ok": true,
@@ -349,32 +349,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "19:00|HANWHA|LG",
-      "timeKST": "19:00",
-      "startISO": "",
-      "status": "경기전",
-      "away": "HANWHA",
-      "home": "LG",
-      "awayWins": null,
-      "awayLosses": null,
-      "homeWins": null,
-      "homeLosses": null,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
-    },
-    {
-      "source": "KBO Official",
-      "league": "KBO",
-      "gamePk": "18:00|KIWOOM|KIA",
+      "gamePk": "18:00|KIA|KIWOOM",
       "timeKST": "18:00",
       "startISO": "",
       "status": "경기전",
-      "away": "KIWOOM",
-      "home": "KIA",
+      "away": "KIA",
+      "home": "KIWOOM",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
