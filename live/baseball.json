@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T05:54:04.460211+09:00",
+  "generatedAt": "2026-08-24T06:48:31.783748+09:00",
   "dateKST": "2026-08-24",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1551
+      "games": 1554
     }
   },
   "games": [
@@ -38,9 +38,9 @@
       "awayWins": 77,
       "awayLosses": 53,
       "homeWins": 61,
-      "homeLosses": 68,
+      "homeLosses": 69,
       "awayWinPct": 0.5923,
-      "homeWinPct": 0.4729,
+      "homeWinPct": 0.4692,
       "awayStarter": "Drew Rasmussen",
       "homeStarter": "Framber Valdez",
       "awayStarterStatus": "확인완료",
@@ -95,11 +95,11 @@
       "status": "경기전",
       "away": "Texas Rangers",
       "home": "Chicago White Sox",
-      "awayWins": 64,
+      "awayWins": 65,
       "awayLosses": 66,
       "homeWins": 68,
       "homeLosses": 62,
-      "awayWinPct": 0.4923,
+      "awayWinPct": 0.4962,
       "homeWinPct": 0.5231,
       "awayStarter": "Kumar Rocker",
       "homeStarter": "",
@@ -118,9 +118,9 @@
       "awayWins": 64,
       "awayLosses": 66,
       "homeWins": 52,
-      "homeLosses": 78,
+      "homeLosses": 79,
       "awayWinPct": 0.4923,
-      "homeWinPct": 0.4,
+      "homeWinPct": 0.3969,
       "awayStarter": "Parker Messick",
       "homeStarter": "George Klassen",
       "awayStarterStatus": "확인완료",
@@ -177,10 +177,10 @@
       "home": "Athletics",
       "awayWins": 63,
       "awayLosses": 67,
-      "homeWins": 50,
+      "homeWins": 51,
       "homeLosses": 80,
       "awayWinPct": 0.4846,
-      "homeWinPct": 0.3846,
+      "homeWinPct": 0.3893,
       "awayStarter": "Zebby Matthews",
       "homeStarter": "Jeffrey Springs",
       "awayStarterStatus": "확인완료",
@@ -228,20 +228,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1551,
-    "evaluatedPicks": 398,
-    "correct": 206,
-    "accuracy": 51.76,
-    "coverage": 25.66,
+    "rawGames": 1554,
+    "evaluatedPicks": 399,
+    "correct": 207,
+    "accuracy": 51.88,
+    "coverage": 25.68,
     "YRFI": {
       "picks": 211,
       "correct": 105,
       "accuracy": 49.76
     },
     "NRFI": {
-      "picks": 187,
-      "correct": 101,
-      "accuracy": 54.01
+      "picks": 188,
+      "correct": 102,
+      "accuracy": 54.26
     },
     "window": 20,
     "minGames": 10,
@@ -328,7 +328,7 @@
       },
       "Houston Astros": {
         "games": 30,
-        "scored1stPct": 23.3,
+        "scored1stPct": 26.7,
         "allowed1stPct": 30.0
       },
       "Pittsburgh Pirates": {
@@ -358,7 +358,7 @@
       },
       "Texas Rangers": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 23.3,
         "allowed1stPct": 20.0
       },
       "San Diego Padres": {
@@ -389,7 +389,7 @@
       "Kansas City Royals": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 26.7
       },
       "Chicago Cubs": {
         "games": 30,
