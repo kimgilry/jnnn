@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T04:54:06.214838+09:00",
+  "generatedAt": "2026-08-24T05:54:04.460211+09:00",
   "dateKST": "2026-08-24",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1546
+      "games": 1551
     }
   },
   "games": [
@@ -35,11 +35,11 @@
       "status": "경기전",
       "away": "Tampa Bay Rays",
       "home": "Detroit Tigers",
-      "awayWins": 76,
+      "awayWins": 77,
       "awayLosses": 53,
       "homeWins": 61,
       "homeLosses": 68,
-      "awayWinPct": 0.5891,
+      "awayWinPct": 0.5923,
       "homeWinPct": 0.4729,
       "awayStarter": "Drew Rasmussen",
       "homeStarter": "Framber Valdez",
@@ -57,10 +57,10 @@
       "home": "Miami Marlins",
       "awayWins": 70,
       "awayLosses": 59,
-      "homeWins": 66,
+      "homeWins": 67,
       "homeLosses": 64,
       "awayWinPct": 0.5426,
-      "homeWinPct": 0.5077,
+      "homeWinPct": 0.5115,
       "awayStarter": "Ranger Suarez",
       "homeStarter": "Sandy Alcantara",
       "awayStarterStatus": "확인완료",
@@ -78,9 +78,9 @@
       "awayWins": 50,
       "awayLosses": 79,
       "homeWins": 61,
-      "homeLosses": 70,
+      "homeLosses": 71,
       "awayWinPct": 0.3876,
-      "homeWinPct": 0.4656,
+      "homeWinPct": 0.4621,
       "awayStarter": "Ryan Feltner",
       "homeStarter": "Cade Cavalli",
       "awayStarterStatus": "확인완료",
@@ -97,10 +97,10 @@
       "home": "Chicago White Sox",
       "awayWins": 64,
       "awayLosses": 66,
-      "homeWins": 67,
+      "homeWins": 68,
       "homeLosses": 62,
       "awayWinPct": 0.4923,
-      "homeWinPct": 0.5194,
+      "homeWinPct": 0.5231,
       "awayStarter": "Kumar Rocker",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -195,11 +195,11 @@
       "status": "경기전",
       "away": "Philadelphia Phillies",
       "home": "Seattle Mariners",
-      "awayWins": 72,
+      "awayWins": 73,
       "awayLosses": 58,
       "homeWins": 62,
       "homeLosses": 68,
-      "awayWinPct": 0.5538,
+      "awayWinPct": 0.5573,
       "homeWinPct": 0.4769,
       "awayStarter": "Zack Wheeler",
       "homeStarter": "Logan Gilbert",
@@ -228,20 +228,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1546,
-    "evaluatedPicks": 395,
-    "correct": 204,
-    "accuracy": 51.65,
-    "coverage": 25.55,
+    "rawGames": 1551,
+    "evaluatedPicks": 398,
+    "correct": 206,
+    "accuracy": 51.76,
+    "coverage": 25.66,
     "YRFI": {
       "picks": 211,
       "correct": 105,
       "accuracy": 49.76
     },
     "NRFI": {
-      "picks": 184,
-      "correct": 99,
-      "accuracy": 53.8
+      "picks": 187,
+      "correct": 101,
+      "accuracy": 54.01
     },
     "window": 20,
     "minGames": 10,
@@ -258,13 +258,13 @@
       },
       "Baltimore Orioles": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 30.0,
         "allowed1stPct": 13.3
       },
       "Philadelphia Phillies": {
         "games": 30,
         "scored1stPct": 36.7,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 30.0
       },
       "Atlanta Braves": {
         "games": 30,
@@ -278,7 +278,7 @@
       },
       "Toronto Blue Jays": {
         "games": 30,
-        "scored1stPct": 20.0,
+        "scored1stPct": 16.7,
         "allowed1stPct": 13.3
       },
       "Detroit Tigers": {
@@ -299,7 +299,7 @@
       "New York Mets": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 20.0
       },
       "Minnesota Twins": {
         "games": 30,
@@ -308,22 +308,22 @@
       },
       "Tampa Bay Rays": {
         "games": 30,
-        "scored1stPct": 23.3,
+        "scored1stPct": 20.0,
         "allowed1stPct": 30.0
       },
       "Washington Nationals": {
         "games": 30,
-        "scored1stPct": 20.0,
-        "allowed1stPct": 26.7
+        "scored1stPct": 16.7,
+        "allowed1stPct": 30.0
       },
       "Chicago White Sox": {
         "games": 30,
         "scored1stPct": 33.3,
-        "allowed1stPct": 40.0
+        "allowed1stPct": 36.7
       },
       "New York Yankees": {
         "games": 30,
-        "scored1stPct": 6.7,
+        "scored1stPct": 3.3,
         "allowed1stPct": 26.7
       },
       "Houston Astros": {
@@ -373,7 +373,7 @@
       },
       "Miami Marlins": {
         "games": 30,
-        "scored1stPct": 16.7,
+        "scored1stPct": 20.0,
         "allowed1stPct": 16.7
       },
       "San Francisco Giants": {
