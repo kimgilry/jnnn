@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T02:50:21.821500+09:00",
+  "generatedAt": "2026-08-24T04:02:38.179760+09:00",
   "dateKST": "2026-08-24",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -81,9 +81,9 @@
       "homeLosses": 70,
       "awayWinPct": 0.3876,
       "homeWinPct": 0.4656,
-      "awayStarter": "",
+      "awayStarter": "Ryan Feltner",
       "homeStarter": "Cade Cavalli",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -101,9 +101,9 @@
       "homeLosses": 62,
       "awayWinPct": 0.4923,
       "homeWinPct": 0.5194,
-      "awayStarter": "",
+      "awayStarter": "Kumar Rocker",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
     },
     {
@@ -141,9 +141,9 @@
       "homeLosses": 62,
       "awayWinPct": 0.5692,
       "homeWinPct": 0.5231,
-      "awayStarter": "",
+      "awayStarter": "Kevin Gausman",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
     },
     {
@@ -181,9 +181,9 @@
       "homeLosses": 80,
       "awayWinPct": 0.4846,
       "homeWinPct": 0.3846,
-      "awayStarter": "",
+      "awayStarter": "Zebby Matthews",
       "homeStarter": "Jeffrey Springs",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
