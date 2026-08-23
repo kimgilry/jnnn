@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T06:48:31.783748+09:00",
+  "generatedAt": "2026-08-24T07:52:35.358153+09:00",
   "dateKST": "2026-08-24",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1554
+      "games": 1557
     }
   },
   "games": [
@@ -55,11 +55,11 @@
       "status": "경기전",
       "away": "Boston Red Sox",
       "home": "Miami Marlins",
-      "awayWins": 70,
+      "awayWins": 71,
       "awayLosses": 59,
       "homeWins": 67,
       "homeLosses": 64,
-      "awayWinPct": 0.5426,
+      "awayWinPct": 0.5462,
       "homeWinPct": 0.5115,
       "awayStarter": "Ranger Suarez",
       "homeStarter": "Sandy Alcantara",
@@ -76,10 +76,10 @@
       "away": "Colorado Rockies",
       "home": "Washington Nationals",
       "awayWins": 50,
-      "awayLosses": 79,
+      "awayLosses": 80,
       "homeWins": 61,
       "homeLosses": 71,
-      "awayWinPct": 0.3876,
+      "awayWinPct": 0.3846,
       "homeWinPct": 0.4621,
       "awayStarter": "Ryan Feltner",
       "homeStarter": "Cade Cavalli",
@@ -115,11 +115,11 @@
       "status": "경기전",
       "away": "Cleveland Guardians",
       "home": "Los Angeles Angels",
-      "awayWins": 64,
+      "awayWins": 65,
       "awayLosses": 66,
       "homeWins": 52,
       "homeLosses": 79,
-      "awayWinPct": 0.4923,
+      "awayWinPct": 0.4962,
       "homeWinPct": 0.3969,
       "awayStarter": "Parker Messick",
       "homeStarter": "George Klassen",
@@ -156,10 +156,10 @@
       "away": "Pittsburgh Pirates",
       "home": "San Diego Padres",
       "awayWins": 63,
-      "awayLosses": 68,
+      "awayLosses": 69,
       "homeWins": 70,
       "homeLosses": 60,
-      "awayWinPct": 0.4809,
+      "awayWinPct": 0.4773,
       "homeWinPct": 0.5385,
       "awayStarter": "Braxton Ashcraft",
       "homeStarter": "Robbie Ray",
@@ -218,9 +218,9 @@
       "awayWins": 62,
       "awayLosses": 68,
       "homeWins": 52,
-      "homeLosses": 77,
+      "homeLosses": 78,
       "awayWinPct": 0.4769,
-      "homeWinPct": 0.4031,
+      "homeWinPct": 0.4,
       "awayStarter": "Chase Burns",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -228,15 +228,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1554,
-    "evaluatedPicks": 399,
-    "correct": 207,
-    "accuracy": 51.88,
-    "coverage": 25.68,
+    "rawGames": 1557,
+    "evaluatedPicks": 400,
+    "correct": 208,
+    "accuracy": 52.0,
+    "coverage": 25.69,
     "YRFI": {
-      "picks": 211,
-      "correct": 105,
-      "accuracy": 49.76
+      "picks": 212,
+      "correct": 106,
+      "accuracy": 50.0
     },
     "NRFI": {
       "picks": 188,
@@ -253,8 +253,8 @@
     "teamRatesLast30": {
       "Boston Red Sox": {
         "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 16.7
+        "scored1stPct": 30.0,
+        "allowed1stPct": 20.0
       },
       "Baltimore Orioles": {
         "games": 30,
@@ -293,8 +293,8 @@
       },
       "Colorado Rockies": {
         "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 46.7
+        "scored1stPct": 30.0,
+        "allowed1stPct": 50.0
       },
       "New York Mets": {
         "games": 30,
@@ -334,7 +334,7 @@
       "Pittsburgh Pirates": {
         "games": 30,
         "scored1stPct": 20.0,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 30.0
       },
       "Milwaukee Brewers": {
         "games": 30,
@@ -378,7 +378,7 @@
       },
       "San Francisco Giants": {
         "games": 30,
-        "scored1stPct": 20.0,
+        "scored1stPct": 23.3,
         "allowed1stPct": 30.0
       },
       "Los Angeles Angels": {
@@ -398,7 +398,7 @@
       },
       "Los Angeles Dodgers": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 30.0,
         "allowed1stPct": 40.0
       },
       "American League All-Stars": {
