@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T04:02:38.179760+09:00",
+  "generatedAt": "2026-08-24T04:54:06.214838+09:00",
   "dateKST": "2026-08-24",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -142,9 +142,9 @@
       "awayWinPct": 0.5692,
       "homeWinPct": 0.5231,
       "awayStarter": "Kevin Gausman",
-      "homeStarter": "",
+      "homeStarter": "Merrill Kelly",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -161,9 +161,9 @@
       "homeLosses": 60,
       "awayWinPct": 0.4809,
       "homeWinPct": 0.5385,
-      "awayStarter": "",
+      "awayStarter": "Braxton Ashcraft",
       "homeStarter": "Robbie Ray",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -202,9 +202,9 @@
       "awayWinPct": 0.5538,
       "homeWinPct": 0.4769,
       "awayStarter": "Zack Wheeler",
-      "homeStarter": "",
+      "homeStarter": "Logan Gilbert",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
