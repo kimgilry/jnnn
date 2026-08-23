@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T12:31:28.764108+09:00",
+  "generatedAt": "2026-08-23T14:06:15.898323+09:00",
   "dateKST": "2026-08-23",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1559
+      "games": 1560
     }
   },
   "games": [
@@ -241,9 +241,9 @@
       "homeLosses": 51,
       "awayWinPct": 0.4809,
       "homeWinPct": 0.6077,
-      "awayStarter": "",
+      "awayStarter": "Lake Bachar",
       "homeStarter": "Blake Snell",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -276,11 +276,11 @@
       "away": "Minnesota Twins",
       "home": "San Diego Padres",
       "awayWins": 63,
-      "awayLosses": 66,
-      "homeWins": 69,
+      "awayLosses": 67,
+      "homeWins": 70,
       "homeLosses": 60,
-      "awayWinPct": 0.4884,
-      "homeWinPct": 0.5349,
+      "awayWinPct": 0.4846,
+      "homeWinPct": 0.5385,
       "awayStarter": "Bailey Ober",
       "homeStarter": "Walker Buehler",
       "awayStarterStatus": "확인완료",
@@ -409,12 +409,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "14:00|KIWOOM|KIA",
+      "gamePk": "14:00|KIA|KIWOOM",
       "timeKST": "14:00",
       "startISO": "",
       "status": "경기전",
-      "away": "KIWOOM",
-      "home": "KIA",
+      "away": "KIA",
+      "home": "KIWOOM",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
@@ -428,11 +428,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1559,
+    "rawGames": 1560,
     "evaluatedPicks": 391,
     "correct": 206,
     "accuracy": 52.69,
-    "coverage": 25.08,
+    "coverage": 25.06,
     "YRFI": {
       "picks": 207,
       "correct": 105,
@@ -493,8 +493,8 @@
       },
       "Minnesota Twins": {
         "games": 30,
-        "scored1stPct": 23.3,
-        "allowed1stPct": 46.7
+        "scored1stPct": 26.7,
+        "allowed1stPct": 43.3
       },
       "Tampa Bay Rays": {
         "games": 30,
@@ -514,7 +514,7 @@
       "San Diego Padres": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 13.3
+        "allowed1stPct": 16.7
       },
       "Arizona Diamondbacks": {
         "games": 30,
