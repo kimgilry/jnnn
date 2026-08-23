@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T01:57:47.814637+09:00",
+  "generatedAt": "2026-08-24T02:50:21.821500+09:00",
   "dateKST": "2026-08-24",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -42,9 +42,9 @@
       "awayWinPct": 0.5891,
       "homeWinPct": 0.4729,
       "awayStarter": "Drew Rasmussen",
-      "homeStarter": "",
+      "homeStarter": "Framber Valdez",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
