@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:52:35.358153+09:00",
+  "generatedAt": "2026-08-24T08:47:56.957939+09:00",
   "dateKST": "2026-08-24",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1557
+      "games": 1560
     }
   },
   "games": [
@@ -135,12 +135,12 @@
       "status": "경기전",
       "away": "Chicago Cubs",
       "home": "Arizona Diamondbacks",
-      "awayWins": 74,
+      "awayWins": 75,
       "awayLosses": 56,
-      "homeWins": 68,
+      "homeWins": 69,
       "homeLosses": 62,
-      "awayWinPct": 0.5692,
-      "homeWinPct": 0.5231,
+      "awayWinPct": 0.5725,
+      "homeWinPct": 0.5267,
       "awayStarter": "Kevin Gausman",
       "homeStarter": "Merrill Kelly",
       "awayStarterStatus": "확인완료",
@@ -157,10 +157,10 @@
       "home": "San Diego Padres",
       "awayWins": 63,
       "awayLosses": 69,
-      "homeWins": 70,
+      "homeWins": 71,
       "homeLosses": 60,
       "awayWinPct": 0.4773,
-      "homeWinPct": 0.5385,
+      "homeWinPct": 0.542,
       "awayStarter": "Braxton Ashcraft",
       "homeStarter": "Robbie Ray",
       "awayStarterStatus": "확인완료",
@@ -176,10 +176,10 @@
       "away": "Minnesota Twins",
       "home": "Athletics",
       "awayWins": 63,
-      "awayLosses": 67,
+      "awayLosses": 68,
       "homeWins": 51,
       "homeLosses": 80,
-      "awayWinPct": 0.4846,
+      "awayWinPct": 0.4809,
       "homeWinPct": 0.3893,
       "awayStarter": "Zebby Matthews",
       "homeStarter": "Jeffrey Springs",
@@ -198,9 +198,9 @@
       "awayWins": 73,
       "awayLosses": 58,
       "homeWins": 62,
-      "homeLosses": 68,
+      "homeLosses": 69,
       "awayWinPct": 0.5573,
-      "homeWinPct": 0.4769,
+      "homeWinPct": 0.4733,
       "awayStarter": "Zack Wheeler",
       "homeStarter": "Logan Gilbert",
       "awayStarterStatus": "확인완료",
@@ -216,10 +216,10 @@
       "away": "Cincinnati Reds",
       "home": "San Francisco Giants",
       "awayWins": 62,
-      "awayLosses": 68,
+      "awayLosses": 69,
       "homeWins": 52,
       "homeLosses": 78,
-      "awayWinPct": 0.4769,
+      "awayWinPct": 0.4733,
       "homeWinPct": 0.4,
       "awayStarter": "Chase Burns",
       "homeStarter": "",
@@ -228,15 +228,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1557,
-    "evaluatedPicks": 400,
-    "correct": 208,
-    "accuracy": 52.0,
-    "coverage": 25.69,
+    "rawGames": 1560,
+    "evaluatedPicks": 401,
+    "correct": 209,
+    "accuracy": 52.12,
+    "coverage": 25.71,
     "YRFI": {
-      "picks": 212,
-      "correct": 106,
-      "accuracy": 50.0
+      "picks": 213,
+      "correct": 107,
+      "accuracy": 50.23
     },
     "NRFI": {
       "picks": 188,
@@ -304,7 +304,7 @@
       "Minnesota Twins": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 43.3
+        "allowed1stPct": 40.0
       },
       "Tampa Bay Rays": {
         "games": 30,
@@ -343,7 +343,7 @@
       },
       "Seattle Mariners": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 33.3,
         "allowed1stPct": 46.7
       },
       "St. Louis Cardinals": {
@@ -363,12 +363,12 @@
       },
       "San Diego Padres": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 16.7
       },
       "Arizona Diamondbacks": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 30.0
       },
       "Miami Marlins": {
@@ -393,8 +393,8 @@
       },
       "Chicago Cubs": {
         "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 30.0
+        "scored1stPct": 33.3,
+        "allowed1stPct": 33.3
       },
       "Los Angeles Dodgers": {
         "games": 30,
