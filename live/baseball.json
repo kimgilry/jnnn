@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T00:51:40.265472+09:00",
+  "generatedAt": "2026-08-24T01:57:47.814637+09:00",
   "dateKST": "2026-08-24",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -41,9 +41,9 @@
       "homeLosses": 68,
       "awayWinPct": 0.5891,
       "homeWinPct": 0.4729,
-      "awayStarter": "",
+      "awayStarter": "Drew Rasmussen",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
     },
     {
@@ -61,10 +61,10 @@
       "homeLosses": 64,
       "awayWinPct": 0.5426,
       "homeWinPct": 0.5077,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "awayStarter": "Ranger Suarez",
+      "homeStarter": "Sandy Alcantara",
+      "awayStarterStatus": "확인완료",
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -82,9 +82,9 @@
       "awayWinPct": 0.3876,
       "homeWinPct": 0.4656,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Cade Cavalli",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -122,9 +122,9 @@
       "awayWinPct": 0.4923,
       "homeWinPct": 0.4,
       "awayStarter": "Parker Messick",
-      "homeStarter": "",
+      "homeStarter": "George Klassen",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -182,9 +182,9 @@
       "awayWinPct": 0.4846,
       "homeWinPct": 0.3846,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Jeffrey Springs",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
