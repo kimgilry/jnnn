@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T08:47:56.957939+09:00",
+  "generatedAt": "2026-08-24T12:33:32.133709+09:00",
   "dateKST": "2026-08-24",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1560
+      "games": 1561
     }
   },
   "games": [
@@ -228,20 +228,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1560,
-    "evaluatedPicks": 401,
-    "correct": 209,
-    "accuracy": 52.12,
-    "coverage": 25.71,
+    "rawGames": 1561,
+    "evaluatedPicks": 402,
+    "correct": 210,
+    "accuracy": 52.24,
+    "coverage": 25.75,
     "YRFI": {
       "picks": 213,
       "correct": 107,
       "accuracy": 50.23
     },
     "NRFI": {
-      "picks": 188,
-      "correct": 102,
-      "accuracy": 54.26
+      "picks": 189,
+      "correct": 103,
+      "accuracy": 54.5
     },
     "window": 20,
     "minGames": 10,
@@ -268,7 +268,7 @@
       },
       "Atlanta Braves": {
         "games": 30,
-        "scored1stPct": 23.3,
+        "scored1stPct": 20.0,
         "allowed1stPct": 16.7
       },
       "Cleveland Guardians": {
