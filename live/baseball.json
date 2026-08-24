@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T01:16:44.719257+09:00",
+  "generatedAt": "2026-08-25T02:57:16.855447+09:00",
   "dateKST": "2026-08-25",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -322,9 +322,9 @@
       "awayWinPct": 0.4733,
       "homeWinPct": 0.4,
       "awayStarter": "Brady Singer",
-      "homeStarter": "",
+      "homeStarter": "Adrian Houser",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "KBO Official",
