@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T08:58:16.369625+09:00",
+  "generatedAt": "2026-08-25T12:26:36.828463+09:00",
   "dateKST": "2026-08-25",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1545
+      "games": 1549
     }
   },
   "games": [
@@ -35,12 +35,12 @@
       "status": "경기전",
       "away": "Tampa Bay Rays",
       "home": "Detroit Tigers",
-      "awayWins": 77,
+      "awayWins": 78,
       "awayLosses": 53,
       "homeWins": 61,
-      "homeLosses": 69,
-      "awayWinPct": 0.5923,
-      "homeWinPct": 0.4692,
+      "homeLosses": 70,
+      "awayWinPct": 0.5954,
+      "homeWinPct": 0.4656,
       "awayStarter": "Ian Seymour",
       "homeStarter": "Jackson Jobe",
       "awayStarterStatus": "확인완료",
@@ -55,12 +55,12 @@
       "status": "경기전",
       "away": "Boston Red Sox",
       "home": "Miami Marlins",
-      "awayWins": 71,
+      "awayWins": 72,
       "awayLosses": 59,
       "homeWins": 67,
-      "homeLosses": 64,
-      "awayWinPct": 0.5462,
-      "homeWinPct": 0.5115,
+      "homeLosses": 65,
+      "awayWinPct": 0.5496,
+      "homeWinPct": 0.5076,
       "awayStarter": "Payton Tolle",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -76,11 +76,11 @@
       "away": "Colorado Rockies",
       "home": "Washington Nationals",
       "awayWins": 50,
-      "awayLosses": 80,
-      "homeWins": 61,
+      "awayLosses": 81,
+      "homeWins": 62,
       "homeLosses": 71,
-      "awayWinPct": 0.3846,
-      "homeWinPct": 0.4621,
+      "awayWinPct": 0.3817,
+      "homeWinPct": 0.4662,
       "awayStarter": "",
       "homeStarter": "Andrew Alvarez",
       "awayStarterStatus": "미확인",
@@ -175,12 +175,12 @@
       "status": "경기전",
       "away": "Texas Rangers",
       "home": "Chicago White Sox",
-      "awayWins": 65,
+      "awayWins": 66,
       "awayLosses": 66,
       "homeWins": 68,
-      "homeLosses": 62,
-      "awayWinPct": 0.4962,
-      "homeWinPct": 0.5231,
+      "homeLosses": 63,
+      "awayWinPct": 0.5,
+      "homeWinPct": 0.5191,
       "awayStarter": "Jacob deGrom",
       "homeStarter": "Anthony Kay",
       "awayStarterStatus": "확인완료",
@@ -428,20 +428,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1545,
-    "evaluatedPicks": 395,
-    "correct": 209,
-    "accuracy": 52.91,
-    "coverage": 25.57,
+    "rawGames": 1549,
+    "evaluatedPicks": 396,
+    "correct": 210,
+    "accuracy": 53.03,
+    "coverage": 25.56,
     "YRFI": {
       "picks": 210,
       "correct": 109,
       "accuracy": 51.9
     },
     "NRFI": {
-      "picks": 185,
-      "correct": 100,
-      "accuracy": 54.05
+      "picks": 186,
+      "correct": 101,
+      "accuracy": 54.3
     },
     "window": 20,
     "minGames": 10,
@@ -453,8 +453,8 @@
     "teamRatesLast30": {
       "Tampa Bay Rays": {
         "games": 30,
-        "scored1stPct": 20.0,
-        "allowed1stPct": 30.0
+        "scored1stPct": 23.3,
+        "allowed1stPct": 26.7
       },
       "Cleveland Guardians": {
         "games": 30,
@@ -474,7 +474,7 @@
       "Boston Red Sox": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 20.0
+        "allowed1stPct": 16.7
       },
       "Toronto Blue Jays": {
         "games": 30,
@@ -499,7 +499,7 @@
       "Chicago White Sox": {
         "games": 30,
         "scored1stPct": 33.3,
-        "allowed1stPct": 36.7
+        "allowed1stPct": 40.0
       },
       "New York Yankees": {
         "games": 30,
@@ -508,7 +508,7 @@
       },
       "Texas Rangers": {
         "games": 30,
-        "scored1stPct": 23.3,
+        "scored1stPct": 26.7,
         "allowed1stPct": 20.0
       },
       "Chicago Cubs": {
@@ -524,7 +524,7 @@
       "Miami Marlins": {
         "games": 30,
         "scored1stPct": 20.0,
-        "allowed1stPct": 16.7
+        "allowed1stPct": 13.3
       },
       "Los Angeles Dodgers": {
         "games": 30,
@@ -543,8 +543,8 @@
       },
       "Colorado Rockies": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 50.0
+        "scored1stPct": 26.7,
+        "allowed1stPct": 46.7
       },
       "Cincinnati Reds": {
         "games": 30,
