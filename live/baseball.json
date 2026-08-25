@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T02:51:14.589129+09:00",
+  "generatedAt": "2026-08-26T04:46:04.642845+09:00",
   "dateKST": "2026-08-26",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -222,9 +222,9 @@
       "awayWinPct": 0.4394,
       "homeWinPct": 0.4848,
       "awayStarter": "Randy Dobnak",
-      "homeStarter": "Shane Bieber",
+      "homeStarter": "",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "확인완료"
+      "homeStarterStatus": "미확인"
     },
     {
       "source": "MLB StatsAPI",
