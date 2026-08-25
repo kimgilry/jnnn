@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T12:26:36.828463+09:00",
+  "generatedAt": "2026-08-25T14:18:41.113670+09:00",
   "dateKST": "2026-08-25",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1549
+      "games": 1554
     }
   },
   "games": [
@@ -215,12 +215,12 @@
       "status": "경기전",
       "away": "Cleveland Guardians",
       "home": "Los Angeles Angels",
-      "awayWins": 65,
+      "awayWins": 66,
       "awayLosses": 66,
       "homeWins": 52,
-      "homeLosses": 79,
-      "awayWinPct": 0.4962,
-      "homeWinPct": 0.3969,
+      "homeLosses": 80,
+      "awayWinPct": 0.5,
+      "homeWinPct": 0.3939,
       "awayStarter": "Gavin Williams",
       "homeStarter": "Walbert Ureña",
       "awayStarterStatus": "확인완료",
@@ -235,12 +235,12 @@
       "status": "경기전",
       "away": "Chicago Cubs",
       "home": "Arizona Diamondbacks",
-      "awayWins": 75,
+      "awayWins": 76,
       "awayLosses": 56,
       "homeWins": 69,
-      "homeLosses": 62,
-      "awayWinPct": 0.5725,
-      "homeWinPct": 0.5267,
+      "homeLosses": 63,
+      "awayWinPct": 0.5758,
+      "homeWinPct": 0.5227,
       "awayStarter": "Clay Holmes",
       "homeStarter": "Brandon Pfaadt",
       "awayStarterStatus": "확인완료",
@@ -275,12 +275,12 @@
       "status": "경기전",
       "away": "Minnesota Twins",
       "home": "Athletics",
-      "awayWins": 63,
+      "awayWins": 64,
       "awayLosses": 68,
       "homeWins": 51,
-      "homeLosses": 80,
-      "awayWinPct": 0.4809,
-      "homeWinPct": 0.3893,
+      "homeLosses": 81,
+      "awayWinPct": 0.4848,
+      "homeWinPct": 0.3864,
       "awayStarter": "Taj Bradley",
       "homeStarter": "Gage Jump",
       "awayStarterStatus": "확인완료",
@@ -296,11 +296,11 @@
       "away": "Philadelphia Phillies",
       "home": "Seattle Mariners",
       "awayWins": 73,
-      "awayLosses": 58,
-      "homeWins": 62,
+      "awayLosses": 59,
+      "homeWins": 63,
       "homeLosses": 69,
-      "awayWinPct": 0.5573,
-      "homeWinPct": 0.4733,
+      "awayWinPct": 0.553,
+      "homeWinPct": 0.4773,
       "awayStarter": "Aaron Nola",
       "homeStarter": "George Kirby",
       "awayStarterStatus": "확인완료",
@@ -316,11 +316,11 @@
       "away": "Cincinnati Reds",
       "home": "San Francisco Giants",
       "awayWins": 62,
-      "awayLosses": 69,
-      "homeWins": 52,
+      "awayLosses": 70,
+      "homeWins": 53,
       "homeLosses": 78,
-      "awayWinPct": 0.4733,
-      "homeWinPct": 0.4,
+      "awayWinPct": 0.4697,
+      "homeWinPct": 0.4046,
       "awayStarter": "Brady Singer",
       "homeStarter": "Adrian Houser",
       "awayStarterStatus": "확인완료",
@@ -428,15 +428,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1549,
-    "evaluatedPicks": 396,
-    "correct": 210,
-    "accuracy": 53.03,
-    "coverage": 25.56,
+    "rawGames": 1554,
+    "evaluatedPicks": 398,
+    "correct": 211,
+    "accuracy": 53.02,
+    "coverage": 25.61,
     "YRFI": {
-      "picks": 210,
-      "correct": 109,
-      "accuracy": 51.9
+      "picks": 212,
+      "correct": 110,
+      "accuracy": 51.89
     },
     "NRFI": {
       "picks": 186,
@@ -459,7 +459,7 @@
       "Cleveland Guardians": {
         "games": 30,
         "scored1stPct": 40.0,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 20.0
       },
       "St. Louis Cardinals": {
         "games": 30,
@@ -483,7 +483,7 @@
       },
       "Seattle Mariners": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 36.7,
         "allowed1stPct": 46.7
       },
       "Minnesota Twins": {
@@ -493,7 +493,7 @@
       },
       "Los Angeles Angels": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 33.3,
         "allowed1stPct": 16.7
       },
       "Chicago White Sox": {
@@ -513,7 +513,7 @@
       },
       "Chicago Cubs": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 30.0,
         "allowed1stPct": 33.3
       },
       "San Diego Padres": {
@@ -549,17 +549,17 @@
       "Cincinnati Reds": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 33.3
+        "allowed1stPct": 36.7
       },
       "San Francisco Giants": {
         "games": 30,
-        "scored1stPct": 23.3,
+        "scored1stPct": 26.7,
         "allowed1stPct": 30.0
       },
       "Philadelphia Phillies": {
         "games": 30,
         "scored1stPct": 36.7,
-        "allowed1stPct": 30.0
+        "allowed1stPct": 33.3
       },
       "Washington Nationals": {
         "games": 30,
@@ -599,7 +599,7 @@
       "Athletics": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 33.3
+        "allowed1stPct": 36.7
       },
       "American League All-Stars": {
         "games": 1,
