@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T07:01:18.265385+09:00",
+  "generatedAt": "2026-08-26T08:36:21.871712+09:00",
   "dateKST": "2026-08-26",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -302,9 +302,9 @@
       "awayWinPct": 0.4809,
       "homeWinPct": 0.5,
       "awayStarter": "Kyle Bradish",
-      "homeStarter": "",
+      "homeStarter": "Michael McGreevy",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
