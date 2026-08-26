@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T12:33:24.346688+09:00",
+  "generatedAt": "2026-08-26T14:18:10.635662+09:00",
   "dateKST": "2026-08-26",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1556
+      "games": 1562
     }
   },
   "games": [
@@ -56,11 +56,11 @@
       "away": "Chicago Cubs",
       "home": "Arizona Diamondbacks",
       "awayWins": 76,
-      "awayLosses": 56,
-      "homeWins": 69,
+      "awayLosses": 57,
+      "homeWins": 70,
       "homeLosses": 63,
-      "awayWinPct": 0.5758,
-      "homeWinPct": 0.5227,
+      "awayWinPct": 0.5714,
+      "homeWinPct": 0.5263,
       "awayStarter": "Matthew Boyd",
       "homeStarter": "Eduardo Rodriguez",
       "awayStarterStatus": "확인완료",
@@ -76,11 +76,11 @@
       "away": "Cincinnati Reds",
       "home": "San Francisco Giants",
       "awayWins": 62,
-      "awayLosses": 70,
-      "homeWins": 53,
+      "awayLosses": 71,
+      "homeWins": 54,
       "homeLosses": 78,
-      "awayWinPct": 0.4697,
-      "homeWinPct": 0.4046,
+      "awayWinPct": 0.4662,
+      "homeWinPct": 0.4091,
       "awayStarter": "Nick Lodolo",
       "homeStarter": "Landen Roupp",
       "awayStarterStatus": "확인완료",
@@ -95,12 +95,12 @@
       "status": "경기전",
       "away": "Cleveland Guardians",
       "home": "Los Angeles Angels",
-      "awayWins": 66,
+      "awayWins": 67,
       "awayLosses": 66,
       "homeWins": 52,
-      "homeLosses": 80,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.3939,
+      "homeLosses": 81,
+      "awayWinPct": 0.5038,
+      "homeWinPct": 0.391,
       "awayStarter": "Joey Cantillo",
       "homeStarter": "Grayson Rodriguez",
       "awayStarterStatus": "확인완료",
@@ -115,16 +115,16 @@
       "status": "경기전",
       "away": "Pittsburgh Pirates",
       "home": "San Diego Padres",
-      "awayWins": 64,
+      "awayWins": 65,
       "awayLosses": 69,
       "homeWins": 71,
-      "homeLosses": 61,
-      "awayWinPct": 0.4812,
-      "homeWinPct": 0.5379,
+      "homeLosses": 62,
+      "awayWinPct": 0.4851,
+      "homeWinPct": 0.5338,
       "awayStarter": "Bubba Chandler",
-      "homeStarter": "",
+      "homeStarter": "Randy Vásquez",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -136,11 +136,11 @@
       "away": "Philadelphia Phillies",
       "home": "Seattle Mariners",
       "awayWins": 73,
-      "awayLosses": 59,
-      "homeWins": 63,
+      "awayLosses": 60,
+      "homeWins": 64,
       "homeLosses": 69,
-      "awayWinPct": 0.553,
-      "homeWinPct": 0.4773,
+      "awayWinPct": 0.5489,
+      "homeWinPct": 0.4812,
       "awayStarter": "Jesús Luzardo",
       "homeStarter": "Bryan Woo",
       "awayStarterStatus": "확인완료",
@@ -222,9 +222,9 @@
       "awayWinPct": 0.4436,
       "homeWinPct": 0.4812,
       "awayStarter": "Randy Dobnak",
-      "homeStarter": "",
+      "homeStarter": "Spencer Miles",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -316,11 +316,11 @@
       "away": "Minnesota Twins",
       "home": "Athletics",
       "awayWins": 64,
-      "awayLosses": 68,
-      "homeWins": 51,
+      "awayLosses": 69,
+      "homeWins": 52,
       "homeLosses": 81,
-      "awayWinPct": 0.4848,
-      "homeWinPct": 0.3864,
+      "awayWinPct": 0.4812,
+      "homeWinPct": 0.391,
       "awayStarter": "Connor Prielipp",
       "homeStarter": "J.T. Ginn",
       "awayStarterStatus": "확인완료",
@@ -428,15 +428,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1556,
-    "evaluatedPicks": 400,
+    "rawGames": 1562,
+    "evaluatedPicks": 403,
     "correct": 213,
-    "accuracy": 53.25,
-    "coverage": 25.71,
+    "accuracy": 52.85,
+    "coverage": 25.8,
     "YRFI": {
-      "picks": 215,
+      "picks": 218,
       "correct": 112,
-      "accuracy": 52.09
+      "accuracy": 51.38
     },
     "NRFI": {
       "picks": 185,
@@ -458,7 +458,7 @@
       },
       "Cleveland Guardians": {
         "games": 30,
-        "scored1stPct": 40.0,
+        "scored1stPct": 36.7,
         "allowed1stPct": 20.0
       },
       "Houston Astros": {
@@ -493,12 +493,12 @@
       },
       "San Francisco Giants": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 30.0,
         "allowed1stPct": 30.0
       },
       "Philadelphia Phillies": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 33.3,
         "allowed1stPct": 33.3
       },
       "Boston Red Sox": {
@@ -538,12 +538,12 @@
       },
       "Minnesota Twins": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 40.0
+        "scored1stPct": 23.3,
+        "allowed1stPct": 36.7
       },
       "Los Angeles Angels": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 36.7,
         "allowed1stPct": 16.7
       },
       "Chicago White Sox": {
@@ -554,7 +554,7 @@
       "Arizona Diamondbacks": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 30.0
+        "allowed1stPct": 26.7
       },
       "Milwaukee Brewers": {
         "games": 30,
