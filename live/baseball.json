@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T08:07:28.890492+09:00",
+  "generatedAt": "2026-08-29T08:27:24.158998+09:00",
   "dateKST": "2026-08-29",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -161,9 +161,9 @@
       "homeLosses": 70,
       "awayWinPct": 0.4776,
       "homeWinPct": 0.4815,
-      "awayStarter": "",
+      "awayStarter": "Kade Anderson",
       "homeStarter": "José Soriano",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
