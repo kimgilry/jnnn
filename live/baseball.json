@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T11:07:32.707531+09:00",
+  "generatedAt": "2026-08-29T11:27:27.380162+09:00",
   "dateKST": "2026-08-29",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1553
+      "games": 1555
     }
   },
   "games": [
@@ -42,9 +42,9 @@
       "awayWinPct": 0.5448,
       "homeWinPct": 0.5672,
       "awayStarter": "Jake Bennett",
-      "homeStarter": "",
+      "homeStarter": "Carlos Rodón",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -62,9 +62,9 @@
       "awayWinPct": 0.5448,
       "homeWinPct": 0.5672,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Max Fried",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -261,9 +261,9 @@
       "homeLosses": 75,
       "awayWinPct": 0.5037,
       "homeWinPct": 0.4444,
-      "awayStarter": "",
+      "awayStarter": "Bennett Sousa",
       "homeStarter": "Nolan McLean",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -296,11 +296,11 @@
       "away": "Colorado Rockies",
       "home": "Atlanta Braves",
       "awayWins": 52,
-      "awayLosses": 82,
-      "homeWins": 79,
+      "awayLosses": 83,
+      "homeWins": 80,
       "homeLosses": 55,
-      "awayWinPct": 0.3881,
-      "homeWinPct": 0.5896,
+      "awayWinPct": 0.3852,
+      "homeWinPct": 0.5926,
       "awayStarter": "Ryan Feltner",
       "homeStarter": "Martín Pérez",
       "awayStarterStatus": "확인완료",
@@ -316,11 +316,11 @@
       "away": "Texas Rangers",
       "home": "Milwaukee Brewers",
       "awayWins": 66,
-      "awayLosses": 68,
-      "homeWins": 83,
+      "awayLosses": 69,
+      "homeWins": 84,
       "homeLosses": 51,
-      "awayWinPct": 0.4925,
-      "homeWinPct": 0.6194,
+      "awayWinPct": 0.4889,
+      "homeWinPct": 0.6222,
       "awayStarter": "Cal Quantrill",
       "homeStarter": "Shane Drohan",
       "awayStarterStatus": "확인완료",
@@ -468,11 +468,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1553,
+    "rawGames": 1555,
     "evaluatedPicks": 406,
     "correct": 214,
     "accuracy": 52.71,
-    "coverage": 26.14,
+    "coverage": 26.11,
     "YRFI": {
       "picks": 221,
       "correct": 114,
@@ -503,8 +503,8 @@
       },
       "Texas Rangers": {
         "games": 30,
-        "scored1stPct": 20.0,
-        "allowed1stPct": 23.3
+        "scored1stPct": 16.7,
+        "allowed1stPct": 26.7
       },
       "Detroit Tigers": {
         "games": 30,
@@ -598,8 +598,8 @@
       },
       "Colorado Rockies": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 43.3
+        "scored1stPct": 23.3,
+        "allowed1stPct": 40.0
       },
       "New York Mets": {
         "games": 30,
