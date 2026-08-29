@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T10:07:43.741791+09:00",
+  "generatedAt": "2026-08-29T10:27:28.191596+09:00",
   "dateKST": "2026-08-29",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1546
+      "games": 1548
     }
   },
   "games": [
@@ -75,12 +75,12 @@
       "status": "경기전",
       "away": "Los Angeles Dodgers",
       "home": "Detroit Tigers",
-      "awayWins": 80,
+      "awayWins": 81,
       "awayLosses": 54,
       "homeWins": 62,
-      "homeLosses": 71,
-      "awayWinPct": 0.597,
-      "homeWinPct": 0.4662,
+      "homeLosses": 72,
+      "awayWinPct": 0.6,
+      "homeWinPct": 0.4627,
       "awayStarter": "Blake Snell",
       "homeStarter": "Keider Montero",
       "awayStarterStatus": "확인완료",
@@ -216,11 +216,11 @@
       "away": "Miami Marlins",
       "home": "Washington Nationals",
       "awayWins": 68,
-      "awayLosses": 66,
-      "homeWins": 63,
+      "awayLosses": 67,
+      "homeWins": 64,
       "homeLosses": 73,
-      "awayWinPct": 0.5075,
-      "homeWinPct": 0.4632,
+      "awayWinPct": 0.5037,
+      "homeWinPct": 0.4672,
       "awayStarter": "Sandy Alcantara",
       "homeStarter": "Cade Cavalli",
       "awayStarterStatus": "확인완료",
@@ -468,20 +468,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1546,
-    "evaluatedPicks": 403,
-    "correct": 211,
-    "accuracy": 52.36,
-    "coverage": 26.07,
+    "rawGames": 1548,
+    "evaluatedPicks": 404,
+    "correct": 212,
+    "accuracy": 52.48,
+    "coverage": 26.1,
     "YRFI": {
       "picks": 221,
       "correct": 114,
       "accuracy": 51.58
     },
     "NRFI": {
-      "picks": 182,
-      "correct": 97,
-      "accuracy": 53.3
+      "picks": 183,
+      "correct": 98,
+      "accuracy": 53.55
     },
     "window": 20,
     "minGames": 10,
@@ -508,7 +508,7 @@
       },
       "Detroit Tigers": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 30.0,
         "allowed1stPct": 30.0
       },
       "Cincinnati Reds": {
