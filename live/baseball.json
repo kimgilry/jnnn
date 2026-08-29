@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T07:07:36.056705+09:00",
+  "generatedAt": "2026-08-30T07:27:16.123772+09:00",
   "dateKST": "2026-08-30",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1550
+      "games": 1551
     }
   },
   "games": [
@@ -96,11 +96,11 @@
       "away": "Seattle Mariners",
       "home": "Toronto Blue Jays",
       "awayWins": 64,
-      "awayLosses": 71,
-      "homeWins": 66,
+      "awayLosses": 72,
+      "homeWins": 67,
       "homeLosses": 70,
-      "awayWinPct": 0.4741,
-      "homeWinPct": 0.4853,
+      "awayWinPct": 0.4706,
+      "homeWinPct": 0.4891,
       "awayStarter": "Logan Gilbert",
       "homeStarter": "Max Scherzer",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1550,
+    "rawGames": 1551,
     "evaluatedPicks": 414,
     "correct": 219,
     "accuracy": 52.9,
-    "coverage": 26.71,
+    "coverage": 26.69,
     "YRFI": {
       "picks": 219,
       "correct": 113,
@@ -579,7 +579,7 @@
       "Seattle Mariners": {
         "games": 30,
         "scored1stPct": 40.0,
-        "allowed1stPct": 46.7
+        "allowed1stPct": 43.3
       },
       "American League All-Stars": {
         "games": 1,
