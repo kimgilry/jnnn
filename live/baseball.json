@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T07:47:39.367222+09:00",
+  "generatedAt": "2026-08-30T08:07:30.788680+09:00",
   "dateKST": "2026-08-30",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1554
+      "games": 1556
     }
   },
   "games": [
@@ -156,11 +156,11 @@
       "away": "San Diego Padres",
       "home": "Tampa Bay Rays",
       "awayWins": 72,
-      "awayLosses": 63,
-      "homeWins": 80,
+      "awayLosses": 64,
+      "homeWins": 81,
       "homeLosses": 54,
-      "awayWinPct": 0.5333,
-      "homeWinPct": 0.597,
+      "awayWinPct": 0.5294,
+      "homeWinPct": 0.6,
       "awayStarter": "Robbie Ray",
       "homeStarter": "Drew Rasmussen",
       "awayStarterStatus": "확인완료",
@@ -241,9 +241,9 @@
       "homeLosses": 75,
       "awayWinPct": 0.5,
       "homeWinPct": 0.4485,
-      "awayStarter": "",
+      "awayStarter": "Ethan Pecko",
       "homeStarter": "Zac Thornton",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -408,20 +408,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1554,
-    "evaluatedPicks": 414,
-    "correct": 219,
-    "accuracy": 52.9,
-    "coverage": 26.64,
+    "rawGames": 1556,
+    "evaluatedPicks": 416,
+    "correct": 220,
+    "accuracy": 52.88,
+    "coverage": 26.74,
     "YRFI": {
       "picks": 219,
       "correct": 113,
       "accuracy": 51.6
     },
     "NRFI": {
-      "picks": 195,
-      "correct": 106,
-      "accuracy": 54.36
+      "picks": 197,
+      "correct": 107,
+      "accuracy": 54.31
     },
     "window": 20,
     "minGames": 10,
@@ -488,7 +488,7 @@
       },
       "Washington Nationals": {
         "games": 30,
-        "scored1stPct": 20.0,
+        "scored1stPct": 16.7,
         "allowed1stPct": 26.7
       },
       "Houston Astros": {
@@ -518,7 +518,7 @@
       },
       "Tampa Bay Rays": {
         "games": 30,
-        "scored1stPct": 23.3,
+        "scored1stPct": 26.7,
         "allowed1stPct": 23.3
       },
       "Los Angeles Dodgers": {
@@ -559,7 +559,7 @@
       "San Diego Padres": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 13.3
+        "allowed1stPct": 16.7
       },
       "New York Mets": {
         "games": 30,
