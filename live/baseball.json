@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T11:47:23.399637+09:00",
+  "generatedAt": "2026-08-29T12:07:44.164145+09:00",
   "dateKST": "2026-08-29",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1555
+      "games": 1556
     }
   },
   "games": [
@@ -116,11 +116,11 @@
       "away": "Pittsburgh Pirates",
       "home": "St. Louis Cardinals",
       "awayWins": 65,
-      "awayLosses": 70,
-      "homeWins": 67,
+      "awayLosses": 71,
+      "homeWins": 68,
       "homeLosses": 68,
-      "awayWinPct": 0.4815,
-      "homeWinPct": 0.4963,
+      "awayWinPct": 0.4779,
+      "homeWinPct": 0.5,
       "awayStarter": "",
       "homeStarter": "Kyle Leahy",
       "awayStarterStatus": "미확인",
@@ -468,11 +468,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1555,
+    "rawGames": 1556,
     "evaluatedPicks": 406,
     "correct": 214,
     "accuracy": 52.71,
-    "coverage": 26.11,
+    "coverage": 26.09,
     "YRFI": {
       "picks": 221,
       "correct": 114,
@@ -589,7 +589,7 @@
       "St. Louis Cardinals": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 20.0
       },
       "Atlanta Braves": {
         "games": 30,
