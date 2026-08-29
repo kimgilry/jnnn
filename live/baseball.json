@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T08:07:30.788680+09:00",
+  "generatedAt": "2026-08-30T08:27:34.652230+09:00",
   "dateKST": "2026-08-30",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1556
+      "games": 1557
     }
   },
   "games": [
@@ -36,11 +36,11 @@
       "away": "Miami Marlins",
       "home": "Washington Nationals",
       "awayWins": 68,
-      "awayLosses": 67,
-      "homeWins": 64,
+      "awayLosses": 68,
+      "homeWins": 65,
       "homeLosses": 73,
-      "awayWinPct": 0.5037,
-      "homeWinPct": 0.4672,
+      "awayWinPct": 0.5,
+      "homeWinPct": 0.471,
       "awayStarter": "Janson Junk",
       "homeStarter": "Andrew Alvarez",
       "awayStarterStatus": "확인완료",
@@ -56,11 +56,11 @@
       "away": "Colorado Rockies",
       "home": "Atlanta Braves",
       "awayWins": 52,
-      "awayLosses": 83,
-      "homeWins": 80,
+      "awayLosses": 84,
+      "homeWins": 81,
       "homeLosses": 55,
-      "awayWinPct": 0.3852,
-      "homeWinPct": 0.5926,
+      "awayWinPct": 0.3824,
+      "homeWinPct": 0.5956,
       "awayStarter": "Mason Adams",
       "homeStarter": "Tyler Mahle",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1556,
+    "rawGames": 1557,
     "evaluatedPicks": 416,
     "correct": 220,
     "accuracy": 52.88,
-    "coverage": 26.74,
+    "coverage": 26.72,
     "YRFI": {
       "picks": 219,
       "correct": 113,
@@ -543,8 +543,8 @@
       },
       "Atlanta Braves": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 16.7
+        "scored1stPct": 26.7,
+        "allowed1stPct": 13.3
       },
       "Colorado Rockies": {
         "games": 30,
