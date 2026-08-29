@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T13:27:32.072465+09:00",
+  "generatedAt": "2026-08-29T13:47:30.625080+09:00",
   "dateKST": "2026-08-29",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1557
+      "games": 1559
     }
   },
   "games": [
@@ -335,12 +335,12 @@
       "status": "경기전",
       "away": "Baltimore Orioles",
       "home": "Athletics",
-      "awayWins": 65,
+      "awayWins": 66,
       "awayLosses": 69,
       "homeWins": 53,
-      "homeLosses": 81,
-      "awayWinPct": 0.4851,
-      "homeWinPct": 0.3955,
+      "homeLosses": 82,
+      "awayWinPct": 0.4889,
+      "homeWinPct": 0.3926,
       "awayStarter": "Shane Baz",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -355,12 +355,12 @@
       "status": "경기전",
       "away": "Philadelphia Phillies",
       "home": "Los Angeles Angels",
-      "awayWins": 74,
+      "awayWins": 75,
       "awayLosses": 60,
       "homeWins": 52,
-      "homeLosses": 82,
-      "awayWinPct": 0.5522,
-      "homeWinPct": 0.3881,
+      "homeLosses": 83,
+      "awayWinPct": 0.5556,
+      "homeWinPct": 0.3852,
       "awayStarter": "Cristopher Sánchez",
       "homeStarter": "Ryan Johnson",
       "awayStarterStatus": "확인완료",
@@ -468,11 +468,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1557,
+    "rawGames": 1559,
     "evaluatedPicks": 406,
     "correct": 214,
     "accuracy": 52.71,
-    "coverage": 26.08,
+    "coverage": 26.04,
     "YRFI": {
       "picks": 221,
       "correct": 114,
@@ -563,8 +563,8 @@
       },
       "Philadelphia Phillies": {
         "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 33.3
+        "scored1stPct": 33.3,
+        "allowed1stPct": 36.7
       },
       "Miami Marlins": {
         "games": 30,
@@ -608,7 +608,7 @@
       },
       "Los Angeles Angels": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 40.0,
         "allowed1stPct": 13.3
       },
       "Cleveland Guardians": {
@@ -619,7 +619,7 @@
       "Athletics": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 40.0
+        "allowed1stPct": 36.7
       },
       "Chicago White Sox": {
         "games": 30,
