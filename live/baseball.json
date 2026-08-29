@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T13:47:30.625080+09:00",
+  "generatedAt": "2026-08-29T14:07:32.001184+09:00",
   "dateKST": "2026-08-29",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -342,9 +342,9 @@
       "awayWinPct": 0.4889,
       "homeWinPct": 0.3926,
       "awayStarter": "Shane Baz",
-      "homeStarter": "",
+      "homeStarter": "Jack Perkins",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
