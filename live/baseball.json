@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T14:27:48.166951+09:00",
+  "generatedAt": "2026-08-29T14:47:31.043372+09:00",
   "dateKST": "2026-08-29",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -181,9 +181,9 @@
       "homeLosses": 80,
       "awayWinPct": 0.5294,
       "homeWinPct": 0.4074,
-      "awayStarter": "",
+      "awayStarter": "Merrill Kelly",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
     },
     {
@@ -201,9 +201,9 @@
       "homeLosses": 80,
       "awayWinPct": 0.5294,
       "homeWinPct": 0.4074,
-      "awayStarter": "",
+      "awayStarter": "Mitch Bratt",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
     },
     {
