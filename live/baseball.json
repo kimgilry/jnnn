@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T10:27:28.191596+09:00",
+  "generatedAt": "2026-08-29T10:47:27.873540+09:00",
   "dateKST": "2026-08-29",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1548
+      "games": 1550
     }
   },
   "games": [
@@ -235,12 +235,12 @@
       "status": "경기전",
       "away": "Kansas City Royals",
       "home": "Cleveland Guardians",
-      "awayWins": 60,
+      "awayWins": 61,
       "awayLosses": 75,
       "homeWins": 68,
-      "homeLosses": 66,
-      "awayWinPct": 0.4444,
-      "homeWinPct": 0.5075,
+      "homeLosses": 67,
+      "awayWinPct": 0.4485,
+      "homeWinPct": 0.5037,
       "awayStarter": "Daniel Lynch IV",
       "homeStarter": "Foster Griffin",
       "awayStarterStatus": "확인완료",
@@ -276,11 +276,11 @@
       "away": "San Diego Padres",
       "home": "Tampa Bay Rays",
       "awayWins": 72,
-      "awayLosses": 62,
-      "homeWins": 79,
+      "awayLosses": 63,
+      "homeWins": 80,
       "homeLosses": 54,
-      "awayWinPct": 0.5373,
-      "homeWinPct": 0.594,
+      "awayWinPct": 0.5333,
+      "homeWinPct": 0.597,
       "awayStarter": "Walker Buehler",
       "homeStarter": "Nick Martinez",
       "awayStarterStatus": "확인완료",
@@ -468,20 +468,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1548,
-    "evaluatedPicks": 404,
-    "correct": 212,
-    "accuracy": 52.48,
-    "coverage": 26.1,
+    "rawGames": 1550,
+    "evaluatedPicks": 405,
+    "correct": 213,
+    "accuracy": 52.59,
+    "coverage": 26.13,
     "YRFI": {
       "picks": 221,
       "correct": 114,
       "accuracy": 51.58
     },
     "NRFI": {
-      "picks": 183,
-      "correct": 98,
-      "accuracy": 53.55
+      "picks": 184,
+      "correct": 99,
+      "accuracy": 53.8
     },
     "window": 20,
     "minGames": 10,
