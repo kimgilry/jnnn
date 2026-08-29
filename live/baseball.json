@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T12:47:53.899312+09:00",
+  "generatedAt": "2026-08-29T13:07:30.139741+09:00",
   "dateKST": "2026-08-29",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -121,9 +121,9 @@
       "homeLosses": 68,
       "awayWinPct": 0.4779,
       "homeWinPct": 0.5,
-      "awayStarter": "",
+      "awayStarter": "Lake Bachar",
       "homeStarter": "Kyle Leahy",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
