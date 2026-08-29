@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T05:27:36.984314+09:00",
+  "generatedAt": "2026-08-30T05:47:33.474131+09:00",
   "dateKST": "2026-08-30",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1547
+      "games": 1548
     }
   },
   "games": [
@@ -175,12 +175,12 @@
       "status": "경기전",
       "away": "Chicago White Sox",
       "home": "Minnesota Twins",
-      "awayWins": 71,
+      "awayWins": 72,
       "awayLosses": 63,
       "homeWins": 64,
-      "homeLosses": 71,
-      "awayWinPct": 0.5299,
-      "homeWinPct": 0.4741,
+      "homeLosses": 72,
+      "awayWinPct": 0.5333,
+      "homeWinPct": 0.4706,
       "awayStarter": "",
       "homeStarter": "Zebby Matthews",
       "awayStarterStatus": "미확인",
@@ -408,15 +408,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1547,
-    "evaluatedPicks": 413,
-    "correct": 218,
-    "accuracy": 52.78,
-    "coverage": 26.7,
+    "rawGames": 1548,
+    "evaluatedPicks": 414,
+    "correct": 219,
+    "accuracy": 52.9,
+    "coverage": 26.74,
     "YRFI": {
-      "picks": 218,
-      "correct": 112,
-      "accuracy": 51.38
+      "picks": 219,
+      "correct": 113,
+      "accuracy": 51.6
     },
     "NRFI": {
       "picks": 195,
@@ -448,8 +448,8 @@
       },
       "Minnesota Twins": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 40.0
+        "scored1stPct": 33.3,
+        "allowed1stPct": 43.3
       },
       "Arizona Diamondbacks": {
         "games": 30,
@@ -554,7 +554,7 @@
       "Chicago White Sox": {
         "games": 30,
         "scored1stPct": 33.3,
-        "allowed1stPct": 40.0
+        "allowed1stPct": 43.3
       },
       "San Diego Padres": {
         "games": 30,
