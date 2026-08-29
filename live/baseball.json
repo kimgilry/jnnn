@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T18:27:57.673772+09:00",
+  "generatedAt": "2026-08-29T18:47:37.646374+09:00",
   "dateKST": "2026-08-29",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -389,12 +389,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "18:00|SAMSUNG|KT",
+      "gamePk": "18:00|KT|SAMSUNG",
       "timeKST": "18:00",
       "startISO": "",
       "status": "경기전",
-      "away": "SAMSUNG",
-      "home": "KT",
+      "away": "KT",
+      "home": "SAMSUNG",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
