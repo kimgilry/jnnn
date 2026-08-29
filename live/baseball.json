@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T04:47:29.231587+09:00",
+  "generatedAt": "2026-08-30T05:07:51.162711+09:00",
   "dateKST": "2026-08-30",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1545
+      "games": 1547
     }
   },
   "games": [
@@ -75,12 +75,12 @@
       "status": "경기전",
       "away": "Boston Red Sox",
       "home": "New York Yankees",
-      "awayWins": 73,
+      "awayWins": 74,
       "awayLosses": 61,
       "homeWins": 76,
-      "homeLosses": 58,
-      "awayWinPct": 0.5448,
-      "homeWinPct": 0.5672,
+      "homeLosses": 59,
+      "awayWinPct": 0.5481,
+      "homeWinPct": 0.563,
       "awayStarter": "Ranger Suarez",
       "homeStarter": "Will Warren",
       "awayStarterStatus": "확인완료",
@@ -136,11 +136,11 @@
       "away": "Los Angeles Dodgers",
       "home": "Detroit Tigers",
       "awayWins": 81,
-      "awayLosses": 54,
-      "homeWins": 62,
+      "awayLosses": 55,
+      "homeWins": 63,
       "homeLosses": 72,
-      "awayWinPct": 0.6,
-      "homeWinPct": 0.4627,
+      "awayWinPct": 0.5956,
+      "homeWinPct": 0.4667,
       "awayStarter": "",
       "homeStarter": "Framber Valdez",
       "awayStarterStatus": "미확인",
@@ -408,20 +408,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1545,
-    "evaluatedPicks": 412,
+    "rawGames": 1547,
+    "evaluatedPicks": 413,
     "correct": 218,
-    "accuracy": 52.91,
-    "coverage": 26.67,
+    "accuracy": 52.78,
+    "coverage": 26.7,
     "YRFI": {
       "picks": 218,
       "correct": 112,
       "accuracy": 51.38
     },
     "NRFI": {
-      "picks": 194,
+      "picks": 195,
       "correct": 106,
-      "accuracy": 54.64
+      "accuracy": 54.36
     },
     "window": 20,
     "minGames": 10,
@@ -498,8 +498,8 @@
       },
       "Boston Red Sox": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 20.0
+        "scored1stPct": 30.0,
+        "allowed1stPct": 16.7
       },
       "Philadelphia Phillies": {
         "games": 30,
@@ -524,7 +524,7 @@
       "Los Angeles Dodgers": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 43.3
+        "allowed1stPct": 40.0
       },
       "St. Louis Cardinals": {
         "games": 30,
