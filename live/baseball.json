@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T05:47:33.474131+09:00",
+  "generatedAt": "2026-08-30T06:07:48.359190+09:00",
   "dateKST": "2026-08-30",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1548
+      "games": 1549
     }
   },
   "games": [
@@ -141,9 +141,9 @@
       "homeLosses": 72,
       "awayWinPct": 0.5956,
       "homeWinPct": 0.4667,
-      "awayStarter": "",
+      "awayStarter": "Tyler Glasnow",
       "homeStarter": "Framber Valdez",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -181,9 +181,9 @@
       "homeLosses": 72,
       "awayWinPct": 0.5333,
       "homeWinPct": 0.4706,
-      "awayStarter": "",
+      "awayStarter": "Jordan Hicks",
       "homeStarter": "Zebby Matthews",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -215,12 +215,12 @@
       "status": "경기전",
       "away": "Pittsburgh Pirates",
       "home": "St. Louis Cardinals",
-      "awayWins": 65,
+      "awayWins": 66,
       "awayLosses": 71,
       "homeWins": 68,
-      "homeLosses": 68,
-      "awayWinPct": 0.4779,
-      "homeWinPct": 0.5,
+      "homeLosses": 69,
+      "awayWinPct": 0.4818,
+      "homeWinPct": 0.4964,
       "awayStarter": "Braxton Ashcraft",
       "homeStarter": "Matthew Liberatore",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1548,
+    "rawGames": 1549,
     "evaluatedPicks": 414,
     "correct": 219,
     "accuracy": 52.9,
-    "coverage": 26.74,
+    "coverage": 26.73,
     "YRFI": {
       "picks": 219,
       "correct": 113,
@@ -478,7 +478,7 @@
       },
       "Pittsburgh Pirates": {
         "games": 30,
-        "scored1stPct": 20.0,
+        "scored1stPct": 23.3,
         "allowed1stPct": 30.0
       },
       "Milwaukee Brewers": {
