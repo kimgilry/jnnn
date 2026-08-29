@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T12:07:44.164145+09:00",
+  "generatedAt": "2026-08-29T12:27:40.107100+09:00",
   "dateKST": "2026-08-29",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1556
+      "games": 1557
     }
   },
   "games": [
@@ -95,12 +95,12 @@
       "status": "경기전",
       "away": "Chicago White Sox",
       "home": "Minnesota Twins",
-      "awayWins": 70,
+      "awayWins": 71,
       "awayLosses": 63,
       "homeWins": 64,
-      "homeLosses": 70,
-      "awayWinPct": 0.5263,
-      "homeWinPct": 0.4776,
+      "homeLosses": 71,
+      "awayWinPct": 0.5299,
+      "homeWinPct": 0.4741,
       "awayStarter": "Erick Fedde",
       "homeStarter": "Bailey Ober",
       "awayStarterStatus": "확인완료",
@@ -468,11 +468,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1556,
+    "rawGames": 1557,
     "evaluatedPicks": 406,
     "correct": 214,
     "accuracy": 52.71,
-    "coverage": 26.09,
+    "coverage": 26.08,
     "YRFI": {
       "picks": 221,
       "correct": 114,
@@ -578,8 +578,8 @@
       },
       "Minnesota Twins": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 36.7
+        "scored1stPct": 30.0,
+        "allowed1stPct": 40.0
       },
       "Los Angeles Dodgers": {
         "games": 30,
