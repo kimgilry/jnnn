@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T07:27:16.123772+09:00",
+  "generatedAt": "2026-08-30T07:47:39.367222+09:00",
   "dateKST": "2026-08-30",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1551
+      "games": 1554
     }
   },
   "games": [
@@ -115,12 +115,12 @@
       "status": "경기전",
       "away": "Kansas City Royals",
       "home": "Cleveland Guardians",
-      "awayWins": 61,
+      "awayWins": 62,
       "awayLosses": 75,
       "homeWins": 68,
-      "homeLosses": 67,
-      "awayWinPct": 0.4485,
-      "homeWinPct": 0.5037,
+      "homeLosses": 68,
+      "awayWinPct": 0.4526,
+      "homeWinPct": 0.5,
       "awayStarter": "Seth Lugo",
       "homeStarter": "Parker Messick",
       "awayStarterStatus": "확인완료",
@@ -236,11 +236,11 @@
       "away": "Houston Astros",
       "home": "New York Mets",
       "awayWins": 68,
-      "awayLosses": 67,
-      "homeWins": 60,
+      "awayLosses": 68,
+      "homeWins": 61,
       "homeLosses": 75,
-      "awayWinPct": 0.5037,
-      "homeWinPct": 0.4444,
+      "awayWinPct": 0.5,
+      "homeWinPct": 0.4485,
       "awayStarter": "",
       "homeStarter": "Zac Thornton",
       "awayStarterStatus": "미확인",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1551,
+    "rawGames": 1554,
     "evaluatedPicks": 414,
     "correct": 219,
     "accuracy": 52.9,
-    "coverage": 26.69,
+    "coverage": 26.64,
     "YRFI": {
       "picks": 219,
       "correct": 113,
@@ -493,8 +493,8 @@
       },
       "Houston Astros": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 30.0
+        "scored1stPct": 30.0,
+        "allowed1stPct": 33.3
       },
       "Boston Red Sox": {
         "games": 30,
@@ -564,7 +564,7 @@
       "New York Mets": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 26.7
       },
       "Los Angeles Angels": {
         "games": 30,
@@ -573,7 +573,7 @@
       },
       "Kansas City Royals": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 26.7
       },
       "Seattle Mariners": {
