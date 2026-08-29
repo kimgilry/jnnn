@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T10:47:27.873540+09:00",
+  "generatedAt": "2026-08-29T11:07:32.707531+09:00",
   "dateKST": "2026-08-29",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1550
+      "games": 1553
     }
   },
   "games": [
@@ -36,11 +36,11 @@
       "away": "Boston Red Sox",
       "home": "New York Yankees",
       "awayWins": 73,
-      "awayLosses": 60,
-      "homeWins": 75,
+      "awayLosses": 61,
+      "homeWins": 76,
       "homeLosses": 58,
-      "awayWinPct": 0.5489,
-      "homeWinPct": 0.5639,
+      "awayWinPct": 0.5448,
+      "homeWinPct": 0.5672,
       "awayStarter": "Jake Bennett",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -56,11 +56,11 @@
       "away": "Boston Red Sox",
       "home": "New York Yankees",
       "awayWins": 73,
-      "awayLosses": 60,
-      "homeWins": 75,
+      "awayLosses": 61,
+      "homeWins": 76,
       "homeLosses": 58,
-      "awayWinPct": 0.5489,
-      "homeWinPct": 0.5639,
+      "awayWinPct": 0.5448,
+      "homeWinPct": 0.5672,
       "awayStarter": "",
       "homeStarter": "",
       "awayStarterStatus": "미확인",
@@ -156,11 +156,11 @@
       "away": "Seattle Mariners",
       "home": "Toronto Blue Jays",
       "awayWins": 64,
-      "awayLosses": 70,
-      "homeWins": 65,
+      "awayLosses": 71,
+      "homeWins": 66,
       "homeLosses": 70,
-      "awayWinPct": 0.4776,
-      "homeWinPct": 0.4815,
+      "awayWinPct": 0.4741,
+      "homeWinPct": 0.4853,
       "awayStarter": "Kade Anderson",
       "homeStarter": "José Soriano",
       "awayStarterStatus": "확인완료",
@@ -255,12 +255,12 @@
       "status": "경기전",
       "away": "Houston Astros",
       "home": "New York Mets",
-      "awayWins": 67,
+      "awayWins": 68,
       "awayLosses": 67,
       "homeWins": 60,
-      "homeLosses": 74,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.4478,
+      "homeLosses": 75,
+      "awayWinPct": 0.5037,
+      "homeWinPct": 0.4444,
       "awayStarter": "",
       "homeStarter": "Nolan McLean",
       "awayStarterStatus": "미확인",
@@ -468,20 +468,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1550,
-    "evaluatedPicks": 405,
-    "correct": 213,
-    "accuracy": 52.59,
-    "coverage": 26.13,
+    "rawGames": 1553,
+    "evaluatedPicks": 406,
+    "correct": 214,
+    "accuracy": 52.71,
+    "coverage": 26.14,
     "YRFI": {
       "picks": 221,
       "correct": 114,
       "accuracy": 51.58
     },
     "NRFI": {
-      "picks": 184,
-      "correct": 99,
-      "accuracy": 53.8
+      "picks": 185,
+      "correct": 100,
+      "accuracy": 54.05
     },
     "window": 20,
     "minGames": 10,
@@ -539,12 +539,12 @@
       "New York Yankees": {
         "games": 30,
         "scored1stPct": 6.7,
-        "allowed1stPct": 30.0
+        "allowed1stPct": 26.7
       },
       "Houston Astros": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 33.3
+        "allowed1stPct": 30.0
       },
       "Boston Red Sox": {
         "games": 30,
@@ -573,8 +573,8 @@
       },
       "Toronto Blue Jays": {
         "games": 30,
-        "scored1stPct": 16.7,
-        "allowed1stPct": 16.7
+        "scored1stPct": 20.0,
+        "allowed1stPct": 20.0
       },
       "Minnesota Twins": {
         "games": 30,
@@ -638,7 +638,7 @@
       },
       "Seattle Mariners": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 40.0,
         "allowed1stPct": 46.7
       },
       "American League All-Stars": {
