@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T14:07:46.076771+09:00",
+  "generatedAt": "2026-08-30T14:27:34.968046+09:00",
   "dateKST": "2026-08-30",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1561
+      "games": 1562
     }
   },
   "games": [
@@ -262,9 +262,9 @@
       "awayWinPct": 0.4926,
       "homeWinPct": 0.3897,
       "awayStarter": "Chris Bassitt",
-      "homeStarter": "",
+      "homeStarter": "Jeffrey Springs",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -275,12 +275,12 @@
       "status": "경기전",
       "away": "Philadelphia Phillies",
       "home": "Los Angeles Angels",
-      "awayWins": 75,
+      "awayWins": 76,
       "awayLosses": 60,
       "homeWins": 52,
-      "homeLosses": 83,
-      "awayWinPct": 0.5556,
-      "homeWinPct": 0.3852,
+      "homeLosses": 84,
+      "awayWinPct": 0.5588,
+      "homeWinPct": 0.3824,
       "awayStarter": "Zack Wheeler",
       "homeStarter": "Yusei Kikuchi",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1561,
+    "rawGames": 1562,
     "evaluatedPicks": 417,
     "correct": 221,
     "accuracy": 53.0,
-    "coverage": 26.71,
+    "coverage": 26.7,
     "YRFI": {
       "picks": 219,
       "correct": 113,
@@ -503,7 +503,7 @@
       },
       "Philadelphia Phillies": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 30.0,
         "allowed1stPct": 36.7
       },
       "Miami Marlins": {
@@ -568,7 +568,7 @@
       },
       "Los Angeles Angels": {
         "games": 30,
-        "scored1stPct": 40.0,
+        "scored1stPct": 36.7,
         "allowed1stPct": 13.3
       },
       "Kansas City Royals": {
