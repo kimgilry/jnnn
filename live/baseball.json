@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T02:47:40.533157+09:00",
+  "generatedAt": "2026-08-31T03:07:38.490446+09:00",
   "dateKST": "2026-08-31",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -181,9 +181,9 @@
       "homeLosses": 70,
       "awayWinPct": 0.3897,
       "homeWinPct": 0.4853,
-      "awayStarter": "",
+      "awayStarter": "Gage Jump",
       "homeStarter": "Jacob deGrom",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -202,9 +202,9 @@
       "awayWinPct": 0.5333,
       "homeWinPct": 0.5,
       "awayStarter": "Anthony Kay",
-      "homeStarter": "",
+      "homeStarter": "Peter Lambert",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
