@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T01:47:51.196520+09:00",
+  "generatedAt": "2026-08-31T02:07:42.049798+09:00",
   "dateKST": "2026-08-31",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -101,9 +101,9 @@
       "homeLosses": 62,
       "awayWinPct": 0.4706,
       "homeWinPct": 0.5441,
-      "awayStarter": "",
+      "awayStarter": "George Kirby",
       "homeStarter": "Payton Tolle",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -201,9 +201,9 @@
       "homeLosses": 68,
       "awayWinPct": 0.5333,
       "homeWinPct": 0.5,
-      "awayStarter": "",
+      "awayStarter": "Anthony Kay",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
     },
     {
