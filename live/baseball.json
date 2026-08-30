@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T05:27:29.243405+09:00",
+  "generatedAt": "2026-08-31T05:47:30.246442+09:00",
   "dateKST": "2026-08-31",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1552
+      "games": 1553
     }
   },
   "games": [
@@ -137,10 +137,10 @@
       "home": "Minnesota Twins",
       "awayWins": 63,
       "awayLosses": 72,
-      "homeWins": 64,
+      "homeWins": 65,
       "homeLosses": 72,
       "awayWinPct": 0.4667,
-      "homeWinPct": 0.4706,
+      "homeWinPct": 0.4745,
       "awayStarter": "Jackson Jobe",
       "homeStarter": "Taj Bradley",
       "awayStarterStatus": "확인완료",
@@ -196,10 +196,10 @@
       "away": "Chicago White Sox",
       "home": "Houston Astros",
       "awayWins": 72,
-      "awayLosses": 63,
+      "awayLosses": 64,
       "homeWins": 68,
       "homeLosses": 68,
-      "awayWinPct": 0.5333,
+      "awayWinPct": 0.5294,
       "homeWinPct": 0.5,
       "awayStarter": "Anthony Kay",
       "homeStarter": "Peter Lambert",
@@ -268,11 +268,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1552,
+    "rawGames": 1553,
     "evaluatedPicks": 420,
     "correct": 225,
     "accuracy": 53.57,
-    "coverage": 27.06,
+    "coverage": 27.04,
     "YRFI": {
       "picks": 217,
       "correct": 113,
@@ -393,8 +393,8 @@
       },
       "Cleveland Guardians": {
         "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 23.3
+        "scored1stPct": 40.0,
+        "allowed1stPct": 26.7
       },
       "Athletics": {
         "games": 30,
@@ -413,8 +413,8 @@
       },
       "Kansas City Royals": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 26.7
+        "scored1stPct": 30.0,
+        "allowed1stPct": 30.0
       },
       "Seattle Mariners": {
         "games": 30,
