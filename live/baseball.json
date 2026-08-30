@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T04:27:23.753558+09:00",
+  "generatedAt": "2026-08-31T04:47:40.621532+09:00",
   "dateKST": "2026-08-31",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -122,9 +122,9 @@
       "awayWinPct": 0.5036,
       "homeWinPct": 0.4676,
       "awayStarter": "Ryan Gusto",
-      "homeStarter": "",
+      "homeStarter": "Will Dion",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
