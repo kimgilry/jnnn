@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T10:48:06.219927+09:00",
+  "generatedAt": "2026-08-30T11:07:49.448160+09:00",
   "dateKST": "2026-08-30",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1557
+      "games": 1558
     }
   },
   "games": [
@@ -196,11 +196,11 @@
       "away": "Texas Rangers",
       "home": "Milwaukee Brewers",
       "awayWins": 66,
-      "awayLosses": 69,
-      "homeWins": 84,
+      "awayLosses": 70,
+      "homeWins": 85,
       "homeLosses": 51,
-      "awayWinPct": 0.4889,
-      "homeWinPct": 0.6222,
+      "awayWinPct": 0.4853,
+      "homeWinPct": 0.625,
       "awayStarter": "Kumar Rocker",
       "homeStarter": "Dustin May",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1557,
+    "rawGames": 1558,
     "evaluatedPicks": 416,
     "correct": 220,
     "accuracy": 52.88,
-    "coverage": 26.72,
+    "coverage": 26.7,
     "YRFI": {
       "picks": 219,
       "correct": 113,
@@ -483,7 +483,7 @@
       },
       "Milwaukee Brewers": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 30.0,
         "allowed1stPct": 13.3
       },
       "Washington Nationals": {
@@ -533,8 +533,8 @@
       },
       "Texas Rangers": {
         "games": 30,
-        "scored1stPct": 16.7,
-        "allowed1stPct": 26.7
+        "scored1stPct": 13.3,
+        "allowed1stPct": 30.0
       },
       "Detroit Tigers": {
         "games": 30,
