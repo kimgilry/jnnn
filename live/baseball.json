@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T13:47:31.720009+09:00",
+  "generatedAt": "2026-08-30T14:07:46.076771+09:00",
   "dateKST": "2026-08-30",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1559
+      "games": 1561
     }
   },
   "games": [
@@ -255,12 +255,12 @@
       "status": "경기전",
       "away": "Baltimore Orioles",
       "home": "Athletics",
-      "awayWins": 66,
+      "awayWins": 67,
       "awayLosses": 69,
       "homeWins": 53,
-      "homeLosses": 82,
-      "awayWinPct": 0.4889,
-      "homeWinPct": 0.3926,
+      "homeLosses": 83,
+      "awayWinPct": 0.4926,
+      "homeWinPct": 0.3897,
       "awayStarter": "Chris Bassitt",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1559,
+    "rawGames": 1561,
     "evaluatedPicks": 417,
     "correct": 221,
     "accuracy": 53.0,
-    "coverage": 26.75,
+    "coverage": 26.71,
     "YRFI": {
       "picks": 219,
       "correct": 113,
@@ -453,8 +453,8 @@
       },
       "Arizona Diamondbacks": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 33.3
+        "scored1stPct": 23.3,
+        "allowed1stPct": 36.7
       },
       "Chicago Cubs": {
         "games": 30,
@@ -468,7 +468,7 @@
       },
       "Athletics": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 36.7
       },
       "Cincinnati Reds": {
@@ -513,7 +513,7 @@
       },
       "San Francisco Giants": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 36.7,
         "allowed1stPct": 26.7
       },
       "Tampa Bay Rays": {
