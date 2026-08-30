@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T04:07:42.122303+09:00",
+  "generatedAt": "2026-08-31T04:27:23.753558+09:00",
   "dateKST": "2026-08-31",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1547
+      "games": 1548
     }
   },
   "games": [
@@ -115,12 +115,12 @@
       "status": "경기전",
       "away": "Miami Marlins",
       "home": "Washington Nationals",
-      "awayWins": 68,
+      "awayWins": 69,
       "awayLosses": 68,
       "homeWins": 65,
-      "homeLosses": 73,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.471,
+      "homeLosses": 74,
+      "awayWinPct": 0.5036,
+      "homeWinPct": 0.4676,
       "awayStarter": "Ryan Gusto",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -268,20 +268,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1547,
-    "evaluatedPicks": 417,
-    "correct": 222,
-    "accuracy": 53.24,
-    "coverage": 26.96,
+    "rawGames": 1548,
+    "evaluatedPicks": 418,
+    "correct": 223,
+    "accuracy": 53.35,
+    "coverage": 27.0,
     "YRFI": {
       "picks": 216,
       "correct": 112,
       "accuracy": 51.85
     },
     "NRFI": {
-      "picks": 201,
-      "correct": 110,
-      "accuracy": 54.73
+      "picks": 202,
+      "correct": 111,
+      "accuracy": 54.95
     },
     "window": 20,
     "minGames": 10,
@@ -358,8 +358,8 @@
       },
       "Miami Marlins": {
         "games": 30,
-        "scored1stPct": 23.3,
-        "allowed1stPct": 13.3
+        "scored1stPct": 20.0,
+        "allowed1stPct": 10.0
       },
       "Los Angeles Dodgers": {
         "games": 30,
