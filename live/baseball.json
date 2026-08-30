@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T06:07:43.863720+09:00",
+  "generatedAt": "2026-08-31T06:27:24.876806+09:00",
   "dateKST": "2026-08-31",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1554
+      "games": 1556
     }
   },
   "games": [
@@ -41,9 +41,9 @@
       "homeLosses": 55,
       "awayWinPct": 0.4088,
       "homeWinPct": 0.5985,
-      "awayStarter": "",
+      "awayStarter": "Anthony Molina",
       "homeStarter": "Bryce Elder",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -136,10 +136,10 @@
       "away": "Detroit Tigers",
       "home": "Minnesota Twins",
       "awayWins": 63,
-      "awayLosses": 72,
+      "awayLosses": 73,
       "homeWins": 65,
       "homeLosses": 72,
-      "awayWinPct": 0.4667,
+      "awayWinPct": 0.4632,
       "homeWinPct": 0.4745,
       "awayStarter": "Jackson Jobe",
       "homeStarter": "Taj Bradley",
@@ -268,11 +268,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1554,
+    "rawGames": 1556,
     "evaluatedPicks": 421,
     "correct": 226,
     "accuracy": 53.68,
-    "coverage": 27.09,
+    "coverage": 27.06,
     "YRFI": {
       "picks": 217,
       "correct": 113,
@@ -319,7 +319,7 @@
       "Pittsburgh Pirates": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 30.0
+        "allowed1stPct": 26.7
       },
       "Baltimore Orioles": {
         "games": 30,
@@ -363,7 +363,7 @@
       },
       "Los Angeles Dodgers": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 40.0
       },
       "St. Louis Cardinals": {
@@ -439,7 +439,7 @@
       "Detroit Tigers": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 30.0
+        "allowed1stPct": 26.7
       },
       "American League All-Stars": {
         "games": 1,
