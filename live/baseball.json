@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T06:27:24.876806+09:00",
+  "generatedAt": "2026-08-31T06:47:35.002451+09:00",
   "dateKST": "2026-08-31",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1556
+      "games": 1557
     }
   },
   "games": [
@@ -156,10 +156,10 @@
       "away": "Milwaukee Brewers",
       "home": "Chicago Cubs",
       "awayWins": 85,
-      "awayLosses": 51,
+      "awayLosses": 52,
       "homeWins": 77,
       "homeLosses": 59,
-      "awayWinPct": 0.625,
+      "awayWinPct": 0.6204,
       "homeWinPct": 0.5662,
       "awayStarter": "Kyle Harrison",
       "homeStarter": "",
@@ -177,10 +177,10 @@
       "home": "Texas Rangers",
       "awayWins": 53,
       "awayLosses": 83,
-      "homeWins": 66,
+      "homeWins": 67,
       "homeLosses": 70,
       "awayWinPct": 0.3897,
-      "homeWinPct": 0.4853,
+      "homeWinPct": 0.4891,
       "awayStarter": "Gage Jump",
       "homeStarter": "Jacob deGrom",
       "awayStarterStatus": "확인완료",
@@ -268,11 +268,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1556,
+    "rawGames": 1557,
     "evaluatedPicks": 421,
     "correct": 226,
     "accuracy": 53.68,
-    "coverage": 27.06,
+    "coverage": 27.04,
     "YRFI": {
       "picks": 217,
       "correct": 113,
@@ -333,7 +333,7 @@
       },
       "Milwaukee Brewers": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 33.3,
         "allowed1stPct": 13.3
       },
       "Washington Nationals": {
@@ -434,7 +434,7 @@
       "Texas Rangers": {
         "games": 30,
         "scored1stPct": 13.3,
-        "allowed1stPct": 30.0
+        "allowed1stPct": 33.3
       },
       "Detroit Tigers": {
         "games": 30,
