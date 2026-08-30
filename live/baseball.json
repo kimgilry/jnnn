@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T08:27:19.544936+09:00",
+  "generatedAt": "2026-08-31T08:47:31.829930+09:00",
   "dateKST": "2026-08-31",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -242,9 +242,9 @@
       "awayWinPct": 0.5693,
       "homeWinPct": 0.3796,
       "awayStarter": "Elmer Rodríguez",
-      "homeStarter": "",
+      "homeStarter": "Walbert Ureña",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
