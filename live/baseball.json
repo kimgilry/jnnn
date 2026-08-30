@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T04:47:40.621532+09:00",
+  "generatedAt": "2026-08-31T05:07:43.399469+09:00",
   "dateKST": "2026-08-31",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1548
+      "games": 1549
     }
   },
   "games": [
@@ -96,10 +96,10 @@
       "away": "Seattle Mariners",
       "home": "Boston Red Sox",
       "awayWins": 64,
-      "awayLosses": 72,
+      "awayLosses": 73,
       "homeWins": 74,
       "homeLosses": 62,
-      "awayWinPct": 0.4706,
+      "awayWinPct": 0.4672,
       "homeWinPct": 0.5441,
       "awayStarter": "George Kirby",
       "homeStarter": "Payton Tolle",
@@ -268,11 +268,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1548,
+    "rawGames": 1549,
     "evaluatedPicks": 418,
     "correct": 223,
     "accuracy": 53.35,
-    "coverage": 27.0,
+    "coverage": 26.99,
     "YRFI": {
       "picks": 216,
       "correct": 112,
@@ -293,8 +293,8 @@
     "teamRatesLast30": {
       "Toronto Blue Jays": {
         "games": 30,
-        "scored1stPct": 20.0,
-        "allowed1stPct": 20.0
+        "scored1stPct": 23.3,
+        "allowed1stPct": 16.7
       },
       "Minnesota Twins": {
         "games": 30,
