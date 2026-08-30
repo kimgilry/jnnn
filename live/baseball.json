@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T00:47:47.062878+09:00",
+  "generatedAt": "2026-08-31T01:07:48.477790+09:00",
   "dateKST": "2026-08-31",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -42,9 +42,9 @@
       "awayWinPct": 0.4088,
       "homeWinPct": 0.5956,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Bryce Elder",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -222,9 +222,9 @@
       "awayWinPct": 0.4926,
       "homeWinPct": 0.3824,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Tanner Gordon",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
