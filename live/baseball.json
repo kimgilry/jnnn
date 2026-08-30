@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T05:47:30.246442+09:00",
+  "generatedAt": "2026-08-31T06:07:43.863720+09:00",
   "dateKST": "2026-08-31",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1553
+      "games": 1554
     }
   },
   "games": [
@@ -56,10 +56,10 @@
       "away": "San Diego Padres",
       "home": "Cincinnati Reds",
       "awayWins": 72,
-      "awayLosses": 64,
+      "awayLosses": 65,
       "homeWins": 64,
       "homeLosses": 72,
-      "awayWinPct": 0.5294,
+      "awayWinPct": 0.5255,
       "homeWinPct": 0.4706,
       "awayStarter": "Michael King",
       "homeStarter": "Brady Singer",
@@ -77,10 +77,10 @@
       "home": "Tampa Bay Rays",
       "awayWins": 61,
       "awayLosses": 75,
-      "homeWins": 81,
+      "homeWins": 82,
       "homeLosses": 54,
       "awayWinPct": 0.4485,
-      "homeWinPct": 0.6,
+      "homeWinPct": 0.6029,
       "awayStarter": "Robert Stock",
       "homeStarter": "Ian Seymour",
       "awayStarterStatus": "확인완료",
@@ -268,20 +268,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1553,
-    "evaluatedPicks": 420,
-    "correct": 225,
-    "accuracy": 53.57,
-    "coverage": 27.04,
+    "rawGames": 1554,
+    "evaluatedPicks": 421,
+    "correct": 226,
+    "accuracy": 53.68,
+    "coverage": 27.09,
     "YRFI": {
       "picks": 217,
       "correct": 113,
       "accuracy": 52.07
     },
     "NRFI": {
-      "picks": 203,
-      "correct": 112,
-      "accuracy": 55.17
+      "picks": 204,
+      "correct": 113,
+      "accuracy": 55.39
     },
     "window": 20,
     "minGames": 10,
