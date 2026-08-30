@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T07:07:57.018165+09:00",
+  "generatedAt": "2026-08-31T07:27:28.086939+09:00",
   "dateKST": "2026-08-31",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1557
+      "games": 1558
     }
   },
   "games": [
@@ -76,10 +76,10 @@
       "away": "New York Mets",
       "home": "Tampa Bay Rays",
       "awayWins": 61,
-      "awayLosses": 75,
+      "awayLosses": 76,
       "homeWins": 82,
       "homeLosses": 54,
-      "awayWinPct": 0.4485,
+      "awayWinPct": 0.4453,
       "homeWinPct": 0.6029,
       "awayStarter": "Robert Stock",
       "homeStarter": "Ian Seymour",
@@ -197,10 +197,10 @@
       "home": "Houston Astros",
       "awayWins": 72,
       "awayLosses": 64,
-      "homeWins": 68,
+      "homeWins": 69,
       "homeLosses": 68,
       "awayWinPct": 0.5294,
-      "homeWinPct": 0.5,
+      "homeWinPct": 0.5036,
       "awayStarter": "Anthony Kay",
       "homeStarter": "Peter Lambert",
       "awayStarterStatus": "확인완료",
@@ -268,11 +268,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1557,
+    "rawGames": 1558,
     "evaluatedPicks": 421,
     "correct": 226,
     "accuracy": 53.68,
-    "coverage": 27.04,
+    "coverage": 27.02,
     "YRFI": {
       "picks": 217,
       "correct": 113,
