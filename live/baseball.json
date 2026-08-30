@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T16:27:35.479363+09:00",
+  "generatedAt": "2026-08-30T16:47:29.631919+09:00",
   "dateKST": "2026-08-30",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -10,7 +10,7 @@
     },
     "KBO": {
       "ok": true,
-      "games": 4
+      "games": 3
     },
     "NPB": {
       "ok": true,
@@ -315,26 +315,6 @@
       "status": "경기전",
       "away": "DOOSAN",
       "home": "KIWOOM",
-      "awayWins": null,
-      "awayLosses": null,
-      "homeWins": null,
-      "homeLosses": null,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
-    },
-    {
-      "source": "KBO Official",
-      "league": "KBO",
-      "gamePk": "18:00|SAMSUNG|KT",
-      "timeKST": "18:00",
-      "startISO": "",
-      "status": "경기전",
-      "away": "SAMSUNG",
-      "home": "KT",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
