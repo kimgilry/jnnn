@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T05:07:43.399469+09:00",
+  "generatedAt": "2026-08-31T05:27:29.243405+09:00",
   "dateKST": "2026-08-31",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1549
+      "games": 1552
     }
   },
   "games": [
@@ -37,10 +37,10 @@
       "home": "Atlanta Braves",
       "awayWins": 56,
       "awayLosses": 81,
-      "homeWins": 81,
+      "homeWins": 82,
       "homeLosses": 55,
       "awayWinPct": 0.4088,
-      "homeWinPct": 0.5956,
+      "homeWinPct": 0.5985,
       "awayStarter": "",
       "homeStarter": "Bryce Elder",
       "awayStarterStatus": "미확인",
@@ -98,9 +98,9 @@
       "awayWins": 64,
       "awayLosses": 73,
       "homeWins": 74,
-      "homeLosses": 62,
+      "homeLosses": 63,
       "awayWinPct": 0.4672,
-      "homeWinPct": 0.5441,
+      "homeWinPct": 0.5401,
       "awayStarter": "George Kirby",
       "homeStarter": "Payton Tolle",
       "awayStarterStatus": "확인완료",
@@ -218,9 +218,9 @@
       "awayWins": 67,
       "awayLosses": 69,
       "homeWins": 52,
-      "homeLosses": 84,
+      "homeLosses": 85,
       "awayWinPct": 0.4926,
-      "homeWinPct": 0.3824,
+      "homeWinPct": 0.3796,
       "awayStarter": "",
       "homeStarter": "Tanner Gordon",
       "awayStarterStatus": "미확인",
@@ -235,11 +235,11 @@
       "status": "경기전",
       "away": "New York Yankees",
       "home": "Los Angeles Angels",
-      "awayWins": 77,
+      "awayWins": 78,
       "awayLosses": 59,
       "homeWins": 52,
       "homeLosses": 84,
-      "awayWinPct": 0.5662,
+      "awayWinPct": 0.5693,
       "homeWinPct": 0.3824,
       "awayStarter": "Elmer Rodríguez",
       "homeStarter": "",
@@ -268,20 +268,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1549,
-    "evaluatedPicks": 418,
-    "correct": 223,
-    "accuracy": 53.35,
-    "coverage": 26.99,
+    "rawGames": 1552,
+    "evaluatedPicks": 420,
+    "correct": 225,
+    "accuracy": 53.57,
+    "coverage": 27.06,
     "YRFI": {
-      "picks": 216,
-      "correct": 112,
-      "accuracy": 51.85
+      "picks": 217,
+      "correct": 113,
+      "accuracy": 52.07
     },
     "NRFI": {
-      "picks": 202,
-      "correct": 111,
-      "accuracy": 54.95
+      "picks": 203,
+      "correct": 112,
+      "accuracy": 55.17
     },
     "window": 20,
     "minGames": 10,
@@ -389,7 +389,7 @@
       "Colorado Rockies": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 40.0
+        "allowed1stPct": 36.7
       },
       "Cleveland Guardians": {
         "games": 30,
@@ -424,7 +424,7 @@
       "Chicago White Sox": {
         "games": 30,
         "scored1stPct": 33.3,
-        "allowed1stPct": 43.3
+        "allowed1stPct": 46.7
       },
       "San Diego Padres": {
         "games": 30,
