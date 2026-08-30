@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T01:07:48.477790+09:00",
+  "generatedAt": "2026-08-31T01:27:37.450460+09:00",
   "dateKST": "2026-08-31",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -102,9 +102,9 @@
       "awayWinPct": 0.4706,
       "homeWinPct": 0.5441,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Payton Tolle",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
