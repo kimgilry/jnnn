@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T05:27:33.760579+09:00",
+  "generatedAt": "2026-09-01T05:47:36.416169+09:00",
   "dateKST": "2026-09-01",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -261,9 +261,9 @@
       "homeLosses": 85,
       "awayWinPct": 0.4964,
       "homeWinPct": 0.3796,
-      "awayStarter": "",
+      "awayStarter": "Kyle Bradish",
       "homeStarter": "Gabriel Hughes",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
