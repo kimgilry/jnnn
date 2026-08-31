@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T11:27:37.723885+09:00",
+  "generatedAt": "2026-08-31T11:47:44.589111+09:00",
   "dateKST": "2026-08-31",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1560
+      "games": 1561
     }
   },
   "games": [
@@ -57,10 +57,10 @@
       "home": "Cincinnati Reds",
       "awayWins": 72,
       "awayLosses": 65,
-      "homeWins": 64,
+      "homeWins": 65,
       "homeLosses": 72,
       "awayWinPct": 0.5255,
-      "homeWinPct": 0.4706,
+      "homeWinPct": 0.4745,
       "awayStarter": "Michael King",
       "homeStarter": "Brady Singer",
       "awayStarterStatus": "확인완료",
@@ -158,9 +158,9 @@
       "awayWins": 85,
       "awayLosses": 52,
       "homeWins": 77,
-      "homeLosses": 59,
+      "homeLosses": 60,
       "awayWinPct": 0.6204,
-      "homeWinPct": 0.5662,
+      "homeWinPct": 0.562,
       "awayStarter": "Kyle Harrison",
       "homeStarter": "Clay Holmes",
       "awayStarterStatus": "확인완료",
@@ -268,11 +268,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1560,
+    "rawGames": 1561,
     "evaluatedPicks": 421,
     "correct": 226,
     "accuracy": 53.68,
-    "coverage": 26.99,
+    "coverage": 26.97,
     "YRFI": {
       "picks": 217,
       "correct": 113,
@@ -314,7 +314,7 @@
       "Cincinnati Reds": {
         "games": 30,
         "scored1stPct": 20.0,
-        "allowed1stPct": 40.0
+        "allowed1stPct": 43.3
       },
       "Pittsburgh Pirates": {
         "games": 30,
