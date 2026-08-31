@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T08:07:39.515652+09:00",
+  "generatedAt": "2026-09-01T08:27:37.885629+09:00",
   "dateKST": "2026-09-01",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -221,9 +221,9 @@
       "homeLosses": 70,
       "awayWinPct": 0.3869,
       "homeWinPct": 0.4891,
-      "awayStarter": "J.T. Ginn",
+      "awayStarter": "",
       "homeStarter": "MacKenzie Gore",
-      "awayStarterStatus": "확인완료",
+      "awayStarterStatus": "미확인",
       "homeStarterStatus": "확인완료"
     },
     {
