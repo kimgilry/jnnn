@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T13:31:56.197216+09:00",
+  "generatedAt": "2026-09-01T13:49:21.459982+09:00",
   "dateKST": "2026-09-01",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1556
+      "games": 1557
     }
   },
   "games": [
@@ -295,12 +295,12 @@
       "status": "경기전",
       "away": "Philadelphia Phillies",
       "home": "Arizona Diamondbacks",
-      "awayWins": 77,
+      "awayWins": 78,
       "awayLosses": 60,
       "homeWins": 73,
-      "homeLosses": 65,
-      "awayWinPct": 0.562,
-      "homeWinPct": 0.529,
+      "homeLosses": 66,
+      "awayWinPct": 0.5652,
+      "homeWinPct": 0.5252,
       "awayStarter": "Jesús Luzardo",
       "homeStarter": "Eduardo Rodriguez",
       "awayStarterStatus": "확인완료",
@@ -428,11 +428,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1556,
+    "rawGames": 1557,
     "evaluatedPicks": 414,
     "correct": 227,
     "accuracy": 54.83,
-    "coverage": 26.61,
+    "coverage": 26.59,
     "YRFI": {
       "picks": 219,
       "correct": 115,
@@ -484,7 +484,7 @@
       "Philadelphia Phillies": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 36.7
+        "allowed1stPct": 33.3
       },
       "Miami Marlins": {
         "games": 30,
