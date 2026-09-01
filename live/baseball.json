@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T13:14:10.844612+09:00",
+  "generatedAt": "2026-09-01T13:31:56.197216+09:00",
   "dateKST": "2026-09-01",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1555
+      "games": 1556
     }
   },
   "games": [
@@ -242,9 +242,9 @@
       "awayWinPct": 0.5255,
       "homeWinPct": 0.5072,
       "awayStarter": "Sean Burke",
-      "homeStarter": "",
+      "homeStarter": "Ronel Blanco",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -276,11 +276,11 @@
       "away": "New York Yankees",
       "home": "Los Angeles Angels",
       "awayWins": 78,
-      "awayLosses": 59,
-      "homeWins": 52,
+      "awayLosses": 60,
+      "homeWins": 53,
       "homeLosses": 85,
-      "awayWinPct": 0.5693,
-      "homeWinPct": 0.3796,
+      "awayWinPct": 0.5652,
+      "homeWinPct": 0.3841,
       "awayStarter": "Gerrit Cole",
       "homeStarter": "Grayson Rodriguez",
       "awayStarterStatus": "확인완료",
@@ -428,20 +428,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1555,
-    "evaluatedPicks": 413,
-    "correct": 226,
-    "accuracy": 54.72,
-    "coverage": 26.56,
+    "rawGames": 1556,
+    "evaluatedPicks": 414,
+    "correct": 227,
+    "accuracy": 54.83,
+    "coverage": 26.61,
     "YRFI": {
       "picks": 219,
       "correct": 115,
       "accuracy": 52.51
     },
     "NRFI": {
-      "picks": 194,
-      "correct": 111,
-      "accuracy": 57.22
+      "picks": 195,
+      "correct": 112,
+      "accuracy": 57.44
     },
     "window": 20,
     "minGames": 10,
@@ -498,7 +498,7 @@
       },
       "New York Yankees": {
         "games": 30,
-        "scored1stPct": 6.7,
+        "scored1stPct": 3.3,
         "allowed1stPct": 23.3
       },
       "Cincinnati Reds": {
@@ -549,7 +549,7 @@
       "Los Angeles Angels": {
         "games": 30,
         "scored1stPct": 36.7,
-        "allowed1stPct": 13.3
+        "allowed1stPct": 10.0
       },
       "Atlanta Braves": {
         "games": 30,
