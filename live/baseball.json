@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T10:29:14.001809+09:00",
+  "generatedAt": "2026-09-01T10:49:11.679905+09:00",
   "dateKST": "2026-09-01",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1548
+      "games": 1551
     }
   },
   "games": [
@@ -35,12 +35,12 @@
       "status": "경기전",
       "away": "San Diego Padres",
       "home": "Cincinnati Reds",
-      "awayWins": 72,
+      "awayWins": 73,
       "awayLosses": 65,
       "homeWins": 65,
-      "homeLosses": 72,
-      "awayWinPct": 0.5255,
-      "homeWinPct": 0.4745,
+      "homeLosses": 73,
+      "awayWinPct": 0.529,
+      "homeWinPct": 0.471,
       "awayStarter": "Randy Vásquez",
       "homeStarter": "Nick Lodolo",
       "awayStarterStatus": "확인완료",
@@ -116,11 +116,11 @@
       "away": "Seattle Mariners",
       "home": "Boston Red Sox",
       "awayWins": 64,
-      "awayLosses": 73,
-      "homeWins": 74,
+      "awayLosses": 74,
+      "homeWins": 75,
       "homeLosses": 63,
-      "awayWinPct": 0.4672,
-      "homeWinPct": 0.5401,
+      "awayWinPct": 0.4638,
+      "homeWinPct": 0.5435,
       "awayStarter": "Bryan Woo",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -137,10 +137,10 @@
       "home": "Washington Nationals",
       "awayWins": 82,
       "awayLosses": 56,
-      "homeWins": 65,
+      "homeWins": 66,
       "homeLosses": 74,
       "awayWinPct": 0.5942,
-      "homeWinPct": 0.4676,
+      "homeWinPct": 0.4714,
       "awayStarter": "AJ Smith-Shawver",
       "homeStarter": "Jake Irvin",
       "awayStarterStatus": "확인완료",
@@ -176,10 +176,10 @@
       "away": "Miami Marlins",
       "home": "Kansas City Royals",
       "awayWins": 69,
-      "awayLosses": 68,
+      "awayLosses": 69,
       "homeWins": 62,
       "homeLosses": 76,
-      "awayWinPct": 0.5036,
+      "awayWinPct": 0.5,
       "homeWinPct": 0.4493,
       "awayStarter": "Tyler Phillips",
       "homeStarter": "Randy Dobnak",
@@ -428,20 +428,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1548,
-    "evaluatedPicks": 411,
-    "correct": 225,
-    "accuracy": 54.74,
-    "coverage": 26.55,
+    "rawGames": 1551,
+    "evaluatedPicks": 412,
+    "correct": 226,
+    "accuracy": 54.85,
+    "coverage": 26.56,
     "YRFI": {
       "picks": 218,
       "correct": 115,
       "accuracy": 52.75
     },
     "NRFI": {
-      "picks": 193,
-      "correct": 110,
-      "accuracy": 56.99
+      "picks": 194,
+      "correct": 111,
+      "accuracy": 57.22
     },
     "window": 20,
     "minGames": 10,
@@ -463,8 +463,8 @@
       },
       "Boston Red Sox": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 16.7
+        "scored1stPct": 33.3,
+        "allowed1stPct": 20.0
       },
       "Detroit Tigers": {
         "games": 30,
@@ -488,7 +488,7 @@
       },
       "Miami Marlins": {
         "games": 30,
-        "scored1stPct": 20.0,
+        "scored1stPct": 16.7,
         "allowed1stPct": 10.0
       },
       "Baltimore Orioles": {
@@ -558,7 +558,7 @@
       },
       "Seattle Mariners": {
         "games": 30,
-        "scored1stPct": 40.0,
+        "scored1stPct": 43.3,
         "allowed1stPct": 43.3
       },
       "San Diego Padres": {
