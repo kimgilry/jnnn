@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T06:14:16.833284+09:00",
+  "generatedAt": "2026-09-02T06:31:14.741501+09:00",
   "dateKST": "2026-09-02",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -182,9 +182,9 @@
       "awayWinPct": 0.4493,
       "homeWinPct": 0.5985,
       "awayStarter": "Justin Hagenman",
-      "homeStarter": "",
+      "homeStarter": "Griffin Jax",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
