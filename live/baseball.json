@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T11:48:59.224980+09:00",
+  "generatedAt": "2026-09-01T12:15:03.414260+09:00",
   "dateKST": "2026-09-01",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1554
+      "games": 1555
     }
   },
   "games": [
@@ -221,9 +221,9 @@
       "homeLosses": 70,
       "awayWinPct": 0.3841,
       "homeWinPct": 0.4928,
-      "awayStarter": "",
+      "awayStarter": "Brady Basso",
       "homeStarter": "MacKenzie Gore",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -236,11 +236,11 @@
       "away": "Chicago White Sox",
       "home": "Houston Astros",
       "awayWins": 72,
-      "awayLosses": 64,
-      "homeWins": 69,
+      "awayLosses": 65,
+      "homeWins": 70,
       "homeLosses": 68,
-      "awayWinPct": 0.5294,
-      "homeWinPct": 0.5036,
+      "awayWinPct": 0.5255,
+      "homeWinPct": 0.5072,
       "awayStarter": "Sean Burke",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -428,15 +428,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1554,
-    "evaluatedPicks": 412,
+    "rawGames": 1555,
+    "evaluatedPicks": 413,
     "correct": 226,
-    "accuracy": 54.85,
-    "coverage": 26.51,
+    "accuracy": 54.72,
+    "coverage": 26.56,
     "YRFI": {
-      "picks": 218,
+      "picks": 219,
       "correct": 115,
-      "accuracy": 52.75
+      "accuracy": 52.51
     },
     "NRFI": {
       "picks": 194,
@@ -539,12 +539,12 @@
       "Houston Astros": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 33.3
+        "allowed1stPct": 30.0
       },
       "Chicago White Sox": {
         "games": 30,
         "scored1stPct": 33.3,
-        "allowed1stPct": 46.7
+        "allowed1stPct": 43.3
       },
       "Los Angeles Angels": {
         "games": 30,
