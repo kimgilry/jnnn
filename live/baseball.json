@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T08:27:25.979182+09:00",
+  "generatedAt": "2026-09-02T08:47:47.047572+09:00",
   "dateKST": "2026-09-02",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -141,9 +141,9 @@
       "homeLosses": 63,
       "awayWinPct": 0.4638,
       "homeWinPct": 0.5435,
-      "awayStarter": "",
+      "awayStarter": "Bryce Miller",
       "homeStarter": "Patrick Sandoval",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
