@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T00:19:26.623013+09:00",
+  "generatedAt": "2026-09-03T00:38:44.313584+09:00",
   "dateKST": "2026-09-03",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -162,9 +162,9 @@
       "awayWinPct": 0.6014,
       "homeWinPct": 0.4964,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Cal Quantrill",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
