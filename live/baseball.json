@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T12:14:39.224090+09:00",
+  "generatedAt": "2026-09-02T12:31:46.970229+09:00",
   "dateKST": "2026-09-02",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1555
+      "games": 1558
     }
   },
   "games": [
@@ -76,11 +76,11 @@
       "away": "Athletics",
       "home": "Texas Rangers",
       "awayWins": 53,
-      "awayLosses": 85,
-      "homeWins": 68,
+      "awayLosses": 86,
+      "homeWins": 69,
       "homeLosses": 70,
-      "awayWinPct": 0.3841,
-      "homeWinPct": 0.4928,
+      "awayWinPct": 0.3813,
+      "homeWinPct": 0.4964,
       "awayStarter": "Jacob Lopez",
       "homeStarter": "Cody Bradford",
       "awayStarterStatus": "확인완료",
@@ -275,12 +275,12 @@
       "status": "경기전",
       "away": "Chicago White Sox",
       "home": "Houston Astros",
-      "awayWins": 72,
+      "awayWins": 73,
       "awayLosses": 65,
       "homeWins": 70,
-      "homeLosses": 68,
-      "awayWinPct": 0.5255,
-      "homeWinPct": 0.5072,
+      "homeLosses": 69,
+      "awayWinPct": 0.529,
+      "homeWinPct": 0.5036,
       "awayStarter": "",
       "homeStarter": "Hayden Wesneski",
       "awayStarterStatus": "미확인",
@@ -428,20 +428,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1555,
-    "evaluatedPicks": 418,
-    "correct": 230,
-    "accuracy": 55.02,
-    "coverage": 26.88,
+    "rawGames": 1558,
+    "evaluatedPicks": 420,
+    "correct": 231,
+    "accuracy": 55.0,
+    "coverage": 26.96,
     "YRFI": {
-      "picks": 217,
+      "picks": 218,
       "correct": 115,
-      "accuracy": 53.0
+      "accuracy": 52.75
     },
     "NRFI": {
-      "picks": 201,
-      "correct": 115,
-      "accuracy": 57.21
+      "picks": 202,
+      "correct": 116,
+      "accuracy": 57.43
     },
     "window": 20,
     "minGames": 10,
@@ -474,7 +474,7 @@
       "Athletics": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 40.0
+        "allowed1stPct": 43.3
       },
       "Philadelphia Phillies": {
         "games": 30,
@@ -503,7 +503,7 @@
       },
       "Texas Rangers": {
         "games": 30,
-        "scored1stPct": 13.3,
+        "scored1stPct": 16.7,
         "allowed1stPct": 30.0
       },
       "New York Yankees": {
@@ -538,7 +538,7 @@
       },
       "Houston Astros": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 30.0
       },
       "Chicago White Sox": {
