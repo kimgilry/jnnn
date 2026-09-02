@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T07:48:39.344104+09:00",
+  "generatedAt": "2026-09-03T08:12:47.072710+09:00",
   "dateKST": "2026-09-03",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1553
+      "games": 1554
     }
   },
   "games": [
@@ -96,10 +96,10 @@
       "away": "Boston Red Sox",
       "home": "Baltimore Orioles",
       "awayWins": 75,
-      "awayLosses": 64,
+      "awayLosses": 65,
       "homeWins": 69,
       "homeLosses": 71,
-      "awayWinPct": 0.5396,
+      "awayWinPct": 0.5357,
       "homeWinPct": 0.4929,
       "awayStarter": "Jake Bennett",
       "homeStarter": "",
@@ -177,10 +177,10 @@
       "home": "Seattle Mariners",
       "awayWins": 54,
       "awayLosses": 86,
-      "homeWins": 65,
+      "homeWins": 66,
       "homeLosses": 74,
       "awayWinPct": 0.3857,
-      "homeWinPct": 0.4676,
+      "homeWinPct": 0.4714,
       "awayStarter": "Jack Perkins",
       "homeStarter": "Kade Anderson",
       "awayStarterStatus": "확인완료",
@@ -308,15 +308,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1553,
-    "evaluatedPicks": 422,
+    "rawGames": 1554,
+    "evaluatedPicks": 423,
     "correct": 231,
-    "accuracy": 54.74,
-    "coverage": 27.17,
+    "accuracy": 54.61,
+    "coverage": 27.22,
     "YRFI": {
-      "picks": 208,
+      "picks": 209,
       "correct": 108,
-      "accuracy": 51.92
+      "accuracy": 51.67
     },
     "NRFI": {
       "picks": 214,
@@ -389,11 +389,11 @@
       "Seattle Mariners": {
         "games": 30,
         "scored1stPct": 46.7,
-        "allowed1stPct": 43.3
+        "allowed1stPct": 40.0
       },
       "Boston Red Sox": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 33.3,
         "allowed1stPct": 23.3
       },
       "Detroit Tigers": {
