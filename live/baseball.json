@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T05:49:55.543250+09:00",
+  "generatedAt": "2026-09-03T06:13:42.637465+09:00",
   "dateKST": "2026-09-03",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1549
+      "games": 1550
     }
   },
   "games": [
@@ -308,20 +308,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1549,
-    "evaluatedPicks": 420,
-    "correct": 229,
-    "accuracy": 54.52,
-    "coverage": 27.11,
+    "rawGames": 1550,
+    "evaluatedPicks": 421,
+    "correct": 230,
+    "accuracy": 54.63,
+    "coverage": 27.16,
     "YRFI": {
       "picks": 208,
       "correct": 108,
       "accuracy": 51.92
     },
     "NRFI": {
-      "picks": 212,
-      "correct": 121,
-      "accuracy": 57.08
+      "picks": 213,
+      "correct": 122,
+      "accuracy": 57.28
     },
     "window": 20,
     "minGames": 10,
@@ -383,7 +383,7 @@
       },
       "Atlanta Braves": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 16.7
       },
       "Seattle Mariners": {
@@ -429,7 +429,7 @@
       "Washington Nationals": {
         "games": 30,
         "scored1stPct": 16.7,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 20.0
       },
       "Texas Rangers": {
         "games": 30,
