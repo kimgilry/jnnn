@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T06:30:54.730487+09:00",
+  "generatedAt": "2026-09-03T06:48:21.030193+09:00",
   "dateKST": "2026-09-03",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1551
+      "games": 1552
     }
   },
   "games": [
@@ -308,11 +308,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1551,
+    "rawGames": 1552,
     "evaluatedPicks": 421,
     "correct": 230,
     "accuracy": 54.63,
-    "coverage": 27.14,
+    "coverage": 27.13,
     "YRFI": {
       "picks": 208,
       "correct": 108,
@@ -408,8 +408,8 @@
       },
       "Philadelphia Phillies": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 33.3
+        "scored1stPct": 26.7,
+        "allowed1stPct": 30.0
       },
       "Baltimore Orioles": {
         "games": 30,
@@ -479,7 +479,7 @@
       "Arizona Diamondbacks": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 36.7
+        "allowed1stPct": 33.3
       },
       "American League All-Stars": {
         "games": 1,
