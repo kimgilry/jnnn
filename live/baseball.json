@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T04:47:43.762487+09:00",
+  "generatedAt": "2026-09-03T05:15:09.608853+09:00",
   "dateKST": "2026-09-03",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -161,9 +161,9 @@
       "homeLosses": 70,
       "awayWinPct": 0.6014,
       "homeWinPct": 0.4964,
-      "awayStarter": "",
+      "awayStarter": "Shane McClanahan",
       "homeStarter": "Cal Quantrill",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
