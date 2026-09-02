@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T06:13:42.637465+09:00",
+  "generatedAt": "2026-09-03T06:30:54.730487+09:00",
   "dateKST": "2026-09-03",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1550
+      "games": 1551
     }
   },
   "games": [
@@ -158,9 +158,9 @@
       "awayWins": 83,
       "awayLosses": 55,
       "homeWins": 69,
-      "homeLosses": 70,
+      "homeLosses": 71,
       "awayWinPct": 0.6014,
-      "homeWinPct": 0.4964,
+      "homeWinPct": 0.4929,
       "awayStarter": "Shane McClanahan",
       "homeStarter": "Cal Quantrill",
       "awayStarterStatus": "확인완료",
@@ -175,11 +175,11 @@
       "status": "경기전",
       "away": "Athletics",
       "home": "Seattle Mariners",
-      "awayWins": 53,
+      "awayWins": 54,
       "awayLosses": 86,
       "homeWins": 65,
       "homeLosses": 74,
-      "awayWinPct": 0.3813,
+      "awayWinPct": 0.3857,
       "homeWinPct": 0.4676,
       "awayStarter": "Jack Perkins",
       "homeStarter": "Kade Anderson",
@@ -308,11 +308,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1550,
+    "rawGames": 1551,
     "evaluatedPicks": 421,
     "correct": 230,
     "accuracy": 54.63,
-    "coverage": 27.16,
+    "coverage": 27.14,
     "YRFI": {
       "picks": 208,
       "correct": 108,
@@ -403,8 +403,8 @@
       },
       "Athletics": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 43.3
+        "scored1stPct": 26.7,
+        "allowed1stPct": 46.7
       },
       "Philadelphia Phillies": {
         "games": 30,
@@ -433,7 +433,7 @@
       },
       "Texas Rangers": {
         "games": 30,
-        "scored1stPct": 16.7,
+        "scored1stPct": 20.0,
         "allowed1stPct": 30.0
       },
       "New York Yankees": {
