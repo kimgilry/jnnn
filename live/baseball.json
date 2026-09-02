@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T10:12:37.365022+09:00",
+  "generatedAt": "2026-09-02T10:30:30.824354+09:00",
   "dateKST": "2026-09-02",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1548
+      "games": 1550
     }
   },
   "games": [
@@ -428,20 +428,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1548,
-    "evaluatedPicks": 415,
-    "correct": 227,
-    "accuracy": 54.7,
-    "coverage": 26.81,
+    "rawGames": 1550,
+    "evaluatedPicks": 416,
+    "correct": 228,
+    "accuracy": 54.81,
+    "coverage": 26.84,
     "YRFI": {
       "picks": 215,
       "correct": 113,
       "accuracy": 52.56
     },
     "NRFI": {
-      "picks": 200,
-      "correct": 114,
-      "accuracy": 57.0
+      "picks": 201,
+      "correct": 115,
+      "accuracy": 57.21
     },
     "window": 20,
     "minGames": 10,
@@ -499,7 +499,7 @@
       "Washington Nationals": {
         "games": 30,
         "scored1stPct": 16.7,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 23.3
       },
       "Texas Rangers": {
         "games": 30,
@@ -573,7 +573,7 @@
       },
       "San Diego Padres": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 30.0,
         "allowed1stPct": 16.7
       },
       "San Francisco Giants": {
