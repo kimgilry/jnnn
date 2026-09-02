@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T13:16:42.771038+09:00",
+  "generatedAt": "2026-09-02T13:33:52.310523+09:00",
   "dateKST": "2026-09-02",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1558
+      "games": 1559
     }
   },
   "games": [
@@ -115,12 +115,12 @@
       "status": "경기전",
       "away": "Philadelphia Phillies",
       "home": "Arizona Diamondbacks",
-      "awayWins": 78,
+      "awayWins": 79,
       "awayLosses": 60,
       "homeWins": 73,
-      "homeLosses": 66,
-      "awayWinPct": 0.5652,
-      "homeWinPct": 0.5252,
+      "homeLosses": 67,
+      "awayWinPct": 0.5683,
+      "homeWinPct": 0.5214,
       "awayStarter": "Andrew Painter",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -428,11 +428,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1558,
+    "rawGames": 1559,
     "evaluatedPicks": 420,
     "correct": 231,
     "accuracy": 55.0,
-    "coverage": 26.96,
+    "coverage": 26.94,
     "YRFI": {
       "picks": 218,
       "correct": 115,
@@ -478,7 +478,7 @@
       },
       "Philadelphia Phillies": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 30.0,
         "allowed1stPct": 33.3
       },
       "Baltimore Orioles": {
