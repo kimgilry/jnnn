@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T07:32:54.778721+09:00",
+  "generatedAt": "2026-09-03T07:48:39.344104+09:00",
   "dateKST": "2026-09-03",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1552
+      "games": 1553
     }
   },
   "games": [
@@ -98,9 +98,9 @@
       "awayWins": 75,
       "awayLosses": 64,
       "homeWins": 69,
-      "homeLosses": 70,
+      "homeLosses": 71,
       "awayWinPct": 0.5396,
-      "homeWinPct": 0.4964,
+      "homeWinPct": 0.4929,
       "awayStarter": "Jake Bennett",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -308,20 +308,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1552,
-    "evaluatedPicks": 421,
-    "correct": 230,
-    "accuracy": 54.63,
-    "coverage": 27.13,
+    "rawGames": 1553,
+    "evaluatedPicks": 422,
+    "correct": 231,
+    "accuracy": 54.74,
+    "coverage": 27.17,
     "YRFI": {
       "picks": 208,
       "correct": 108,
       "accuracy": 51.92
     },
     "NRFI": {
-      "picks": 213,
-      "correct": 122,
-      "accuracy": 57.28
+      "picks": 214,
+      "correct": 123,
+      "accuracy": 57.48
     },
     "window": 20,
     "minGames": 10,
@@ -413,8 +413,8 @@
       },
       "Baltimore Orioles": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 10.0
+        "scored1stPct": 26.7,
+        "allowed1stPct": 6.7
       },
       "Miami Marlins": {
         "games": 30,
@@ -468,7 +468,7 @@
       },
       "Colorado Rockies": {
         "games": 30,
-        "scored1stPct": 23.3,
+        "scored1stPct": 20.0,
         "allowed1stPct": 36.7
       },
       "Pittsburgh Pirates": {
