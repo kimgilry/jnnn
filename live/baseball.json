@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T13:33:52.310523+09:00",
+  "generatedAt": "2026-09-02T13:50:04.492401+09:00",
   "dateKST": "2026-09-02",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1559
+      "games": 1560
     }
   },
   "games": [
@@ -295,12 +295,12 @@
       "status": "경기전",
       "away": "New York Yankees",
       "home": "Los Angeles Angels",
-      "awayWins": 78,
+      "awayWins": 79,
       "awayLosses": 60,
       "homeWins": 53,
-      "homeLosses": 85,
-      "awayWinPct": 0.5652,
-      "homeWinPct": 0.3841,
+      "homeLosses": 86,
+      "awayWinPct": 0.5683,
+      "homeWinPct": 0.3813,
       "awayStarter": "Cam Schlittler",
       "homeStarter": "Reid Detmers",
       "awayStarterStatus": "확인완료",
@@ -428,20 +428,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1559,
-    "evaluatedPicks": 420,
+    "rawGames": 1560,
+    "evaluatedPicks": 421,
     "correct": 231,
-    "accuracy": 55.0,
-    "coverage": 26.94,
+    "accuracy": 54.87,
+    "coverage": 26.99,
     "YRFI": {
       "picks": 218,
       "correct": 115,
       "accuracy": 52.75
     },
     "NRFI": {
-      "picks": 202,
+      "picks": 203,
       "correct": 116,
-      "accuracy": 57.43
+      "accuracy": 57.14
     },
     "window": 20,
     "minGames": 10,
@@ -508,7 +508,7 @@
       },
       "New York Yankees": {
         "games": 30,
-        "scored1stPct": 3.3,
+        "scored1stPct": 6.7,
         "allowed1stPct": 23.3
       },
       "Cincinnati Reds": {
@@ -548,8 +548,8 @@
       },
       "Los Angeles Angels": {
         "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 10.0
+        "scored1stPct": 33.3,
+        "allowed1stPct": 13.3
       },
       "Pittsburgh Pirates": {
         "games": 30,
