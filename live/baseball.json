@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T13:50:04.492401+09:00",
+  "generatedAt": "2026-09-02T14:13:33.080772+09:00",
   "dateKST": "2026-09-02",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1560
+      "games": 1561
     }
   },
   "games": [
@@ -122,9 +122,9 @@
       "awayWinPct": 0.5683,
       "homeWinPct": 0.5214,
       "awayStarter": "Andrew Painter",
-      "homeStarter": "",
+      "homeStarter": "Taylor Clarke",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -315,12 +315,12 @@
       "status": "경기전",
       "away": "St. Louis Cardinals",
       "home": "Los Angeles Dodgers",
-      "awayWins": 68,
+      "awayWins": 69,
       "awayLosses": 70,
       "homeWins": 82,
-      "homeLosses": 55,
-      "awayWinPct": 0.4928,
-      "homeWinPct": 0.5985,
+      "homeLosses": 56,
+      "awayWinPct": 0.4964,
+      "homeWinPct": 0.5942,
       "awayStarter": "",
       "homeStarter": "Yoshinobu Yamamoto",
       "awayStarterStatus": "미확인",
@@ -428,11 +428,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1560,
+    "rawGames": 1561,
     "evaluatedPicks": 421,
     "correct": 231,
     "accuracy": 54.87,
-    "coverage": 26.99,
+    "coverage": 26.97,
     "YRFI": {
       "picks": 218,
       "correct": 115,
@@ -533,7 +533,7 @@
       },
       "Los Angeles Dodgers": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 23.3,
         "allowed1stPct": 40.0
       },
       "Houston Astros": {
