@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T00:54:52.135174+09:00",
+  "generatedAt": "2026-09-03T01:15:35.857653+09:00",
   "dateKST": "2026-09-03",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -181,9 +181,9 @@
       "homeLosses": 74,
       "awayWinPct": 0.3813,
       "homeWinPct": 0.4676,
-      "awayStarter": "",
+      "awayStarter": "Jack Perkins",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
     },
     {
