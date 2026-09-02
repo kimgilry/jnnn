@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T02:14:04.007631+09:00",
+  "generatedAt": "2026-09-03T02:30:11.910072+09:00",
   "dateKST": "2026-09-03",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -101,9 +101,9 @@
       "homeLosses": 70,
       "awayWinPct": 0.5396,
       "homeWinPct": 0.4964,
-      "awayStarter": "",
+      "awayStarter": "Jake Bennett",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
     },
     {
@@ -182,9 +182,9 @@
       "awayWinPct": 0.3813,
       "homeWinPct": 0.4676,
       "awayStarter": "Jack Perkins",
-      "homeStarter": "",
+      "homeStarter": "Kade Anderson",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
