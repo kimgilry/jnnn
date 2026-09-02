@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T04:29:03.072853+09:00",
+  "generatedAt": "2026-09-03T04:47:43.762487+09:00",
   "dateKST": "2026-09-03",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1548
+      "games": 1549
     }
   },
   "games": [
@@ -308,11 +308,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1548,
+    "rawGames": 1549,
     "evaluatedPicks": 420,
     "correct": 229,
     "accuracy": 54.52,
-    "coverage": 27.13,
+    "coverage": 27.11,
     "YRFI": {
       "picks": 208,
       "correct": 108,
@@ -444,7 +444,7 @@
       "Cincinnati Reds": {
         "games": 30,
         "scored1stPct": 20.0,
-        "allowed1stPct": 43.3
+        "allowed1stPct": 46.7
       },
       "Chicago Cubs": {
         "games": 30,
