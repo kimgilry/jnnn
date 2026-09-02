@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T10:59:20.154585+09:00",
+  "generatedAt": "2026-09-02T11:32:58.305724+09:00",
   "dateKST": "2026-09-02",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1550
+      "games": 1554
     }
   },
   "games": [
@@ -62,9 +62,9 @@
       "awayWinPct": 0.5899,
       "homeWinPct": 0.4752,
       "awayStarter": "Grant Holmes",
-      "homeStarter": "",
+      "homeStarter": "Brad Lord",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -135,12 +135,12 @@
       "status": "경기전",
       "away": "Seattle Mariners",
       "home": "Boston Red Sox",
-      "awayWins": 64,
+      "awayWins": 65,
       "awayLosses": 74,
       "homeWins": 75,
-      "homeLosses": 63,
-      "awayWinPct": 0.4638,
-      "homeWinPct": 0.5435,
+      "homeLosses": 64,
+      "awayWinPct": 0.4676,
+      "homeWinPct": 0.5396,
       "awayStarter": "Bryce Miller",
       "homeStarter": "Patrick Sandoval",
       "awayStarterStatus": "확인완료",
@@ -156,11 +156,11 @@
       "away": "San Francisco Giants",
       "home": "Pittsburgh Pirates",
       "awayWins": 57,
-      "awayLosses": 81,
-      "homeWins": 67,
+      "awayLosses": 82,
+      "homeWins": 68,
       "homeLosses": 71,
-      "awayWinPct": 0.413,
-      "homeWinPct": 0.4855,
+      "awayWinPct": 0.4101,
+      "homeWinPct": 0.4892,
       "awayStarter": "Landen Roupp",
       "homeStarter": "Jared Jones",
       "awayStarterStatus": "확인완료",
@@ -216,11 +216,11 @@
       "away": "Detroit Tigers",
       "home": "Minnesota Twins",
       "awayWins": 63,
-      "awayLosses": 74,
-      "homeWins": 66,
+      "awayLosses": 75,
+      "homeWins": 67,
       "homeLosses": 72,
-      "awayWinPct": 0.4599,
-      "homeWinPct": 0.4783,
+      "awayWinPct": 0.4565,
+      "homeWinPct": 0.482,
       "awayStarter": "Drew Anderson",
       "homeStarter": "Dean Kremer",
       "awayStarterStatus": "확인완료",
@@ -235,12 +235,12 @@
       "status": "경기전",
       "away": "Miami Marlins",
       "home": "Kansas City Royals",
-      "awayWins": 69,
+      "awayWins": 70,
       "awayLosses": 69,
       "homeWins": 62,
-      "homeLosses": 76,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.4493,
+      "homeLosses": 77,
+      "awayWinPct": 0.5036,
+      "homeWinPct": 0.446,
       "awayStarter": "Eury Pérez",
       "homeStarter": "Noah Cameron",
       "awayStarterStatus": "확인완료",
@@ -428,15 +428,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1550,
-    "evaluatedPicks": 416,
-    "correct": 228,
-    "accuracy": 54.81,
-    "coverage": 26.84,
+    "rawGames": 1554,
+    "evaluatedPicks": 418,
+    "correct": 230,
+    "accuracy": 55.02,
+    "coverage": 26.9,
     "YRFI": {
-      "picks": 215,
-      "correct": 113,
-      "accuracy": 52.56
+      "picks": 217,
+      "correct": 115,
+      "accuracy": 53.0
     },
     "NRFI": {
       "picks": 201,
@@ -453,13 +453,13 @@
     "teamRatesLast30": {
       "Boston Red Sox": {
         "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 20.0
+        "scored1stPct": 36.7,
+        "allowed1stPct": 23.3
       },
       "Detroit Tigers": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 30.0
       },
       "Toronto Blue Jays": {
         "games": 30,
@@ -493,8 +493,8 @@
       },
       "Minnesota Twins": {
         "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 43.3
+        "scored1stPct": 40.0,
+        "allowed1stPct": 46.7
       },
       "Washington Nationals": {
         "games": 30,
@@ -553,7 +553,7 @@
       },
       "Pittsburgh Pirates": {
         "games": 30,
-        "scored1stPct": 23.3,
+        "scored1stPct": 26.7,
         "allowed1stPct": 26.7
       },
       "Arizona Diamondbacks": {
@@ -568,7 +568,7 @@
       },
       "Seattle Mariners": {
         "games": 30,
-        "scored1stPct": 43.3,
+        "scored1stPct": 46.7,
         "allowed1stPct": 43.3
       },
       "San Diego Padres": {
@@ -578,8 +578,8 @@
       },
       "San Francisco Giants": {
         "games": 30,
-        "scored1stPct": 40.0,
-        "allowed1stPct": 30.0
+        "scored1stPct": 36.7,
+        "allowed1stPct": 33.3
       },
       "Milwaukee Brewers": {
         "games": 30,
