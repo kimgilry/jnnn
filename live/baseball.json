@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T12:49:05.259976+09:00",
+  "generatedAt": "2026-09-02T13:16:42.771038+09:00",
   "dateKST": "2026-09-02",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -281,9 +281,9 @@
       "homeLosses": 69,
       "awayWinPct": 0.529,
       "homeWinPct": 0.5036,
-      "awayStarter": "",
+      "awayStarter": "Davis Martin",
       "homeStarter": "Hayden Wesneski",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
