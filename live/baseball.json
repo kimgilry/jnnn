@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T10:13:12.032085+09:00",
+  "generatedAt": "2026-09-03T10:33:27.082142+09:00",
   "dateKST": "2026-09-03",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1554
+      "games": 1556
     }
   },
   "games": [
@@ -55,12 +55,12 @@
       "status": "경기전",
       "away": "Toronto Blue Jays",
       "home": "Cleveland Guardians",
-      "awayWins": 68,
+      "awayWins": 69,
       "awayLosses": 71,
       "homeWins": 70,
-      "homeLosses": 68,
-      "awayWinPct": 0.4892,
-      "homeWinPct": 0.5072,
+      "homeLosses": 69,
+      "awayWinPct": 0.4929,
+      "homeWinPct": 0.5036,
       "awayStarter": "José Soriano",
       "homeStarter": "Tanner Bibee",
       "awayStarterStatus": "확인완료",
@@ -102,9 +102,9 @@
       "awayWinPct": 0.5357,
       "homeWinPct": 0.4929,
       "awayStarter": "Jake Bennett",
-      "homeStarter": "",
+      "homeStarter": "Brandon Young",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -156,10 +156,10 @@
       "away": "Tampa Bay Rays",
       "home": "Texas Rangers",
       "awayWins": 83,
-      "awayLosses": 55,
+      "awayLosses": 56,
       "homeWins": 69,
       "homeLosses": 71,
-      "awayWinPct": 0.6014,
+      "awayWinPct": 0.5971,
       "homeWinPct": 0.4929,
       "awayStarter": "Shane McClanahan",
       "homeStarter": "Cal Quantrill",
@@ -308,11 +308,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1554,
+    "rawGames": 1556,
     "evaluatedPicks": 423,
     "correct": 231,
     "accuracy": 54.61,
-    "coverage": 27.22,
+    "coverage": 27.19,
     "YRFI": {
       "picks": 209,
       "correct": 108,
@@ -333,7 +333,7 @@
     "teamRatesLast30": {
       "Toronto Blue Jays": {
         "games": 30,
-        "scored1stPct": 23.3,
+        "scored1stPct": 26.7,
         "allowed1stPct": 16.7
       },
       "Tampa Bay Rays": {
@@ -463,7 +463,7 @@
       },
       "New York Mets": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 33.3,
         "allowed1stPct": 30.0
       },
       "Colorado Rockies": {
