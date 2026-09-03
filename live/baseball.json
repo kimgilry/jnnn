@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T15:53:00.481786+09:00",
+  "generatedAt": "2026-09-03T16:15:40.126714+09:00",
   "dateKST": "2026-09-03",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -10,7 +10,7 @@
     },
     "KBO": {
       "ok": true,
-      "games": 5
+      "games": 4
     },
     "NPB": {
       "ok": true,
@@ -255,26 +255,6 @@
       "status": "경기전",
       "away": "KT",
       "home": "HANWHA",
-      "awayWins": null,
-      "awayLosses": null,
-      "homeWins": null,
-      "homeLosses": null,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
-    },
-    {
-      "source": "KBO Official",
-      "league": "KBO",
-      "gamePk": "18:30|NC|KIA",
-      "timeKST": "18:30",
-      "startISO": "",
-      "status": "경기전",
-      "away": "NC",
-      "home": "KIA",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
