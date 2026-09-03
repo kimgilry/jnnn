@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T05:48:09.060325+09:00",
+  "generatedAt": "2026-09-04T06:14:22.979897+09:00",
   "dateKST": "2026-09-04",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -42,9 +42,9 @@
       "awayWinPct": 0.4604,
       "homeWinPct": 0.5,
       "awayStarter": "Keider Montero",
-      "homeStarter": "",
+      "homeStarter": "Logan Allen",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -62,9 +62,9 @@
       "awayWinPct": 0.4604,
       "homeWinPct": 0.5,
       "awayStarter": "Andrew Sears",
-      "homeStarter": "",
+      "homeStarter": "Foster Griffin",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -182,9 +182,9 @@
       "awayWinPct": 0.5571,
       "homeWinPct": 0.5071,
       "awayStarter": "Shota Imanaga",
-      "homeStarter": "",
+      "homeStarter": "Janson Junk",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
