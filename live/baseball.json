@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T00:50:05.636001+09:00",
+  "generatedAt": "2026-09-04T01:15:47.447748+09:00",
   "dateKST": "2026-09-04",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -161,9 +161,9 @@
       "homeLosses": 77,
       "awayWinPct": 0.4143,
       "homeWinPct": 0.45,
-      "awayStarter": "",
+      "awayStarter": "Matt Wilkinson",
       "homeStarter": "Nolan McLean",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
