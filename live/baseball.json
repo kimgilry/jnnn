@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T10:50:14.151565+09:00",
+  "generatedAt": "2026-09-03T11:18:39.446532+09:00",
   "dateKST": "2026-09-03",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -42,9 +42,9 @@
       "awayWinPct": 0.4143,
       "homeWinPct": 0.4857,
       "awayStarter": "Blade Tidwell",
-      "homeStarter": "",
+      "homeStarter": "Lake Bachar",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
