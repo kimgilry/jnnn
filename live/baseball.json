@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T02:50:22.317821+09:00",
+  "generatedAt": "2026-09-04T03:17:30.673903+09:00",
   "dateKST": "2026-09-04",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -81,9 +81,9 @@
       "homeLosses": 73,
       "awayWinPct": 0.6214,
       "homeWinPct": 0.4786,
-      "awayStarter": "",
+      "awayStarter": "Shane Drohan",
       "homeStarter": "Rhett Lowder",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
