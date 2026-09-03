@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T05:14:22.183404+09:00",
+  "generatedAt": "2026-09-04T05:31:55.469192+09:00",
   "dateKST": "2026-09-04",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -262,9 +262,9 @@
       "awayWinPct": 0.4929,
       "homeWinPct": 0.4429,
       "awayStarter": "Jameson Taillon",
-      "homeStarter": "",
+      "homeStarter": "Daniel Lynch IV",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
