@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T11:18:39.446532+09:00",
+  "generatedAt": "2026-09-03T14:15:17.783568+09:00",
   "dateKST": "2026-09-03",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1557
+      "games": 1563
     }
   },
   "games": [
@@ -76,11 +76,11 @@
       "away": "Chicago White Sox",
       "home": "Houston Astros",
       "awayWins": 73,
-      "awayLosses": 65,
-      "homeWins": 70,
+      "awayLosses": 66,
+      "homeWins": 71,
       "homeLosses": 69,
-      "awayWinPct": 0.529,
-      "homeWinPct": 0.5036,
+      "awayWinPct": 0.5252,
+      "homeWinPct": 0.5071,
       "awayStarter": "Luis Castillo",
       "homeStarter": "Hunter Brown",
       "awayStarterStatus": "확인완료",
@@ -115,12 +115,12 @@
       "status": "경기전",
       "away": "Milwaukee Brewers",
       "home": "Chicago Cubs",
-      "awayWins": 86,
+      "awayWins": 87,
       "awayLosses": 53,
       "homeWins": 78,
-      "homeLosses": 61,
-      "awayWinPct": 0.6187,
-      "homeWinPct": 0.5612,
+      "homeLosses": 62,
+      "awayWinPct": 0.6214,
+      "homeWinPct": 0.5571,
       "awayStarter": "Logan Henderson",
       "homeStarter": "Kevin Gausman",
       "awayStarterStatus": "확인완료",
@@ -135,12 +135,12 @@
       "status": "경기전",
       "away": "Miami Marlins",
       "home": "Kansas City Royals",
-      "awayWins": 70,
+      "awayWins": 71,
       "awayLosses": 69,
       "homeWins": 62,
-      "homeLosses": 77,
-      "awayWinPct": 0.5036,
-      "homeWinPct": 0.446,
+      "homeLosses": 78,
+      "awayWinPct": 0.5071,
+      "homeWinPct": 0.4429,
       "awayStarter": "Sandy Alcantara",
       "homeStarter": "Michael Wacha",
       "awayStarterStatus": "확인완료",
@@ -195,12 +195,12 @@
       "status": "경기전",
       "away": "St. Louis Cardinals",
       "home": "Los Angeles Dodgers",
-      "awayWins": 69,
+      "awayWins": 70,
       "awayLosses": 70,
       "homeWins": 82,
-      "homeLosses": 56,
-      "awayWinPct": 0.4964,
-      "homeWinPct": 0.5942,
+      "homeLosses": 57,
+      "awayWinPct": 0.5,
+      "homeWinPct": 0.5899,
       "awayStarter": "Quinn Mathews",
       "homeStarter": "Tarik Skubal",
       "awayStarterStatus": "확인완료",
@@ -308,20 +308,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1557,
-    "evaluatedPicks": 423,
-    "correct": 231,
-    "accuracy": 54.61,
-    "coverage": 27.17,
+    "rawGames": 1563,
+    "evaluatedPicks": 427,
+    "correct": 232,
+    "accuracy": 54.33,
+    "coverage": 27.32,
     "YRFI": {
-      "picks": 209,
+      "picks": 211,
       "correct": 108,
-      "accuracy": 51.67
+      "accuracy": 51.18
     },
     "NRFI": {
-      "picks": 214,
-      "correct": 123,
-      "accuracy": 57.48
+      "picks": 216,
+      "correct": 124,
+      "accuracy": 57.41
     },
     "window": 20,
     "minGames": 10,
@@ -343,13 +343,13 @@
       },
       "Milwaukee Brewers": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 36.7,
         "allowed1stPct": 16.7
       },
       "St. Louis Cardinals": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 20.0
+        "allowed1stPct": 23.3
       },
       "Los Angeles Dodgers": {
         "games": 30,
@@ -359,7 +359,7 @@
       "Houston Astros": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 30.0
+        "allowed1stPct": 26.7
       },
       "San Diego Padres": {
         "games": 30,
@@ -373,7 +373,7 @@
       },
       "Chicago White Sox": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 30.0,
         "allowed1stPct": 43.3
       },
       "Los Angeles Angels": {
@@ -418,8 +418,8 @@
       },
       "Miami Marlins": {
         "games": 30,
-        "scored1stPct": 16.7,
-        "allowed1stPct": 10.0
+        "scored1stPct": 20.0,
+        "allowed1stPct": 13.3
       },
       "Minnesota Twins": {
         "games": 30,
@@ -448,8 +448,8 @@
       },
       "Chicago Cubs": {
         "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 33.3
+        "scored1stPct": 40.0,
+        "allowed1stPct": 36.7
       },
       "Cleveland Guardians": {
         "games": 30,
@@ -458,8 +458,8 @@
       },
       "Kansas City Royals": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 30.0
+        "scored1stPct": 33.3,
+        "allowed1stPct": 33.3
       },
       "New York Mets": {
         "games": 30,
