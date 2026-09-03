@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T05:31:55.469192+09:00",
+  "generatedAt": "2026-09-04T05:48:09.060325+09:00",
   "dateKST": "2026-09-04",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1549
+      "games": 1551
     }
   },
   "games": [
@@ -38,9 +38,9 @@
       "awayWins": 64,
       "awayLosses": 75,
       "homeWins": 70,
-      "homeLosses": 69,
+      "homeLosses": 70,
       "awayWinPct": 0.4604,
-      "homeWinPct": 0.5036,
+      "homeWinPct": 0.5,
       "awayStarter": "Keider Montero",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -58,9 +58,9 @@
       "awayWins": 64,
       "awayLosses": 75,
       "homeWins": 70,
-      "homeLosses": 69,
+      "homeLosses": 70,
       "awayWinPct": 0.4604,
-      "homeWinPct": 0.5036,
+      "homeWinPct": 0.5,
       "awayStarter": "Andrew Sears",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -198,9 +198,9 @@
       "awayWins": 67,
       "awayLosses": 73,
       "homeWins": 73,
-      "homeLosses": 66,
+      "homeLosses": 67,
       "awayWinPct": 0.4786,
-      "homeWinPct": 0.5252,
+      "homeWinPct": 0.5214,
       "awayStarter": "Zebby Matthews",
       "homeStarter": "Erick Fedde",
       "awayStarterStatus": "확인완료",
@@ -237,10 +237,10 @@
       "home": "Houston Astros",
       "awayWins": 74,
       "awayLosses": 67,
-      "homeWins": 71,
+      "homeWins": 72,
       "homeLosses": 69,
       "awayWinPct": 0.5248,
-      "homeWinPct": 0.5071,
+      "homeWinPct": 0.5106,
       "awayStarter": "Merrill Kelly",
       "homeStarter": "Cristian Javier",
       "awayStarterStatus": "확인완료",
@@ -255,11 +255,11 @@
       "status": "경기전",
       "away": "Toronto Blue Jays",
       "home": "Kansas City Royals",
-      "awayWins": 69,
+      "awayWins": 70,
       "awayLosses": 71,
       "homeWins": 62,
       "homeLosses": 78,
-      "awayWinPct": 0.4929,
+      "awayWinPct": 0.4965,
       "homeWinPct": 0.4429,
       "awayStarter": "Jameson Taillon",
       "homeStarter": "Daniel Lynch IV",
@@ -448,15 +448,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1549,
-    "evaluatedPicks": 423,
-    "correct": 229,
-    "accuracy": 54.14,
-    "coverage": 27.31,
+    "rawGames": 1551,
+    "evaluatedPicks": 424,
+    "correct": 230,
+    "accuracy": 54.25,
+    "coverage": 27.34,
     "YRFI": {
-      "picks": 212,
-      "correct": 110,
-      "accuracy": 51.89
+      "picks": 213,
+      "correct": 111,
+      "accuracy": 52.11
     },
     "NRFI": {
       "picks": 211,
@@ -573,7 +573,7 @@
       },
       "Houston Astros": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 30.0,
         "allowed1stPct": 26.7
       },
       "Los Angeles Angels": {
@@ -599,7 +599,7 @@
       "Chicago White Sox": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 43.3
+        "allowed1stPct": 46.7
       },
       "Milwaukee Brewers": {
         "games": 30,
