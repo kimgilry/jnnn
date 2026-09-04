@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T10:49:17.258191+09:00",
+  "generatedAt": "2026-09-04T11:14:36.033272+09:00",
   "dateKST": "2026-09-04",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1552
+      "games": 1553
     }
   },
   "games": [
@@ -135,12 +135,12 @@
       "status": "경기전",
       "away": "Boston Red Sox",
       "home": "Baltimore Orioles",
-      "awayWins": 75,
+      "awayWins": 76,
       "awayLosses": 65,
       "homeWins": 69,
-      "homeLosses": 71,
-      "awayWinPct": 0.5357,
-      "homeWinPct": 0.4929,
+      "homeLosses": 72,
+      "awayWinPct": 0.539,
+      "homeWinPct": 0.4894,
       "awayStarter": "Ranger Suarez",
       "homeStarter": "Shane Baz",
       "awayStarterStatus": "확인완료",
@@ -448,11 +448,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1552,
+    "rawGames": 1553,
     "evaluatedPicks": 424,
     "correct": 230,
     "accuracy": 54.25,
-    "coverage": 27.32,
+    "coverage": 27.3,
     "YRFI": {
       "picks": 213,
       "correct": 111,
@@ -543,8 +543,8 @@
       },
       "Baltimore Orioles": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 6.7
+        "scored1stPct": 30.0,
+        "allowed1stPct": 10.0
       },
       "Miami Marlins": {
         "games": 30,
@@ -559,7 +559,7 @@
       "Boston Red Sox": {
         "games": 30,
         "scored1stPct": 33.3,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 26.7
       },
       "St. Louis Cardinals": {
         "games": 30,
