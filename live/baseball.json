@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T12:14:37.463580+09:00",
+  "generatedAt": "2026-09-04T12:31:57.382536+09:00",
   "dateKST": "2026-09-04",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -222,7 +222,7 @@
       "awayWinPct": 0.5929,
       "homeWinPct": 0.4965,
       "awayStarter": "Nick Martinez",
-      "homeStarter": "Kumar Rocker",
+      "homeStarter": "Trevor Williams",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
