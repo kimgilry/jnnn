@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T13:49:26.954381+09:00",
+  "generatedAt": "2026-09-04T14:14:07.419438+09:00",
   "dateKST": "2026-09-04",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1555
+      "games": 1557
     }
   },
   "games": [
@@ -276,10 +276,10 @@
       "away": "St. Louis Cardinals",
       "home": "Colorado Rockies",
       "awayWins": 70,
-      "awayLosses": 70,
+      "awayLosses": 71,
       "homeWins": 54,
       "homeLosses": 86,
-      "awayWinPct": 0.5,
+      "awayWinPct": 0.4965,
       "homeWinPct": 0.3857,
       "awayStarter": "Andre Pallante",
       "homeStarter": "Ryan Feltner",
@@ -317,10 +317,10 @@
       "home": "Los Angeles Dodgers",
       "awayWins": 67,
       "awayLosses": 75,
-      "homeWins": 82,
+      "homeWins": 83,
       "homeLosses": 57,
       "awayWinPct": 0.4718,
-      "homeWinPct": 0.5899,
+      "homeWinPct": 0.5929,
       "awayStarter": "Jackson Kent",
       "homeStarter": "Blake Snell",
       "awayStarterStatus": "확인완료",
@@ -335,12 +335,12 @@
       "status": "경기전",
       "away": "Athletics",
       "home": "Seattle Mariners",
-      "awayWins": 54,
+      "awayWins": 55,
       "awayLosses": 86,
       "homeWins": 66,
-      "homeLosses": 74,
-      "awayWinPct": 0.3857,
-      "homeWinPct": 0.4714,
+      "homeLosses": 75,
+      "awayWinPct": 0.3901,
+      "homeWinPct": 0.4681,
       "awayStarter": "",
       "homeStarter": "Logan Gilbert",
       "awayStarterStatus": "미확인",
@@ -448,15 +448,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1555,
-    "evaluatedPicks": 425,
-    "correct": 231,
-    "accuracy": 54.35,
-    "coverage": 27.33,
+    "rawGames": 1557,
+    "evaluatedPicks": 426,
+    "correct": 232,
+    "accuracy": 54.46,
+    "coverage": 27.36,
     "YRFI": {
-      "picks": 213,
-      "correct": 111,
-      "accuracy": 52.11
+      "picks": 214,
+      "correct": 112,
+      "accuracy": 52.34
     },
     "NRFI": {
       "picks": 212,
@@ -533,7 +533,7 @@
       },
       "Athletics": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 30.0,
         "allowed1stPct": 46.7
       },
       "Philadelphia Phillies": {
@@ -563,7 +563,7 @@
       },
       "St. Louis Cardinals": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 33.3,
         "allowed1stPct": 23.3
       },
       "San Diego Padres": {
@@ -594,7 +594,7 @@
       "Seattle Mariners": {
         "games": 30,
         "scored1stPct": 46.7,
-        "allowed1stPct": 40.0
+        "allowed1stPct": 43.3
       },
       "Chicago White Sox": {
         "games": 30,
@@ -614,7 +614,7 @@
       "Los Angeles Dodgers": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 40.0
+        "allowed1stPct": 43.3
       },
       "San Francisco Giants": {
         "games": 30,
