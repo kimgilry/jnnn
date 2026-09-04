@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T11:14:36.033272+09:00",
+  "generatedAt": "2026-09-04T11:31:30.764294+09:00",
   "dateKST": "2026-09-04",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1553
+      "games": 1555
     }
   },
   "games": [
@@ -178,9 +178,9 @@
       "awayWins": 79,
       "awayLosses": 62,
       "homeWins": 71,
-      "homeLosses": 69,
+      "homeLosses": 70,
       "awayWinPct": 0.5603,
-      "homeWinPct": 0.5071,
+      "homeWinPct": 0.5035,
       "awayStarter": "Shota Imanaga",
       "homeStarter": "Janson Junk",
       "awayStarterStatus": "확인완료",
@@ -216,11 +216,11 @@
       "away": "Tampa Bay Rays",
       "home": "Texas Rangers",
       "awayWins": 83,
-      "awayLosses": 56,
-      "homeWins": 69,
+      "awayLosses": 57,
+      "homeWins": 70,
       "homeLosses": 71,
-      "awayWinPct": 0.5971,
-      "homeWinPct": 0.4929,
+      "awayWinPct": 0.5929,
+      "homeWinPct": 0.4965,
       "awayStarter": "Nick Martinez",
       "homeStarter": "Kumar Rocker",
       "awayStarterStatus": "확인완료",
@@ -257,10 +257,10 @@
       "home": "Kansas City Royals",
       "awayWins": 70,
       "awayLosses": 71,
-      "homeWins": 62,
+      "homeWins": 63,
       "homeLosses": 78,
       "awayWinPct": 0.4965,
-      "homeWinPct": 0.4429,
+      "homeWinPct": 0.4468,
       "awayStarter": "Jameson Taillon",
       "homeStarter": "Daniel Lynch IV",
       "awayStarterStatus": "확인완료",
@@ -448,20 +448,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1553,
-    "evaluatedPicks": 424,
-    "correct": 230,
-    "accuracy": 54.25,
-    "coverage": 27.3,
+    "rawGames": 1555,
+    "evaluatedPicks": 425,
+    "correct": 231,
+    "accuracy": 54.35,
+    "coverage": 27.33,
     "YRFI": {
       "picks": 213,
       "correct": 111,
       "accuracy": 52.11
     },
     "NRFI": {
-      "picks": 211,
-      "correct": 119,
-      "accuracy": 56.4
+      "picks": 212,
+      "correct": 120,
+      "accuracy": 56.6
     },
     "window": 20,
     "minGames": 10,
@@ -548,7 +548,7 @@
       },
       "Miami Marlins": {
         "games": 30,
-        "scored1stPct": 20.0,
+        "scored1stPct": 23.3,
         "allowed1stPct": 13.3
       },
       "Tampa Bay Rays": {
