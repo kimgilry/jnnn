@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T07:29:04.665320+09:00",
+  "generatedAt": "2026-09-06T07:47:47.819342+09:00",
   "dateKST": "2026-09-06",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1548
+      "games": 1549
     }
   },
   "games": [
@@ -135,12 +135,12 @@
       "status": "경기전",
       "away": "San Francisco Giants",
       "home": "New York Mets",
-      "awayWins": 58,
+      "awayWins": 59,
       "awayLosses": 84,
       "homeWins": 64,
-      "homeLosses": 77,
-      "awayWinPct": 0.4085,
-      "homeWinPct": 0.4539,
+      "homeLosses": 78,
+      "awayWinPct": 0.4126,
+      "homeWinPct": 0.4507,
       "awayStarter": "Cesar Perdomo",
       "homeStarter": "Christian Scott",
       "awayStarterStatus": "확인완료",
@@ -428,15 +428,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1548,
-    "evaluatedPicks": 423,
-    "correct": 235,
-    "accuracy": 55.56,
-    "coverage": 27.33,
+    "rawGames": 1549,
+    "evaluatedPicks": 424,
+    "correct": 236,
+    "accuracy": 55.66,
+    "coverage": 27.37,
     "YRFI": {
-      "picks": 217,
-      "correct": 114,
-      "accuracy": 52.53
+      "picks": 218,
+      "correct": 115,
+      "accuracy": 52.75
     },
     "NRFI": {
       "picks": 206,
@@ -578,7 +578,7 @@
       },
       "San Francisco Giants": {
         "games": 30,
-        "scored1stPct": 40.0,
+        "scored1stPct": 43.3,
         "allowed1stPct": 33.3
       },
       "Atlanta Braves": {
