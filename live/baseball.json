@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T10:48:34.694449+09:00",
+  "generatedAt": "2026-09-05T11:14:14.215656+09:00",
   "dateKST": "2026-09-05",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1551
+      "games": 1554
     }
   },
   "games": [
@@ -36,11 +36,11 @@
       "away": "San Francisco Giants",
       "home": "New York Mets",
       "awayWins": 58,
-      "awayLosses": 83,
-      "homeWins": 63,
+      "awayLosses": 84,
+      "homeWins": 64,
       "homeLosses": 77,
-      "awayWinPct": 0.4113,
-      "homeWinPct": 0.45,
+      "awayWinPct": 0.4085,
+      "homeWinPct": 0.4539,
       "awayStarter": "Anthony Molina",
       "homeStarter": "Zac Thornton",
       "awayStarterStatus": "확인완료",
@@ -55,12 +55,12 @@
       "status": "경기전",
       "away": "Chicago Cubs",
       "home": "Miami Marlins",
-      "awayWins": 79,
+      "awayWins": 80,
       "awayLosses": 62,
       "homeWins": 71,
-      "homeLosses": 70,
-      "awayWinPct": 0.5603,
-      "homeWinPct": 0.5035,
+      "homeLosses": 71,
+      "awayWinPct": 0.5634,
+      "homeWinPct": 0.5,
       "awayStarter": "",
       "homeStarter": "Ryan Gusto",
       "awayStarterStatus": "미확인",
@@ -216,11 +216,11 @@
       "away": "Minnesota Twins",
       "home": "Chicago White Sox",
       "awayWins": 67,
-      "awayLosses": 73,
-      "homeWins": 73,
+      "awayLosses": 74,
+      "homeWins": 74,
       "homeLosses": 67,
-      "awayWinPct": 0.4786,
-      "homeWinPct": 0.5214,
+      "awayWinPct": 0.4752,
+      "homeWinPct": 0.5248,
       "awayStarter": "Taj Bradley",
       "homeStarter": "Anthony Kay",
       "awayStarterStatus": "확인완료",
@@ -428,15 +428,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1551,
-    "evaluatedPicks": 433,
-    "correct": 236,
-    "accuracy": 54.5,
-    "coverage": 27.92,
+    "rawGames": 1554,
+    "evaluatedPicks": 434,
+    "correct": 237,
+    "accuracy": 54.61,
+    "coverage": 27.93,
     "YRFI": {
-      "picks": 213,
-      "correct": 111,
-      "accuracy": 52.11
+      "picks": 214,
+      "correct": 112,
+      "accuracy": 52.34
     },
     "NRFI": {
       "picks": 220,
@@ -508,7 +508,7 @@
       },
       "Miami Marlins": {
         "games": 30,
-        "scored1stPct": 23.3,
+        "scored1stPct": 20.0,
         "allowed1stPct": 13.3
       },
       "Minnesota Twins": {
@@ -563,7 +563,7 @@
       },
       "New York Mets": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 36.7,
         "allowed1stPct": 30.0
       },
       "Arizona Diamondbacks": {
@@ -599,7 +599,7 @@
       "San Francisco Giants": {
         "games": 30,
         "scored1stPct": 40.0,
-        "allowed1stPct": 30.0
+        "allowed1stPct": 33.3
       },
       "American League All-Stars": {
         "games": 1,
