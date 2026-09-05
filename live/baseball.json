@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T10:29:34.806799+09:00",
+  "generatedAt": "2026-09-05T10:48:34.694449+09:00",
   "dateKST": "2026-09-05",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1549
+      "games": 1551
     }
   },
   "games": [
@@ -116,11 +116,11 @@
       "away": "Los Angeles Angels",
       "home": "Pittsburgh Pirates",
       "awayWins": 53,
-      "awayLosses": 87,
-      "homeWins": 69,
+      "awayLosses": 88,
+      "homeWins": 70,
       "homeLosses": 72,
-      "awayWinPct": 0.3786,
-      "homeWinPct": 0.4894,
+      "awayWinPct": 0.3759,
+      "homeWinPct": 0.493,
       "awayStarter": "Yusei Kikuchi",
       "homeStarter": "Braxton Ashcraft",
       "awayStarterStatus": "확인완료",
@@ -155,12 +155,12 @@
       "status": "경기전",
       "away": "Boston Red Sox",
       "home": "Baltimore Orioles",
-      "awayWins": 76,
+      "awayWins": 77,
       "awayLosses": 65,
       "homeWins": 69,
-      "homeLosses": 72,
-      "awayWinPct": 0.539,
-      "homeWinPct": 0.4894,
+      "homeLosses": 73,
+      "awayWinPct": 0.5423,
+      "homeWinPct": 0.4859,
       "awayStarter": "Sonny Gray",
       "homeStarter": "Chris Bassitt",
       "awayStarterStatus": "확인완료",
@@ -428,20 +428,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1549,
-    "evaluatedPicks": 432,
-    "correct": 235,
-    "accuracy": 54.4,
-    "coverage": 27.89,
+    "rawGames": 1551,
+    "evaluatedPicks": 433,
+    "correct": 236,
+    "accuracy": 54.5,
+    "coverage": 27.92,
     "YRFI": {
       "picks": 213,
       "correct": 111,
       "accuracy": 52.11
     },
     "NRFI": {
-      "picks": 219,
-      "correct": 124,
-      "accuracy": 56.62
+      "picks": 220,
+      "correct": 125,
+      "accuracy": 56.82
     },
     "window": 20,
     "minGames": 10,
@@ -479,11 +479,11 @@
       "Baltimore Orioles": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 10.0
+        "allowed1stPct": 13.3
       },
       "Los Angeles Angels": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 30.0,
         "allowed1stPct": 13.3
       },
       "Toronto Blue Jays": {
