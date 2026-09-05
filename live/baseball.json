@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T11:48:46.293018+09:00",
+  "generatedAt": "2026-09-05T12:14:18.911859+09:00",
   "dateKST": "2026-09-05",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1558
+      "games": 1559
     }
   },
   "games": [
@@ -175,12 +175,12 @@
       "status": "경기전",
       "away": "Tampa Bay Rays",
       "home": "Texas Rangers",
-      "awayWins": 83,
+      "awayWins": 84,
       "awayLosses": 57,
       "homeWins": 70,
-      "homeLosses": 71,
-      "awayWinPct": 0.5929,
-      "homeWinPct": 0.4965,
+      "homeLosses": 72,
+      "awayWinPct": 0.5957,
+      "homeWinPct": 0.493,
       "awayStarter": "Drew Rasmussen",
       "homeStarter": "Jacob deGrom",
       "awayStarterStatus": "확인완료",
@@ -428,20 +428,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1558,
-    "evaluatedPicks": 434,
-    "correct": 237,
-    "accuracy": 54.61,
-    "coverage": 27.86,
+    "rawGames": 1559,
+    "evaluatedPicks": 435,
+    "correct": 238,
+    "accuracy": 54.71,
+    "coverage": 27.9,
     "YRFI": {
       "picks": 214,
       "correct": 112,
       "accuracy": 52.34
     },
     "NRFI": {
-      "picks": 220,
-      "correct": 125,
-      "accuracy": 56.82
+      "picks": 221,
+      "correct": 126,
+      "accuracy": 57.01
     },
     "window": 20,
     "minGames": 10,
@@ -494,7 +494,7 @@
       "Tampa Bay Rays": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 23.3
       },
       "Boston Red Sox": {
         "games": 30,
