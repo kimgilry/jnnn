@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T13:47:58.495422+09:00",
+  "generatedAt": "2026-09-05T14:12:56.645605+09:00",
   "dateKST": "2026-09-05",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1561
+      "games": 1563
     }
   },
   "games": [
@@ -296,11 +296,11 @@
       "away": "Washington Nationals",
       "home": "Los Angeles Dodgers",
       "awayWins": 67,
-      "awayLosses": 75,
-      "homeWins": 83,
+      "awayLosses": 76,
+      "homeWins": 84,
       "homeLosses": 57,
-      "awayWinPct": 0.4718,
-      "homeWinPct": 0.5929,
+      "awayWinPct": 0.4685,
+      "homeWinPct": 0.5957,
       "awayStarter": "Cade Cavalli",
       "homeStarter": "Tyler Glasnow",
       "awayStarterStatus": "확인완료",
@@ -315,12 +315,12 @@
       "status": "경기전",
       "away": "Athletics",
       "home": "Seattle Mariners",
-      "awayWins": 55,
+      "awayWins": 56,
       "awayLosses": 86,
       "homeWins": 66,
-      "homeLosses": 75,
-      "awayWinPct": 0.3901,
-      "homeWinPct": 0.4681,
+      "homeLosses": 76,
+      "awayWinPct": 0.3944,
+      "homeWinPct": 0.4648,
       "awayStarter": "Jeffrey Springs",
       "homeStarter": "George Kirby",
       "awayStarterStatus": "확인완료",
@@ -428,20 +428,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1561,
-    "evaluatedPicks": 436,
-    "correct": 239,
-    "accuracy": 54.82,
-    "coverage": 27.93,
+    "rawGames": 1563,
+    "evaluatedPicks": 438,
+    "correct": 240,
+    "accuracy": 54.79,
+    "coverage": 28.02,
     "YRFI": {
-      "picks": 214,
+      "picks": 215,
       "correct": 112,
-      "accuracy": 52.34
+      "accuracy": 52.09
     },
     "NRFI": {
-      "picks": 222,
-      "correct": 127,
-      "accuracy": 57.21
+      "picks": 223,
+      "correct": 128,
+      "accuracy": 57.4
     },
     "window": 20,
     "minGames": 10,
@@ -474,7 +474,7 @@
       "Athletics": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 46.7
+        "allowed1stPct": 43.3
       },
       "Baltimore Orioles": {
         "games": 30,
@@ -533,7 +533,7 @@
       },
       "Seattle Mariners": {
         "games": 30,
-        "scored1stPct": 46.7,
+        "scored1stPct": 43.3,
         "allowed1stPct": 43.3
       },
       "Chicago White Sox": {
@@ -589,7 +589,7 @@
       "Los Angeles Dodgers": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 43.3
+        "allowed1stPct": 40.0
       },
       "Pittsburgh Pirates": {
         "games": 30,
