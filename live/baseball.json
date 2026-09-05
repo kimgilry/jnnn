@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T12:48:14.119545+09:00",
+  "generatedAt": "2026-09-05T13:14:19.859708+09:00",
   "dateKST": "2026-09-05",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1560
+      "games": 1561
     }
   },
   "games": [
@@ -256,11 +256,11 @@
       "away": "New York Yankees",
       "home": "San Diego Padres",
       "awayWins": 80,
-      "awayLosses": 60,
-      "homeWins": 73,
+      "awayLosses": 61,
+      "homeWins": 74,
       "homeLosses": 67,
-      "awayWinPct": 0.5714,
-      "homeWinPct": 0.5214,
+      "awayWinPct": 0.5674,
+      "homeWinPct": 0.5248,
       "awayStarter": "Carlos Rodón",
       "homeStarter": "Robbie Ray",
       "awayStarterStatus": "확인완료",
@@ -428,20 +428,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1560,
-    "evaluatedPicks": 435,
-    "correct": 238,
-    "accuracy": 54.71,
-    "coverage": 27.88,
+    "rawGames": 1561,
+    "evaluatedPicks": 436,
+    "correct": 239,
+    "accuracy": 54.82,
+    "coverage": 27.93,
     "YRFI": {
       "picks": 214,
       "correct": 112,
       "accuracy": 52.34
     },
     "NRFI": {
-      "picks": 221,
-      "correct": 126,
-      "accuracy": 57.01
+      "picks": 222,
+      "correct": 127,
+      "accuracy": 57.21
     },
     "window": 20,
     "minGames": 10,
@@ -544,7 +544,7 @@
       "New York Yankees": {
         "games": 30,
         "scored1stPct": 6.7,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 20.0
       },
       "Milwaukee Brewers": {
         "games": 30,
@@ -578,7 +578,7 @@
       },
       "San Diego Padres": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 16.7
       },
       "Atlanta Braves": {
