@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T03:48:14.824444+09:00",
+  "generatedAt": "2026-09-07T04:12:26.048272+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -242,9 +242,9 @@
       "awayWinPct": 0.5035,
       "homeWinPct": 0.3986,
       "awayStarter": "Dylan Cease",
-      "homeStarter": "",
+      "homeStarter": "Jacob Lopez",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     }
   ],
   "firstInningMLB": {
