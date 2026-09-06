@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T05:14:45.192987+09:00",
+  "generatedAt": "2026-09-07T05:31:23.808308+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1553
+      "games": 1556
     }
   },
   "games": [
@@ -57,10 +57,10 @@
       "home": "Miami Marlins",
       "awayWins": 65,
       "awayLosses": 78,
-      "homeWins": 71,
+      "homeWins": 72,
       "homeLosses": 72,
       "awayWinPct": 0.4545,
-      "homeWinPct": 0.4965,
+      "homeWinPct": 0.5,
       "awayStarter": "Jonah Tong",
       "homeStarter": "Eury Pérez",
       "awayStarterStatus": "확인완료",
@@ -77,10 +77,10 @@
       "home": "Boston Red Sox",
       "awayWins": 54,
       "awayLosses": 89,
-      "homeWins": 78,
+      "homeWins": 79,
       "homeLosses": 65,
       "awayWinPct": 0.3776,
-      "homeWinPct": 0.5455,
+      "homeWinPct": 0.5486,
       "awayStarter": "Grayson Rodriguez",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -95,12 +95,12 @@
       "status": "경기전",
       "away": "Cleveland Guardians",
       "home": "Baltimore Orioles",
-      "awayWins": 72,
+      "awayWins": 73,
       "awayLosses": 71,
       "homeWins": 69,
-      "homeLosses": 74,
-      "awayWinPct": 0.5035,
-      "homeWinPct": 0.4825,
+      "homeLosses": 75,
+      "awayWinPct": 0.5069,
+      "homeWinPct": 0.4792,
       "awayStarter": "Joey Cantillo",
       "homeStarter": "Trevor Rogers",
       "awayStarterStatus": "확인완료",
@@ -136,10 +136,10 @@
       "away": "Chicago Cubs",
       "home": "Milwaukee Brewers",
       "awayWins": 81,
-      "awayLosses": 62,
+      "awayLosses": 63,
       "homeWins": 88,
       "homeLosses": 56,
-      "awayWinPct": 0.5664,
+      "awayWinPct": 0.5625,
       "homeWinPct": 0.6111,
       "awayStarter": "Matthew Boyd",
       "homeStarter": "Robert Gasser",
@@ -158,9 +158,9 @@
       "awayWins": 68,
       "awayLosses": 74,
       "homeWins": 65,
-      "homeLosses": 77,
+      "homeLosses": 78,
       "awayWinPct": 0.4789,
-      "homeWinPct": 0.4577,
+      "homeWinPct": 0.4545,
       "awayStarter": "",
       "homeStarter": "Troy Melton",
       "awayStarterStatus": "미확인",
@@ -248,11 +248,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1553,
+    "rawGames": 1556,
     "evaluatedPicks": 429,
     "correct": 238,
     "accuracy": 55.48,
-    "coverage": 27.62,
+    "coverage": 27.57,
     "YRFI": {
       "picks": 223,
       "correct": 117,
@@ -288,7 +288,7 @@
       },
       "Baltimore Orioles": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 33.3,
         "allowed1stPct": 13.3
       },
       "Tampa Bay Rays": {
@@ -299,7 +299,7 @@
       "Boston Red Sox": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 30.0
       },
       "Colorado Rockies": {
         "games": 30,
@@ -338,8 +338,8 @@
       },
       "Cleveland Guardians": {
         "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 33.3
+        "scored1stPct": 36.7,
+        "allowed1stPct": 36.7
       },
       "Seattle Mariners": {
         "games": 30,
@@ -413,8 +413,8 @@
       },
       "Detroit Tigers": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 30.0
+        "scored1stPct": 33.3,
+        "allowed1stPct": 33.3
       },
       "Kansas City Royals": {
         "games": 30,
