@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T04:47:48.316543+09:00",
+  "generatedAt": "2026-09-07T05:14:45.192987+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1550
+      "games": 1553
     }
   },
   "games": [
@@ -35,12 +35,12 @@
       "status": "경기전",
       "away": "Atlanta Braves",
       "home": "Philadelphia Phillies",
-      "awayWins": 84,
+      "awayWins": 85,
       "awayLosses": 58,
       "homeWins": 80,
-      "homeLosses": 62,
-      "awayWinPct": 0.5915,
-      "homeWinPct": 0.5634,
+      "homeLosses": 63,
+      "awayWinPct": 0.5944,
+      "homeWinPct": 0.5594,
       "awayStarter": "Grant Holmes",
       "homeStarter": "Jesús Luzardo",
       "awayStarterStatus": "확인완료",
@@ -55,11 +55,11 @@
       "status": "경기전",
       "away": "New York Mets",
       "home": "Miami Marlins",
-      "awayWins": 64,
+      "awayWins": 65,
       "awayLosses": 78,
       "homeWins": 71,
       "homeLosses": 72,
-      "awayWinPct": 0.4507,
+      "awayWinPct": 0.4545,
       "homeWinPct": 0.4965,
       "awayStarter": "Jonah Tong",
       "homeStarter": "Eury Pérez",
@@ -76,10 +76,10 @@
       "away": "Los Angeles Angels",
       "home": "Boston Red Sox",
       "awayWins": 54,
-      "awayLosses": 88,
+      "awayLosses": 89,
       "homeWins": 78,
       "homeLosses": 65,
-      "awayWinPct": 0.3803,
+      "awayWinPct": 0.3776,
       "homeWinPct": 0.5455,
       "awayStarter": "Grayson Rodriguez",
       "homeStarter": "",
@@ -198,9 +198,9 @@
       "awayWins": 71,
       "awayLosses": 72,
       "homeWins": 59,
-      "homeLosses": 84,
+      "homeLosses": 85,
       "awayWinPct": 0.4965,
-      "homeWinPct": 0.4126,
+      "homeWinPct": 0.4097,
       "awayStarter": "",
       "homeStarter": "Logan Webb",
       "awayStarterStatus": "미확인",
@@ -248,20 +248,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1550,
-    "evaluatedPicks": 427,
-    "correct": 237,
-    "accuracy": 55.5,
-    "coverage": 27.55,
+    "rawGames": 1553,
+    "evaluatedPicks": 429,
+    "correct": 238,
+    "accuracy": 55.48,
+    "coverage": 27.62,
     "YRFI": {
-      "picks": 222,
+      "picks": 223,
       "correct": 117,
-      "accuracy": 52.7
+      "accuracy": 52.47
     },
     "NRFI": {
-      "picks": 205,
-      "correct": 120,
-      "accuracy": 58.54
+      "picks": 206,
+      "correct": 121,
+      "accuracy": 58.74
     },
     "window": 20,
     "minGames": 10,
@@ -308,8 +308,8 @@
       },
       "Philadelphia Phillies": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 30.0
+        "scored1stPct": 33.3,
+        "allowed1stPct": 26.7
       },
       "Los Angeles Angels": {
         "games": 30,
@@ -379,7 +379,7 @@
       "San Francisco Giants": {
         "games": 30,
         "scored1stPct": 43.3,
-        "allowed1stPct": 33.3
+        "allowed1stPct": 30.0
       },
       "New York Mets": {
         "games": 30,
@@ -404,7 +404,7 @@
       "Atlanta Braves": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 20.0
+        "allowed1stPct": 23.3
       },
       "Los Angeles Dodgers": {
         "games": 30,
