@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T12:14:33.390718+09:00",
+  "generatedAt": "2026-09-06T12:31:53.877125+09:00",
   "dateKST": "2026-09-06",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1559
+      "games": 1560
     }
   },
   "games": [
@@ -236,11 +236,11 @@
       "away": "St. Louis Cardinals",
       "home": "Colorado Rockies",
       "awayWins": 71,
-      "awayLosses": 71,
-      "homeWins": 54,
+      "awayLosses": 72,
+      "homeWins": 55,
       "homeLosses": 87,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.383,
+      "awayWinPct": 0.4965,
+      "homeWinPct": 0.3873,
       "awayStarter": "Kyle Leahy",
       "homeStarter": "Tanner Gordon",
       "awayStarterStatus": "확인완료",
@@ -302,9 +302,9 @@
       "awayWinPct": 0.4789,
       "homeWinPct": 0.5211,
       "awayStarter": "Bailey Ober",
-      "homeStarter": "",
+      "homeStarter": "Bryan Hudson",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -428,11 +428,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1559,
+    "rawGames": 1560,
     "evaluatedPicks": 429,
     "correct": 240,
     "accuracy": 55.94,
-    "coverage": 27.52,
+    "coverage": 27.5,
     "YRFI": {
       "picks": 220,
       "correct": 117,
@@ -493,7 +493,7 @@
       },
       "Colorado Rockies": {
         "games": 30,
-        "scored1stPct": 23.3,
+        "scored1stPct": 20.0,
         "allowed1stPct": 36.7
       },
       "Philadelphia Phillies": {
@@ -563,7 +563,7 @@
       },
       "St. Louis Cardinals": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 30.0,
         "allowed1stPct": 26.7
       },
       "San Diego Padres": {
