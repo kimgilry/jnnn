@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T07:14:30.331972+09:00",
+  "generatedAt": "2026-09-07T07:29:54.464436+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1559
+      "games": 1560
     }
   },
   "games": [
@@ -195,11 +195,11 @@
       "status": "경기전",
       "away": "St. Louis Cardinals",
       "home": "San Francisco Giants",
-      "awayWins": 71,
+      "awayWins": 72,
       "awayLosses": 72,
       "homeWins": 59,
       "homeLosses": 85,
-      "awayWinPct": 0.4965,
+      "awayWinPct": 0.5,
       "homeWinPct": 0.4097,
       "awayStarter": "",
       "homeStarter": "Logan Webb",
@@ -248,20 +248,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1559,
-    "evaluatedPicks": 430,
+    "rawGames": 1560,
+    "evaluatedPicks": 431,
     "correct": 239,
-    "accuracy": 55.58,
-    "coverage": 27.58,
+    "accuracy": 55.45,
+    "coverage": 27.63,
     "YRFI": {
       "picks": 224,
       "correct": 118,
       "accuracy": 52.68
     },
     "NRFI": {
-      "picks": 206,
+      "picks": 207,
       "correct": 121,
-      "accuracy": 58.74
+      "accuracy": 58.45
     },
     "window": 20,
     "minGames": 10,
@@ -303,8 +303,8 @@
       },
       "Colorado Rockies": {
         "games": 30,
-        "scored1stPct": 20.0,
-        "allowed1stPct": 36.7
+        "scored1stPct": 23.3,
+        "allowed1stPct": 33.3
       },
       "Philadelphia Phillies": {
         "games": 30,
@@ -394,7 +394,7 @@
       "St. Louis Cardinals": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 30.0
       },
       "San Diego Padres": {
         "games": 30,
