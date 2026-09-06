@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T07:29:54.464436+09:00",
+  "generatedAt": "2026-09-07T07:47:37.787139+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1560
+      "games": 1562
     }
   },
   "games": [
@@ -177,10 +177,10 @@
       "home": "San Diego Padres",
       "awayWins": 67,
       "awayLosses": 77,
-      "homeWins": 74,
+      "homeWins": 75,
       "homeLosses": 68,
       "awayWinPct": 0.4653,
-      "homeWinPct": 0.5211,
+      "homeWinPct": 0.5245,
       "awayStarter": "",
       "homeStarter": "",
       "awayStarterStatus": "미확인",
@@ -238,9 +238,9 @@
       "awayWins": 72,
       "awayLosses": 72,
       "homeWins": 57,
-      "homeLosses": 86,
+      "homeLosses": 87,
       "awayWinPct": 0.5,
-      "homeWinPct": 0.3986,
+      "homeWinPct": 0.3958,
       "awayStarter": "Dylan Cease",
       "homeStarter": "Jacob Lopez",
       "awayStarterStatus": "확인완료",
@@ -248,20 +248,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1560,
-    "evaluatedPicks": 431,
+    "rawGames": 1562,
+    "evaluatedPicks": 433,
     "correct": 239,
-    "accuracy": 55.45,
-    "coverage": 27.63,
+    "accuracy": 55.2,
+    "coverage": 27.72,
     "YRFI": {
-      "picks": 224,
+      "picks": 225,
       "correct": 118,
-      "accuracy": 52.68
+      "accuracy": 52.44
     },
     "NRFI": {
-      "picks": 207,
+      "picks": 208,
       "correct": 121,
-      "accuracy": 58.45
+      "accuracy": 58.17
     },
     "window": 20,
     "minGames": 10,
@@ -283,7 +283,7 @@
       },
       "Athletics": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 43.3
       },
       "Baltimore Orioles": {
@@ -398,7 +398,7 @@
       },
       "San Diego Padres": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 30.0,
         "allowed1stPct": 16.7
       },
       "Atlanta Braves": {
