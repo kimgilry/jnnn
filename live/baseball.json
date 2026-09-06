@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T06:29:41.456056+09:00",
+  "generatedAt": "2026-09-07T06:48:29.223652+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1558
+      "games": 1559
     }
   },
   "games": [
@@ -248,11 +248,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1558,
+    "rawGames": 1559,
     "evaluatedPicks": 430,
     "correct": 239,
     "accuracy": 55.58,
-    "coverage": 27.6,
+    "coverage": 27.58,
     "YRFI": {
       "picks": 224,
       "correct": 118,
@@ -294,7 +294,7 @@
       "Tampa Bay Rays": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 20.0
       },
       "Boston Red Sox": {
         "games": 30,
@@ -368,7 +368,7 @@
       },
       "Texas Rangers": {
         "games": 30,
-        "scored1stPct": 20.0,
+        "scored1stPct": 16.7,
         "allowed1stPct": 33.3
       },
       "Pittsburgh Pirates": {
