@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T13:48:56.403301+09:00",
+  "generatedAt": "2026-09-06T14:12:53.071658+09:00",
   "dateKST": "2026-09-06",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -409,12 +409,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "14:00|KIWOOM|NC",
+      "gamePk": "14:00|NC|KIWOOM",
       "timeKST": "14:00",
       "startISO": "",
       "status": "경기전",
-      "away": "KIWOOM",
-      "home": "NC",
+      "away": "NC",
+      "home": "KIWOOM",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
