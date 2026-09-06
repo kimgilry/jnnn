@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T11:14:36.439788+09:00",
+  "generatedAt": "2026-09-06T11:31:31.959058+09:00",
   "dateKST": "2026-09-06",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1557
+      "games": 1558
     }
   },
   "games": [
@@ -275,12 +275,12 @@
       "status": "경기전",
       "away": "New York Yankees",
       "home": "San Diego Padres",
-      "awayWins": 80,
+      "awayWins": 81,
       "awayLosses": 61,
       "homeWins": 74,
-      "homeLosses": 67,
-      "awayWinPct": 0.5674,
-      "homeWinPct": 0.5248,
+      "homeLosses": 68,
+      "awayWinPct": 0.5704,
+      "homeWinPct": 0.5211,
       "awayStarter": "Gerrit Cole",
       "homeStarter": "Michael King",
       "awayStarterStatus": "확인완료",
@@ -428,20 +428,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1557,
-    "evaluatedPicks": 428,
-    "correct": 239,
-    "accuracy": 55.84,
-    "coverage": 27.49,
+    "rawGames": 1558,
+    "evaluatedPicks": 429,
+    "correct": 240,
+    "accuracy": 55.94,
+    "coverage": 27.54,
     "YRFI": {
       "picks": 220,
       "correct": 117,
       "accuracy": 53.18
     },
     "NRFI": {
-      "picks": 208,
-      "correct": 122,
-      "accuracy": 58.65
+      "picks": 209,
+      "correct": 123,
+      "accuracy": 58.85
     },
     "window": 20,
     "minGames": 10,
