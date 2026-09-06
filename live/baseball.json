@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T10:30:13.398035+09:00",
+  "generatedAt": "2026-09-06T10:49:15.237020+09:00",
   "dateKST": "2026-09-06",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1553
+      "games": 1554
     }
   },
   "games": [
@@ -195,12 +195,12 @@
       "status": "경기전",
       "away": "Toronto Blue Jays",
       "home": "Kansas City Royals",
-      "awayWins": 71,
+      "awayWins": 72,
       "awayLosses": 71,
       "homeWins": 63,
-      "homeLosses": 79,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.4437,
+      "homeLosses": 80,
+      "awayWinPct": 0.5035,
+      "homeWinPct": 0.4406,
       "awayStarter": "",
       "homeStarter": "Randy Dobnak",
       "awayStarterStatus": "미확인",
@@ -428,15 +428,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1553,
-    "evaluatedPicks": 425,
-    "correct": 237,
-    "accuracy": 55.76,
-    "coverage": 27.37,
+    "rawGames": 1554,
+    "evaluatedPicks": 426,
+    "correct": 238,
+    "accuracy": 55.87,
+    "coverage": 27.41,
     "YRFI": {
-      "picks": 218,
-      "correct": 115,
-      "accuracy": 52.75
+      "picks": 219,
+      "correct": 116,
+      "accuracy": 52.97
     },
     "NRFI": {
       "picks": 207,
@@ -458,8 +458,8 @@
       },
       "Toronto Blue Jays": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 20.0
+        "scored1stPct": 33.3,
+        "allowed1stPct": 23.3
       },
       "Athletics": {
         "games": 30,
@@ -528,7 +528,7 @@
       },
       "Kansas City Royals": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 40.0,
         "allowed1stPct": 36.7
       },
       "Seattle Mariners": {
