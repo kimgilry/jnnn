@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T00:30:44.164659+09:00",
+  "generatedAt": "2026-09-07T00:47:45.172922+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -81,9 +81,9 @@
       "homeLosses": 65,
       "awayWinPct": 0.3803,
       "homeWinPct": 0.5455,
-      "awayStarter": "",
+      "awayStarter": "Grayson Rodriguez",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
     },
     {
@@ -102,9 +102,9 @@
       "awayWinPct": 0.5035,
       "homeWinPct": 0.4825,
       "awayStarter": "Joey Cantillo",
-      "homeStarter": "",
+      "homeStarter": "Trevor Rogers",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -162,9 +162,9 @@
       "awayWinPct": 0.4789,
       "homeWinPct": 0.4577,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Troy Melton",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
