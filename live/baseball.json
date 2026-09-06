@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T02:29:11.179491+09:00",
+  "generatedAt": "2026-09-07T02:47:41.285109+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -41,7 +41,7 @@
       "homeLosses": 62,
       "awayWinPct": 0.5915,
       "homeWinPct": 0.5634,
-      "awayStarter": "Bryce Elder",
+      "awayStarter": "Grant Holmes",
       "homeStarter": "Jesús Luzardo",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
