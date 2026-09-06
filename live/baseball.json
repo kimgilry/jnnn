@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T05:47:50.516094+09:00",
+  "generatedAt": "2026-09-07T06:13:13.445990+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1556
+      "games": 1558
     }
   },
   "games": [
@@ -115,12 +115,12 @@
       "status": "경기전",
       "away": "Arizona Diamondbacks",
       "home": "Kansas City Royals",
-      "awayWins": 75,
+      "awayWins": 76,
       "awayLosses": 68,
-      "homeWins": 63,
+      "homeWins": 64,
       "homeLosses": 80,
-      "awayWinPct": 0.5245,
-      "homeWinPct": 0.4406,
+      "awayWinPct": 0.5278,
+      "homeWinPct": 0.4444,
       "awayStarter": "",
       "homeStarter": "Noah Cameron",
       "awayStarterStatus": "미확인",
@@ -236,10 +236,10 @@
       "away": "Toronto Blue Jays",
       "home": "Athletics",
       "awayWins": 72,
-      "awayLosses": 71,
+      "awayLosses": 72,
       "homeWins": 57,
       "homeLosses": 86,
-      "awayWinPct": 0.5035,
+      "awayWinPct": 0.5,
       "homeWinPct": 0.3986,
       "awayStarter": "Dylan Cease",
       "homeStarter": "Jacob Lopez",
@@ -248,15 +248,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1556,
-    "evaluatedPicks": 429,
-    "correct": 238,
-    "accuracy": 55.48,
-    "coverage": 27.57,
+    "rawGames": 1558,
+    "evaluatedPicks": 430,
+    "correct": 239,
+    "accuracy": 55.58,
+    "coverage": 27.6,
     "YRFI": {
-      "picks": 223,
-      "correct": 117,
-      "accuracy": 52.47
+      "picks": 224,
+      "correct": 118,
+      "accuracy": 52.68
     },
     "NRFI": {
       "picks": 206,
@@ -319,11 +319,11 @@
       "Toronto Blue Jays": {
         "games": 30,
         "scored1stPct": 33.3,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 26.7
       },
       "Houston Astros": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 33.3,
         "allowed1stPct": 26.7
       },
       "Cincinnati Reds": {
