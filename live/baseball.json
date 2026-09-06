@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T12:31:53.877125+09:00",
+  "generatedAt": "2026-09-06T12:49:20.653593+09:00",
   "dateKST": "2026-09-06",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1560
+      "games": 1561
     }
   },
   "games": [
@@ -428,11 +428,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1560,
+    "rawGames": 1561,
     "evaluatedPicks": 429,
     "correct": 240,
     "accuracy": 55.94,
-    "coverage": 27.5,
+    "coverage": 27.48,
     "YRFI": {
       "picks": 220,
       "correct": 117,
@@ -478,8 +478,8 @@
       },
       "Cincinnati Reds": {
         "games": 30,
-        "scored1stPct": 20.0,
-        "allowed1stPct": 46.7
+        "scored1stPct": 23.3,
+        "allowed1stPct": 50.0
       },
       "Washington Nationals": {
         "games": 30,
@@ -548,8 +548,8 @@
       },
       "Milwaukee Brewers": {
         "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 20.0
+        "scored1stPct": 40.0,
+        "allowed1stPct": 23.3
       },
       "New York Mets": {
         "games": 30,
