@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T10:12:46.970678+09:00",
+  "generatedAt": "2026-09-06T10:30:13.398035+09:00",
   "dateKST": "2026-09-06",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1552
+      "games": 1553
     }
   },
   "games": [
@@ -95,12 +95,12 @@
       "status": "경기전",
       "away": "Los Angeles Angels",
       "home": "Pittsburgh Pirates",
-      "awayWins": 53,
+      "awayWins": 54,
       "awayLosses": 88,
       "homeWins": 70,
-      "homeLosses": 72,
-      "awayWinPct": 0.3759,
-      "homeWinPct": 0.493,
+      "homeLosses": 73,
+      "awayWinPct": 0.3803,
+      "homeWinPct": 0.4895,
       "awayStarter": "Walbert Ureña",
       "homeStarter": "Paul Skenes",
       "awayStarterStatus": "확인완료",
@@ -428,20 +428,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1552,
-    "evaluatedPicks": 424,
-    "correct": 236,
-    "accuracy": 55.66,
-    "coverage": 27.32,
+    "rawGames": 1553,
+    "evaluatedPicks": 425,
+    "correct": 237,
+    "accuracy": 55.76,
+    "coverage": 27.37,
     "YRFI": {
       "picks": 218,
       "correct": 115,
       "accuracy": 52.75
     },
     "NRFI": {
-      "picks": 206,
-      "correct": 121,
-      "accuracy": 58.74
+      "picks": 207,
+      "correct": 122,
+      "accuracy": 58.94
     },
     "window": 20,
     "minGames": 10,
@@ -574,7 +574,7 @@
       "Pittsburgh Pirates": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 23.3
       },
       "San Francisco Giants": {
         "games": 30,
