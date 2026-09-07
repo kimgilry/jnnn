@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T22:16:34.340673+09:00",
+  "generatedAt": "2026-09-07T22:34:52.673599+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -121,9 +121,9 @@
       "homeLosses": 80,
       "awayWinPct": 0.5278,
       "homeWinPct": 0.4444,
-      "awayStarter": "",
+      "awayStarter": "Derek Law",
       "homeStarter": "Noah Cameron",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
