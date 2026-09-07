@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T10:13:50.931219+09:00",
+  "generatedAt": "2026-09-07T10:32:02.479607+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1562
+      "games": 1563
     }
   },
   "games": [
@@ -156,10 +156,10 @@
       "away": "Minnesota Twins",
       "home": "Detroit Tigers",
       "awayWins": 68,
-      "awayLosses": 74,
+      "awayLosses": 75,
       "homeWins": 65,
       "homeLosses": 78,
-      "awayWinPct": 0.4789,
+      "awayWinPct": 0.4755,
       "homeWinPct": 0.4545,
       "awayStarter": "",
       "homeStarter": "Troy Melton",
@@ -248,15 +248,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1562,
-    "evaluatedPicks": 433,
+    "rawGames": 1563,
+    "evaluatedPicks": 434,
     "correct": 239,
-    "accuracy": 55.2,
-    "coverage": 27.72,
+    "accuracy": 55.07,
+    "coverage": 27.77,
     "YRFI": {
-      "picks": 225,
+      "picks": 226,
       "correct": 118,
-      "accuracy": 52.44
+      "accuracy": 52.21
     },
     "NRFI": {
       "picks": 208,
@@ -334,7 +334,7 @@
       "Minnesota Twins": {
         "games": 30,
         "scored1stPct": 40.0,
-        "allowed1stPct": 46.7
+        "allowed1stPct": 43.3
       },
       "Cleveland Guardians": {
         "games": 30,
@@ -349,7 +349,7 @@
       "Chicago White Sox": {
         "games": 30,
         "scored1stPct": 33.3,
-        "allowed1stPct": 43.3
+        "allowed1stPct": 40.0
       },
       "New York Yankees": {
         "games": 30,
