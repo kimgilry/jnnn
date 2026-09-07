@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T05:49:29.171529+09:00",
+  "generatedAt": "2026-09-08T06:14:30.747654+09:00",
   "dateKST": "2026-09-08",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1554
+      "games": 1555
     }
   },
   "games": [
@@ -175,12 +175,12 @@
       "status": "경기전",
       "away": "Arizona Diamondbacks",
       "home": "Kansas City Royals",
-      "awayWins": 76,
+      "awayWins": 77,
       "awayLosses": 68,
       "homeWins": 64,
-      "homeLosses": 80,
-      "awayWinPct": 0.5278,
-      "homeWinPct": 0.4444,
+      "homeLosses": 81,
+      "awayWinPct": 0.531,
+      "homeWinPct": 0.4414,
       "awayStarter": "Corbin Burnes",
       "homeStarter": "Michael Wacha",
       "awayStarterStatus": "확인완료",
@@ -428,15 +428,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1554,
-    "evaluatedPicks": 425,
+    "rawGames": 1555,
+    "evaluatedPicks": 426,
     "correct": 234,
-    "accuracy": 55.06,
-    "coverage": 27.35,
+    "accuracy": 54.93,
+    "coverage": 27.4,
     "YRFI": {
-      "picks": 228,
+      "picks": 229,
       "correct": 119,
-      "accuracy": 52.19
+      "accuracy": 51.97
     },
     "NRFI": {
       "picks": 197,
