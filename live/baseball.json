@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T06:31:51.856449+09:00",
+  "generatedAt": "2026-09-08T06:49:44.554808+09:00",
   "dateKST": "2026-09-08",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1555
+      "games": 1556
     }
   },
   "games": [
@@ -56,11 +56,11 @@
       "away": "Minnesota Twins",
       "home": "Detroit Tigers",
       "awayWins": 68,
-      "awayLosses": 75,
-      "homeWins": 65,
+      "awayLosses": 76,
+      "homeWins": 66,
       "homeLosses": 78,
-      "awayWinPct": 0.4755,
-      "homeWinPct": 0.4545,
+      "awayWinPct": 0.4722,
+      "homeWinPct": 0.4583,
       "awayStarter": "Dean Kremer",
       "homeStarter": "Drew Anderson",
       "awayStarterStatus": "확인완료",
@@ -428,15 +428,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1555,
-    "evaluatedPicks": 426,
-    "correct": 234,
-    "accuracy": 54.93,
-    "coverage": 27.4,
+    "rawGames": 1556,
+    "evaluatedPicks": 427,
+    "correct": 235,
+    "accuracy": 55.04,
+    "coverage": 27.44,
     "YRFI": {
-      "picks": 229,
-      "correct": 119,
-      "accuracy": 51.97
+      "picks": 230,
+      "correct": 120,
+      "accuracy": 52.17
     },
     "NRFI": {
       "picks": 197,
@@ -543,8 +543,8 @@
       },
       "Detroit Tigers": {
         "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 33.3
+        "scored1stPct": 36.7,
+        "allowed1stPct": 36.7
       },
       "New York Mets": {
         "games": 30,
@@ -578,7 +578,7 @@
       },
       "Minnesota Twins": {
         "games": 30,
-        "scored1stPct": 40.0,
+        "scored1stPct": 43.3,
         "allowed1stPct": 43.3
       },
       "San Diego Padres": {
