@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T23:33:37.776290+09:00",
+  "generatedAt": "2026-09-07T23:52:05.023846+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -161,9 +161,9 @@
       "homeLosses": 78,
       "awayWinPct": 0.4755,
       "homeWinPct": 0.4545,
-      "awayStarter": "",
+      "awayStarter": "Joe Ryan",
       "homeStarter": "Troy Melton",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
