@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T03:53:29.253507+09:00",
+  "generatedAt": "2026-09-08T04:13:02.093171+09:00",
   "dateKST": "2026-09-08",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1549
+      "games": 1550
     }
   },
   "games": [
@@ -77,10 +77,10 @@
       "home": "Philadelphia Phillies",
       "awayWins": 73,
       "awayLosses": 71,
-      "homeWins": 80,
+      "homeWins": 81,
       "homeLosses": 63,
       "awayWinPct": 0.5069,
-      "homeWinPct": 0.5594,
+      "homeWinPct": 0.5625,
       "awayStarter": "Hayden Wesneski",
       "homeStarter": "Andrew Painter",
       "awayStarterStatus": "확인완료",
@@ -158,9 +158,9 @@
       "awayWins": 85,
       "awayLosses": 58,
       "homeWins": 85,
-      "homeLosses": 58,
+      "homeLosses": 59,
       "awayWinPct": 0.5944,
-      "homeWinPct": 0.5944,
+      "homeWinPct": 0.5903,
       "awayStarter": "Freddy Peralta",
       "homeStarter": "AJ Smith-Shawver",
       "awayStarterStatus": "확인완료",
@@ -428,11 +428,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1549,
+    "rawGames": 1550,
     "evaluatedPicks": 425,
     "correct": 234,
     "accuracy": 55.06,
-    "coverage": 27.44,
+    "coverage": 27.42,
     "YRFI": {
       "picks": 228,
       "correct": 119,
@@ -533,7 +533,7 @@
       },
       "Philadelphia Phillies": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 30.0,
         "allowed1stPct": 26.7
       },
       "Boston Red Sox": {
