@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T05:15:08.280254+09:00",
+  "generatedAt": "2026-09-08T05:32:40.583062+09:00",
   "dateKST": "2026-09-08",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1550
+      "games": 1553
     }
   },
   "games": [
@@ -95,12 +95,12 @@
       "status": "경기전",
       "away": "New York Mets",
       "home": "Miami Marlins",
-      "awayWins": 65,
+      "awayWins": 66,
       "awayLosses": 78,
       "homeWins": 72,
-      "homeLosses": 72,
-      "awayWinPct": 0.4545,
-      "homeWinPct": 0.5,
+      "homeLosses": 73,
+      "awayWinPct": 0.4583,
+      "homeWinPct": 0.4966,
       "awayStarter": "Sean Manaea",
       "homeStarter": "Sandy Alcantara",
       "awayStarterStatus": "확인완료",
@@ -116,11 +116,11 @@
       "away": "Los Angeles Angels",
       "home": "Boston Red Sox",
       "awayWins": 54,
-      "awayLosses": 89,
-      "homeWins": 79,
+      "awayLosses": 90,
+      "homeWins": 80,
       "homeLosses": 65,
-      "awayWinPct": 0.3776,
-      "homeWinPct": 0.5486,
+      "awayWinPct": 0.375,
+      "homeWinPct": 0.5517,
       "awayStarter": "Reid Detmers",
       "homeStarter": "Patrick Sandoval",
       "awayStarterStatus": "확인완료",
@@ -428,11 +428,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1550,
+    "rawGames": 1553,
     "evaluatedPicks": 425,
     "correct": 234,
     "accuracy": 55.06,
-    "coverage": 27.42,
+    "coverage": 27.37,
     "YRFI": {
       "picks": 228,
       "correct": 119,
@@ -548,7 +548,7 @@
       },
       "New York Mets": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 40.0,
         "allowed1stPct": 30.0
       },
       "Chicago Cubs": {
@@ -574,7 +574,7 @@
       "Miami Marlins": {
         "games": 30,
         "scored1stPct": 20.0,
-        "allowed1stPct": 13.3
+        "allowed1stPct": 16.7
       },
       "Minnesota Twins": {
         "games": 30,
