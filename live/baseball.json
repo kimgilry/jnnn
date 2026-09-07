@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T09:25:10.964060+09:00",
+  "generatedAt": "2026-09-07T09:54:50.089199+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -181,9 +181,9 @@
       "homeLosses": 68,
       "awayWinPct": 0.4653,
       "homeWinPct": 0.5245,
-      "awayStarter": "",
+      "awayStarter": "Jake Irvin",
       "homeStarter": "Nick Pivetta",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
