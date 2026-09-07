@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T13:51:20.567699+09:00",
+  "generatedAt": "2026-09-07T14:14:17.551915+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1563
+      "games": 1564
     }
   },
   "games": [
@@ -176,10 +176,10 @@
       "away": "Washington Nationals",
       "home": "San Diego Padres",
       "awayWins": 67,
-      "awayLosses": 77,
+      "awayLosses": 78,
       "homeWins": 75,
       "homeLosses": 68,
-      "awayWinPct": 0.4653,
+      "awayWinPct": 0.4621,
       "homeWinPct": 0.5245,
       "awayStarter": "Jake Irvin",
       "homeStarter": "Nick Pivetta",
@@ -217,10 +217,10 @@
       "home": "Los Angeles Dodgers",
       "awayWins": 69,
       "awayLosses": 74,
-      "homeWins": 85,
+      "homeWins": 86,
       "homeLosses": 57,
       "awayWinPct": 0.4825,
-      "homeWinPct": 0.5986,
+      "homeWinPct": 0.6014,
       "awayStarter": "Chase Burns",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -248,11 +248,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1563,
+    "rawGames": 1564,
     "evaluatedPicks": 434,
     "correct": 239,
     "accuracy": 55.07,
-    "coverage": 27.77,
+    "coverage": 27.75,
     "YRFI": {
       "picks": 226,
       "correct": 118,
@@ -274,7 +274,7 @@
       "Washington Nationals": {
         "games": 30,
         "scored1stPct": 13.3,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 20.0
       },
       "Miami Marlins": {
         "games": 30,
@@ -408,8 +408,8 @@
       },
       "Los Angeles Dodgers": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 36.7
+        "scored1stPct": 23.3,
+        "allowed1stPct": 33.3
       },
       "Detroit Tigers": {
         "games": 30,
