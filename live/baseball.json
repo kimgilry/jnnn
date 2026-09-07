@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T08:29:40.710650+09:00",
+  "generatedAt": "2026-09-08T08:47:50.496812+09:00",
   "dateKST": "2026-09-08",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1556
+      "games": 1557
     }
   },
   "games": [
@@ -236,11 +236,11 @@
       "away": "Washington Nationals",
       "home": "San Diego Padres",
       "awayWins": 67,
-      "awayLosses": 78,
-      "homeWins": 75,
+      "awayLosses": 79,
+      "homeWins": 76,
       "homeLosses": 68,
-      "awayWinPct": 0.4621,
-      "homeWinPct": 0.5245,
+      "awayWinPct": 0.4589,
+      "homeWinPct": 0.5278,
       "awayStarter": "",
       "homeStarter": "Casey Mize",
       "awayStarterStatus": "미확인",
@@ -428,20 +428,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1556,
-    "evaluatedPicks": 427,
+    "rawGames": 1557,
+    "evaluatedPicks": 428,
     "correct": 235,
-    "accuracy": 55.04,
-    "coverage": 27.44,
+    "accuracy": 54.91,
+    "coverage": 27.49,
     "YRFI": {
       "picks": 230,
       "correct": 120,
       "accuracy": 52.17
     },
     "NRFI": {
-      "picks": 197,
+      "picks": 198,
       "correct": 115,
-      "accuracy": 58.38
+      "accuracy": 58.08
     },
     "window": 20,
     "minGames": 10,
@@ -513,8 +513,8 @@
       },
       "Washington Nationals": {
         "games": 30,
-        "scored1stPct": 13.3,
-        "allowed1stPct": 20.0
+        "scored1stPct": 10.0,
+        "allowed1stPct": 23.3
       },
       "Cincinnati Reds": {
         "games": 30,
