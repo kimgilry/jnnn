@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T23:15:32.707548+09:00",
+  "generatedAt": "2026-09-07T23:33:37.776290+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -82,9 +82,9 @@
       "awayWinPct": 0.3776,
       "homeWinPct": 0.5486,
       "awayStarter": "Grayson Rodriguez",
-      "homeStarter": "",
+      "homeStarter": "Brayan Bello",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
