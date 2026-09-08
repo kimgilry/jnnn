@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T18:34:29.408693+09:00",
+  "generatedAt": "2026-09-08T18:52:19.629365+09:00",
   "dateKST": "2026-09-08",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -389,12 +389,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "18:30|NC|LOTTE",
+      "gamePk": "18:30|LOTTE|NC",
       "timeKST": "18:30",
       "startISO": "",
       "status": "경기전",
-      "away": "NC",
-      "home": "LOTTE",
+      "away": "LOTTE",
+      "home": "NC",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
