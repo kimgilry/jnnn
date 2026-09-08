@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T06:29:53.528183+09:00",
+  "generatedAt": "2026-09-09T06:48:57.003272+09:00",
   "dateKST": "2026-09-09",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -122,9 +122,9 @@
       "awayWinPct": 0.4931,
       "homeWinPct": 0.4653,
       "awayStarter": "Cody Bradford",
-      "homeStarter": "",
+      "homeStarter": "Kade Anderson",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
