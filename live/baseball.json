@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T08:47:50.496812+09:00",
+  "generatedAt": "2026-09-08T09:24:53.438101+09:00",
   "dateKST": "2026-09-08",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -241,9 +241,9 @@
       "homeLosses": 68,
       "awayWinPct": 0.4589,
       "homeWinPct": 0.5278,
-      "awayStarter": "",
+      "awayStarter": "Riley Cornelio",
       "homeStarter": "Casey Mize",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
