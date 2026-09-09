@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T09:53:58.715896+09:00",
+  "generatedAt": "2026-09-09T10:13:51.236983+09:00",
   "dateKST": "2026-09-09",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1554
+      "games": 1555
     }
   },
   "games": [
@@ -35,12 +35,12 @@
       "status": "경기전",
       "away": "Minnesota Twins",
       "home": "Detroit Tigers",
-      "awayWins": 68,
+      "awayWins": 69,
       "awayLosses": 76,
       "homeWins": 66,
-      "homeLosses": 78,
-      "awayWinPct": 0.4722,
-      "homeWinPct": 0.4583,
+      "homeLosses": 79,
+      "awayWinPct": 0.4759,
+      "homeWinPct": 0.4552,
       "awayStarter": "Zebby Matthews",
       "homeStarter": "Keider Montero",
       "awayStarterStatus": "확인완료",
@@ -408,15 +408,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1554,
-    "evaluatedPicks": 429,
-    "correct": 238,
-    "accuracy": 55.48,
-    "coverage": 27.61,
+    "rawGames": 1555,
+    "evaluatedPicks": 430,
+    "correct": 239,
+    "accuracy": 55.58,
+    "coverage": 27.65,
     "YRFI": {
-      "picks": 233,
-      "correct": 123,
-      "accuracy": 52.79
+      "picks": 234,
+      "correct": 124,
+      "accuracy": 52.99
     },
     "NRFI": {
       "picks": 196,
@@ -493,8 +493,8 @@
       },
       "Detroit Tigers": {
         "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 36.7
+        "scored1stPct": 33.3,
+        "allowed1stPct": 40.0
       },
       "New York Mets": {
         "games": 30,
@@ -528,7 +528,7 @@
       },
       "Minnesota Twins": {
         "games": 30,
-        "scored1stPct": 43.3,
+        "scored1stPct": 46.7,
         "allowed1stPct": 43.3
       },
       "San Diego Padres": {
