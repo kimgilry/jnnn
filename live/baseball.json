@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T06:31:23.298322+09:00",
+  "generatedAt": "2026-09-10T06:49:00.576040+09:00",
   "dateKST": "2026-09-10",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1555
+      "games": 1556
     }
   },
   "games": [
@@ -208,15 +208,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1555,
-    "evaluatedPicks": 431,
-    "correct": 238,
-    "accuracy": 55.22,
-    "coverage": 27.72,
+    "rawGames": 1556,
+    "evaluatedPicks": 432,
+    "correct": 239,
+    "accuracy": 55.32,
+    "coverage": 27.76,
     "YRFI": {
-      "picks": 238,
-      "correct": 127,
-      "accuracy": 53.36
+      "picks": 239,
+      "correct": 128,
+      "accuracy": 53.56
     },
     "NRFI": {
       "picks": 193,
@@ -294,7 +294,7 @@
       "Detroit Tigers": {
         "games": 30,
         "scored1stPct": 33.3,
-        "allowed1stPct": 40.0
+        "allowed1stPct": 36.7
       },
       "New York Mets": {
         "games": 30,
@@ -329,7 +329,7 @@
       "Minnesota Twins": {
         "games": 30,
         "scored1stPct": 46.7,
-        "allowed1stPct": 43.3
+        "allowed1stPct": 46.7
       },
       "San Diego Padres": {
         "games": 30,
