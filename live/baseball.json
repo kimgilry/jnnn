@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T07:48:29.486277+09:00",
+  "generatedAt": "2026-09-10T08:13:10.301672+09:00",
   "dateKST": "2026-09-10",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1558
+      "games": 1559
     }
   },
   "games": [
@@ -208,20 +208,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1558,
-    "evaluatedPicks": 434,
-    "correct": 240,
-    "accuracy": 55.3,
-    "coverage": 27.86,
+    "rawGames": 1559,
+    "evaluatedPicks": 435,
+    "correct": 241,
+    "accuracy": 55.4,
+    "coverage": 27.9,
     "YRFI": {
       "picks": 241,
       "correct": 129,
       "accuracy": 53.53
     },
     "NRFI": {
-      "picks": 193,
-      "correct": 111,
-      "accuracy": 57.51
+      "picks": 194,
+      "correct": 112,
+      "accuracy": 57.73
     },
     "window": 20,
     "minGames": 10,
@@ -253,7 +253,7 @@
       },
       "Washington Nationals": {
         "games": 30,
-        "scored1stPct": 10.0,
+        "scored1stPct": 6.7,
         "allowed1stPct": 20.0
       },
       "Cincinnati Reds": {
@@ -333,7 +333,7 @@
       },
       "San Diego Padres": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 16.7
       },
       "Milwaukee Brewers": {
