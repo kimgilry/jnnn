@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T10:33:13.531770+09:00",
+  "generatedAt": "2026-09-09T10:51:08.347635+09:00",
   "dateKST": "2026-09-09",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1556
+      "games": 1560
     }
   },
   "games": [
@@ -62,9 +62,9 @@
       "awayWinPct": 0.4966,
       "homeWinPct": 0.4,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Brady Basso",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -135,12 +135,12 @@
       "status": "경기전",
       "away": "Cleveland Guardians",
       "home": "Baltimore Orioles",
-      "awayWins": 73,
+      "awayWins": 74,
       "awayLosses": 72,
       "homeWins": 70,
-      "homeLosses": 75,
-      "awayWinPct": 0.5034,
-      "homeWinPct": 0.4828,
+      "homeLosses": 76,
+      "awayWinPct": 0.5068,
+      "homeWinPct": 0.4795,
       "awayStarter": "Foster Griffin",
       "homeStarter": "Shane Baz",
       "awayStarterStatus": "확인완료",
@@ -155,12 +155,12 @@
       "status": "경기전",
       "away": "Houston Astros",
       "home": "Philadelphia Phillies",
-      "awayWins": 73,
+      "awayWins": 74,
       "awayLosses": 71,
       "homeWins": 81,
-      "homeLosses": 63,
-      "awayWinPct": 0.5069,
-      "homeWinPct": 0.5625,
+      "homeLosses": 64,
+      "awayWinPct": 0.5103,
+      "homeWinPct": 0.5586,
       "awayStarter": "Hunter Brown",
       "homeStarter": "Cristopher Sánchez",
       "awayStarterStatus": "확인완료",
@@ -195,12 +195,12 @@
       "status": "경기전",
       "away": "Los Angeles Angels",
       "home": "Boston Red Sox",
-      "awayWins": 54,
+      "awayWins": 55,
       "awayLosses": 90,
       "homeWins": 80,
-      "homeLosses": 65,
-      "awayWinPct": 0.375,
-      "homeWinPct": 0.5517,
+      "homeLosses": 66,
+      "awayWinPct": 0.3793,
+      "homeWinPct": 0.5479,
       "awayStarter": "Ryan Johnson",
       "homeStarter": "Jake Bennett",
       "awayStarterStatus": "확인완료",
@@ -216,11 +216,11 @@
       "away": "Colorado Rockies",
       "home": "New York Yankees",
       "awayWins": 55,
-      "awayLosses": 88,
-      "homeWins": 81,
+      "awayLosses": 89,
+      "homeWins": 82,
       "homeLosses": 62,
-      "awayWinPct": 0.3846,
-      "homeWinPct": 0.5664,
+      "awayWinPct": 0.3819,
+      "homeWinPct": 0.5694,
       "awayStarter": "Tomoyuki Sugano",
       "homeStarter": "Will Warren",
       "awayStarterStatus": "확인완료",
@@ -408,10 +408,10 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1556,
-    "evaluatedPicks": 430,
+    "rawGames": 1560,
+    "evaluatedPicks": 431,
     "correct": 239,
-    "accuracy": 55.58,
+    "accuracy": 55.45,
     "coverage": 27.63,
     "YRFI": {
       "picks": 234,
@@ -419,9 +419,9 @@
       "accuracy": 52.99
     },
     "NRFI": {
-      "picks": 196,
+      "picks": 197,
       "correct": 115,
-      "accuracy": 58.67
+      "accuracy": 58.38
     },
     "window": 20,
     "minGames": 10,
@@ -443,13 +443,13 @@
       },
       "New York Yankees": {
         "games": 30,
-        "scored1stPct": 6.7,
+        "scored1stPct": 10.0,
         "allowed1stPct": 20.0
       },
       "Baltimore Orioles": {
         "games": 30,
         "scored1stPct": 33.3,
-        "allowed1stPct": 13.3
+        "allowed1stPct": 16.7
       },
       "Washington Nationals": {
         "games": 30,
@@ -463,8 +463,8 @@
       },
       "Colorado Rockies": {
         "games": 30,
-        "scored1stPct": 23.3,
-        "allowed1stPct": 33.3
+        "scored1stPct": 20.0,
+        "allowed1stPct": 36.7
       },
       "Pittsburgh Pirates": {
         "games": 30,
@@ -474,11 +474,11 @@
       "Philadelphia Phillies": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 23.3
       },
       "Boston Red Sox": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 30.0
       },
       "Tampa Bay Rays": {
