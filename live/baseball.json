@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T07:13:54.649173+09:00",
+  "generatedAt": "2026-09-10T07:31:14.998369+09:00",
   "dateKST": "2026-09-10",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1556
+      "games": 1557
     }
   },
   "games": [
@@ -208,15 +208,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1556,
-    "evaluatedPicks": 432,
-    "correct": 239,
-    "accuracy": 55.32,
-    "coverage": 27.76,
+    "rawGames": 1557,
+    "evaluatedPicks": 433,
+    "correct": 240,
+    "accuracy": 55.43,
+    "coverage": 27.81,
     "YRFI": {
-      "picks": 239,
-      "correct": 128,
-      "accuracy": 53.56
+      "picks": 240,
+      "correct": 129,
+      "accuracy": 53.75
     },
     "NRFI": {
       "picks": 193,
@@ -363,7 +363,7 @@
       },
       "St. Louis Cardinals": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 36.7
       },
       "Athletics": {
@@ -373,7 +373,7 @@
       },
       "San Francisco Giants": {
         "games": 30,
-        "scored1stPct": 46.7,
+        "scored1stPct": 50.0,
         "allowed1stPct": 26.7
       },
       "Los Angeles Dodgers": {
