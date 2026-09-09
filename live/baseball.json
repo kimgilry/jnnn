@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T13:34:05.279803+09:00",
+  "generatedAt": "2026-09-09T13:51:12.453816+09:00",
   "dateKST": "2026-09-09",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1567
+      "games": 1569
     }
   },
   "games": [
@@ -115,12 +115,12 @@
       "status": "경기전",
       "away": "Texas Rangers",
       "home": "Seattle Mariners",
-      "awayWins": 71,
+      "awayWins": 72,
       "awayLosses": 73,
       "homeWins": 67,
-      "homeLosses": 77,
-      "awayWinPct": 0.4931,
-      "homeWinPct": 0.4653,
+      "homeLosses": 78,
+      "awayWinPct": 0.4966,
+      "homeWinPct": 0.4621,
       "awayStarter": "Cody Bradford",
       "homeStarter": "Kade Anderson",
       "awayStarterStatus": "확인완료",
@@ -316,11 +316,11 @@
       "away": "Cincinnati Reds",
       "home": "Los Angeles Dodgers",
       "awayWins": 69,
-      "awayLosses": 75,
-      "homeWins": 87,
+      "awayLosses": 76,
+      "homeWins": 88,
       "homeLosses": 57,
-      "awayWinPct": 0.4792,
-      "homeWinPct": 0.6042,
+      "awayWinPct": 0.4759,
+      "homeWinPct": 0.6069,
       "awayStarter": "Rhett Lowder",
       "homeStarter": "Yoshinobu Yamamoto",
       "awayStarterStatus": "확인완료",
@@ -408,15 +408,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1567,
-    "evaluatedPicks": 436,
-    "correct": 241,
-    "accuracy": 55.28,
-    "coverage": 27.82,
+    "rawGames": 1569,
+    "evaluatedPicks": 438,
+    "correct": 243,
+    "accuracy": 55.48,
+    "coverage": 27.92,
     "YRFI": {
-      "picks": 237,
-      "correct": 125,
-      "accuracy": 52.74
+      "picks": 239,
+      "correct": 127,
+      "accuracy": 53.14
     },
     "NRFI": {
       "picks": 199,
@@ -548,13 +548,13 @@
       },
       "Texas Rangers": {
         "games": 30,
-        "scored1stPct": 16.7,
+        "scored1stPct": 20.0,
         "allowed1stPct": 33.3
       },
       "Seattle Mariners": {
         "games": 30,
         "scored1stPct": 40.0,
-        "allowed1stPct": 43.3
+        "allowed1stPct": 46.7
       },
       "Houston Astros": {
         "games": 30,
@@ -579,7 +579,7 @@
       "Los Angeles Dodgers": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 36.7
+        "allowed1stPct": 33.3
       },
       "American League All-Stars": {
         "games": 1,
