@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T10:51:08.347635+09:00",
+  "generatedAt": "2026-09-09T11:15:12.083056+09:00",
   "dateKST": "2026-09-09",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1560
+      "games": 1561
     }
   },
   "games": [
@@ -235,12 +235,12 @@
       "status": "경기전",
       "away": "Tampa Bay Rays",
       "home": "Atlanta Braves",
-      "awayWins": 85,
+      "awayWins": 86,
       "awayLosses": 58,
       "homeWins": 85,
-      "homeLosses": 59,
-      "awayWinPct": 0.5944,
-      "homeWinPct": 0.5903,
+      "homeLosses": 60,
+      "awayWinPct": 0.5972,
+      "homeWinPct": 0.5862,
       "awayStarter": "Griffin Jax",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -408,20 +408,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1560,
-    "evaluatedPicks": 431,
+    "rawGames": 1561,
+    "evaluatedPicks": 432,
     "correct": 239,
-    "accuracy": 55.45,
-    "coverage": 27.63,
+    "accuracy": 55.32,
+    "coverage": 27.67,
     "YRFI": {
       "picks": 234,
       "correct": 124,
       "accuracy": 52.99
     },
     "NRFI": {
-      "picks": 197,
+      "picks": 198,
       "correct": 115,
-      "accuracy": 58.38
+      "accuracy": 58.08
     },
     "window": 20,
     "minGames": 10,
@@ -484,7 +484,7 @@
       "Tampa Bay Rays": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 20.0
+        "allowed1stPct": 23.3
       },
       "Toronto Blue Jays": {
         "games": 30,
@@ -508,8 +508,8 @@
       },
       "Atlanta Braves": {
         "games": 30,
-        "scored1stPct": 23.3,
-        "allowed1stPct": 23.3
+        "scored1stPct": 26.7,
+        "allowed1stPct": 26.7
       },
       "Kansas City Royals": {
         "games": 30,
