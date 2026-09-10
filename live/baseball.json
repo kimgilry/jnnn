@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T10:31:11.803743+09:00",
+  "generatedAt": "2026-09-10T10:50:49.233021+09:00",
   "dateKST": "2026-09-10",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1561
+      "games": 1564
     }
   },
   "games": [
@@ -35,12 +35,12 @@
       "status": "경기전",
       "away": "Tampa Bay Rays",
       "home": "Atlanta Braves",
-      "awayWins": 86,
+      "awayWins": 87,
       "awayLosses": 58,
       "homeWins": 85,
-      "homeLosses": 60,
-      "awayWinPct": 0.5972,
-      "homeWinPct": 0.5862,
+      "homeLosses": 61,
+      "awayWinPct": 0.6,
+      "homeWinPct": 0.5822,
       "awayStarter": "Nick Martinez",
       "homeStarter": "Martín Pérez",
       "awayStarterStatus": "확인완료",
@@ -56,11 +56,11 @@
       "away": "Houston Astros",
       "home": "Philadelphia Phillies",
       "awayWins": 74,
-      "awayLosses": 71,
-      "homeWins": 81,
+      "awayLosses": 72,
+      "homeWins": 82,
       "homeLosses": 64,
-      "awayWinPct": 0.5103,
-      "homeWinPct": 0.5586,
+      "awayWinPct": 0.5068,
+      "homeWinPct": 0.5616,
       "awayStarter": "Cristian Javier",
       "homeStarter": "Zack Wheeler",
       "awayStarterStatus": "확인완료",
@@ -96,11 +96,11 @@
       "away": "Colorado Rockies",
       "home": "New York Yankees",
       "awayWins": 55,
-      "awayLosses": 89,
-      "homeWins": 82,
+      "awayLosses": 90,
+      "homeWins": 83,
       "homeLosses": 62,
-      "awayWinPct": 0.3819,
-      "homeWinPct": 0.5694,
+      "awayWinPct": 0.3793,
+      "homeWinPct": 0.5724,
       "awayStarter": "Ryan Feltner",
       "homeStarter": "Max Fried",
       "awayStarterStatus": "확인완료",
@@ -208,20 +208,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1561,
-    "evaluatedPicks": 435,
-    "correct": 241,
-    "accuracy": 55.4,
-    "coverage": 27.87,
+    "rawGames": 1564,
+    "evaluatedPicks": 436,
+    "correct": 242,
+    "accuracy": 55.5,
+    "coverage": 27.88,
     "YRFI": {
       "picks": 241,
       "correct": 129,
       "accuracy": 53.53
     },
     "NRFI": {
-      "picks": 194,
-      "correct": 112,
-      "accuracy": 57.73
+      "picks": 195,
+      "correct": 113,
+      "accuracy": 57.95
     },
     "window": 20,
     "minGames": 10,
@@ -264,7 +264,7 @@
       "Colorado Rockies": {
         "games": 30,
         "scored1stPct": 20.0,
-        "allowed1stPct": 36.7
+        "allowed1stPct": 33.3
       },
       "Pittsburgh Pirates": {
         "games": 30,
@@ -273,7 +273,7 @@
       },
       "Philadelphia Phillies": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 23.3
       },
       "Boston Red Sox": {
