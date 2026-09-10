@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T05:31:25.191054+09:00",
+  "generatedAt": "2026-09-11T05:49:54.706407+09:00",
   "dateKST": "2026-09-11",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -261,9 +261,9 @@
       "homeLosses": 75,
       "awayWinPct": 0.5172,
       "homeWinPct": 0.4898,
-      "awayStarter": "",
+      "awayStarter": "Anthony Kay",
       "homeStarter": "Matthew Liberatore",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
