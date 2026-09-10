@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T02:14:01.078950+09:00",
+  "generatedAt": "2026-09-11T02:30:47.144108+09:00",
   "dateKST": "2026-09-11",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -281,9 +281,9 @@
       "homeLosses": 88,
       "awayWinPct": 0.4658,
       "homeWinPct": 0.4014,
-      "awayStarter": "",
+      "awayStarter": "George Kirby",
       "homeStarter": "Jeffrey Springs",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
