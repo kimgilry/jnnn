@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T02:49:40.358218+09:00",
+  "generatedAt": "2026-09-11T03:17:02.594310+09:00",
   "dateKST": "2026-09-11",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -122,9 +122,9 @@
       "awayWinPct": 0.483,
       "homeWinPct": 0.4966,
       "awayStarter": "Chris Bassitt",
-      "homeStarter": "",
+      "homeStarter": "Max Scherzer",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
