@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T11:33:08.843352+09:00",
+  "generatedAt": "2026-09-10T11:51:00.402695+09:00",
   "dateKST": "2026-09-10",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1565
+      "games": 1567
     }
   },
   "games": [
@@ -115,12 +115,12 @@
       "status": "경기전",
       "away": "Pittsburgh Pirates",
       "home": "Chicago White Sox",
-      "awayWins": 72,
+      "awayWins": 73,
       "awayLosses": 73,
       "homeWins": 75,
-      "homeLosses": 69,
-      "awayWinPct": 0.4966,
-      "homeWinPct": 0.5208,
+      "homeLosses": 70,
+      "awayWinPct": 0.5,
+      "homeWinPct": 0.5172,
       "awayStarter": "Jared Jones",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -208,15 +208,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1565,
-    "evaluatedPicks": 436,
-    "correct": 242,
-    "accuracy": 55.5,
-    "coverage": 27.86,
+    "rawGames": 1567,
+    "evaluatedPicks": 437,
+    "correct": 243,
+    "accuracy": 55.61,
+    "coverage": 27.89,
     "YRFI": {
-      "picks": 241,
-      "correct": 129,
-      "accuracy": 53.53
+      "picks": 242,
+      "correct": 130,
+      "accuracy": 53.72
     },
     "NRFI": {
       "picks": 195,
@@ -319,7 +319,7 @@
       "Chicago White Sox": {
         "games": 30,
         "scored1stPct": 33.3,
-        "allowed1stPct": 43.3
+        "allowed1stPct": 40.0
       },
       "Miami Marlins": {
         "games": 30,
