@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T11:51:00.402695+09:00",
+  "generatedAt": "2026-09-10T12:15:48.955205+09:00",
   "dateKST": "2026-09-10",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1567
+      "games": 1568
     }
   },
   "games": [
@@ -208,11 +208,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1567,
+    "rawGames": 1568,
     "evaluatedPicks": 437,
     "correct": 243,
     "accuracy": 55.61,
-    "coverage": 27.89,
+    "coverage": 27.87,
     "YRFI": {
       "picks": 242,
       "correct": 130,
@@ -313,7 +313,7 @@
       },
       "Kansas City Royals": {
         "games": 30,
-        "scored1stPct": 40.0,
+        "scored1stPct": 36.7,
         "allowed1stPct": 36.7
       },
       "Chicago White Sox": {
