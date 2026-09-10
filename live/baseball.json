@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T04:28:33.971353+09:00",
+  "generatedAt": "2026-09-11T04:47:44.892416+09:00",
   "dateKST": "2026-09-11",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1555
+      "games": 1556
     }
   },
   "games": [
@@ -155,11 +155,11 @@
       "status": "경기전",
       "away": "Houston Astros",
       "home": "Tampa Bay Rays",
-      "awayWins": 74,
+      "awayWins": 75,
       "awayLosses": 72,
       "homeWins": 87,
       "homeLosses": 59,
-      "awayWinPct": 0.5068,
+      "awayWinPct": 0.5102,
       "homeWinPct": 0.5959,
       "awayStarter": "",
       "homeStarter": "Drew Rasmussen",
@@ -196,10 +196,10 @@
       "away": "Philadelphia Phillies",
       "home": "Atlanta Braves",
       "awayWins": 82,
-      "awayLosses": 64,
+      "awayLosses": 65,
       "homeWins": 86,
       "homeLosses": 61,
-      "awayWinPct": 0.5616,
+      "awayWinPct": 0.5578,
       "homeWinPct": 0.585,
       "awayStarter": "Aaron Nola",
       "homeStarter": "Chris Sale",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1555,
+    "rawGames": 1556,
     "evaluatedPicks": 439,
     "correct": 243,
     "accuracy": 55.35,
-    "coverage": 28.23,
+    "coverage": 28.21,
     "YRFI": {
       "picks": 247,
       "correct": 131,
