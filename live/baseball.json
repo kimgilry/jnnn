@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T03:17:02.594310+09:00",
+  "generatedAt": "2026-09-11T03:35:30.509901+09:00",
   "dateKST": "2026-09-11",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1554
+      "games": 1555
     }
   },
   "games": [
@@ -158,9 +158,9 @@
       "awayWins": 74,
       "awayLosses": 72,
       "homeWins": 87,
-      "homeLosses": 58,
+      "homeLosses": 59,
       "awayWinPct": 0.5068,
-      "homeWinPct": 0.6,
+      "homeWinPct": 0.5959,
       "awayStarter": "",
       "homeStarter": "Drew Rasmussen",
       "awayStarterStatus": "미확인",
@@ -197,10 +197,10 @@
       "home": "Atlanta Braves",
       "awayWins": 82,
       "awayLosses": 64,
-      "homeWins": 85,
+      "homeWins": 86,
       "homeLosses": 61,
       "awayWinPct": 0.5616,
-      "homeWinPct": 0.5822,
+      "homeWinPct": 0.585,
       "awayStarter": "Aaron Nola",
       "homeStarter": "Chris Sale",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1554,
+    "rawGames": 1555,
     "evaluatedPicks": 439,
     "correct": 243,
     "accuracy": 55.35,
-    "coverage": 28.25,
+    "coverage": 28.23,
     "YRFI": {
       "picks": 247,
       "correct": 131,
