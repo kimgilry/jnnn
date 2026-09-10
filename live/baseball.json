@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T04:47:44.892416+09:00",
+  "generatedAt": "2026-09-11T05:14:03.108659+09:00",
   "dateKST": "2026-09-11",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -161,9 +161,9 @@
       "homeLosses": 59,
       "awayWinPct": 0.5102,
       "homeWinPct": 0.5959,
-      "awayStarter": "",
+      "awayStarter": "Miguel Ullola",
       "homeStarter": "Drew Rasmussen",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
