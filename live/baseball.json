@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T11:15:20.104858+09:00",
+  "generatedAt": "2026-09-10T11:33:08.843352+09:00",
   "dateKST": "2026-09-10",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1564
+      "games": 1565
     }
   },
   "games": [
@@ -208,11 +208,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1564,
+    "rawGames": 1565,
     "evaluatedPicks": 436,
     "correct": 242,
     "accuracy": 55.5,
-    "coverage": 27.88,
+    "coverage": 27.86,
     "YRFI": {
       "picks": 241,
       "correct": 129,
@@ -299,7 +299,7 @@
       "New York Mets": {
         "games": 30,
         "scored1stPct": 43.3,
-        "allowed1stPct": 30.0
+        "allowed1stPct": 26.7
       },
       "Chicago Cubs": {
         "games": 30,
@@ -324,7 +324,7 @@
       "Miami Marlins": {
         "games": 30,
         "scored1stPct": 20.0,
-        "allowed1stPct": 20.0
+        "allowed1stPct": 16.7
       },
       "Minnesota Twins": {
         "games": 30,
