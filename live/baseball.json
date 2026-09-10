@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T05:49:54.706407+09:00",
+  "generatedAt": "2026-09-11T06:13:04.864500+09:00",
   "dateKST": "2026-09-11",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -102,9 +102,9 @@
       "awayWinPct": 0.4658,
       "homeWinPct": 0.5724,
       "awayStarter": "Nolan McLean",
-      "homeStarter": "",
+      "homeStarter": "Carlos Rodón",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
