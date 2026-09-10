@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T12:33:47.572913+09:00",
+  "generatedAt": "2026-09-10T12:51:31.143961+09:00",
   "dateKST": "2026-09-10",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -122,9 +122,9 @@
       "awayWinPct": 0.5,
       "homeWinPct": 0.5172,
       "awayStarter": "Jared Jones",
-      "homeStarter": "",
+      "homeStarter": "Hagen Smith",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "KBO Official",
