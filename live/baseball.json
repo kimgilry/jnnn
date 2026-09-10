@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T07:30:52.193350+09:00",
+  "generatedAt": "2026-09-11T07:48:11.882702+09:00",
   "dateKST": "2026-09-11",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1556
+      "games": 1557
     }
   },
   "games": [
@@ -275,11 +275,11 @@
       "status": "경기전",
       "away": "Seattle Mariners",
       "home": "Athletics",
-      "awayWins": 68,
+      "awayWins": 69,
       "awayLosses": 78,
       "homeWins": 59,
       "homeLosses": 88,
-      "awayWinPct": 0.4658,
+      "awayWinPct": 0.4694,
       "homeWinPct": 0.4014,
       "awayStarter": "George Kirby",
       "homeStarter": "Jeffrey Springs",
@@ -296,10 +296,10 @@
       "away": "Texas Rangers",
       "home": "Arizona Diamondbacks",
       "awayWins": 72,
-      "awayLosses": 74,
+      "awayLosses": 75,
       "homeWins": 78,
       "homeLosses": 69,
-      "awayWinPct": 0.4932,
+      "awayWinPct": 0.4898,
       "homeWinPct": 0.5306,
       "awayStarter": "",
       "homeStarter": "",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1556,
+    "rawGames": 1557,
     "evaluatedPicks": 439,
     "correct": 243,
     "accuracy": 55.35,
-    "coverage": 28.21,
+    "coverage": 28.2,
     "YRFI": {
       "picks": 247,
       "correct": 131,
@@ -569,7 +569,7 @@
       "Texas Rangers": {
         "games": 30,
         "scored1stPct": 20.0,
-        "allowed1stPct": 33.3
+        "allowed1stPct": 30.0
       },
       "Arizona Diamondbacks": {
         "games": 30,
