@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T10:14:03.572690+09:00",
+  "generatedAt": "2026-09-10T10:31:11.803743+09:00",
   "dateKST": "2026-09-10",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1559
+      "games": 1561
     }
   },
   "games": [
@@ -208,11 +208,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1559,
+    "rawGames": 1561,
     "evaluatedPicks": 435,
     "correct": 241,
     "accuracy": 55.4,
-    "coverage": 27.9,
+    "coverage": 27.87,
     "YRFI": {
       "picks": 241,
       "correct": 129,
@@ -238,12 +238,12 @@
       },
       "Baltimore Orioles": {
         "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 16.7
+        "scored1stPct": 30.0,
+        "allowed1stPct": 20.0
       },
       "Los Angeles Angels": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 13.3
       },
       "Cleveland Guardians": {
@@ -279,7 +279,7 @@
       "Boston Red Sox": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 30.0
+        "allowed1stPct": 26.7
       },
       "Tampa Bay Rays": {
         "games": 30,
