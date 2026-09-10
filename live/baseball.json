@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T02:30:47.144108+09:00",
+  "generatedAt": "2026-09-11T02:49:40.358218+09:00",
   "dateKST": "2026-09-11",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -222,7 +222,7 @@
       "awayWinPct": 0.4726,
       "homeWinPct": 0.619,
       "awayStarter": "Andrew Abbott",
-      "homeStarter": "Shane Drohan",
+      "homeStarter": "Dustin May",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
