@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T13:15:55.464841+09:00",
+  "generatedAt": "2026-09-11T13:33:15.633876+09:00",
   "dateKST": "2026-09-11",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -41,9 +41,9 @@
       "homeLosses": 66,
       "awayWinPct": 0.5034,
       "homeWinPct": 0.551,
-      "awayStarter": "",
+      "awayStarter": "Wilber Dotel",
       "homeStarter": "Shota Imanaga",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
