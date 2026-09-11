@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T02:13:39.771820+09:00",
+  "generatedAt": "2026-09-12T02:31:34.194806+09:00",
   "dateKST": "2026-09-12",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -301,9 +301,9 @@
       "homeLosses": 69,
       "awayWinPct": 0.4898,
       "homeWinPct": 0.5306,
-      "awayStarter": "",
+      "awayStarter": "Kumar Rocker",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
     },
     {
