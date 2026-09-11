@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T10:50:06.991464+09:00",
+  "generatedAt": "2026-09-11T11:14:53.809023+09:00",
   "dateKST": "2026-09-11",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1557
+      "games": 1559
     }
   },
   "games": [
@@ -35,11 +35,11 @@
       "status": "경기전",
       "away": "Pittsburgh Pirates",
       "home": "Chicago Cubs",
-      "awayWins": 73,
+      "awayWins": 74,
       "awayLosses": 73,
       "homeWins": 81,
       "homeLosses": 66,
-      "awayWinPct": 0.5,
+      "awayWinPct": 0.5034,
       "homeWinPct": 0.551,
       "awayStarter": "",
       "homeStarter": "Shota Imanaga",
@@ -56,10 +56,10 @@
       "away": "Colorado Rockies",
       "home": "Detroit Tigers",
       "awayWins": 55,
-      "awayLosses": 90,
+      "awayLosses": 91,
       "homeWins": 67,
       "homeLosses": 79,
-      "awayWinPct": 0.3793,
+      "awayWinPct": 0.3767,
       "homeWinPct": 0.4589,
       "awayStarter": "Mason Adams",
       "homeStarter": "Framber Valdez",
@@ -97,10 +97,10 @@
       "home": "New York Yankees",
       "awayWins": 68,
       "awayLosses": 78,
-      "homeWins": 83,
+      "homeWins": 84,
       "homeLosses": 62,
       "awayWinPct": 0.4658,
-      "homeWinPct": 0.5724,
+      "homeWinPct": 0.5753,
       "awayStarter": "Nolan McLean",
       "homeStarter": "Carlos Rodón",
       "awayStarterStatus": "확인완료",
@@ -256,10 +256,10 @@
       "away": "Chicago White Sox",
       "home": "St. Louis Cardinals",
       "awayWins": 75,
-      "awayLosses": 70,
+      "awayLosses": 71,
       "homeWins": 72,
       "homeLosses": 75,
-      "awayWinPct": 0.5172,
+      "awayWinPct": 0.5137,
       "homeWinPct": 0.4898,
       "awayStarter": "Anthony Kay",
       "homeStarter": "Matthew Liberatore",
@@ -408,20 +408,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1557,
-    "evaluatedPicks": 439,
+    "rawGames": 1559,
+    "evaluatedPicks": 440,
     "correct": 243,
-    "accuracy": 55.35,
-    "coverage": 28.2,
+    "accuracy": 55.23,
+    "coverage": 28.22,
     "YRFI": {
       "picks": 247,
       "correct": 131,
       "accuracy": 53.04
     },
     "NRFI": {
-      "picks": 192,
+      "picks": 193,
       "correct": 112,
-      "accuracy": 58.33
+      "accuracy": 58.03
     },
     "window": 20,
     "minGames": 10,
@@ -434,12 +434,12 @@
       "Colorado Rockies": {
         "games": 30,
         "scored1stPct": 20.0,
-        "allowed1stPct": 33.3
+        "allowed1stPct": 36.7
       },
       "Pittsburgh Pirates": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 20.0
       },
       "Washington Nationals": {
         "games": 30,
@@ -563,7 +563,7 @@
       },
       "New York Yankees": {
         "games": 30,
-        "scored1stPct": 10.0,
+        "scored1stPct": 13.3,
         "allowed1stPct": 20.0
       },
       "Texas Rangers": {
