@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T07:47:56.829290+09:00",
+  "generatedAt": "2026-09-12T08:13:05.556243+09:00",
   "dateKST": "2026-09-12",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -182,9 +182,9 @@
       "awayWinPct": 0.5034,
       "homeWinPct": 0.4726,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Connor Prielipp",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -201,9 +201,9 @@
       "homeLosses": 75,
       "awayWinPct": 0.6096,
       "homeWinPct": 0.4898,
-      "awayStarter": "",
+      "awayStarter": "Tyler Glasnow",
       "homeStarter": "Tyler Phillips",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
