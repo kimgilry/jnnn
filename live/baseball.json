@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T11:49:29.613089+09:00",
+  "generatedAt": "2026-09-12T12:14:37.372996+09:00",
   "dateKST": "2026-09-12",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1557
+      "games": 1559
     }
   },
   "games": [
@@ -175,12 +175,12 @@
       "status": "경기전",
       "away": "Cleveland Guardians",
       "home": "Minnesota Twins",
-      "awayWins": 74,
+      "awayWins": 75,
       "awayLosses": 73,
       "homeWins": 69,
-      "homeLosses": 77,
-      "awayWinPct": 0.5034,
-      "homeWinPct": 0.4726,
+      "homeLosses": 78,
+      "awayWinPct": 0.5068,
+      "homeWinPct": 0.4694,
       "awayStarter": "",
       "homeStarter": "Connor Prielipp",
       "awayStarterStatus": "미확인",
@@ -256,11 +256,11 @@
       "away": "Philadelphia Phillies",
       "home": "Atlanta Braves",
       "awayWins": 82,
-      "awayLosses": 65,
-      "homeWins": 86,
+      "awayLosses": 66,
+      "homeWins": 87,
       "homeLosses": 61,
-      "awayWinPct": 0.5578,
-      "homeWinPct": 0.585,
+      "awayWinPct": 0.5541,
+      "homeWinPct": 0.5878,
       "awayStarter": "Jesús Luzardo",
       "homeStarter": "Tyler Mahle",
       "awayStarterStatus": "확인완료",
@@ -408,15 +408,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1557,
-    "evaluatedPicks": 440,
+    "rawGames": 1559,
+    "evaluatedPicks": 441,
     "correct": 243,
-    "accuracy": 55.23,
-    "coverage": 28.26,
+    "accuracy": 55.1,
+    "coverage": 28.29,
     "YRFI": {
-      "picks": 244,
+      "picks": 245,
       "correct": 130,
-      "accuracy": 53.28
+      "accuracy": 53.06
     },
     "NRFI": {
       "picks": 196,
@@ -489,7 +489,7 @@
       "Minnesota Twins": {
         "games": 30,
         "scored1stPct": 46.7,
-        "allowed1stPct": 46.7
+        "allowed1stPct": 43.3
       },
       "Boston Red Sox": {
         "games": 30,
@@ -498,7 +498,7 @@
       },
       "Atlanta Braves": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 30.0,
         "allowed1stPct": 26.7
       },
       "New York Yankees": {
