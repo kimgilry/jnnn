@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T07:49:30.156797+09:00",
+  "generatedAt": "2026-09-13T08:13:15.129664+09:00",
   "dateKST": "2026-09-13",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1554
+      "games": 1557
     }
   },
   "games": [
@@ -56,11 +56,11 @@
       "away": "Los Angeles Angels",
       "home": "Washington Nationals",
       "awayWins": 56,
-      "awayLosses": 91,
-      "homeWins": 68,
+      "awayLosses": 92,
+      "homeWins": 69,
       "homeLosses": 81,
-      "awayWinPct": 0.381,
-      "homeWinPct": 0.4564,
+      "awayWinPct": 0.3784,
+      "homeWinPct": 0.46,
       "awayStarter": "Grayson Rodriguez",
       "homeStarter": "Jake Irvin",
       "awayStarterStatus": "확인완료",
@@ -156,11 +156,11 @@
       "away": "Los Angeles Dodgers",
       "home": "Miami Marlins",
       "awayWins": 90,
-      "awayLosses": 57,
-      "homeWins": 72,
+      "awayLosses": 58,
+      "homeWins": 73,
       "homeLosses": 76,
-      "awayWinPct": 0.6122,
-      "homeWinPct": 0.4865,
+      "awayWinPct": 0.6081,
+      "homeWinPct": 0.4899,
       "awayStarter": "",
       "homeStarter": "Eury Pérez",
       "awayStarterStatus": "미확인",
@@ -176,11 +176,11 @@
       "away": "Cleveland Guardians",
       "home": "Minnesota Twins",
       "awayWins": 75,
-      "awayLosses": 73,
-      "homeWins": 69,
+      "awayLosses": 74,
+      "homeWins": 70,
       "homeLosses": 78,
-      "awayWinPct": 0.5068,
-      "homeWinPct": 0.4694,
+      "awayWinPct": 0.5034,
+      "homeWinPct": 0.473,
       "awayStarter": "Tanner Bibee",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -315,12 +315,12 @@
       "status": "경기전",
       "away": "San Diego Padres",
       "home": "San Francisco Giants",
-      "awayWins": 79,
+      "awayWins": 80,
       "awayLosses": 68,
       "homeWins": 62,
-      "homeLosses": 86,
-      "awayWinPct": 0.5374,
-      "homeWinPct": 0.4189,
+      "homeLosses": 87,
+      "awayWinPct": 0.5405,
+      "homeWinPct": 0.4161,
       "awayStarter": "Nick Pivetta",
       "homeStarter": "Logan Webb",
       "awayStarterStatus": "확인완료",
@@ -408,20 +408,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1554,
-    "evaluatedPicks": 438,
+    "rawGames": 1557,
+    "evaluatedPicks": 440,
     "correct": 245,
-    "accuracy": 55.94,
-    "coverage": 28.19,
+    "accuracy": 55.68,
+    "coverage": 28.26,
     "YRFI": {
-      "picks": 247,
+      "picks": 248,
       "correct": 133,
-      "accuracy": 53.85
+      "accuracy": 53.63
     },
     "NRFI": {
-      "picks": 191,
+      "picks": 192,
       "correct": 112,
-      "accuracy": 58.64
+      "accuracy": 58.33
     },
     "window": 20,
     "minGames": 10,
@@ -468,7 +468,7 @@
       },
       "Washington Nationals": {
         "games": 30,
-        "scored1stPct": 6.7,
+        "scored1stPct": 10.0,
         "allowed1stPct": 23.3
       },
       "Philadelphia Phillies": {
@@ -483,7 +483,7 @@
       },
       "Miami Marlins": {
         "games": 30,
-        "scored1stPct": 20.0,
+        "scored1stPct": 16.7,
         "allowed1stPct": 16.7
       },
       "Tampa Bay Rays": {
@@ -498,8 +498,8 @@
       },
       "Cleveland Guardians": {
         "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 36.7
+        "scored1stPct": 33.3,
+        "allowed1stPct": 33.3
       },
       "Texas Rangers": {
         "games": 30,
@@ -529,7 +529,7 @@
       "Minnesota Twins": {
         "games": 30,
         "scored1stPct": 46.7,
-        "allowed1stPct": 43.3
+        "allowed1stPct": 40.0
       },
       "San Diego Padres": {
         "games": 30,
@@ -563,12 +563,12 @@
       },
       "Los Angeles Dodgers": {
         "games": 30,
-        "scored1stPct": 23.3,
-        "allowed1stPct": 33.3
+        "scored1stPct": 26.7,
+        "allowed1stPct": 30.0
       },
       "Los Angeles Angels": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 13.3
       },
       "San Francisco Giants": {
