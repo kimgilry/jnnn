@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T10:48:54.122653+09:00",
+  "generatedAt": "2026-09-12T11:15:06.037535+09:00",
   "dateKST": "2026-09-12",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1552
+      "games": 1557
     }
   },
   "games": [
@@ -56,11 +56,11 @@
       "away": "New York Mets",
       "home": "New York Yankees",
       "awayWins": 68,
-      "awayLosses": 78,
-      "homeWins": 84,
+      "awayLosses": 79,
+      "homeWins": 85,
       "homeLosses": 62,
-      "awayWinPct": 0.4658,
-      "homeWinPct": 0.5753,
+      "awayWinPct": 0.4626,
+      "homeWinPct": 0.5782,
       "awayStarter": "Zac Thornton",
       "homeStarter": "Gerrit Cole",
       "awayStarterStatus": "확인완료",
@@ -95,12 +95,12 @@
       "status": "경기전",
       "away": "Baltimore Orioles",
       "home": "Toronto Blue Jays",
-      "awayWins": 71,
+      "awayWins": 72,
       "awayLosses": 76,
       "homeWins": 73,
-      "homeLosses": 74,
-      "awayWinPct": 0.483,
-      "homeWinPct": 0.4966,
+      "homeLosses": 75,
+      "awayWinPct": 0.4865,
+      "homeWinPct": 0.4932,
       "awayStarter": "Kyle Bradish",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -155,12 +155,12 @@
       "status": "경기전",
       "away": "Kansas City Royals",
       "home": "Boston Red Sox",
-      "awayWins": 65,
+      "awayWins": 66,
       "awayLosses": 82,
       "homeWins": 80,
-      "homeLosses": 67,
-      "awayWinPct": 0.4422,
-      "homeWinPct": 0.5442,
+      "homeLosses": 68,
+      "awayWinPct": 0.4459,
+      "homeWinPct": 0.5405,
       "awayStarter": "Randy Dobnak",
       "homeStarter": "Ranger Suarez",
       "awayStarterStatus": "확인완료",
@@ -195,12 +195,12 @@
       "status": "경기전",
       "away": "Los Angeles Dodgers",
       "home": "Miami Marlins",
-      "awayWins": 89,
+      "awayWins": 90,
       "awayLosses": 57,
       "homeWins": 72,
-      "homeLosses": 75,
-      "awayWinPct": 0.6096,
-      "homeWinPct": 0.4898,
+      "homeLosses": 76,
+      "awayWinPct": 0.6122,
+      "homeWinPct": 0.4865,
       "awayStarter": "Tyler Glasnow",
       "homeStarter": "Tyler Phillips",
       "awayStarterStatus": "확인완료",
@@ -236,11 +236,11 @@
       "away": "Cincinnati Reds",
       "home": "Milwaukee Brewers",
       "awayWins": 69,
-      "awayLosses": 77,
-      "homeWins": 91,
+      "awayLosses": 78,
+      "homeWins": 92,
       "homeLosses": 56,
-      "awayWinPct": 0.4726,
-      "homeWinPct": 0.619,
+      "awayWinPct": 0.4694,
+      "homeWinPct": 0.6216,
       "awayStarter": "Brady Singer",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -408,15 +408,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1552,
-    "evaluatedPicks": 439,
-    "correct": 242,
-    "accuracy": 55.13,
-    "coverage": 28.29,
+    "rawGames": 1557,
+    "evaluatedPicks": 440,
+    "correct": 243,
+    "accuracy": 55.23,
+    "coverage": 28.26,
     "YRFI": {
-      "picks": 243,
-      "correct": 129,
-      "accuracy": 53.09
+      "picks": 244,
+      "correct": 130,
+      "accuracy": 53.28
     },
     "NRFI": {
       "picks": 196,
@@ -453,8 +453,8 @@
       },
       "Toronto Blue Jays": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 30.0
+        "scored1stPct": 26.7,
+        "allowed1stPct": 33.3
       },
       "Detroit Tigers": {
         "games": 30,
@@ -464,7 +464,7 @@
       "Cincinnati Reds": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 46.7
+        "allowed1stPct": 50.0
       },
       "Cleveland Guardians": {
         "games": 30,
@@ -494,7 +494,7 @@
       "Boston Red Sox": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 30.0
       },
       "Atlanta Braves": {
         "games": 30,
@@ -503,13 +503,13 @@
       },
       "New York Yankees": {
         "games": 30,
-        "scored1stPct": 13.3,
+        "scored1stPct": 16.7,
         "allowed1stPct": 20.0
       },
       "New York Mets": {
         "games": 30,
-        "scored1stPct": 43.3,
-        "allowed1stPct": 26.7
+        "scored1stPct": 40.0,
+        "allowed1stPct": 30.0
       },
       "Chicago Cubs": {
         "games": 30,
