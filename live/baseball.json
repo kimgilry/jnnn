@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T07:35:33.101251+09:00",
+  "generatedAt": "2026-09-13T07:49:30.156797+09:00",
   "dateKST": "2026-09-13",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1553
+      "games": 1554
     }
   },
   "games": [
@@ -408,15 +408,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1553,
-    "evaluatedPicks": 437,
-    "correct": 244,
-    "accuracy": 55.84,
-    "coverage": 28.14,
+    "rawGames": 1554,
+    "evaluatedPicks": 438,
+    "correct": 245,
+    "accuracy": 55.94,
+    "coverage": 28.19,
     "YRFI": {
-      "picks": 246,
-      "correct": 132,
-      "accuracy": 53.66
+      "picks": 247,
+      "correct": 133,
+      "accuracy": 53.85
     },
     "NRFI": {
       "picks": 191,
@@ -533,8 +533,8 @@
       },
       "San Diego Padres": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 20.0
+        "scored1stPct": 23.3,
+        "allowed1stPct": 23.3
       },
       "Seattle Mariners": {
         "games": 30,
@@ -573,8 +573,8 @@
       },
       "San Francisco Giants": {
         "games": 30,
-        "scored1stPct": 53.3,
-        "allowed1stPct": 26.7
+        "scored1stPct": 56.7,
+        "allowed1stPct": 23.3
       },
       "Athletics": {
         "games": 30,
