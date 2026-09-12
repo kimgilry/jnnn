@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T07:13:35.258454+09:00",
+  "generatedAt": "2026-09-13T07:35:33.101251+09:00",
   "dateKST": "2026-09-13",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1552
+      "games": 1553
     }
   },
   "games": [
@@ -43,26 +43,6 @@
       "homeWinPct": 0.4662,
       "awayStarter": "Gabriel Hughes",
       "homeStarter": "Jackson Jobe",
-      "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "확인완료"
-    },
-    {
-      "source": "MLB StatsAPI",
-      "league": "MLB",
-      "gamePk": "824708",
-      "timeKST": "02:35",
-      "startISO": "2026-09-14T02:35:00+09:00",
-      "status": "경기전",
-      "away": "Kansas City Royals",
-      "home": "Boston Red Sox",
-      "awayWins": 66,
-      "awayLosses": 82,
-      "homeWins": 80,
-      "homeLosses": 68,
-      "awayWinPct": 0.4459,
-      "homeWinPct": 0.5405,
-      "awayStarter": "Noah Cameron",
-      "homeStarter": "Payton Tolle",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
@@ -269,6 +249,26 @@
     {
       "source": "MLB StatsAPI",
       "league": "MLB",
+      "gamePk": "824708",
+      "timeKST": "04:05",
+      "startISO": "2026-09-14T04:05:00+09:00",
+      "status": "경기전",
+      "away": "Kansas City Royals",
+      "home": "Boston Red Sox",
+      "awayWins": 66,
+      "awayLosses": 83,
+      "homeWins": 81,
+      "homeLosses": 68,
+      "awayWinPct": 0.443,
+      "homeWinPct": 0.5436,
+      "awayStarter": "Noah Cameron",
+      "homeStarter": "Payton Tolle",
+      "awayStarterStatus": "확인완료",
+      "homeStarterStatus": "확인완료"
+    },
+    {
+      "source": "MLB StatsAPI",
+      "league": "MLB",
       "gamePk": "824952",
       "timeKST": "05:05",
       "startISO": "2026-09-14T05:05:00+09:00",
@@ -408,15 +408,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1552,
-    "evaluatedPicks": 436,
+    "rawGames": 1553,
+    "evaluatedPicks": 437,
     "correct": 244,
-    "accuracy": 55.96,
-    "coverage": 28.09,
+    "accuracy": 55.84,
+    "coverage": 28.14,
     "YRFI": {
-      "picks": 245,
+      "picks": 246,
       "correct": 132,
-      "accuracy": 53.88
+      "accuracy": 53.66
     },
     "NRFI": {
       "picks": 191,
@@ -444,7 +444,7 @@
       "Kansas City Royals": {
         "games": 30,
         "scored1stPct": 36.7,
-        "allowed1stPct": 36.7
+        "allowed1stPct": 33.3
       },
       "St. Louis Cardinals": {
         "games": 30,
