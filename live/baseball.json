@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T10:29:57.806446+09:00",
+  "generatedAt": "2026-09-12T10:48:54.122653+09:00",
   "dateKST": "2026-09-12",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1550
+      "games": 1552
     }
   },
   "games": [
@@ -116,11 +116,11 @@
       "away": "Los Angeles Angels",
       "home": "Washington Nationals",
       "awayWins": 56,
-      "awayLosses": 90,
-      "homeWins": 67,
+      "awayLosses": 91,
+      "homeWins": 68,
       "homeLosses": 81,
-      "awayWinPct": 0.3836,
-      "homeWinPct": 0.4527,
+      "awayWinPct": 0.381,
+      "homeWinPct": 0.4564,
       "awayStarter": "Walbert Ureña",
       "homeStarter": "Andrew Alvarez",
       "awayStarterStatus": "확인완료",
@@ -216,11 +216,11 @@
       "away": "Houston Astros",
       "home": "Tampa Bay Rays",
       "awayWins": 75,
-      "awayLosses": 72,
-      "homeWins": 87,
+      "awayLosses": 73,
+      "homeWins": 88,
       "homeLosses": 59,
-      "awayWinPct": 0.5102,
-      "homeWinPct": 0.5959,
+      "awayWinPct": 0.5068,
+      "homeWinPct": 0.5986,
       "awayStarter": "Peter Lambert",
       "homeStarter": "Ian Seymour",
       "awayStarterStatus": "확인완료",
@@ -408,20 +408,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1550,
-    "evaluatedPicks": 438,
+    "rawGames": 1552,
+    "evaluatedPicks": 439,
     "correct": 242,
-    "accuracy": 55.25,
-    "coverage": 28.26,
+    "accuracy": 55.13,
+    "coverage": 28.29,
     "YRFI": {
       "picks": 243,
       "correct": 129,
       "accuracy": 53.09
     },
     "NRFI": {
-      "picks": 195,
+      "picks": 196,
       "correct": 113,
-      "accuracy": 57.95
+      "accuracy": 57.65
     },
     "window": 20,
     "minGames": 10,
@@ -449,7 +449,7 @@
       "Washington Nationals": {
         "games": 30,
         "scored1stPct": 6.7,
-        "allowed1stPct": 20.0
+        "allowed1stPct": 23.3
       },
       "Toronto Blue Jays": {
         "games": 30,
@@ -479,7 +479,7 @@
       "Tampa Bay Rays": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 20.0
       },
       "Milwaukee Brewers": {
         "games": 30,
@@ -529,7 +529,7 @@
       "Houston Astros": {
         "games": 30,
         "scored1stPct": 33.3,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 23.3
       },
       "Kansas City Royals": {
         "games": 30,
@@ -558,7 +558,7 @@
       },
       "Los Angeles Angels": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 30.0,
         "allowed1stPct": 13.3
       },
       "San Diego Padres": {
