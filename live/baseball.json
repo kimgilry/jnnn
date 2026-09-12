@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T05:14:32.799800+09:00",
+  "generatedAt": "2026-09-13T05:33:07.864423+09:00",
   "dateKST": "2026-09-13",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1548
+      "games": 1550
     }
   },
   "games": [
@@ -36,11 +36,11 @@
       "away": "Colorado Rockies",
       "home": "Detroit Tigers",
       "awayWins": 55,
-      "awayLosses": 92,
-      "homeWins": 68,
+      "awayLosses": 93,
+      "homeWins": 69,
       "homeLosses": 79,
-      "awayWinPct": 0.3741,
-      "homeWinPct": 0.4626,
+      "awayWinPct": 0.3716,
+      "homeWinPct": 0.4662,
       "awayStarter": "Gabriel Hughes",
       "homeStarter": "Jackson Jobe",
       "awayStarterStatus": "확인완료",
@@ -115,12 +115,12 @@
       "status": "경기전",
       "away": "New York Mets",
       "home": "New York Yankees",
-      "awayWins": 68,
+      "awayWins": 69,
       "awayLosses": 79,
       "homeWins": 85,
-      "homeLosses": 62,
-      "awayWinPct": 0.4626,
-      "homeWinPct": 0.5782,
+      "homeLosses": 63,
+      "awayWinPct": 0.4662,
+      "homeWinPct": 0.5743,
       "awayStarter": "Christian Scott",
       "homeStarter": "Cam Schlittler",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1548,
+    "rawGames": 1550,
     "evaluatedPicks": 436,
     "correct": 244,
     "accuracy": 55.96,
-    "coverage": 28.17,
+    "coverage": 28.13,
     "YRFI": {
       "picks": 245,
       "correct": 132,
@@ -458,8 +458,8 @@
       },
       "Colorado Rockies": {
         "games": 30,
-        "scored1stPct": 16.7,
-        "allowed1stPct": 33.3
+        "scored1stPct": 13.3,
+        "allowed1stPct": 30.0
       },
       "Baltimore Orioles": {
         "games": 30,
@@ -554,12 +554,12 @@
       "New York Yankees": {
         "games": 30,
         "scored1stPct": 16.7,
-        "allowed1stPct": 20.0
+        "allowed1stPct": 23.3
       },
       "New York Mets": {
         "games": 30,
-        "scored1stPct": 40.0,
-        "allowed1stPct": 30.0
+        "scored1stPct": 43.3,
+        "allowed1stPct": 26.7
       },
       "Los Angeles Dodgers": {
         "games": 30,
