@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T12:32:21.277016+09:00",
+  "generatedAt": "2026-09-12T12:49:14.569008+09:00",
   "dateKST": "2026-09-12",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -42,9 +42,9 @@
       "awayWinPct": 0.3741,
       "homeWinPct": 0.4626,
       "awayStarter": "Tanner Gordon",
-      "homeStarter": "",
+      "homeStarter": "Andrew Sears",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -102,9 +102,9 @@
       "awayWinPct": 0.4865,
       "homeWinPct": 0.4932,
       "awayStarter": "Kyle Bradish",
-      "homeStarter": "",
+      "homeStarter": "Spencer Miles",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -261,9 +261,9 @@
       "homeLosses": 61,
       "awayWinPct": 0.5541,
       "homeWinPct": 0.5878,
-      "awayStarter": "Jesús Luzardo",
+      "awayStarter": "",
       "homeStarter": "Tyler Mahle",
-      "awayStarterStatus": "확인완료",
+      "awayStarterStatus": "미확인",
       "homeStarterStatus": "확인완료"
     },
     {
