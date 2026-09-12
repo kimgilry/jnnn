@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T13:49:37.935137+09:00",
+  "generatedAt": "2026-09-12T14:13:29.527006+09:00",
   "dateKST": "2026-09-12",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1561
+      "games": 1562
     }
   },
   "games": [
@@ -316,11 +316,11 @@
       "away": "Seattle Mariners",
       "home": "Athletics",
       "awayWins": 69,
-      "awayLosses": 78,
-      "homeWins": 59,
+      "awayLosses": 79,
+      "homeWins": 60,
       "homeLosses": 88,
-      "awayWinPct": 0.4694,
-      "homeWinPct": 0.4014,
+      "awayWinPct": 0.4662,
+      "homeWinPct": 0.4054,
       "awayStarter": "Bryan Woo",
       "homeStarter": "Gage Jump",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1561,
+    "rawGames": 1562,
     "evaluatedPicks": 441,
     "correct": 243,
     "accuracy": 55.1,
-    "coverage": 28.25,
+    "coverage": 28.23,
     "YRFI": {
       "picks": 245,
       "correct": 130,
@@ -568,8 +568,8 @@
       },
       "Seattle Mariners": {
         "games": 30,
-        "scored1stPct": 40.0,
-        "allowed1stPct": 43.3
+        "scored1stPct": 43.3,
+        "allowed1stPct": 46.7
       },
       "San Francisco Giants": {
         "games": 30,
@@ -579,7 +579,7 @@
       "Athletics": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 36.7
+        "allowed1stPct": 40.0
       },
       "American League All-Stars": {
         "games": 1,
