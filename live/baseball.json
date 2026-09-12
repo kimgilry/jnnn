@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T13:31:47.527916+09:00",
+  "generatedAt": "2026-09-12T13:49:37.935137+09:00",
   "dateKST": "2026-09-12",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1560
+      "games": 1561
     }
   },
   "games": [
@@ -296,11 +296,11 @@
       "away": "Texas Rangers",
       "home": "Arizona Diamondbacks",
       "awayWins": 72,
-      "awayLosses": 75,
-      "homeWins": 78,
+      "awayLosses": 76,
+      "homeWins": 79,
       "homeLosses": 69,
-      "awayWinPct": 0.4898,
-      "homeWinPct": 0.5306,
+      "awayWinPct": 0.4865,
+      "homeWinPct": 0.5338,
       "awayStarter": "Kumar Rocker",
       "homeStarter": "Brandon Pfaadt",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1560,
+    "rawGames": 1561,
     "evaluatedPicks": 441,
     "correct": 243,
     "accuracy": 55.1,
-    "coverage": 28.27,
+    "coverage": 28.25,
     "YRFI": {
       "picks": 245,
       "correct": 130,
@@ -524,7 +524,7 @@
       "Texas Rangers": {
         "games": 30,
         "scored1stPct": 20.0,
-        "allowed1stPct": 30.0
+        "allowed1stPct": 26.7
       },
       "Houston Astros": {
         "games": 30,
