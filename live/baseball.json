@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T05:55:07.618161+09:00",
+  "generatedAt": "2026-09-13T06:14:17.253513+09:00",
   "dateKST": "2026-09-13",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1473
+      "games": 1551
     }
   },
   "games": [
@@ -408,20 +408,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1473,
-    "evaluatedPicks": 425,
-    "correct": 234,
-    "accuracy": 55.06,
-    "coverage": 28.85,
+    "rawGames": 1551,
+    "evaluatedPicks": 436,
+    "correct": 244,
+    "accuracy": 55.96,
+    "coverage": 28.11,
     "YRFI": {
-      "picks": 238,
-      "correct": 126,
-      "accuracy": 52.94
+      "picks": 245,
+      "correct": 132,
+      "accuracy": 53.88
     },
     "NRFI": {
-      "picks": 187,
-      "correct": 108,
-      "accuracy": 57.75
+      "picks": 191,
+      "correct": 112,
+      "accuracy": 58.64
     },
     "window": 20,
     "minGames": 10,
