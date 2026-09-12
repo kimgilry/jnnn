@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T08:47:51.728354+09:00",
+  "generatedAt": "2026-09-12T09:20:35.467792+09:00",
   "dateKST": "2026-09-12",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -302,9 +302,9 @@
       "awayWinPct": 0.4898,
       "homeWinPct": 0.5306,
       "awayStarter": "Kumar Rocker",
-      "homeStarter": "",
+      "homeStarter": "Brandon Pfaadt",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
