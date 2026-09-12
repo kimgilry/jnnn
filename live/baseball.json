@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T14:47:58.027882+09:00",
+  "generatedAt": "2026-09-12T15:18:02.404387+09:00",
   "dateKST": "2026-09-12",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -281,7 +281,7 @@
       "homeLosses": 75,
       "awayWinPct": 0.5102,
       "homeWinPct": 0.4932,
-      "awayStarter": "Luis Castillo",
+      "awayStarter": "Sean Newcomb",
       "homeStarter": "Kyle Leahy",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
