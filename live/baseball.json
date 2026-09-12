@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T14:13:29.527006+09:00",
+  "generatedAt": "2026-09-12T14:30:43.429131+09:00",
   "dateKST": "2026-09-12",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1562
+      "games": 1563
     }
   },
   "games": [
@@ -135,12 +135,12 @@
       "status": "경기전",
       "away": "San Diego Padres",
       "home": "San Francisco Giants",
-      "awayWins": 78,
+      "awayWins": 79,
       "awayLosses": 68,
       "homeWins": 62,
-      "homeLosses": 85,
-      "awayWinPct": 0.5342,
-      "homeWinPct": 0.4218,
+      "homeLosses": 86,
+      "awayWinPct": 0.5374,
+      "homeWinPct": 0.4189,
       "awayStarter": "Michael King",
       "homeStarter": "Cesar Perdomo",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1562,
+    "rawGames": 1563,
     "evaluatedPicks": 441,
     "correct": 243,
     "accuracy": 55.1,
-    "coverage": 28.23,
+    "coverage": 28.21,
     "YRFI": {
       "picks": 245,
       "correct": 130,
@@ -564,7 +564,7 @@
       "San Diego Padres": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 16.7
+        "allowed1stPct": 20.0
       },
       "Seattle Mariners": {
         "games": 30,
@@ -573,7 +573,7 @@
       },
       "San Francisco Giants": {
         "games": 30,
-        "scored1stPct": 50.0,
+        "scored1stPct": 53.3,
         "allowed1stPct": 26.7
       },
       "Athletics": {
