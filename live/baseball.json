@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T13:14:27.198128+09:00",
+  "generatedAt": "2026-09-12T13:31:47.527916+09:00",
   "dateKST": "2026-09-12",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1559
+      "games": 1560
     }
   },
   "games": [
@@ -276,11 +276,11 @@
       "away": "Chicago White Sox",
       "home": "St. Louis Cardinals",
       "awayWins": 75,
-      "awayLosses": 71,
-      "homeWins": 72,
+      "awayLosses": 72,
+      "homeWins": 73,
       "homeLosses": 75,
-      "awayWinPct": 0.5137,
-      "homeWinPct": 0.4898,
+      "awayWinPct": 0.5102,
+      "homeWinPct": 0.4932,
       "awayStarter": "Luis Castillo",
       "homeStarter": "Kyle Leahy",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1559,
+    "rawGames": 1560,
     "evaluatedPicks": 441,
     "correct": 243,
     "accuracy": 55.1,
-    "coverage": 28.29,
+    "coverage": 28.27,
     "YRFI": {
       "picks": 245,
       "correct": 130,
