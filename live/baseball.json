@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T05:33:07.864423+09:00",
+  "generatedAt": "2026-09-13T05:55:07.618161+09:00",
   "dateKST": "2026-09-13",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1550
+      "games": 1473
     }
   },
   "games": [
@@ -256,11 +256,11 @@
       "away": "Pittsburgh Pirates",
       "home": "Chicago Cubs",
       "awayWins": 74,
-      "awayLosses": 74,
-      "homeWins": 82,
+      "awayLosses": 75,
+      "homeWins": 83,
       "homeLosses": 66,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5541,
+      "awayWinPct": 0.4966,
+      "homeWinPct": 0.557,
       "awayStarter": "Bubba Chandler",
       "homeStarter": "Matthew Boyd",
       "awayStarterStatus": "확인완료",
@@ -408,20 +408,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1550,
-    "evaluatedPicks": 436,
-    "correct": 244,
-    "accuracy": 55.96,
-    "coverage": 28.13,
+    "rawGames": 1473,
+    "evaluatedPicks": 425,
+    "correct": 234,
+    "accuracy": 55.06,
+    "coverage": 28.85,
     "YRFI": {
-      "picks": 245,
-      "correct": 132,
-      "accuracy": 53.88
+      "picks": 238,
+      "correct": 126,
+      "accuracy": 52.94
     },
     "NRFI": {
-      "picks": 191,
-      "correct": 112,
-      "accuracy": 58.64
+      "picks": 187,
+      "correct": 108,
+      "accuracy": 57.75
     },
     "window": 20,
     "minGames": 10,
@@ -478,8 +478,8 @@
       },
       "Pittsburgh Pirates": {
         "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 16.7
+        "scored1stPct": 30.0,
+        "allowed1stPct": 20.0
       },
       "Miami Marlins": {
         "games": 30,
