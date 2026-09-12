@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T04:34:15.044781+09:00",
+  "generatedAt": "2026-09-13T04:47:45.572512+09:00",
   "dateKST": "2026-09-13",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -181,9 +181,9 @@
       "homeLosses": 76,
       "awayWinPct": 0.6122,
       "homeWinPct": 0.4865,
-      "awayStarter": "Justin Wrobleski",
+      "awayStarter": "",
       "homeStarter": "Eury Pérez",
-      "awayStarterStatus": "확인완료",
+      "awayStarterStatus": "미확인",
       "homeStarterStatus": "확인완료"
     },
     {
