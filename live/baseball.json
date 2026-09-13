@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T09:22:04.611127+09:00",
+  "generatedAt": "2026-09-13T09:51:50.178125+09:00",
   "dateKST": "2026-09-13",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -161,9 +161,9 @@
       "homeLosses": 76,
       "awayWinPct": 0.6081,
       "homeWinPct": 0.4899,
-      "awayStarter": "",
+      "awayStarter": "Emmet Sheehan",
       "homeStarter": "Eury Pérez",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
