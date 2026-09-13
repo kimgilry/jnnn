@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T09:51:50.178125+09:00",
+  "generatedAt": "2026-09-13T10:12:43.227449+09:00",
   "dateKST": "2026-09-13",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1557
+      "games": 1558
     }
   },
   "games": [
@@ -136,11 +136,11 @@
       "away": "Houston Astros",
       "home": "Tampa Bay Rays",
       "awayWins": 75,
-      "awayLosses": 73,
-      "homeWins": 88,
+      "awayLosses": 74,
+      "homeWins": 89,
       "homeLosses": 59,
-      "awayWinPct": 0.5068,
-      "homeWinPct": 0.5986,
+      "awayWinPct": 0.5034,
+      "homeWinPct": 0.6014,
       "awayStarter": "Hayden Wesneski",
       "homeStarter": "Freddy Peralta",
       "awayStarterStatus": "확인완료",
@@ -408,20 +408,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1557,
-    "evaluatedPicks": 440,
+    "rawGames": 1558,
+    "evaluatedPicks": 441,
     "correct": 245,
-    "accuracy": 55.68,
-    "coverage": 28.26,
+    "accuracy": 55.56,
+    "coverage": 28.31,
     "YRFI": {
       "picks": 248,
       "correct": 133,
       "accuracy": 53.63
     },
     "NRFI": {
-      "picks": 192,
+      "picks": 193,
       "correct": 112,
-      "accuracy": 58.33
+      "accuracy": 58.03
     },
     "window": 20,
     "minGames": 10,
@@ -488,7 +488,7 @@
       },
       "Tampa Bay Rays": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 23.3,
         "allowed1stPct": 20.0
       },
       "Cincinnati Reds": {
@@ -508,7 +508,7 @@
       },
       "Houston Astros": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 36.7,
         "allowed1stPct": 23.3
       },
       "Chicago Cubs": {
