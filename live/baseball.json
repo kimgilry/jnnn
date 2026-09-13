@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T04:29:10.692889+09:00",
+  "generatedAt": "2026-09-14T04:47:28.193919+09:00",
   "dateKST": "2026-09-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -201,9 +201,9 @@
       "homeLosses": 92,
       "awayWinPct": 0.4698,
       "homeWinPct": 0.3784,
-      "awayStarter": "",
+      "awayStarter": "Kade Anderson",
       "homeStarter": "Reid Detmers",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -222,9 +222,9 @@
       "awayWinPct": 0.4899,
       "homeWinPct": 0.5302,
       "awayStarter": "Sandy Alcantara",
-      "homeStarter": "",
+      "homeStarter": "Corbin Burnes",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     }
   ],
   "firstInningMLB": {
