@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T05:31:46.718238+09:00",
+  "generatedAt": "2026-09-14T05:47:50.770731+09:00",
   "dateKST": "2026-09-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1553
+      "games": 1557
     }
   },
   "games": [
@@ -36,11 +36,11 @@
       "away": "Los Angeles Dodgers",
       "home": "Cincinnati Reds",
       "awayWins": 90,
-      "awayLosses": 58,
-      "homeWins": 69,
+      "awayLosses": 59,
+      "homeWins": 70,
       "homeLosses": 79,
-      "awayWinPct": 0.6081,
-      "homeWinPct": 0.4662,
+      "awayWinPct": 0.604,
+      "homeWinPct": 0.4698,
       "awayStarter": "Tarik Skubal",
       "homeStarter": "Nick Lodolo",
       "awayStarterStatus": "확인완료",
@@ -56,10 +56,10 @@
       "away": "Chicago White Sox",
       "home": "Cleveland Guardians",
       "awayWins": 76,
-      "awayLosses": 72,
+      "awayLosses": 73,
       "homeWins": 75,
       "homeLosses": 74,
-      "awayWinPct": 0.5135,
+      "awayWinPct": 0.5101,
       "homeWinPct": 0.5034,
       "awayStarter": "Sean Burke",
       "homeStarter": "",
@@ -116,10 +116,10 @@
       "away": "Atlanta Braves",
       "home": "Chicago Cubs",
       "awayWins": 88,
-      "awayLosses": 61,
+      "awayLosses": 62,
       "homeWins": 83,
       "homeLosses": 66,
-      "awayWinPct": 0.5906,
+      "awayWinPct": 0.5867,
       "homeWinPct": 0.557,
       "awayStarter": "Reynaldo López",
       "homeStarter": "David Peterson",
@@ -157,10 +157,10 @@
       "home": "St. Louis Cardinals",
       "awayWins": 62,
       "awayLosses": 87,
-      "homeWins": 73,
+      "homeWins": 74,
       "homeLosses": 76,
       "awayWinPct": 0.4161,
-      "homeWinPct": 0.4899,
+      "homeWinPct": 0.4933,
       "awayStarter": "",
       "homeStarter": "Quinn Mathews",
       "awayStarterStatus": "미확인",
@@ -215,11 +215,11 @@
       "status": "경기전",
       "away": "Miami Marlins",
       "home": "Arizona Diamondbacks",
-      "awayWins": 73,
+      "awayWins": 74,
       "awayLosses": 76,
       "homeWins": 79,
       "homeLosses": 70,
-      "awayWinPct": 0.4899,
+      "awayWinPct": 0.4933,
       "homeWinPct": 0.5302,
       "awayStarter": "Sandy Alcantara",
       "homeStarter": "Corbin Burnes",
@@ -228,15 +228,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1553,
-    "evaluatedPicks": 442,
+    "rawGames": 1557,
+    "evaluatedPicks": 444,
     "correct": 247,
-    "accuracy": 55.88,
-    "coverage": 28.46,
+    "accuracy": 55.63,
+    "coverage": 28.52,
     "YRFI": {
-      "picks": 250,
+      "picks": 252,
       "correct": 135,
-      "accuracy": 54.0
+      "accuracy": 53.57
     },
     "NRFI": {
       "picks": 192,
@@ -274,7 +274,7 @@
       "Philadelphia Phillies": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 26.7
       },
       "Pittsburgh Pirates": {
         "games": 30,
@@ -288,7 +288,7 @@
       },
       "Atlanta Braves": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 30.0,
         "allowed1stPct": 26.7
       },
       "Cincinnati Reds": {
@@ -384,7 +384,7 @@
       "Los Angeles Dodgers": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 30.0
+        "allowed1stPct": 26.7
       },
       "Los Angeles Angels": {
         "games": 30,
