@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T10:49:34.780239+09:00",
+  "generatedAt": "2026-09-13T11:14:55.684018+09:00",
   "dateKST": "2026-09-13",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1558
+      "games": 1560
     }
   },
   "games": [
@@ -76,11 +76,11 @@
       "away": "Philadelphia Phillies",
       "home": "Atlanta Braves",
       "awayWins": 82,
-      "awayLosses": 66,
-      "homeWins": 87,
+      "awayLosses": 67,
+      "homeWins": 88,
       "homeLosses": 61,
-      "awayWinPct": 0.5541,
-      "homeWinPct": 0.5878,
+      "awayWinPct": 0.5503,
+      "homeWinPct": 0.5906,
       "awayStarter": "Andrew Painter",
       "homeStarter": "Grant Holmes",
       "awayStarterStatus": "확인완료",
@@ -196,11 +196,11 @@
       "away": "Cincinnati Reds",
       "home": "Milwaukee Brewers",
       "awayWins": 69,
-      "awayLosses": 78,
-      "homeWins": 92,
+      "awayLosses": 79,
+      "homeWins": 93,
       "homeLosses": 56,
-      "awayWinPct": 0.4694,
-      "homeWinPct": 0.6216,
+      "awayWinPct": 0.4662,
+      "homeWinPct": 0.6242,
       "awayStarter": "Chase Burns",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -408,15 +408,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1558,
-    "evaluatedPicks": 441,
-    "correct": 245,
-    "accuracy": 55.56,
-    "coverage": 28.31,
+    "rawGames": 1560,
+    "evaluatedPicks": 442,
+    "correct": 246,
+    "accuracy": 55.66,
+    "coverage": 28.33,
     "YRFI": {
-      "picks": 248,
-      "correct": 133,
-      "accuracy": 53.63
+      "picks": 249,
+      "correct": 134,
+      "accuracy": 53.82
     },
     "NRFI": {
       "picks": 193,
@@ -473,7 +473,7 @@
       },
       "Philadelphia Phillies": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 30.0,
         "allowed1stPct": 23.3
       },
       "Pittsburgh Pirates": {
@@ -523,7 +523,7 @@
       },
       "Milwaukee Brewers": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 40.0,
         "allowed1stPct": 30.0
       },
       "Minnesota Twins": {
@@ -548,7 +548,7 @@
       },
       "Atlanta Braves": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 26.7
       },
       "New York Yankees": {
