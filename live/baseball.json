@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T00:48:09.569614+09:00",
+  "generatedAt": "2026-09-14T01:14:48.131287+09:00",
   "dateKST": "2026-09-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -41,9 +41,9 @@
       "homeLosses": 79,
       "awayWinPct": 0.6081,
       "homeWinPct": 0.4662,
-      "awayStarter": "",
+      "awayStarter": "Tarik Skubal",
       "homeStarter": "Nick Lodolo",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -162,9 +162,9 @@
       "awayWinPct": 0.4161,
       "homeWinPct": 0.4899,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Quinn Mathews",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
