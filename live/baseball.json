@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T08:30:15.945422+09:00",
+  "generatedAt": "2026-09-14T08:47:40.745741+09:00",
   "dateKST": "2026-09-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1560
+      "games": 1562
     }
   },
   "games": [
@@ -196,10 +196,10 @@
       "away": "Seattle Mariners",
       "home": "Los Angeles Angels",
       "awayWins": 70,
-      "awayLosses": 79,
+      "awayLosses": 80,
       "homeWins": 56,
       "homeLosses": 93,
-      "awayWinPct": 0.4698,
+      "awayWinPct": 0.4667,
       "homeWinPct": 0.3758,
       "awayStarter": "Kade Anderson",
       "homeStarter": "Reid Detmers",
@@ -228,15 +228,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1560,
-    "evaluatedPicks": 446,
-    "correct": 248,
-    "accuracy": 55.61,
-    "coverage": 28.59,
+    "rawGames": 1562,
+    "evaluatedPicks": 447,
+    "correct": 249,
+    "accuracy": 55.7,
+    "coverage": 28.62,
     "YRFI": {
-      "picks": 253,
-      "correct": 136,
-      "accuracy": 53.75
+      "picks": 254,
+      "correct": 137,
+      "accuracy": 53.94
     },
     "NRFI": {
       "picks": 193,
@@ -353,7 +353,7 @@
       },
       "Kansas City Royals": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 33.3,
         "allowed1stPct": 33.3
       },
       "St. Louis Cardinals": {
@@ -378,8 +378,8 @@
       },
       "Athletics": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 40.0
+        "scored1stPct": 30.0,
+        "allowed1stPct": 36.7
       },
       "Los Angeles Dodgers": {
         "games": 30,
@@ -399,7 +399,7 @@
       "Seattle Mariners": {
         "games": 30,
         "scored1stPct": 43.3,
-        "allowed1stPct": 46.7
+        "allowed1stPct": 50.0
       },
       "American League All-Stars": {
         "games": 1,
