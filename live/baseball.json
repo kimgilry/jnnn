@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T02:13:09.755227+09:00",
+  "generatedAt": "2026-09-14T02:30:01.384567+09:00",
   "dateKST": "2026-09-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -122,9 +122,9 @@
       "awayWinPct": 0.5906,
       "homeWinPct": 0.557,
       "awayStarter": "Reynaldo López",
-      "homeStarter": "",
+      "homeStarter": "David Peterson",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -221,9 +221,9 @@
       "homeLosses": 70,
       "awayWinPct": 0.4899,
       "homeWinPct": 0.5302,
-      "awayStarter": "",
+      "awayStarter": "Sandy Alcantara",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
     }
   ],
