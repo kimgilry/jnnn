@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T04:47:28.193919+09:00",
+  "generatedAt": "2026-09-14T05:14:30.886707+09:00",
   "dateKST": "2026-09-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1549
+      "games": 1550
     }
   },
   "games": [
@@ -198,9 +198,9 @@
       "awayWins": 70,
       "awayLosses": 79,
       "homeWins": 56,
-      "homeLosses": 92,
+      "homeLosses": 93,
       "awayWinPct": 0.4698,
-      "homeWinPct": 0.3784,
+      "homeWinPct": 0.3758,
       "awayStarter": "Kade Anderson",
       "homeStarter": "Reid Detmers",
       "awayStarterStatus": "확인완료",
@@ -228,20 +228,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1549,
-    "evaluatedPicks": 441,
-    "correct": 246,
-    "accuracy": 55.78,
-    "coverage": 28.47,
+    "rawGames": 1550,
+    "evaluatedPicks": 442,
+    "correct": 247,
+    "accuracy": 55.88,
+    "coverage": 28.52,
     "YRFI": {
       "picks": 250,
       "correct": 135,
       "accuracy": 54.0
     },
     "NRFI": {
-      "picks": 191,
-      "correct": 111,
-      "accuracy": 58.12
+      "picks": 192,
+      "correct": 112,
+      "accuracy": 58.33
     },
     "window": 20,
     "minGames": 10,
@@ -268,7 +268,7 @@
       },
       "Washington Nationals": {
         "games": 30,
-        "scored1stPct": 10.0,
+        "scored1stPct": 6.7,
         "allowed1stPct": 23.3
       },
       "Philadelphia Phillies": {
@@ -388,7 +388,7 @@
       },
       "Los Angeles Angels": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 23.3,
         "allowed1stPct": 13.3
       },
       "San Diego Padres": {
