@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T11:49:19.829423+09:00",
+  "generatedAt": "2026-09-13T12:14:56.667144+09:00",
   "dateKST": "2026-09-13",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1561
+      "games": 1562
     }
   },
   "games": [
@@ -215,12 +215,12 @@
       "status": "경기전",
       "away": "Chicago White Sox",
       "home": "St. Louis Cardinals",
-      "awayWins": 75,
+      "awayWins": 76,
       "awayLosses": 72,
       "homeWins": 73,
-      "homeLosses": 75,
-      "awayWinPct": 0.5102,
-      "homeWinPct": 0.4932,
+      "homeLosses": 76,
+      "awayWinPct": 0.5135,
+      "homeWinPct": 0.4899,
       "awayStarter": "",
       "homeStarter": "Michael McGreevy",
       "awayStarterStatus": "미확인",
@@ -295,12 +295,12 @@
       "status": "경기전",
       "away": "Texas Rangers",
       "home": "Arizona Diamondbacks",
-      "awayWins": 72,
+      "awayWins": 73,
       "awayLosses": 76,
       "homeWins": 79,
-      "homeLosses": 69,
-      "awayWinPct": 0.4865,
-      "homeWinPct": 0.5338,
+      "homeLosses": 70,
+      "awayWinPct": 0.4899,
+      "homeWinPct": 0.5302,
       "awayStarter": "",
       "homeStarter": "Eduardo Rodriguez",
       "awayStarterStatus": "미확인",
@@ -408,20 +408,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1561,
-    "evaluatedPicks": 443,
-    "correct": 246,
-    "accuracy": 55.53,
-    "coverage": 28.38,
+    "rawGames": 1562,
+    "evaluatedPicks": 444,
+    "correct": 247,
+    "accuracy": 55.63,
+    "coverage": 28.43,
     "YRFI": {
       "picks": 250,
       "correct": 134,
       "accuracy": 53.6
     },
     "NRFI": {
-      "picks": 193,
-      "correct": 112,
-      "accuracy": 58.03
+      "picks": 194,
+      "correct": 113,
+      "accuracy": 58.25
     },
     "window": 20,
     "minGames": 10,
@@ -453,7 +453,7 @@
       },
       "Arizona Diamondbacks": {
         "games": 30,
-        "scored1stPct": 23.3,
+        "scored1stPct": 20.0,
         "allowed1stPct": 30.0
       },
       "Colorado Rockies": {
@@ -504,7 +504,7 @@
       "Texas Rangers": {
         "games": 30,
         "scored1stPct": 20.0,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 23.3
       },
       "Houston Astros": {
         "games": 30,
