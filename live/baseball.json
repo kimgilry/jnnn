@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T03:50:42.544855+09:00",
+  "generatedAt": "2026-09-14T04:12:15.394819+09:00",
   "dateKST": "2026-09-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1548
+      "games": 1549
     }
   },
   "games": [
@@ -75,11 +75,11 @@
       "status": "경기전",
       "away": "Detroit Tigers",
       "home": "Toronto Blue Jays",
-      "awayWins": 69,
+      "awayWins": 70,
       "awayLosses": 79,
       "homeWins": 74,
       "homeLosses": 75,
-      "awayWinPct": 0.4662,
+      "awayWinPct": 0.4698,
       "homeWinPct": 0.4966,
       "awayStarter": "Troy Melton",
       "homeStarter": "José Soriano",
@@ -178,9 +178,9 @@
       "awayWins": 80,
       "awayLosses": 68,
       "homeWins": 55,
-      "homeLosses": 93,
+      "homeLosses": 94,
       "awayWinPct": 0.5405,
-      "homeWinPct": 0.3716,
+      "homeWinPct": 0.3691,
       "awayStarter": "",
       "homeStarter": "Tomoyuki Sugano",
       "awayStarterStatus": "미확인",
@@ -228,11 +228,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1548,
+    "rawGames": 1549,
     "evaluatedPicks": 441,
     "correct": 246,
     "accuracy": 55.78,
-    "coverage": 28.49,
+    "coverage": 28.47,
     "YRFI": {
       "picks": 250,
       "correct": 135,
@@ -308,8 +308,8 @@
       },
       "Detroit Tigers": {
         "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 36.7
+        "scored1stPct": 36.7,
+        "allowed1stPct": 40.0
       },
       "New York Yankees": {
         "games": 30,
@@ -368,7 +368,7 @@
       },
       "Colorado Rockies": {
         "games": 30,
-        "scored1stPct": 13.3,
+        "scored1stPct": 16.7,
         "allowed1stPct": 30.0
       },
       "San Francisco Giants": {
