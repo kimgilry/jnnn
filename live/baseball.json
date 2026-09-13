@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T01:49:43.691149+09:00",
+  "generatedAt": "2026-09-14T02:13:09.755227+09:00",
   "dateKST": "2026-09-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -101,9 +101,9 @@
       "homeLosses": 79,
       "awayWinPct": 0.4832,
       "homeWinPct": 0.4662,
-      "awayStarter": "",
+      "awayStarter": "Brandon Young",
       "homeStarter": "Jonah Tong",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -142,9 +142,9 @@
       "awayWinPct": 0.5743,
       "homeWinPct": 0.473,
       "awayStarter": "Will Warren",
-      "homeStarter": "",
+      "homeStarter": "Dean Kremer",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -202,9 +202,9 @@
       "awayWinPct": 0.4698,
       "homeWinPct": 0.3784,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Reid Detmers",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
