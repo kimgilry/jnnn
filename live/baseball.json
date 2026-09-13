@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T07:48:42.874390+09:00",
+  "generatedAt": "2026-09-14T08:13:30.034175+09:00",
   "dateKST": "2026-09-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -218,9 +218,9 @@
       "awayWins": 74,
       "awayLosses": 76,
       "homeWins": 79,
-      "homeLosses": 70,
+      "homeLosses": 71,
       "awayWinPct": 0.4933,
-      "homeWinPct": 0.5302,
+      "homeWinPct": 0.5267,
       "awayStarter": "Sandy Alcantara",
       "homeStarter": "Corbin Burnes",
       "awayStarterStatus": "확인완료",
