@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T12:49:20.198493+09:00",
+  "generatedAt": "2026-09-13T13:28:37.767517+09:00",
   "dateKST": "2026-09-13",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1562
+      "games": 1563
     }
   },
   "games": [
@@ -275,12 +275,12 @@
       "status": "경기전",
       "away": "Seattle Mariners",
       "home": "Athletics",
-      "awayWins": 69,
+      "awayWins": 70,
       "awayLosses": 79,
       "homeWins": 60,
-      "homeLosses": 88,
-      "awayWinPct": 0.4662,
-      "homeWinPct": 0.4054,
+      "homeLosses": 89,
+      "awayWinPct": 0.4698,
+      "homeWinPct": 0.4027,
       "awayStarter": "Bryce Miller",
       "homeStarter": "Jacob Lopez",
       "awayStarterStatus": "확인완료",
@@ -301,9 +301,9 @@
       "homeLosses": 70,
       "awayWinPct": 0.4899,
       "homeWinPct": 0.5302,
-      "awayStarter": "",
+      "awayStarter": "Cal Quantrill",
       "homeStarter": "Eduardo Rodriguez",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -408,15 +408,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1562,
-    "evaluatedPicks": 444,
-    "correct": 247,
-    "accuracy": 55.63,
-    "coverage": 28.43,
+    "rawGames": 1563,
+    "evaluatedPicks": 445,
+    "correct": 248,
+    "accuracy": 55.73,
+    "coverage": 28.47,
     "YRFI": {
-      "picks": 250,
-      "correct": 134,
-      "accuracy": 53.6
+      "picks": 251,
+      "correct": 135,
+      "accuracy": 53.78
     },
     "NRFI": {
       "picks": 194,
@@ -578,7 +578,7 @@
       },
       "Athletics": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 40.0
       },
       "American League All-Stars": {
