@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T08:29:20.417976+09:00",
+  "generatedAt": "2026-09-15T08:48:24.664096+09:00",
   "dateKST": "2026-09-15",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -282,9 +282,9 @@
       "awayWinPct": 0.5436,
       "homeWinPct": 0.3691,
       "awayStarter": "Walker Buehler",
-      "homeStarter": "",
+      "homeStarter": "Kyle Freeland",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
