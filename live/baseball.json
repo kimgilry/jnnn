@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T09:22:23.848336+09:00",
+  "generatedAt": "2026-09-14T09:53:45.598072+09:00",
   "dateKST": "2026-09-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -62,9 +62,9 @@
       "awayWinPct": 0.5101,
       "homeWinPct": 0.5067,
       "awayStarter": "Sean Newcomb",
-      "homeStarter": "",
+      "homeStarter": "Gavin Williams",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
