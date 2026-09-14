@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T11:15:21.451084+09:00",
+  "generatedAt": "2026-09-14T11:33:20.309555+09:00",
   "dateKST": "2026-09-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1562
+      "games": 1563
     }
   },
   "games": [
@@ -156,10 +156,10 @@
       "away": "San Francisco Giants",
       "home": "St. Louis Cardinals",
       "awayWins": 62,
-      "awayLosses": 87,
+      "awayLosses": 88,
       "homeWins": 74,
       "homeLosses": 76,
-      "awayWinPct": 0.4161,
+      "awayWinPct": 0.4133,
       "homeWinPct": 0.4933,
       "awayStarter": "Landen Roupp",
       "homeStarter": "Quinn Mathews",
@@ -175,11 +175,11 @@
       "status": "경기전",
       "away": "San Diego Padres",
       "home": "Colorado Rockies",
-      "awayWins": 80,
+      "awayWins": 81,
       "awayLosses": 68,
       "homeWins": 55,
       "homeLosses": 94,
-      "awayWinPct": 0.5405,
+      "awayWinPct": 0.5436,
       "homeWinPct": 0.3691,
       "awayStarter": "Casey Mize",
       "homeStarter": "Tomoyuki Sugano",
@@ -228,15 +228,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1562,
-    "evaluatedPicks": 447,
-    "correct": 249,
-    "accuracy": 55.7,
-    "coverage": 28.62,
+    "rawGames": 1563,
+    "evaluatedPicks": 448,
+    "correct": 250,
+    "accuracy": 55.8,
+    "coverage": 28.66,
     "YRFI": {
-      "picks": 254,
-      "correct": 137,
-      "accuracy": 53.94
+      "picks": 255,
+      "correct": 138,
+      "accuracy": 54.12
     },
     "NRFI": {
       "picks": 193,
@@ -374,7 +374,7 @@
       "San Francisco Giants": {
         "games": 30,
         "scored1stPct": 56.7,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 26.7
       },
       "Athletics": {
         "games": 30,
@@ -393,7 +393,7 @@
       },
       "San Diego Padres": {
         "games": 30,
-        "scored1stPct": 23.3,
+        "scored1stPct": 26.7,
         "allowed1stPct": 23.3
       },
       "Seattle Mariners": {
