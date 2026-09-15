@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T11:16:59.954763+09:00",
+  "generatedAt": "2026-09-15T11:35:27.005636+09:00",
   "dateKST": "2026-09-15",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1552
+      "games": 1554
     }
   },
   "games": [
@@ -176,11 +176,11 @@
       "away": "Atlanta Braves",
       "home": "Chicago Cubs",
       "awayWins": 88,
-      "awayLosses": 62,
-      "homeWins": 83,
+      "awayLosses": 63,
+      "homeWins": 84,
       "homeLosses": 67,
-      "awayWinPct": 0.5867,
-      "homeWinPct": 0.5533,
+      "awayWinPct": 0.5828,
+      "homeWinPct": 0.5563,
       "awayStarter": "Martín Pérez",
       "homeStarter": "Kevin Gausman",
       "awayStarterStatus": "확인완료",
@@ -216,11 +216,11 @@
       "away": "San Francisco Giants",
       "home": "St. Louis Cardinals",
       "awayWins": 62,
-      "awayLosses": 88,
-      "homeWins": 74,
+      "awayLosses": 89,
+      "homeWins": 75,
       "homeLosses": 76,
-      "awayWinPct": 0.4133,
-      "homeWinPct": 0.4933,
+      "awayWinPct": 0.4106,
+      "homeWinPct": 0.4967,
       "awayStarter": "Blade Tidwell",
       "homeStarter": "Andre Pallante",
       "awayStarterStatus": "확인완료",
@@ -408,15 +408,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1552,
-    "evaluatedPicks": 448,
+    "rawGames": 1554,
+    "evaluatedPicks": 449,
     "correct": 246,
-    "accuracy": 54.91,
-    "coverage": 28.87,
+    "accuracy": 54.79,
+    "coverage": 28.89,
     "YRFI": {
-      "picks": 255,
+      "picks": 256,
       "correct": 136,
-      "accuracy": 53.33
+      "accuracy": 53.12
     },
     "NRFI": {
       "picks": 193,
@@ -553,7 +553,7 @@
       },
       "San Francisco Giants": {
         "games": 30,
-        "scored1stPct": 56.7,
+        "scored1stPct": 53.3,
         "allowed1stPct": 26.7
       },
       "Arizona Diamondbacks": {
