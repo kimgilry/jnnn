@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T12:53:20.148679+09:00",
+  "generatedAt": "2026-09-15T13:16:10.339936+09:00",
   "dateKST": "2026-09-15",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1556
+      "games": 1557
     }
   },
   "games": [
@@ -296,11 +296,11 @@
       "away": "Seattle Mariners",
       "home": "Los Angeles Angels",
       "awayWins": 70,
-      "awayLosses": 80,
-      "homeWins": 56,
+      "awayLosses": 81,
+      "homeWins": 57,
       "homeLosses": 93,
-      "awayWinPct": 0.4667,
-      "homeWinPct": 0.3758,
+      "awayWinPct": 0.4636,
+      "homeWinPct": 0.38,
       "awayStarter": "Logan Gilbert",
       "homeStarter": "Ryan Johnson",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1556,
+    "rawGames": 1557,
     "evaluatedPicks": 450,
     "correct": 246,
     "accuracy": 54.67,
-    "coverage": 28.92,
+    "coverage": 28.9,
     "YRFI": {
       "picks": 256,
       "correct": 136,
@@ -538,8 +538,8 @@
       },
       "Los Angeles Angels": {
         "games": 30,
-        "scored1stPct": 23.3,
-        "allowed1stPct": 13.3
+        "scored1stPct": 26.7,
+        "allowed1stPct": 10.0
       },
       "Los Angeles Dodgers": {
         "games": 30,
@@ -568,8 +568,8 @@
       },
       "Seattle Mariners": {
         "games": 30,
-        "scored1stPct": 43.3,
-        "allowed1stPct": 50.0
+        "scored1stPct": 40.0,
+        "allowed1stPct": 53.3
       },
       "Pittsburgh Pirates": {
         "games": 30,
