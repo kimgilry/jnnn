@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T10:34:27.921329+09:00",
+  "generatedAt": "2026-09-15T10:52:42.156726+09:00",
   "dateKST": "2026-09-15",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1549
+      "games": 1550
     }
   },
   "games": [
@@ -75,12 +75,12 @@
       "status": "경기전",
       "away": "Chicago White Sox",
       "home": "Cleveland Guardians",
-      "awayWins": 76,
+      "awayWins": 77,
       "awayLosses": 73,
       "homeWins": 76,
-      "homeLosses": 74,
-      "awayWinPct": 0.5101,
-      "homeWinPct": 0.5067,
+      "homeLosses": 75,
+      "awayWinPct": 0.5133,
+      "homeWinPct": 0.5033,
       "awayStarter": "Davis Martin",
       "homeStarter": "Foster Griffin",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1549,
+    "rawGames": 1550,
     "evaluatedPicks": 447,
     "correct": 245,
     "accuracy": 54.81,
-    "coverage": 28.86,
+    "coverage": 28.84,
     "YRFI": {
       "picks": 254,
       "correct": 135,
@@ -433,8 +433,8 @@
     "teamRatesLast30": {
       "Cleveland Guardians": {
         "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 33.3
+        "scored1stPct": 33.3,
+        "allowed1stPct": 30.0
       },
       "Detroit Tigers": {
         "games": 30,
@@ -563,8 +563,8 @@
       },
       "Chicago White Sox": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 40.0
+        "scored1stPct": 26.7,
+        "allowed1stPct": 36.7
       },
       "Seattle Mariners": {
         "games": 30,
