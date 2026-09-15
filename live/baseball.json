@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T09:54:29.112703+09:00",
+  "generatedAt": "2026-09-15T10:15:20.512551+09:00",
   "dateKST": "2026-09-15",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1548
+      "games": 1549
     }
   },
   "games": [
@@ -35,12 +35,12 @@
       "status": "경기전",
       "away": "Los Angeles Dodgers",
       "home": "Cincinnati Reds",
-      "awayWins": 90,
+      "awayWins": 91,
       "awayLosses": 59,
       "homeWins": 70,
-      "homeLosses": 79,
-      "awayWinPct": 0.604,
-      "homeWinPct": 0.4698,
+      "homeLosses": 80,
+      "awayWinPct": 0.6067,
+      "homeWinPct": 0.4667,
       "awayStarter": "Yoshinobu Yamamoto",
       "homeStarter": "Rhett Lowder",
       "awayStarterStatus": "확인완료",
@@ -408,15 +408,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1548,
-    "evaluatedPicks": 446,
+    "rawGames": 1549,
+    "evaluatedPicks": 447,
     "correct": 245,
-    "accuracy": 54.93,
-    "coverage": 28.81,
+    "accuracy": 54.81,
+    "coverage": 28.86,
     "YRFI": {
-      "picks": 253,
+      "picks": 254,
       "correct": 135,
-      "accuracy": 53.36
+      "accuracy": 53.15
     },
     "NRFI": {
       "picks": 193,
@@ -453,8 +453,8 @@
       },
       "Cincinnati Reds": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 50.0
+        "scored1stPct": 23.3,
+        "allowed1stPct": 46.7
       },
       "Philadelphia Phillies": {
         "games": 30,
