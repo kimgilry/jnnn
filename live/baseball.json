@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T11:35:27.005636+09:00",
+  "generatedAt": "2026-09-15T11:52:57.800703+09:00",
   "dateKST": "2026-09-15",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1554
+      "games": 1555
     }
   },
   "games": [
@@ -195,12 +195,12 @@
       "status": "경기전",
       "away": "New York Yankees",
       "home": "Minnesota Twins",
-      "awayWins": 86,
+      "awayWins": 87,
       "awayLosses": 63,
       "homeWins": 70,
-      "homeLosses": 79,
-      "awayWinPct": 0.5772,
-      "homeWinPct": 0.4698,
+      "homeLosses": 80,
+      "awayWinPct": 0.58,
+      "homeWinPct": 0.4667,
       "awayStarter": "Max Fried",
       "homeStarter": "Bailey Ober",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1554,
+    "rawGames": 1555,
     "evaluatedPicks": 449,
     "correct": 246,
     "accuracy": 54.79,
-    "coverage": 28.89,
+    "coverage": 28.87,
     "YRFI": {
       "picks": 256,
       "correct": 136,
@@ -489,7 +489,7 @@
       "New York Yankees": {
         "games": 30,
         "scored1stPct": 20.0,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 20.0
       },
       "Boston Red Sox": {
         "games": 30,
