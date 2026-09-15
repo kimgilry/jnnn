@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T12:35:32.517739+09:00",
+  "generatedAt": "2026-09-15T12:53:20.148679+09:00",
   "dateKST": "2026-09-15",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1555
+      "games": 1556
     }
   },
   "games": [
@@ -275,12 +275,12 @@
       "status": "경기전",
       "away": "San Diego Padres",
       "home": "Colorado Rockies",
-      "awayWins": 81,
+      "awayWins": 82,
       "awayLosses": 68,
       "homeWins": 55,
-      "homeLosses": 94,
-      "awayWinPct": 0.5436,
-      "homeWinPct": 0.3691,
+      "homeLosses": 95,
+      "awayWinPct": 0.5467,
+      "homeWinPct": 0.3667,
       "awayStarter": "Walker Buehler",
       "homeStarter": "Kyle Freeland",
       "awayStarterStatus": "확인완료",
@@ -408,20 +408,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1555,
-    "evaluatedPicks": 449,
+    "rawGames": 1556,
+    "evaluatedPicks": 450,
     "correct": 246,
-    "accuracy": 54.79,
-    "coverage": 28.87,
+    "accuracy": 54.67,
+    "coverage": 28.92,
     "YRFI": {
       "picks": 256,
       "correct": 136,
       "accuracy": 53.12
     },
     "NRFI": {
-      "picks": 193,
+      "picks": 194,
       "correct": 110,
-      "accuracy": 56.99
+      "accuracy": 56.7
     },
     "window": 20,
     "minGames": 10,
@@ -528,7 +528,7 @@
       },
       "Colorado Rockies": {
         "games": 30,
-        "scored1stPct": 16.7,
+        "scored1stPct": 20.0,
         "allowed1stPct": 30.0
       },
       "Athletics": {
@@ -548,8 +548,8 @@
       },
       "San Diego Padres": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 23.3
+        "scored1stPct": 30.0,
+        "allowed1stPct": 26.7
       },
       "San Francisco Giants": {
         "games": 30,
