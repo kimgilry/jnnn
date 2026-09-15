@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T01:15:15.770628+09:00",
+  "generatedAt": "2026-09-16T01:33:51.501144+09:00",
   "dateKST": "2026-09-16",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -242,9 +242,9 @@
       "awayWinPct": 0.5467,
       "homeWinPct": 0.4933,
       "awayStarter": "Jake Bennett",
-      "homeStarter": "",
+      "homeStarter": "MacKenzie Gore",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
