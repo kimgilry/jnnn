@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T10:52:42.156726+09:00",
+  "generatedAt": "2026-09-15T11:16:59.954763+09:00",
   "dateKST": "2026-09-15",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1550
+      "games": 1552
     }
   },
   "games": [
@@ -135,12 +135,12 @@
       "status": "경기전",
       "away": "Detroit Tigers",
       "home": "Toronto Blue Jays",
-      "awayWins": 70,
+      "awayWins": 71,
       "awayLosses": 79,
       "homeWins": 75,
-      "homeLosses": 75,
-      "awayWinPct": 0.4698,
-      "homeWinPct": 0.5,
+      "homeLosses": 76,
+      "awayWinPct": 0.4733,
+      "homeWinPct": 0.4967,
       "awayStarter": "Drew Anderson",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -155,12 +155,12 @@
       "status": "경기전",
       "away": "Baltimore Orioles",
       "home": "New York Mets",
-      "awayWins": 72,
+      "awayWins": 73,
       "awayLosses": 78,
       "homeWins": 69,
-      "homeLosses": 80,
-      "awayWinPct": 0.48,
-      "homeWinPct": 0.4631,
+      "homeLosses": 81,
+      "awayWinPct": 0.4834,
+      "homeWinPct": 0.46,
       "awayStarter": "Shane Baz",
       "homeStarter": "Sean Manaea",
       "awayStarterStatus": "확인완료",
@@ -408,15 +408,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1550,
-    "evaluatedPicks": 447,
-    "correct": 245,
-    "accuracy": 54.81,
-    "coverage": 28.84,
+    "rawGames": 1552,
+    "evaluatedPicks": 448,
+    "correct": 246,
+    "accuracy": 54.91,
+    "coverage": 28.87,
     "YRFI": {
-      "picks": 254,
-      "correct": 135,
-      "accuracy": 53.15
+      "picks": 255,
+      "correct": 136,
+      "accuracy": 53.33
     },
     "NRFI": {
       "picks": 193,
@@ -438,13 +438,13 @@
       },
       "Detroit Tigers": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 33.3,
         "allowed1stPct": 40.0
       },
       "Baltimore Orioles": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 23.3
+        "scored1stPct": 23.3,
+        "allowed1stPct": 20.0
       },
       "Tampa Bay Rays": {
         "games": 30,
@@ -473,8 +473,8 @@
       },
       "New York Mets": {
         "games": 30,
-        "scored1stPct": 40.0,
-        "allowed1stPct": 30.0
+        "scored1stPct": 36.7,
+        "allowed1stPct": 26.7
       },
       "Washington Nationals": {
         "games": 30,
@@ -483,7 +483,7 @@
       },
       "Toronto Blue Jays": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 33.3,
         "allowed1stPct": 33.3
       },
       "New York Yankees": {
