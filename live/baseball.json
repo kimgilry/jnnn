@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T11:52:57.800703+09:00",
+  "generatedAt": "2026-09-15T12:16:25.768349+09:00",
   "dateKST": "2026-09-15",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -142,9 +142,9 @@
       "awayWinPct": 0.4733,
       "homeWinPct": 0.4967,
       "awayStarter": "Drew Anderson",
-      "homeStarter": "",
+      "homeStarter": "Braydon Fisher",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
