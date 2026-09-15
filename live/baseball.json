@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T13:35:12.596926+09:00",
+  "generatedAt": "2026-09-15T13:53:16.956025+09:00",
   "dateKST": "2026-09-15",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1557
+      "games": 1558
     }
   },
   "games": [
@@ -316,11 +316,11 @@
       "away": "Miami Marlins",
       "home": "Arizona Diamondbacks",
       "awayWins": 74,
-      "awayLosses": 76,
-      "homeWins": 79,
+      "awayLosses": 77,
+      "homeWins": 80,
       "homeLosses": 71,
-      "awayWinPct": 0.4933,
-      "homeWinPct": 0.5267,
+      "awayWinPct": 0.4901,
+      "homeWinPct": 0.5298,
       "awayStarter": "Janson Junk",
       "homeStarter": "Michael Soroka",
       "awayStarterStatus": "확인완료",
@@ -408,20 +408,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1557,
-    "evaluatedPicks": 450,
-    "correct": 246,
-    "accuracy": 54.67,
-    "coverage": 28.9,
+    "rawGames": 1558,
+    "evaluatedPicks": 451,
+    "correct": 247,
+    "accuracy": 54.77,
+    "coverage": 28.95,
     "YRFI": {
       "picks": 256,
       "correct": 136,
       "accuracy": 53.12
     },
     "NRFI": {
-      "picks": 194,
-      "correct": 110,
-      "accuracy": 56.7
+      "picks": 195,
+      "correct": 111,
+      "accuracy": 56.92
     },
     "window": 20,
     "minGames": 10,
@@ -558,7 +558,7 @@
       },
       "Arizona Diamondbacks": {
         "games": 30,
-        "scored1stPct": 16.7,
+        "scored1stPct": 13.3,
         "allowed1stPct": 33.3
       },
       "Chicago White Sox": {
