@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T12:51:03.867439+09:00",
+  "generatedAt": "2026-09-16T13:15:33.185439+09:00",
   "dateKST": "2026-09-16",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1557
+      "games": 1558
     }
   },
   "games": [
@@ -296,11 +296,11 @@
       "away": "Seattle Mariners",
       "home": "Los Angeles Angels",
       "awayWins": 70,
-      "awayLosses": 81,
-      "homeWins": 57,
+      "awayLosses": 82,
+      "homeWins": 58,
       "homeLosses": 93,
-      "awayWinPct": 0.4636,
-      "homeWinPct": 0.38,
+      "awayWinPct": 0.4605,
+      "homeWinPct": 0.3841,
       "awayStarter": "George Kirby",
       "homeStarter": "Yusei Kikuchi",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1557,
+    "rawGames": 1558,
     "evaluatedPicks": 459,
     "correct": 254,
     "accuracy": 55.34,
-    "coverage": 29.48,
+    "coverage": 29.46,
     "YRFI": {
       "picks": 262,
       "correct": 141,
