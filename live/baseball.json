@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T05:33:04.285891+09:00",
+  "generatedAt": "2026-09-17T05:51:01.819801+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -141,9 +141,9 @@
       "homeLosses": 82,
       "awayWinPct": 0.5497,
       "homeWinPct": 0.457,
-      "awayStarter": "",
+      "awayStarter": "Aaron Nola",
       "homeStarter": "Nolan McLean",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
