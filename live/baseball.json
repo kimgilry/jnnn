@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T11:50:38.446493+09:00",
+  "generatedAt": "2026-09-16T12:15:14.277832+09:00",
   "dateKST": "2026-09-16",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1555
+      "games": 1557
     }
   },
   "games": [
@@ -236,11 +236,11 @@
       "away": "Boston Red Sox",
       "home": "Texas Rangers",
       "awayWins": 82,
-      "awayLosses": 68,
-      "homeWins": 74,
+      "awayLosses": 69,
+      "homeWins": 75,
       "homeLosses": 76,
-      "awayWinPct": 0.5467,
-      "homeWinPct": 0.4933,
+      "awayWinPct": 0.543,
+      "homeWinPct": 0.4967,
       "awayStarter": "Jake Bennett",
       "homeStarter": "MacKenzie Gore",
       "awayStarterStatus": "확인완료",
@@ -276,11 +276,11 @@
       "away": "San Diego Padres",
       "home": "Colorado Rockies",
       "awayWins": 82,
-      "awayLosses": 68,
-      "homeWins": 55,
+      "awayLosses": 69,
+      "homeWins": 56,
       "homeLosses": 95,
-      "awayWinPct": 0.5467,
-      "homeWinPct": 0.3667,
+      "awayWinPct": 0.543,
+      "homeWinPct": 0.3709,
       "awayStarter": "Robbie Ray",
       "homeStarter": "Mason Adams",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1555,
+    "rawGames": 1557,
     "evaluatedPicks": 459,
     "correct": 254,
     "accuracy": 55.34,
-    "coverage": 29.52,
+    "coverage": 29.48,
     "YRFI": {
       "picks": 262,
       "correct": 141,
@@ -493,7 +493,7 @@
       },
       "Boston Red Sox": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 23.3,
         "allowed1stPct": 30.0
       },
       "Kansas City Royals": {
@@ -558,7 +558,7 @@
       },
       "San Diego Padres": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 33.3,
         "allowed1stPct": 26.7
       },
       "San Francisco Giants": {
