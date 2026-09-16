@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T06:15:31.046546+09:00",
+  "generatedAt": "2026-09-17T06:32:50.760989+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1546
+      "games": 1547
     }
   },
   "games": [
@@ -248,15 +248,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1546,
-    "evaluatedPicks": 452,
-    "correct": 248,
-    "accuracy": 54.87,
-    "coverage": 29.24,
+    "rawGames": 1547,
+    "evaluatedPicks": 453,
+    "correct": 249,
+    "accuracy": 54.97,
+    "coverage": 29.28,
     "YRFI": {
-      "picks": 251,
-      "correct": 133,
-      "accuracy": 52.99
+      "picks": 252,
+      "correct": 134,
+      "accuracy": 53.17
     },
     "NRFI": {
       "picks": 201,
@@ -299,7 +299,7 @@
       "Minnesota Twins": {
         "games": 30,
         "scored1stPct": 46.7,
-        "allowed1stPct": 40.0
+        "allowed1stPct": 36.7
       },
       "Texas Rangers": {
         "games": 30,
@@ -369,7 +369,7 @@
       "New York Yankees": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 20.0
+        "allowed1stPct": 23.3
       },
       "Boston Red Sox": {
         "games": 30,
