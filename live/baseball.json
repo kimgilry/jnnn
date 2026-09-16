@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T09:52:36.390050+09:00",
+  "generatedAt": "2026-09-16T10:14:07.076867+09:00",
   "dateKST": "2026-09-16",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1544
+      "games": 1547
     }
   },
   "games": [
@@ -115,12 +115,12 @@
       "status": "경기전",
       "away": "Los Angeles Dodgers",
       "home": "Cincinnati Reds",
-      "awayWins": 91,
+      "awayWins": 92,
       "awayLosses": 59,
       "homeWins": 70,
-      "homeLosses": 80,
-      "awayWinPct": 0.6067,
-      "homeWinPct": 0.4667,
+      "homeLosses": 81,
+      "awayWinPct": 0.6093,
+      "homeWinPct": 0.4636,
       "awayStarter": "Blake Snell",
       "homeStarter": "Andrew Abbott",
       "awayStarterStatus": "확인완료",
@@ -136,11 +136,11 @@
       "away": "Athletics",
       "home": "Tampa Bay Rays",
       "awayWins": 61,
-      "awayLosses": 89,
-      "homeWins": 90,
+      "awayLosses": 90,
+      "homeWins": 91,
       "homeLosses": 59,
-      "awayWinPct": 0.4067,
-      "homeWinPct": 0.604,
+      "awayWinPct": 0.404,
+      "homeWinPct": 0.6067,
       "awayStarter": "Brady Basso",
       "homeStarter": "Nick Martinez",
       "awayStarterStatus": "확인완료",
@@ -176,11 +176,11 @@
       "away": "Philadelphia Phillies",
       "home": "Washington Nationals",
       "awayWins": 83,
-      "awayLosses": 67,
-      "homeWins": 70,
+      "awayLosses": 68,
+      "homeWins": 71,
       "homeLosses": 81,
-      "awayWinPct": 0.5533,
-      "homeWinPct": 0.4636,
+      "awayWinPct": 0.5497,
+      "homeWinPct": 0.4671,
       "awayStarter": "Zack Wheeler",
       "homeStarter": "Cade Cavalli",
       "awayStarterStatus": "확인완료",
@@ -408,20 +408,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1544,
-    "evaluatedPicks": 456,
+    "rawGames": 1547,
+    "evaluatedPicks": 457,
     "correct": 253,
-    "accuracy": 55.48,
-    "coverage": 29.53,
+    "accuracy": 55.36,
+    "coverage": 29.54,
     "YRFI": {
       "picks": 260,
       "correct": 140,
       "accuracy": 53.85
     },
     "NRFI": {
-      "picks": 196,
+      "picks": 197,
       "correct": 113,
-      "accuracy": 57.65
+      "accuracy": 57.36
     },
     "window": 20,
     "minGames": 10,
@@ -468,8 +468,8 @@
       },
       "Philadelphia Phillies": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 26.7
+        "scored1stPct": 33.3,
+        "allowed1stPct": 30.0
       },
       "New York Mets": {
         "games": 30,
@@ -478,8 +478,8 @@
       },
       "Washington Nationals": {
         "games": 30,
-        "scored1stPct": 6.7,
-        "allowed1stPct": 23.3
+        "scored1stPct": 10.0,
+        "allowed1stPct": 26.7
       },
       "Toronto Blue Jays": {
         "games": 30,
