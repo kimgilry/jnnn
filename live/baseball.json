@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T04:31:43.193460+09:00",
+  "generatedAt": "2026-09-17T04:47:48.604144+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1544
+      "games": 1545
     }
   },
   "games": [
@@ -158,9 +158,9 @@
       "awayWins": 72,
       "awayLosses": 79,
       "homeWins": 77,
-      "homeLosses": 74,
+      "homeLosses": 75,
       "awayWinPct": 0.4768,
-      "homeWinPct": 0.5099,
+      "homeWinPct": 0.5066,
       "awayStarter": "Framber Valdez",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -248,11 +248,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1544,
+    "rawGames": 1545,
     "evaluatedPicks": 451,
     "correct": 248,
     "accuracy": 54.99,
-    "coverage": 29.21,
+    "coverage": 29.19,
     "YRFI": {
       "picks": 250,
       "correct": 133,
@@ -323,8 +323,8 @@
       },
       "Chicago White Sox": {
         "games": 30,
-        "scored1stPct": 23.3,
-        "allowed1stPct": 40.0
+        "scored1stPct": 20.0,
+        "allowed1stPct": 36.7
       },
       "Seattle Mariners": {
         "games": 30,
