@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T05:15:54.673860+09:00",
+  "generatedAt": "2026-09-17T05:33:04.285891+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1545
+      "games": 1546
     }
   },
   "games": [
@@ -162,9 +162,9 @@
       "awayWinPct": 0.4768,
       "homeWinPct": 0.5066,
       "awayStarter": "Framber Valdez",
-      "homeStarter": "",
+      "homeStarter": "Erick Fedde",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -248,15 +248,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1545,
-    "evaluatedPicks": 451,
+    "rawGames": 1546,
+    "evaluatedPicks": 452,
     "correct": 248,
-    "accuracy": 54.99,
-    "coverage": 29.19,
+    "accuracy": 54.87,
+    "coverage": 29.24,
     "YRFI": {
-      "picks": 250,
+      "picks": 251,
       "correct": 133,
-      "accuracy": 53.2
+      "accuracy": 52.99
     },
     "NRFI": {
       "picks": 201,
@@ -398,7 +398,7 @@
       },
       "St. Louis Cardinals": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 40.0
       },
       "Los Angeles Dodgers": {
