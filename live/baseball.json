@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T14:14:10.039213+09:00",
+  "generatedAt": "2026-09-16T14:32:39.517059+09:00",
   "dateKST": "2026-09-16",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1558
+      "games": 1559
     }
   },
   "games": [
@@ -315,12 +315,12 @@
       "status": "경기전",
       "away": "Miami Marlins",
       "home": "Arizona Diamondbacks",
-      "awayWins": 74,
+      "awayWins": 75,
       "awayLosses": 77,
       "homeWins": 80,
-      "homeLosses": 71,
-      "awayWinPct": 0.4901,
-      "homeWinPct": 0.5298,
+      "homeLosses": 72,
+      "awayWinPct": 0.4934,
+      "homeWinPct": 0.5263,
       "awayStarter": "Ryan Gusto",
       "homeStarter": "Merrill Kelly",
       "awayStarterStatus": "확인완료",
@@ -408,20 +408,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1558,
-    "evaluatedPicks": 459,
+    "rawGames": 1559,
+    "evaluatedPicks": 460,
     "correct": 254,
-    "accuracy": 55.34,
-    "coverage": 29.46,
+    "accuracy": 55.22,
+    "coverage": 29.51,
     "YRFI": {
       "picks": 262,
       "correct": 141,
       "accuracy": 53.82
     },
     "NRFI": {
-      "picks": 197,
+      "picks": 198,
       "correct": 113,
-      "accuracy": 57.36
+      "accuracy": 57.07
     },
     "window": 20,
     "minGames": 10,
@@ -439,7 +439,7 @@
       "Miami Marlins": {
         "games": 30,
         "scored1stPct": 16.7,
-        "allowed1stPct": 16.7
+        "allowed1stPct": 20.0
       },
       "Cleveland Guardians": {
         "games": 30,
