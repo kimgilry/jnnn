@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T06:32:50.760989+09:00",
+  "generatedAt": "2026-09-17T06:49:55.164801+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1547
+      "games": 1548
     }
   },
   "games": [
@@ -156,10 +156,10 @@
       "away": "Detroit Tigers",
       "home": "Chicago White Sox",
       "awayWins": 72,
-      "awayLosses": 79,
+      "awayLosses": 80,
       "homeWins": 77,
       "homeLosses": 75,
-      "awayWinPct": 0.4768,
+      "awayWinPct": 0.4737,
       "homeWinPct": 0.5066,
       "awayStarter": "Framber Valdez",
       "homeStarter": "Erick Fedde",
@@ -195,11 +195,11 @@
       "status": "경기전",
       "away": "Minnesota Twins",
       "home": "Los Angeles Angels",
-      "awayWins": 70,
+      "awayWins": 71,
       "awayLosses": 81,
       "homeWins": 58,
       "homeLosses": 93,
-      "awayWinPct": 0.4636,
+      "awayWinPct": 0.4671,
       "homeWinPct": 0.3841,
       "awayStarter": "Taj Bradley",
       "homeStarter": "",
@@ -248,15 +248,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1547,
-    "evaluatedPicks": 453,
-    "correct": 249,
-    "accuracy": 54.97,
-    "coverage": 29.28,
+    "rawGames": 1548,
+    "evaluatedPicks": 454,
+    "correct": 250,
+    "accuracy": 55.07,
+    "coverage": 29.33,
     "YRFI": {
-      "picks": 252,
-      "correct": 134,
-      "accuracy": 53.17
+      "picks": 253,
+      "correct": 135,
+      "accuracy": 53.36
     },
     "NRFI": {
       "picks": 201,
@@ -338,8 +338,8 @@
       },
       "Detroit Tigers": {
         "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 40.0
+        "scored1stPct": 36.7,
+        "allowed1stPct": 36.7
       },
       "Atlanta Braves": {
         "games": 30,
