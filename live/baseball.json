@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T10:30:53.269270+09:00",
+  "generatedAt": "2026-09-16T10:49:44.449258+09:00",
   "dateKST": "2026-09-16",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1547
+      "games": 1549
     }
   },
   "games": [
@@ -36,11 +36,11 @@
       "away": "Chicago White Sox",
       "home": "Cleveland Guardians",
       "awayWins": 77,
-      "awayLosses": 73,
-      "homeWins": 76,
+      "awayLosses": 74,
+      "homeWins": 77,
       "homeLosses": 75,
-      "awayWinPct": 0.5133,
-      "homeWinPct": 0.5033,
+      "awayWinPct": 0.5099,
+      "homeWinPct": 0.5066,
       "awayStarter": "",
       "homeStarter": "Parker Messick",
       "awayStarterStatus": "미확인",
@@ -155,12 +155,12 @@
       "status": "경기전",
       "away": "Milwaukee Brewers",
       "home": "Pittsburgh Pirates",
-      "awayWins": 93,
+      "awayWins": 94,
       "awayLosses": 57,
       "homeWins": 75,
-      "homeLosses": 75,
-      "awayWinPct": 0.62,
-      "homeWinPct": 0.5,
+      "homeLosses": 76,
+      "awayWinPct": 0.6225,
+      "homeWinPct": 0.4967,
       "awayStarter": "Logan Henderson",
       "homeStarter": "Jared Jones",
       "awayStarterStatus": "확인완료",
@@ -182,7 +182,7 @@
       "awayWinPct": 0.5497,
       "homeWinPct": 0.4671,
       "awayStarter": "Zack Wheeler",
-      "homeStarter": "Cade Cavalli",
+      "homeStarter": "Jared Simpson",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1547,
+    "rawGames": 1549,
     "evaluatedPicks": 457,
     "correct": 253,
     "accuracy": 55.36,
-    "coverage": 29.54,
+    "coverage": 29.5,
     "YRFI": {
       "picks": 260,
       "correct": 140,
@@ -443,7 +443,7 @@
       },
       "Cleveland Guardians": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 36.7,
         "allowed1stPct": 30.0
       },
       "Detroit Tigers": {
@@ -573,8 +573,8 @@
       },
       "Chicago White Sox": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 36.7
+        "scored1stPct": 23.3,
+        "allowed1stPct": 40.0
       },
       "Seattle Mariners": {
         "games": 30,
