@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T01:15:30.341891+09:00",
+  "generatedAt": "2026-09-17T01:32:52.443074+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -201,9 +201,9 @@
       "homeLosses": 93,
       "awayWinPct": 0.4636,
       "homeWinPct": 0.3841,
-      "awayStarter": "",
+      "awayStarter": "Taj Bradley",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
     },
     {
