@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T04:13:48.305244+09:00",
+  "generatedAt": "2026-09-17T04:31:43.193460+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -41,7 +41,7 @@
       "homeLosses": 76,
       "awayWinPct": 0.6225,
       "homeWinPct": 0.4967,
-      "awayStarter": "Dustin May",
+      "awayStarter": "Kyle Harrison",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
