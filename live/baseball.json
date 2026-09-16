@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T08:31:16.723446+09:00",
+  "generatedAt": "2026-09-17T08:47:41.922552+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -202,9 +202,9 @@
       "awayWinPct": 0.4671,
       "homeWinPct": 0.3841,
       "awayStarter": "Taj Bradley",
-      "homeStarter": "",
+      "homeStarter": "Walbert Ureña",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "KBO Official",
