@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T10:49:44.449258+09:00",
+  "generatedAt": "2026-09-16T11:15:18.131113+09:00",
   "dateKST": "2026-09-16",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1549
+      "games": 1550
     }
   },
   "games": [
@@ -95,12 +95,12 @@
       "status": "경기전",
       "away": "Detroit Tigers",
       "home": "Toronto Blue Jays",
-      "awayWins": 71,
+      "awayWins": 72,
       "awayLosses": 79,
       "homeWins": 75,
-      "homeLosses": 76,
-      "awayWinPct": 0.4733,
-      "homeWinPct": 0.4967,
+      "homeLosses": 77,
+      "awayWinPct": 0.4768,
+      "homeWinPct": 0.4934,
       "awayStarter": "Keider Montero",
       "homeStarter": "Max Scherzer",
       "awayStarterStatus": "확인완료",
@@ -408,15 +408,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1549,
-    "evaluatedPicks": 457,
+    "rawGames": 1550,
+    "evaluatedPicks": 458,
     "correct": 253,
-    "accuracy": 55.36,
-    "coverage": 29.5,
+    "accuracy": 55.24,
+    "coverage": 29.55,
     "YRFI": {
-      "picks": 260,
+      "picks": 261,
       "correct": 140,
-      "accuracy": 53.85
+      "accuracy": 53.64
     },
     "NRFI": {
       "picks": 197,
