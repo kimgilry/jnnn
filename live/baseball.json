@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T11:32:53.875473+09:00",
+  "generatedAt": "2026-09-16T11:50:38.446493+09:00",
   "dateKST": "2026-09-16",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1553
+      "games": 1555
     }
   },
   "games": [
@@ -55,12 +55,12 @@
       "status": "경기전",
       "away": "San Francisco Giants",
       "home": "St. Louis Cardinals",
-      "awayWins": 62,
+      "awayWins": 63,
       "awayLosses": 89,
       "homeWins": 75,
-      "homeLosses": 76,
-      "awayWinPct": 0.4106,
-      "homeWinPct": 0.4967,
+      "homeLosses": 77,
+      "awayWinPct": 0.4145,
+      "homeWinPct": 0.4934,
       "awayStarter": "Anthony Molina",
       "homeStarter": "Matthew Liberatore",
       "awayStarterStatus": "확인완료",
@@ -195,12 +195,12 @@
       "status": "경기전",
       "away": "Baltimore Orioles",
       "home": "New York Mets",
-      "awayWins": 73,
+      "awayWins": 74,
       "awayLosses": 78,
       "homeWins": 69,
-      "homeLosses": 81,
-      "awayWinPct": 0.4834,
-      "homeWinPct": 0.46,
+      "homeLosses": 82,
+      "awayWinPct": 0.4868,
+      "homeWinPct": 0.457,
       "awayStarter": "Chris Bassitt",
       "homeStarter": "Robert Stock",
       "awayStarterStatus": "확인완료",
@@ -256,11 +256,11 @@
       "away": "Kansas City Royals",
       "home": "Houston Astros",
       "awayWins": 66,
-      "awayLosses": 84,
-      "homeWins": 75,
+      "awayLosses": 85,
+      "homeWins": 76,
       "homeLosses": 75,
-      "awayWinPct": 0.44,
-      "homeWinPct": 0.5,
+      "awayWinPct": 0.4371,
+      "homeWinPct": 0.5033,
       "awayStarter": "Daniel Lynch IV",
       "homeStarter": "Cristian Javier",
       "awayStarterStatus": "확인완료",
@@ -408,15 +408,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1553,
-    "evaluatedPicks": 458,
-    "correct": 253,
-    "accuracy": 55.24,
-    "coverage": 29.49,
+    "rawGames": 1555,
+    "evaluatedPicks": 459,
+    "correct": 254,
+    "accuracy": 55.34,
+    "coverage": 29.52,
     "YRFI": {
-      "picks": 261,
-      "correct": 140,
-      "accuracy": 53.64
+      "picks": 262,
+      "correct": 141,
+      "accuracy": 53.82
     },
     "NRFI": {
       "picks": 197,
@@ -454,7 +454,7 @@
       "Baltimore Orioles": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 20.0
+        "allowed1stPct": 23.3
       },
       "Tampa Bay Rays": {
         "games": 30,
@@ -473,7 +473,7 @@
       },
       "New York Mets": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 40.0,
         "allowed1stPct": 26.7
       },
       "Washington Nationals": {
@@ -528,8 +528,8 @@
       },
       "St. Louis Cardinals": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 36.7
+        "scored1stPct": 30.0,
+        "allowed1stPct": 40.0
       },
       "Texas Rangers": {
         "games": 30,
@@ -563,8 +563,8 @@
       },
       "San Francisco Giants": {
         "games": 30,
-        "scored1stPct": 53.3,
-        "allowed1stPct": 26.7
+        "scored1stPct": 56.7,
+        "allowed1stPct": 30.0
       },
       "Arizona Diamondbacks": {
         "games": 30,
