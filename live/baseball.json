@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T11:15:18.131113+09:00",
+  "generatedAt": "2026-09-16T11:32:53.875473+09:00",
   "dateKST": "2026-09-16",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1550
+      "games": 1553
     }
   },
   "games": [
@@ -75,12 +75,12 @@
       "status": "경기전",
       "away": "New York Yankees",
       "home": "Minnesota Twins",
-      "awayWins": 87,
+      "awayWins": 88,
       "awayLosses": 63,
       "homeWins": 70,
-      "homeLosses": 80,
-      "awayWinPct": 0.58,
-      "homeWinPct": 0.4667,
+      "homeLosses": 81,
+      "awayWinPct": 0.5828,
+      "homeWinPct": 0.4636,
       "awayStarter": "Carlos Rodón",
       "homeStarter": "Zebby Matthews",
       "awayStarterStatus": "확인완료",
@@ -215,12 +215,12 @@
       "status": "경기전",
       "away": "Atlanta Braves",
       "home": "Chicago Cubs",
-      "awayWins": 88,
+      "awayWins": 89,
       "awayLosses": 63,
       "homeWins": 84,
-      "homeLosses": 67,
-      "awayWinPct": 0.5828,
-      "homeWinPct": 0.5563,
+      "homeLosses": 68,
+      "awayWinPct": 0.5855,
+      "homeWinPct": 0.5526,
       "awayStarter": "JR Ritchie",
       "homeStarter": "Shota Imanaga",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1550,
+    "rawGames": 1553,
     "evaluatedPicks": 458,
     "correct": 253,
     "accuracy": 55.24,
-    "coverage": 29.55,
+    "coverage": 29.49,
     "YRFI": {
       "picks": 261,
       "correct": 140,
@@ -434,7 +434,7 @@
       "Atlanta Braves": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 23.3
       },
       "Miami Marlins": {
         "games": 30,
@@ -488,7 +488,7 @@
       },
       "New York Yankees": {
         "games": 30,
-        "scored1stPct": 20.0,
+        "scored1stPct": 23.3,
         "allowed1stPct": 20.0
       },
       "Boston Red Sox": {
@@ -499,11 +499,11 @@
       "Kansas City Royals": {
         "games": 30,
         "scored1stPct": 33.3,
-        "allowed1stPct": 33.3
+        "allowed1stPct": 36.7
       },
       "Houston Astros": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 36.7,
         "allowed1stPct": 26.7
       },
       "Minnesota Twins": {
