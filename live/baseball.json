@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T12:51:22.406769+09:00",
+  "generatedAt": "2026-09-17T13:15:57.559146+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -182,9 +182,9 @@
       "awayWinPct": 0.5395,
       "homeWinPct": 0.5,
       "awayStarter": "Sonny Gray",
-      "homeStarter": "",
+      "homeStarter": "Tyler Alexander",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
