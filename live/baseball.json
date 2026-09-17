@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T13:33:56.022296+09:00",
+  "generatedAt": "2026-09-17T13:51:19.601602+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1558
+      "games": 1559
     }
   },
   "games": [
@@ -198,9 +198,9 @@
       "awayWins": 71,
       "awayLosses": 81,
       "homeWins": 58,
-      "homeLosses": 93,
+      "homeLosses": 94,
       "awayWinPct": 0.4671,
-      "homeWinPct": 0.3841,
+      "homeWinPct": 0.3816,
       "awayStarter": "Taj Bradley",
       "homeStarter": "Walbert Ureña",
       "awayStarterStatus": "확인완료",
@@ -248,11 +248,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1558,
+    "rawGames": 1559,
     "evaluatedPicks": 456,
     "correct": 252,
     "accuracy": 55.26,
-    "coverage": 29.27,
+    "coverage": 29.25,
     "YRFI": {
       "picks": 254,
       "correct": 136,
@@ -418,8 +418,8 @@
       },
       "Los Angeles Angels": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 10.0
+        "scored1stPct": 30.0,
+        "allowed1stPct": 13.3
       },
       "American League All-Stars": {
         "games": 1,
