@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T03:54:28.502668+09:00",
+  "generatedAt": "2026-09-18T04:13:17.522888+09:00",
   "dateKST": "2026-09-18",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -222,9 +222,9 @@
       "awayWinPct": 0.5817,
       "homeWinPct": 0.5,
       "awayStarter": "Tyler Mahle",
-      "homeStarter": "",
+      "homeStarter": "Peter Lambert",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
