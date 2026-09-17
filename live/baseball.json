@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T05:15:55.561814+09:00",
+  "generatedAt": "2026-09-18T07:54:23.675221+09:00",
   "dateKST": "2026-09-18",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1547
+      "games": 1548
     }
   },
   "games": [
@@ -101,9 +101,9 @@
       "homeLosses": 75,
       "awayWinPct": 0.3987,
       "homeWinPct": 0.5098,
-      "awayStarter": "",
+      "awayStarter": "Mason Barnett",
       "homeStarter": "Daniel Espino",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -198,9 +198,9 @@
       "awayWins": 71,
       "awayLosses": 82,
       "homeWins": 56,
-      "homeLosses": 96,
+      "homeLosses": 97,
       "awayWinPct": 0.4641,
-      "homeWinPct": 0.3684,
+      "homeWinPct": 0.366,
       "awayStarter": "Bryan Woo",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -277,10 +277,10 @@
       "home": "San Diego Padres",
       "awayWins": 76,
       "awayLosses": 77,
-      "homeWins": 83,
+      "homeWins": 84,
       "homeLosses": 69,
       "awayWinPct": 0.4967,
-      "homeWinPct": 0.5461,
+      "homeWinPct": 0.549,
       "awayStarter": "Tyler Phillips",
       "homeStarter": "Nick Pivetta",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1547,
+    "rawGames": 1548,
     "evaluatedPicks": 459,
     "correct": 252,
     "accuracy": 54.9,
-    "coverage": 29.67,
+    "coverage": 29.65,
     "YRFI": {
       "picks": 251,
       "correct": 135,
@@ -493,7 +493,7 @@
       },
       "Colorado Rockies": {
         "games": 30,
-        "scored1stPct": 23.3,
+        "scored1stPct": 26.7,
         "allowed1stPct": 33.3
       },
       "Arizona Diamondbacks": {
@@ -564,7 +564,7 @@
       "San Diego Padres": {
         "games": 30,
         "scored1stPct": 36.7,
-        "allowed1stPct": 30.0
+        "allowed1stPct": 33.3
       },
       "Chicago White Sox": {
         "games": 30,
