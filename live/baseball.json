@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T04:48:08.505549+09:00",
+  "generatedAt": "2026-09-18T05:15:55.561814+09:00",
   "dateKST": "2026-09-18",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1546
+      "games": 1547
     }
   },
   "games": [
@@ -96,10 +96,10 @@
       "away": "Athletics",
       "home": "Cleveland Guardians",
       "awayWins": 61,
-      "awayLosses": 91,
+      "awayLosses": 92,
       "homeWins": 78,
       "homeLosses": 75,
-      "awayWinPct": 0.4013,
+      "awayWinPct": 0.3987,
       "homeWinPct": 0.5098,
       "awayStarter": "",
       "homeStarter": "Daniel Espino",
@@ -117,10 +117,10 @@
       "home": "Tampa Bay Rays",
       "awayWins": 82,
       "awayLosses": 70,
-      "homeWins": 92,
+      "homeWins": 93,
       "homeLosses": 59,
       "awayWinPct": 0.5395,
-      "homeWinPct": 0.6093,
+      "homeWinPct": 0.6118,
       "awayStarter": "Ranger Suarez",
       "homeStarter": "Ian Seymour",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1546,
+    "rawGames": 1547,
     "evaluatedPicks": 459,
     "correct": 252,
     "accuracy": 54.9,
-    "coverage": 29.69,
+    "coverage": 29.67,
     "YRFI": {
       "picks": 251,
       "correct": 135,
