@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T09:53:20.083860+09:00",
+  "generatedAt": "2026-09-17T10:14:48.293900+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1548
+      "games": 1549
     }
   },
   "games": [
@@ -76,11 +76,11 @@
       "away": "Athletics",
       "home": "Tampa Bay Rays",
       "awayWins": 61,
-      "awayLosses": 90,
-      "homeWins": 91,
+      "awayLosses": 91,
+      "homeWins": 92,
       "homeLosses": 59,
-      "awayWinPct": 0.404,
-      "homeWinPct": 0.6067,
+      "awayWinPct": 0.4013,
+      "homeWinPct": 0.6093,
       "awayStarter": "Jeffrey Springs",
       "homeStarter": "Drew Rasmussen",
       "awayStarterStatus": "확인완료",
@@ -248,11 +248,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1548,
+    "rawGames": 1549,
     "evaluatedPicks": 454,
     "correct": 250,
     "accuracy": 55.07,
-    "coverage": 29.33,
+    "coverage": 29.31,
     "YRFI": {
       "picks": 253,
       "correct": 135,
@@ -288,7 +288,7 @@
       },
       "Tampa Bay Rays": {
         "games": 30,
-        "scored1stPct": 23.3,
+        "scored1stPct": 26.7,
         "allowed1stPct": 20.0
       },
       "Houston Astros": {
@@ -413,8 +413,8 @@
       },
       "Athletics": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 36.7
+        "scored1stPct": 26.7,
+        "allowed1stPct": 40.0
       },
       "Los Angeles Angels": {
         "games": 30,
