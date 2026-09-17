@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T02:49:41.894309+09:00",
+  "generatedAt": "2026-09-18T03:17:56.653730+09:00",
   "dateKST": "2026-09-18",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -121,9 +121,9 @@
       "homeLosses": 59,
       "awayWinPct": 0.5395,
       "homeWinPct": 0.6093,
-      "awayStarter": "",
+      "awayStarter": "Ranger Suarez",
       "homeStarter": "Ian Seymour",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
