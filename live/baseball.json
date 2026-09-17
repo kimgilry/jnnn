@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T00:15:42.943999+09:00",
+  "generatedAt": "2026-09-18T00:32:19.641235+09:00",
   "dateKST": "2026-09-18",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -122,9 +122,9 @@
       "awayWinPct": 0.5395,
       "homeWinPct": 0.6093,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Ian Seymour",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -322,9 +322,9 @@
       "awayWinPct": 0.4183,
       "homeWinPct": 0.6053,
       "awayStarter": "Cesar Perdomo",
-      "homeStarter": "",
+      "homeStarter": "Tyler Glasnow",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "KBO Official",
