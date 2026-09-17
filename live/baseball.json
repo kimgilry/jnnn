@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T10:31:56.067848+09:00",
+  "generatedAt": "2026-09-17T10:51:04.441260+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1549
+      "games": 1552
     }
   },
   "games": [
@@ -35,12 +35,12 @@
       "status": "경기전",
       "away": "Milwaukee Brewers",
       "home": "Pittsburgh Pirates",
-      "awayWins": 94,
+      "awayWins": 95,
       "awayLosses": 57,
       "homeWins": 75,
-      "homeLosses": 76,
-      "awayWinPct": 0.6225,
-      "homeWinPct": 0.4967,
+      "homeLosses": 77,
+      "awayWinPct": 0.625,
+      "homeWinPct": 0.4934,
       "awayStarter": "Kyle Harrison",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -56,11 +56,11 @@
       "away": "Los Angeles Dodgers",
       "home": "Cincinnati Reds",
       "awayWins": 92,
-      "awayLosses": 59,
-      "homeWins": 70,
+      "awayLosses": 60,
+      "homeWins": 71,
       "homeLosses": 81,
-      "awayWinPct": 0.6093,
-      "homeWinPct": 0.4636,
+      "awayWinPct": 0.6053,
+      "homeWinPct": 0.4671,
       "awayStarter": "",
       "homeStarter": "Brady Singer",
       "awayStarterStatus": "미확인",
@@ -135,11 +135,11 @@
       "status": "경기전",
       "away": "Philadelphia Phillies",
       "home": "New York Mets",
-      "awayWins": 83,
+      "awayWins": 84,
       "awayLosses": 68,
       "homeWins": 69,
       "homeLosses": 82,
-      "awayWinPct": 0.5497,
+      "awayWinPct": 0.5526,
       "homeWinPct": 0.457,
       "awayStarter": "Aaron Nola",
       "homeStarter": "Nolan McLean",
@@ -248,11 +248,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1549,
+    "rawGames": 1552,
     "evaluatedPicks": 454,
     "correct": 250,
     "accuracy": 55.07,
-    "coverage": 29.31,
+    "coverage": 29.25,
     "YRFI": {
       "picks": 253,
       "correct": 135,
@@ -278,7 +278,7 @@
       },
       "Philadelphia Phillies": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 36.7,
         "allowed1stPct": 30.0
       },
       "Baltimore Orioles": {
@@ -359,7 +359,7 @@
       "Washington Nationals": {
         "games": 30,
         "scored1stPct": 10.0,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 30.0
       },
       "Toronto Blue Jays": {
         "games": 30,
