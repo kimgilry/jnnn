@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T13:15:57.559146+09:00",
+  "generatedAt": "2026-09-17T13:33:56.022296+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1557
+      "games": 1558
     }
   },
   "games": [
@@ -248,20 +248,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1557,
-    "evaluatedPicks": 455,
-    "correct": 251,
-    "accuracy": 55.16,
-    "coverage": 29.22,
+    "rawGames": 1558,
+    "evaluatedPicks": 456,
+    "correct": 252,
+    "accuracy": 55.26,
+    "coverage": 29.27,
     "YRFI": {
       "picks": 254,
       "correct": 136,
       "accuracy": 53.54
     },
     "NRFI": {
-      "picks": 201,
-      "correct": 115,
-      "accuracy": 57.21
+      "picks": 202,
+      "correct": 116,
+      "accuracy": 57.43
     },
     "window": 20,
     "minGames": 10,
@@ -318,7 +318,7 @@
       },
       "Arizona Diamondbacks": {
         "games": 30,
-        "scored1stPct": 13.3,
+        "scored1stPct": 10.0,
         "allowed1stPct": 33.3
       },
       "Chicago White Sox": {
