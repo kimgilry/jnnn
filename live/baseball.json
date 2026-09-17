@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T11:50:44.872686+09:00",
+  "generatedAt": "2026-09-17T12:15:29.096053+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1555
+      "games": 1556
     }
   },
   "games": [
@@ -42,9 +42,9 @@
       "awayWinPct": 0.625,
       "homeWinPct": 0.4934,
       "awayStarter": "Kyle Harrison",
-      "homeStarter": "",
+      "homeStarter": "Wilber Dotel",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -115,12 +115,12 @@
       "status": "경기전",
       "away": "Kansas City Royals",
       "home": "Houston Astros",
-      "awayWins": 66,
+      "awayWins": 67,
       "awayLosses": 85,
       "homeWins": 76,
-      "homeLosses": 75,
-      "awayWinPct": 0.4371,
-      "homeWinPct": 0.5033,
+      "homeLosses": 76,
+      "awayWinPct": 0.4408,
+      "homeWinPct": 0.5,
       "awayStarter": "Seth Lugo",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -176,11 +176,11 @@
       "away": "Boston Red Sox",
       "home": "Texas Rangers",
       "awayWins": 82,
-      "awayLosses": 69,
-      "homeWins": 75,
+      "awayLosses": 70,
+      "homeWins": 76,
       "homeLosses": 76,
-      "awayWinPct": 0.543,
-      "homeWinPct": 0.4967,
+      "awayWinPct": 0.5395,
+      "homeWinPct": 0.5,
       "awayStarter": "Sonny Gray",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -248,11 +248,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1555,
+    "rawGames": 1556,
     "evaluatedPicks": 455,
     "correct": 251,
     "accuracy": 55.16,
-    "coverage": 29.26,
+    "coverage": 29.24,
     "YRFI": {
       "picks": 254,
       "correct": 136,
@@ -294,7 +294,7 @@
       "Houston Astros": {
         "games": 30,
         "scored1stPct": 36.7,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 23.3
       },
       "Minnesota Twins": {
         "games": 30,
