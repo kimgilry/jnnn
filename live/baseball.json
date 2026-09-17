@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T12:15:29.096053+09:00",
+  "generatedAt": "2026-09-17T12:33:40.069008+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1556
+      "games": 1557
     }
   },
   "games": [
@@ -95,12 +95,12 @@
       "status": "경기전",
       "away": "San Diego Padres",
       "home": "Colorado Rockies",
-      "awayWins": 82,
+      "awayWins": 83,
       "awayLosses": 69,
       "homeWins": 56,
-      "homeLosses": 95,
-      "awayWinPct": 0.543,
-      "homeWinPct": 0.3709,
+      "homeLosses": 96,
+      "awayWinPct": 0.5461,
+      "homeWinPct": 0.3684,
       "awayStarter": "Michael King",
       "homeStarter": "Tanner Gordon",
       "awayStarterStatus": "확인완료",
@@ -248,11 +248,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1556,
+    "rawGames": 1557,
     "evaluatedPicks": 455,
     "correct": 251,
     "accuracy": 55.16,
-    "coverage": 29.24,
+    "coverage": 29.22,
     "YRFI": {
       "picks": 254,
       "correct": 136,
@@ -308,8 +308,8 @@
       },
       "Colorado Rockies": {
         "games": 30,
-        "scored1stPct": 20.0,
-        "allowed1stPct": 30.0
+        "scored1stPct": 23.3,
+        "allowed1stPct": 33.3
       },
       "San Francisco Giants": {
         "games": 30,
@@ -408,8 +408,8 @@
       },
       "San Diego Padres": {
         "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 26.7
+        "scored1stPct": 36.7,
+        "allowed1stPct": 30.0
       },
       "Athletics": {
         "games": 30,
