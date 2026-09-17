@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T11:33:04.768107+09:00",
+  "generatedAt": "2026-09-17T11:50:44.872686+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1554
+      "games": 1555
     }
   },
   "games": [
@@ -248,11 +248,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1554,
+    "rawGames": 1555,
     "evaluatedPicks": 455,
     "correct": 251,
     "accuracy": 55.16,
-    "coverage": 29.28,
+    "coverage": 29.26,
     "YRFI": {
       "picks": 254,
       "correct": 136,
@@ -303,8 +303,8 @@
       },
       "Texas Rangers": {
         "games": 30,
-        "scored1stPct": 20.0,
-        "allowed1stPct": 23.3
+        "scored1stPct": 23.3,
+        "allowed1stPct": 26.7
       },
       "Colorado Rockies": {
         "games": 30,
@@ -373,8 +373,8 @@
       },
       "Boston Red Sox": {
         "games": 30,
-        "scored1stPct": 23.3,
-        "allowed1stPct": 30.0
+        "scored1stPct": 26.7,
+        "allowed1stPct": 33.3
       },
       "Kansas City Royals": {
         "games": 30,
