@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T11:14:57.232762+09:00",
+  "generatedAt": "2026-09-17T11:33:04.768107+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1553
+      "games": 1554
     }
   },
   "games": [
@@ -61,9 +61,9 @@
       "homeLosses": 81,
       "awayWinPct": 0.6053,
       "homeWinPct": 0.4671,
-      "awayStarter": "",
+      "awayStarter": "Justin Wrobleski",
       "homeStarter": "Brady Singer",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -248,11 +248,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1553,
+    "rawGames": 1554,
     "evaluatedPicks": 455,
     "correct": 251,
     "accuracy": 55.16,
-    "coverage": 29.3,
+    "coverage": 29.28,
     "YRFI": {
       "picks": 254,
       "correct": 136,
@@ -343,8 +343,8 @@
       },
       "Atlanta Braves": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 23.3
+        "scored1stPct": 26.7,
+        "allowed1stPct": 26.7
       },
       "Miami Marlins": {
         "games": 30,
@@ -388,7 +388,7 @@
       },
       "Chicago Cubs": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 36.7,
         "allowed1stPct": 30.0
       },
       "Pittsburgh Pirates": {
