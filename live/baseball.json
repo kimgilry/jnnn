@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T04:13:17.522888+09:00",
+  "generatedAt": "2026-09-18T04:30:32.047606+09:00",
   "dateKST": "2026-09-18",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1544
+      "games": 1545
     }
   },
   "games": [
@@ -38,9 +38,9 @@
       "awayWins": 85,
       "awayLosses": 68,
       "homeWins": 71,
-      "homeLosses": 81,
+      "homeLosses": 82,
       "awayWinPct": 0.5556,
-      "homeWinPct": 0.4671,
+      "homeWinPct": 0.4641,
       "awayStarter": "",
       "homeStarter": "Chase Burns",
       "awayStarterStatus": "미확인",
@@ -317,10 +317,10 @@
       "home": "Los Angeles Dodgers",
       "awayWins": 64,
       "awayLosses": 89,
-      "homeWins": 92,
+      "homeWins": 93,
       "homeLosses": 60,
       "awayWinPct": 0.4183,
-      "homeWinPct": 0.6053,
+      "homeWinPct": 0.6078,
       "awayStarter": "Cesar Perdomo",
       "homeStarter": "Tyler Glasnow",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1544,
+    "rawGames": 1545,
     "evaluatedPicks": 459,
     "correct": 252,
     "accuracy": 54.9,
-    "coverage": 29.73,
+    "coverage": 29.71,
     "YRFI": {
       "picks": 251,
       "correct": 135,
@@ -579,7 +579,7 @@
       "Cincinnati Reds": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 46.7
+        "allowed1stPct": 50.0
       },
       "American League All-Stars": {
         "games": 1,
