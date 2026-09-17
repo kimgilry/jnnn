@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T10:51:04.441260+09:00",
+  "generatedAt": "2026-09-17T11:14:57.232762+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1552
+      "games": 1553
     }
   },
   "games": [
@@ -138,9 +138,9 @@
       "awayWins": 84,
       "awayLosses": 68,
       "homeWins": 69,
-      "homeLosses": 82,
+      "homeLosses": 83,
       "awayWinPct": 0.5526,
-      "homeWinPct": 0.457,
+      "homeWinPct": 0.4539,
       "awayStarter": "Aaron Nola",
       "homeStarter": "Nolan McLean",
       "awayStarterStatus": "확인완료",
@@ -248,15 +248,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1552,
-    "evaluatedPicks": 454,
-    "correct": 250,
-    "accuracy": 55.07,
-    "coverage": 29.25,
+    "rawGames": 1553,
+    "evaluatedPicks": 455,
+    "correct": 251,
+    "accuracy": 55.16,
+    "coverage": 29.3,
     "YRFI": {
-      "picks": 253,
-      "correct": 135,
-      "accuracy": 53.36
+      "picks": 254,
+      "correct": 136,
+      "accuracy": 53.54
     },
     "NRFI": {
       "picks": 201,
@@ -283,7 +283,7 @@
       },
       "Baltimore Orioles": {
         "games": 30,
-        "scored1stPct": 23.3,
+        "scored1stPct": 26.7,
         "allowed1stPct": 23.3
       },
       "Tampa Bay Rays": {
@@ -354,7 +354,7 @@
       "New York Mets": {
         "games": 30,
         "scored1stPct": 40.0,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 30.0
       },
       "Washington Nationals": {
         "games": 30,
