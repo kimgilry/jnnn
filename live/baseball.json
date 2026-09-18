@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T07:54:23.675221+09:00",
+  "generatedAt": "2026-09-18T10:08:32.162859+09:00",
   "dateKST": "2026-09-18",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -182,9 +182,9 @@
       "awayWinPct": 0.4967,
       "homeWinPct": 0.5,
       "awayStarter": "Dylan Cease",
-      "homeStarter": "",
+      "homeStarter": "Kumar Rocker",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
