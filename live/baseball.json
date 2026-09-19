@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T05:21:22.695281+09:00",
+  "generatedAt": "2026-09-20T07:29:04.619507+09:00",
   "dateKST": "2026-09-20",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1547
+      "games": 1549
     }
   },
   "games": [
@@ -156,11 +156,11 @@
       "away": "Detroit Tigers",
       "home": "Chicago White Sox",
       "awayWins": 73,
-      "awayLosses": 81,
-      "homeWins": 78,
+      "awayLosses": 82,
+      "homeWins": 79,
       "homeLosses": 76,
-      "awayWinPct": 0.474,
-      "homeWinPct": 0.5065,
+      "awayWinPct": 0.471,
+      "homeWinPct": 0.5097,
       "awayStarter": "Troy Melton",
       "homeStarter": "Davis Martin",
       "awayStarterStatus": "확인완료",
@@ -315,12 +315,12 @@
       "status": "경기전",
       "away": "Milwaukee Brewers",
       "home": "Baltimore Orioles",
-      "awayWins": 96,
+      "awayWins": 97,
       "awayLosses": 58,
       "homeWins": 75,
-      "homeLosses": 79,
-      "awayWinPct": 0.6234,
-      "homeWinPct": 0.487,
+      "homeLosses": 80,
+      "awayWinPct": 0.6258,
+      "homeWinPct": 0.4839,
       "awayStarter": "Jacob Misiorowski",
       "homeStarter": "Brandon Young",
       "awayStarterStatus": "확인완료",
@@ -428,15 +428,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1547,
-    "evaluatedPicks": 459,
-    "correct": 250,
-    "accuracy": 54.47,
-    "coverage": 29.67,
+    "rawGames": 1549,
+    "evaluatedPicks": 460,
+    "correct": 251,
+    "accuracy": 54.57,
+    "coverage": 29.7,
     "YRFI": {
-      "picks": 255,
-      "correct": 136,
-      "accuracy": 53.33
+      "picks": 256,
+      "correct": 137,
+      "accuracy": 53.52
     },
     "NRFI": {
       "picks": 204,
@@ -493,8 +493,8 @@
       },
       "Chicago White Sox": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 36.7
+        "scored1stPct": 30.0,
+        "allowed1stPct": 33.3
       },
       "San Francisco Giants": {
         "games": 30,
@@ -583,8 +583,8 @@
       },
       "Detroit Tigers": {
         "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 40.0
+        "scored1stPct": 33.3,
+        "allowed1stPct": 43.3
       },
       "Baltimore Orioles": {
         "games": 30,
