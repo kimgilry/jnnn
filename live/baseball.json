@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T02:52:14.755965+09:00",
+  "generatedAt": "2026-09-20T05:21:22.695281+09:00",
   "dateKST": "2026-09-20",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -121,9 +121,9 @@
       "homeLosses": 60,
       "awayWinPct": 0.5455,
       "homeWinPct": 0.6078,
-      "awayStarter": "",
+      "awayStarter": "Patrick Sandoval",
       "homeStarter": "Griffin Jax",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
