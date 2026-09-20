@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T02:31:45.560582+09:00",
+  "generatedAt": "2026-09-21T04:43:46.705246+09:00",
   "dateKST": "2026-09-21",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -81,10 +81,10 @@
       "homeLosses": 91,
       "awayWinPct": 0.4645,
       "homeWinPct": 0.4129,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "awayStarter": "Bailey Ober",
+      "homeStarter": "Blade Tidwell",
+      "awayStarterStatus": "확인완료",
+      "homeStarterStatus": "확인완료"
     }
   ],
   "firstInningMLB": {
