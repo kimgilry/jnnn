@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T07:29:04.619507+09:00",
+  "generatedAt": "2026-09-20T09:22:52.323348+09:00",
   "dateKST": "2026-09-20",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1549
+      "games": 1551
     }
   },
   "games": [
@@ -36,11 +36,11 @@
       "away": "Philadelphia Phillies",
       "home": "New York Mets",
       "awayWins": 85,
-      "awayLosses": 69,
-      "homeWins": 70,
+      "awayLosses": 70,
+      "homeWins": 71,
       "homeLosses": 84,
-      "awayWinPct": 0.5519,
-      "homeWinPct": 0.4545,
+      "awayWinPct": 0.5484,
+      "homeWinPct": 0.4581,
       "awayStarter": "Cristopher Sánchez",
       "homeStarter": "Jonah Tong",
       "awayStarterStatus": "확인완료",
@@ -116,11 +116,11 @@
       "away": "Boston Red Sox",
       "home": "Tampa Bay Rays",
       "awayWins": 84,
-      "awayLosses": 70,
-      "homeWins": 93,
+      "awayLosses": 71,
+      "homeWins": 94,
       "homeLosses": 60,
-      "awayWinPct": 0.5455,
-      "homeWinPct": 0.6078,
+      "awayWinPct": 0.5419,
+      "homeWinPct": 0.6104,
       "awayStarter": "Patrick Sandoval",
       "homeStarter": "Griffin Jax",
       "awayStarterStatus": "확인완료",
@@ -428,15 +428,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1549,
-    "evaluatedPicks": 460,
+    "rawGames": 1551,
+    "evaluatedPicks": 461,
     "correct": 251,
-    "accuracy": 54.57,
-    "coverage": 29.7,
+    "accuracy": 54.45,
+    "coverage": 29.72,
     "YRFI": {
-      "picks": 256,
+      "picks": 257,
       "correct": 137,
-      "accuracy": 53.52
+      "accuracy": 53.31
     },
     "NRFI": {
       "picks": 204,
@@ -489,7 +489,7 @@
       "Philadelphia Phillies": {
         "games": 30,
         "scored1stPct": 33.3,
-        "allowed1stPct": 33.3
+        "allowed1stPct": 30.0
       },
       "Chicago White Sox": {
         "games": 30,
