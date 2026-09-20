@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T14:23:56.183137+09:00",
+  "generatedAt": "2026-09-20T19:05:31.914865+09:00",
   "dateKST": "2026-09-20",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -201,9 +201,9 @@
       "homeLosses": 77,
       "awayWinPct": 0.4903,
       "homeWinPct": 0.5032,
-      "awayStarter": "",
+      "awayStarter": "Spencer Miles",
       "homeStarter": "Jacob deGrom",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
