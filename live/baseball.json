@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T04:43:46.705246+09:00",
+  "generatedAt": "2026-09-21T07:18:22.082602+09:00",
   "dateKST": "2026-09-21",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1548
+      "games": 1557
     }
   },
   "games": [
@@ -35,16 +35,16 @@
       "status": "경기전",
       "away": "Toronto Blue Jays",
       "home": "Baltimore Orioles",
-      "awayWins": 76,
+      "awayWins": 77,
       "awayLosses": 79,
       "homeWins": 75,
       "homeLosses": 80,
-      "awayWinPct": 0.4903,
+      "awayWinPct": 0.4936,
       "homeWinPct": 0.4839,
       "awayStarter": "Trey Yesavage",
-      "homeStarter": "",
+      "homeStarter": "Shane Baz",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -56,10 +56,10 @@
       "away": "Washington Nationals",
       "home": "Detroit Tigers",
       "awayWins": 73,
-      "awayLosses": 82,
+      "awayLosses": 83,
       "homeWins": 73,
       "homeLosses": 82,
-      "awayWinPct": 0.471,
+      "awayWinPct": 0.4679,
       "homeWinPct": 0.471,
       "awayStarter": "",
       "homeStarter": "River Ryan",
@@ -88,15 +88,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1548,
-    "evaluatedPicks": 454,
-    "correct": 248,
-    "accuracy": 54.63,
-    "coverage": 29.33,
+    "rawGames": 1557,
+    "evaluatedPicks": 457,
+    "correct": 249,
+    "accuracy": 54.49,
+    "coverage": 29.35,
     "YRFI": {
-      "picks": 261,
-      "correct": 139,
-      "accuracy": 53.26
+      "picks": 264,
+      "correct": 140,
+      "accuracy": 53.03
     },
     "NRFI": {
       "picks": 193,
@@ -113,12 +113,12 @@
     "teamRatesLast30": {
       "Pittsburgh Pirates": {
         "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 20.0
+        "scored1stPct": 30.0,
+        "allowed1stPct": 23.3
       },
       "Toronto Blue Jays": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 36.7,
         "allowed1stPct": 36.7
       },
       "Detroit Tigers": {
@@ -138,23 +138,23 @@
       },
       "Boston Red Sox": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 36.7
+        "scored1stPct": 26.7,
+        "allowed1stPct": 40.0
       },
       "Cleveland Guardians": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 33.3,
         "allowed1stPct": 33.3
       },
       "Philadelphia Phillies": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 36.7,
         "allowed1stPct": 30.0
       },
       "Tampa Bay Rays": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 23.3
+        "scored1stPct": 33.3,
+        "allowed1stPct": 20.0
       },
       "New York Yankees": {
         "games": 30,
@@ -163,8 +163,8 @@
       },
       "New York Mets": {
         "games": 30,
-        "scored1stPct": 40.0,
-        "allowed1stPct": 30.0
+        "scored1stPct": 36.7,
+        "allowed1stPct": 33.3
       },
       "Miami Marlins": {
         "games": 30,
@@ -174,12 +174,12 @@
       "Seattle Mariners": {
         "games": 30,
         "scored1stPct": 43.3,
-        "allowed1stPct": 53.3
+        "allowed1stPct": 50.0
       },
       "Kansas City Royals": {
         "games": 30,
         "scored1stPct": 40.0,
-        "allowed1stPct": 40.0
+        "allowed1stPct": 36.7
       },
       "Los Angeles Dodgers": {
         "games": 30,
@@ -213,8 +213,8 @@
       },
       "Colorado Rockies": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 36.7
+        "scored1stPct": 26.7,
+        "allowed1stPct": 33.3
       },
       "Arizona Diamondbacks": {
         "games": 30,
@@ -223,7 +223,7 @@
       },
       "Athletics": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 40.0
       },
       "San Diego Padres": {
@@ -234,17 +234,17 @@
       "Washington Nationals": {
         "games": 30,
         "scored1stPct": 16.7,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 30.0
       },
       "Atlanta Braves": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 23.3
       },
       "Texas Rangers": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 23.3
+        "scored1stPct": 26.7,
+        "allowed1stPct": 26.7
       },
       "Los Angeles Angels": {
         "games": 30,
@@ -253,13 +253,13 @@
       },
       "St. Louis Cardinals": {
         "games": 30,
-        "scored1stPct": 20.0,
-        "allowed1stPct": 46.7
+        "scored1stPct": 23.3,
+        "allowed1stPct": 43.3
       },
       "Cincinnati Reds": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 46.7
+        "allowed1stPct": 50.0
       },
       "American League All-Stars": {
         "games": 1,
