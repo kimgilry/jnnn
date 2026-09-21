@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T09:19:25.656186+09:00",
+  "generatedAt": "2026-09-21T14:10:22.226197+09:00",
   "dateKST": "2026-09-21",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1561
+      "games": 1563
     }
   },
   "games": [
@@ -38,9 +38,9 @@
       "awayWins": 77,
       "awayLosses": 79,
       "homeWins": 75,
-      "homeLosses": 80,
+      "homeLosses": 81,
       "awayWinPct": 0.4936,
-      "homeWinPct": 0.4839,
+      "homeWinPct": 0.4808,
       "awayStarter": "Trey Yesavage",
       "homeStarter": "Shane Baz",
       "awayStarterStatus": "확인완료",
@@ -58,12 +58,12 @@
       "awayWins": 73,
       "awayLosses": 83,
       "homeWins": 73,
-      "homeLosses": 82,
+      "homeLosses": 83,
       "awayWinPct": 0.4679,
-      "homeWinPct": 0.471,
-      "awayStarter": "",
+      "homeWinPct": 0.4679,
+      "awayStarter": "DJ Herz",
       "homeStarter": "River Ryan",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -88,15 +88,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1561,
-    "evaluatedPicks": 457,
+    "rawGames": 1563,
+    "evaluatedPicks": 458,
     "correct": 249,
-    "accuracy": 54.49,
-    "coverage": 29.28,
+    "accuracy": 54.37,
+    "coverage": 29.3,
     "YRFI": {
-      "picks": 264,
+      "picks": 265,
       "correct": 140,
-      "accuracy": 53.03
+      "accuracy": 52.83
     },
     "NRFI": {
       "picks": 193,
@@ -188,7 +188,7 @@
       },
       "Milwaukee Brewers": {
         "games": 30,
-        "scored1stPct": 40.0,
+        "scored1stPct": 36.7,
         "allowed1stPct": 26.7
       },
       "Houston Astros": {
