@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T08:58:03.304474+09:00",
+  "generatedAt": "2026-09-22T13:41:02.030120+09:00",
   "dateKST": "2026-09-22",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1548
+      "games": 1551
     }
   },
   "games": [
@@ -76,11 +76,11 @@
       "away": "Toronto Blue Jays",
       "home": "Baltimore Orioles",
       "awayWins": 77,
-      "awayLosses": 79,
-      "homeWins": 75,
+      "awayLosses": 80,
+      "homeWins": 76,
       "homeLosses": 81,
-      "awayWinPct": 0.4936,
-      "homeWinPct": 0.4808,
+      "awayWinPct": 0.4904,
+      "homeWinPct": 0.4841,
       "awayStarter": "Max Scherzer",
       "homeStarter": "Chris Bassitt",
       "awayStarterStatus": "확인완료",
@@ -96,11 +96,11 @@
       "away": "Washington Nationals",
       "home": "Detroit Tigers",
       "awayWins": 73,
-      "awayLosses": 83,
-      "homeWins": 73,
+      "awayLosses": 84,
+      "homeWins": 74,
       "homeLosses": 83,
-      "awayWinPct": 0.4679,
-      "homeWinPct": 0.4679,
+      "awayWinPct": 0.465,
+      "homeWinPct": 0.4713,
       "awayStarter": "Jackson Kent",
       "homeStarter": "Drew Anderson",
       "awayStarterStatus": "확인완료",
@@ -316,11 +316,11 @@
       "away": "Minnesota Twins",
       "home": "San Francisco Giants",
       "awayWins": 73,
-      "awayLosses": 83,
-      "homeWins": 64,
+      "awayLosses": 84,
+      "homeWins": 65,
       "homeLosses": 92,
-      "awayWinPct": 0.4679,
-      "homeWinPct": 0.4103,
+      "awayWinPct": 0.465,
+      "homeWinPct": 0.414,
       "awayStarter": "Taj Bradley",
       "homeStarter": "Anthony Molina",
       "awayStarterStatus": "확인완료",
@@ -428,15 +428,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1548,
-    "evaluatedPicks": 458,
-    "correct": 247,
-    "accuracy": 53.93,
-    "coverage": 29.59,
+    "rawGames": 1551,
+    "evaluatedPicks": 460,
+    "correct": 249,
+    "accuracy": 54.13,
+    "coverage": 29.66,
     "YRFI": {
-      "picks": 266,
-      "correct": 139,
-      "accuracy": 52.26
+      "picks": 268,
+      "correct": 141,
+      "accuracy": 52.61
     },
     "NRFI": {
       "picks": 192,
@@ -469,12 +469,12 @@
       "Baltimore Orioles": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 26.7
       },
       "Minnesota Twins": {
         "games": 30,
-        "scored1stPct": 43.3,
-        "allowed1stPct": 36.7
+        "scored1stPct": 40.0,
+        "allowed1stPct": 40.0
       },
       "Chicago White Sox": {
         "games": 30,
@@ -518,8 +518,8 @@
       },
       "San Francisco Giants": {
         "games": 30,
-        "scored1stPct": 56.7,
-        "allowed1stPct": 33.3
+        "scored1stPct": 60.0,
+        "allowed1stPct": 30.0
       },
       "Washington Nationals": {
         "games": 30,
@@ -559,7 +559,7 @@
       "Toronto Blue Jays": {
         "games": 30,
         "scored1stPct": 36.7,
-        "allowed1stPct": 36.7
+        "allowed1stPct": 40.0
       },
       "Colorado Rockies": {
         "games": 30,
@@ -588,8 +588,8 @@
       },
       "Detroit Tigers": {
         "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 43.3
+        "scored1stPct": 36.7,
+        "allowed1stPct": 40.0
       },
       "Atlanta Braves": {
         "games": 30,
