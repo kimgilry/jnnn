@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T03:16:08.361725+09:00",
+  "generatedAt": "2026-09-23T06:28:46.597800+09:00",
   "dateKST": "2026-09-23",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1538
+      "games": 1539
     }
   },
   "games": [
@@ -61,9 +61,9 @@
       "homeLosses": 81,
       "awayWinPct": 0.4904,
       "homeWinPct": 0.4841,
-      "awayStarter": "",
+      "awayStarter": "Max Scherzer",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
     },
     {
@@ -156,11 +156,11 @@
       "away": "Tampa Bay Rays",
       "home": "New York Yankees",
       "awayWins": 95,
-      "awayLosses": 60,
-      "homeWins": 89,
+      "awayLosses": 61,
+      "homeWins": 90,
       "homeLosses": 66,
-      "awayWinPct": 0.6129,
-      "homeWinPct": 0.5742,
+      "awayWinPct": 0.609,
+      "homeWinPct": 0.5769,
       "awayStarter": "Ian Seymour",
       "homeStarter": "Gerrit Cole",
       "awayStarterStatus": "확인완료",
@@ -408,11 +408,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1538,
+    "rawGames": 1539,
     "evaluatedPicks": 457,
     "correct": 248,
     "accuracy": 54.27,
-    "coverage": 29.71,
+    "coverage": 29.69,
     "YRFI": {
       "picks": 267,
       "correct": 140,
@@ -443,7 +443,7 @@
       },
       "Tampa Bay Rays": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 30.0,
         "allowed1stPct": 20.0
       },
       "Baltimore Orioles": {
@@ -514,7 +514,7 @@
       "New York Yankees": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 26.7
+        "allowed1stPct": 23.3
       },
       "Kansas City Royals": {
         "games": 30,
