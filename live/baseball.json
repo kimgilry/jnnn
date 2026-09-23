@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T03:37:31.410285+09:00",
+  "generatedAt": "2026-09-24T06:47:33.902337+09:00",
   "dateKST": "2026-09-24",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1538
+      "games": 1540
     }
   },
   "games": [
@@ -122,9 +122,9 @@
       "awayWinPct": 0.5287,
       "homeWinPct": 0.3631,
       "awayStarter": "Eduardo Rodriguez",
-      "homeStarter": "",
+      "homeStarter": "Tanner Gordon",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -142,9 +142,9 @@
       "awayWinPct": 0.6242,
       "homeWinPct": 0.5541,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Andrew Painter",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -328,15 +328,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1538,
-    "evaluatedPicks": 452,
+    "rawGames": 1540,
+    "evaluatedPicks": 453,
     "correct": 248,
-    "accuracy": 54.87,
-    "coverage": 29.39,
+    "accuracy": 54.75,
+    "coverage": 29.42,
     "YRFI": {
-      "picks": 265,
+      "picks": 266,
       "correct": 140,
-      "accuracy": 52.83
+      "accuracy": 52.63
     },
     "NRFI": {
       "picks": 187,
@@ -359,7 +359,7 @@
       "Toronto Blue Jays": {
         "games": 30,
         "scored1stPct": 36.7,
-        "allowed1stPct": 40.0
+        "allowed1stPct": 36.7
       },
       "Washington Nationals": {
         "games": 30,
