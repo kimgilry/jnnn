@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T00:15:17.079553+09:00",
+  "generatedAt": "2026-09-25T04:17:56.665909+09:00",
   "dateKST": "2026-09-25",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -202,9 +202,9 @@
       "awayWinPct": 0.519,
       "homeWinPct": 0.4304,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Noah Cameron",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -221,10 +221,10 @@
       "homeLosses": 77,
       "awayWinPct": 0.3608,
       "homeWinPct": 0.5127,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "awayStarter": "Tomoyuki Sugano",
+      "homeStarter": "Sean Burke",
+      "awayStarterStatus": "확인완료",
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -301,9 +301,9 @@
       "homeLosses": 70,
       "awayWinPct": 0.5316,
       "homeWinPct": 0.557,
-      "awayStarter": "",
+      "awayStarter": "Brandon Pfaadt",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
     },
     {
