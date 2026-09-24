@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T06:47:33.902337+09:00",
+  "generatedAt": "2026-09-24T09:19:37.043283+09:00",
   "dateKST": "2026-09-24",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1540
+      "games": 1541
     }
   },
   "games": [
@@ -82,9 +82,9 @@
       "awayWinPct": 0.4904,
       "homeWinPct": 0.5541,
       "awayStarter": "Tyler Phillips",
-      "homeStarter": "",
+      "homeStarter": "Matthew Boyd",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -181,7 +181,7 @@
       "homeLosses": 67,
       "awayWinPct": 0.6115,
       "homeWinPct": 0.5732,
-      "awayStarter": "Freddy Peralta",
+      "awayStarter": "Ian Seymour",
       "homeStarter": "Cam Schlittler",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
@@ -241,9 +241,9 @@
       "homeLosses": 84,
       "awayWinPct": 0.3822,
       "homeWinPct": 0.465,
-      "awayStarter": "",
+      "awayStarter": "Grayson Rodriguez",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
     },
     {
@@ -328,15 +328,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1540,
-    "evaluatedPicks": 453,
+    "rawGames": 1541,
+    "evaluatedPicks": 454,
     "correct": 248,
-    "accuracy": 54.75,
-    "coverage": 29.42,
+    "accuracy": 54.63,
+    "coverage": 29.46,
     "YRFI": {
-      "picks": 266,
+      "picks": 267,
       "correct": 140,
-      "accuracy": 52.63
+      "accuracy": 52.43
     },
     "NRFI": {
       "picks": 187,
@@ -398,7 +398,7 @@
       },
       "San Francisco Giants": {
         "games": 30,
-        "scored1stPct": 60.0,
+        "scored1stPct": 56.7,
         "allowed1stPct": 30.0
       },
       "Philadelphia Phillies": {
@@ -464,7 +464,7 @@
       "Minnesota Twins": {
         "games": 30,
         "scored1stPct": 40.0,
-        "allowed1stPct": 40.0
+        "allowed1stPct": 36.7
       },
       "Chicago White Sox": {
         "games": 30,
