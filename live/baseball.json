@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T14:06:15.180108+09:00",
+  "generatedAt": "2026-09-24T19:11:35.265615+09:00",
   "dateKST": "2026-09-24",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1552
+      "games": 1554
     }
   },
   "games": [
@@ -216,15 +216,15 @@
       "away": "Houston Astros",
       "home": "Athletics",
       "awayWins": 78,
-      "awayLosses": 79,
+      "awayLosses": 80,
       "homeWins": 63,
       "homeLosses": 95,
-      "awayWinPct": 0.4968,
+      "awayWinPct": 0.4937,
       "homeWinPct": 0.3987,
       "awayStarter": "Peter Lambert",
-      "homeStarter": "",
+      "homeStarter": "Mason Barnett",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -237,10 +237,10 @@
       "home": "Seattle Mariners",
       "awayWins": 60,
       "awayLosses": 98,
-      "homeWins": 73,
+      "homeWins": 74,
       "homeLosses": 84,
       "awayWinPct": 0.3797,
-      "homeWinPct": 0.465,
+      "homeWinPct": 0.4684,
       "awayStarter": "Grayson Rodriguez",
       "homeStarter": "Bryan Woo",
       "awayStarterStatus": "확인완료",
@@ -255,12 +255,12 @@
       "status": "경기전",
       "away": "San Diego Padres",
       "home": "Los Angeles Dodgers",
-      "awayWins": 87,
+      "awayWins": 88,
       "awayLosses": 70,
       "homeWins": 97,
-      "homeLosses": 60,
-      "awayWinPct": 0.5541,
-      "homeWinPct": 0.6178,
+      "homeLosses": 61,
+      "awayWinPct": 0.557,
+      "homeWinPct": 0.6139,
       "awayStarter": "Nick Pivetta",
       "homeStarter": "Tyler Glasnow",
       "awayStarterStatus": "확인완료",
@@ -269,12 +269,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "17:00|LG|LOTTE",
+      "gamePk": "17:00|LOTTE|LG",
       "timeKST": "17:00",
       "startISO": "",
       "status": "경기전",
-      "away": "LG",
-      "home": "LOTTE",
+      "away": "LOTTE",
+      "home": "LG",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
@@ -289,12 +289,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "17:00|SSG|SAMSUNG",
+      "gamePk": "17:00|SAMSUNG|SSG",
       "timeKST": "17:00",
       "startISO": "",
       "status": "경기전",
-      "away": "SSG",
-      "home": "SAMSUNG",
+      "away": "SAMSUNG",
+      "home": "SSG",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
@@ -309,12 +309,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "17:00|KT|NC",
+      "gamePk": "17:00|NC|KT",
       "timeKST": "17:00",
       "startISO": "",
       "status": "경기전",
-      "away": "KT",
-      "home": "NC",
+      "away": "NC",
+      "home": "KT",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
@@ -328,11 +328,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1552,
+    "rawGames": 1554,
     "evaluatedPicks": 456,
     "correct": 249,
     "accuracy": 54.61,
-    "coverage": 29.38,
+    "coverage": 29.34,
     "YRFI": {
       "picks": 269,
       "correct": 141,
@@ -384,7 +384,7 @@
       "Seattle Mariners": {
         "games": 30,
         "scored1stPct": 40.0,
-        "allowed1stPct": 53.3
+        "allowed1stPct": 50.0
       },
       "Athletics": {
         "games": 30,
@@ -483,8 +483,8 @@
       },
       "Houston Astros": {
         "games": 30,
-        "scored1stPct": 40.0,
-        "allowed1stPct": 20.0
+        "scored1stPct": 36.7,
+        "allowed1stPct": 16.7
       },
       "Texas Rangers": {
         "games": 30,
