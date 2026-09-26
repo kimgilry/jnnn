@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T04:37:39.104936+09:00",
+  "generatedAt": "2026-09-27T07:12:17.293570+09:00",
   "dateKST": "2026-09-27",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,10 +22,50 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1548
+      "games": 1550
     }
   },
   "games": [
+    {
+      "source": "MLB StatsAPI",
+      "league": "MLB",
+      "gamePk": "822679",
+      "timeKST": "02:05",
+      "startISO": "2026-09-28T02:05:00+09:00",
+      "status": "경기전",
+      "away": "New York Mets",
+      "home": "Washington Nationals",
+      "awayWins": 74,
+      "awayLosses": 87,
+      "homeWins": 76,
+      "homeLosses": 85,
+      "awayWinPct": 0.4596,
+      "homeWinPct": 0.472,
+      "awayStarter": "Sean Manaea",
+      "homeStarter": "DJ Herz",
+      "awayStarterStatus": "확인완료",
+      "homeStarterStatus": "확인완료"
+    },
+    {
+      "source": "MLB StatsAPI",
+      "league": "MLB",
+      "gamePk": "823490",
+      "timeKST": "02:05",
+      "startISO": "2026-09-28T02:05:00+09:00",
+      "status": "경기전",
+      "away": "Baltimore Orioles",
+      "home": "New York Yankees",
+      "awayWins": 79,
+      "awayLosses": 82,
+      "homeWins": 93,
+      "homeLosses": 68,
+      "awayWinPct": 0.4907,
+      "homeWinPct": 0.5776,
+      "awayStarter": "Shane Baz",
+      "homeStarter": "Elmer Rodríguez",
+      "awayStarterStatus": "확인완료",
+      "homeStarterStatus": "확인완료"
+    },
     {
       "source": "MLB StatsAPI",
       "league": "MLB",
@@ -45,26 +85,6 @@
       "homeStarter": "",
       "awayStarterStatus": "미확인",
       "homeStarterStatus": "미확인"
-    },
-    {
-      "source": "MLB StatsAPI",
-      "league": "MLB",
-      "gamePk": "822679",
-      "timeKST": "04:05",
-      "startISO": "2026-09-28T04:05:00+09:00",
-      "status": "경기전",
-      "away": "New York Mets",
-      "home": "Washington Nationals",
-      "awayWins": 74,
-      "awayLosses": 87,
-      "homeWins": 76,
-      "homeLosses": 85,
-      "awayWinPct": 0.4596,
-      "homeWinPct": 0.472,
-      "awayStarter": "Sean Manaea",
-      "homeStarter": "DJ Herz",
-      "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -135,12 +155,12 @@
       "status": "경기전",
       "away": "Cincinnati Reds",
       "home": "Toronto Blue Jays",
-      "awayWins": 74,
+      "awayWins": 75,
       "awayLosses": 86,
       "homeWins": 78,
-      "homeLosses": 82,
-      "awayWinPct": 0.4625,
-      "homeWinPct": 0.4875,
+      "homeLosses": 83,
+      "awayWinPct": 0.4658,
+      "homeWinPct": 0.4845,
       "awayStarter": "Brandon Williamson",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -176,11 +196,11 @@
       "away": "Pittsburgh Pirates",
       "home": "Detroit Tigers",
       "awayWins": 81,
-      "awayLosses": 79,
-      "homeWins": 75,
+      "awayLosses": 80,
+      "homeWins": 76,
       "homeLosses": 85,
-      "awayWinPct": 0.5062,
-      "homeWinPct": 0.4688,
+      "awayWinPct": 0.5031,
+      "homeWinPct": 0.472,
       "awayStarter": "Jared Jones",
       "homeStarter": "River Ryan",
       "awayStarterStatus": "확인완료",
@@ -307,26 +327,6 @@
       "homeStarterStatus": "확인완료"
     },
     {
-      "source": "MLB StatsAPI",
-      "league": "MLB",
-      "gamePk": "823490",
-      "timeKST": "04:20",
-      "startISO": "2026-09-28T04:20:00+09:00",
-      "status": "경기전",
-      "away": "Baltimore Orioles",
-      "home": "New York Yankees",
-      "awayWins": 79,
-      "awayLosses": 82,
-      "homeWins": 93,
-      "homeLosses": 68,
-      "awayWinPct": 0.4907,
-      "homeWinPct": 0.5776,
-      "awayStarter": "Shane Baz",
-      "homeStarter": "Elmer Rodríguez",
-      "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "확인완료"
-    },
-    {
       "source": "KBO Official",
       "league": "KBO",
       "gamePk": "17:00|DOOSAN|KT",
@@ -408,15 +408,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1548,
-    "evaluatedPicks": 462,
+    "rawGames": 1550,
+    "evaluatedPicks": 463,
     "correct": 253,
-    "accuracy": 54.76,
-    "coverage": 29.84,
+    "accuracy": 54.64,
+    "coverage": 29.87,
     "YRFI": {
-      "picks": 268,
+      "picks": 269,
       "correct": 142,
-      "accuracy": 52.99
+      "accuracy": 52.79
     },
     "NRFI": {
       "picks": 194,
@@ -434,7 +434,7 @@
       "Detroit Tigers": {
         "games": 30,
         "scored1stPct": 33.3,
-        "allowed1stPct": 40.0
+        "allowed1stPct": 36.7
       },
       "Chicago White Sox": {
         "games": 30,
@@ -463,7 +463,7 @@
       },
       "Toronto Blue Jays": {
         "games": 30,
-        "scored1stPct": 40.0,
+        "scored1stPct": 36.7,
         "allowed1stPct": 40.0
       },
       "Baltimore Orioles": {
@@ -478,7 +478,7 @@
       },
       "Pittsburgh Pirates": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 23.3,
         "allowed1stPct": 20.0
       },
       "Boston Red Sox": {
