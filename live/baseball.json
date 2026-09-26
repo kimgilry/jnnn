@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T08:31:59.321997+09:00",
+  "generatedAt": "2026-09-26T10:58:39.796456+09:00",
   "dateKST": "2026-09-26",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,10 +22,30 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1547
+      "games": 1552
     }
   },
   "games": [
+    {
+      "source": "MLB StatsAPI",
+      "league": "MLB",
+      "gamePk": "822678",
+      "timeKST": "01:35",
+      "startISO": "2026-09-27T01:35:00+09:00",
+      "status": "경기전",
+      "away": "New York Mets",
+      "home": "Washington Nationals",
+      "awayWins": 73,
+      "awayLosses": 87,
+      "homeWins": 76,
+      "homeLosses": 84,
+      "awayWinPct": 0.4562,
+      "homeWinPct": 0.475,
+      "awayStarter": "Jonah Tong",
+      "homeStarter": "Connelly Early",
+      "awayStarterStatus": "확인완료",
+      "homeStarterStatus": "확인완료"
+    },
     {
       "source": "MLB StatsAPI",
       "league": "MLB",
@@ -56,33 +76,13 @@
       "away": "Cincinnati Reds",
       "home": "Toronto Blue Jays",
       "awayWins": 74,
-      "awayLosses": 85,
-      "homeWins": 77,
+      "awayLosses": 86,
+      "homeWins": 78,
       "homeLosses": 82,
-      "awayWinPct": 0.4654,
-      "homeWinPct": 0.4843,
+      "awayWinPct": 0.4625,
+      "homeWinPct": 0.4875,
       "awayStarter": "Rhett Lowder",
       "homeStarter": "Trey Yesavage",
-      "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "확인완료"
-    },
-    {
-      "source": "MLB StatsAPI",
-      "league": "MLB",
-      "gamePk": "822678",
-      "timeKST": "05:05",
-      "startISO": "2026-09-27T05:05:00+09:00",
-      "status": "경기전",
-      "away": "New York Mets",
-      "home": "Washington Nationals",
-      "awayWins": 73,
-      "awayLosses": 86,
-      "homeWins": 75,
-      "homeLosses": 84,
-      "awayWinPct": 0.4591,
-      "homeWinPct": 0.4717,
-      "awayStarter": "Jonah Tong",
-      "homeStarter": "Connelly Early",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
@@ -136,11 +136,11 @@
       "away": "Atlanta Braves",
       "home": "Miami Marlins",
       "awayWins": 93,
-      "awayLosses": 66,
-      "homeWins": 78,
+      "awayLosses": 67,
+      "homeWins": 79,
       "homeLosses": 81,
-      "awayWinPct": 0.5849,
-      "homeWinPct": 0.4906,
+      "awayWinPct": 0.5813,
+      "homeWinPct": 0.4938,
       "awayStarter": "",
       "homeStarter": "",
       "awayStarterStatus": "미확인",
@@ -215,12 +215,12 @@
       "status": "경기전",
       "away": "Tampa Bay Rays",
       "home": "Philadelphia Phillies",
-      "awayWins": 96,
+      "awayWins": 97,
       "awayLosses": 63,
       "homeWins": 87,
-      "homeLosses": 72,
-      "awayWinPct": 0.6038,
-      "homeWinPct": 0.5472,
+      "homeLosses": 73,
+      "awayWinPct": 0.6062,
+      "homeWinPct": 0.5437,
       "awayStarter": "Griffin Jax",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -241,9 +241,9 @@
       "homeLosses": 70,
       "awayWinPct": 0.5346,
       "homeWinPct": 0.5597,
-      "awayStarter": "Corbin Burnes",
+      "awayStarter": "",
       "homeStarter": "Walker Buehler",
-      "awayStarterStatus": "확인완료",
+      "awayStarterStatus": "미확인",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -262,9 +262,9 @@
       "awayWinPct": 0.4969,
       "homeWinPct": 0.3962,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Jack Perkins",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -348,20 +348,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1547,
-    "evaluatedPicks": 462,
-    "correct": 249,
-    "accuracy": 53.9,
-    "coverage": 29.86,
+    "rawGames": 1552,
+    "evaluatedPicks": 464,
+    "correct": 251,
+    "accuracy": 54.09,
+    "coverage": 29.9,
     "YRFI": {
-      "picks": 273,
-      "correct": 141,
-      "accuracy": 51.65
+      "picks": 274,
+      "correct": 142,
+      "accuracy": 51.82
     },
     "NRFI": {
-      "picks": 189,
-      "correct": 108,
-      "accuracy": 57.14
+      "picks": 190,
+      "correct": 109,
+      "accuracy": 57.37
     },
     "window": 20,
     "minGames": 10,
@@ -373,13 +373,13 @@
     "teamRatesLast30": {
       "Atlanta Braves": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 26.7,
         "allowed1stPct": 30.0
       },
       "Cincinnati Reds": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 46.7
+        "scored1stPct": 26.7,
+        "allowed1stPct": 50.0
       },
       "San Diego Padres": {
         "games": 30,
@@ -388,8 +388,8 @@
       },
       "Washington Nationals": {
         "games": 30,
-        "scored1stPct": 16.7,
-        "allowed1stPct": 30.0
+        "scored1stPct": 20.0,
+        "allowed1stPct": 33.3
       },
       "Minnesota Twins": {
         "games": 30,
@@ -403,7 +403,7 @@
       },
       "Toronto Blue Jays": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 40.0,
         "allowed1stPct": 40.0
       },
       "Baltimore Orioles": {
@@ -428,23 +428,23 @@
       },
       "Tampa Bay Rays": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 33.3,
         "allowed1stPct": 20.0
       },
       "Miami Marlins": {
         "games": 30,
-        "scored1stPct": 16.7,
+        "scored1stPct": 13.3,
         "allowed1stPct": 16.7
       },
       "New York Mets": {
         "games": 30,
         "scored1stPct": 40.0,
-        "allowed1stPct": 33.3
+        "allowed1stPct": 36.7
       },
       "Chicago Cubs": {
         "games": 30,
         "scored1stPct": 33.3,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 20.0
       },
       "St. Louis Cardinals": {
         "games": 30,
@@ -513,8 +513,8 @@
       },
       "Philadelphia Phillies": {
         "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 30.0
+        "scored1stPct": 30.0,
+        "allowed1stPct": 33.3
       },
       "Los Angeles Dodgers": {
         "games": 30,
