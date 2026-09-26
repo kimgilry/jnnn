@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T01:45:46.909654+09:00",
+  "generatedAt": "2026-09-27T04:37:39.104936+09:00",
   "dateKST": "2026-09-27",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1547
+      "games": 1548
     }
   },
   "games": [
@@ -55,12 +55,12 @@
       "status": "경기전",
       "away": "New York Mets",
       "home": "Washington Nationals",
-      "awayWins": 73,
+      "awayWins": 74,
       "awayLosses": 87,
       "homeWins": 76,
-      "homeLosses": 84,
-      "awayWinPct": 0.4562,
-      "homeWinPct": 0.475,
+      "homeLosses": 85,
+      "awayWinPct": 0.4596,
+      "homeWinPct": 0.472,
       "awayStarter": "Sean Manaea",
       "homeStarter": "DJ Herz",
       "awayStarterStatus": "확인완료",
@@ -408,15 +408,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1547,
-    "evaluatedPicks": 461,
+    "rawGames": 1548,
+    "evaluatedPicks": 462,
     "correct": 253,
-    "accuracy": 54.88,
-    "coverage": 29.8,
+    "accuracy": 54.76,
+    "coverage": 29.84,
     "YRFI": {
-      "picks": 267,
+      "picks": 268,
       "correct": 142,
-      "accuracy": 53.18
+      "accuracy": 52.99
     },
     "NRFI": {
       "picks": 194,
@@ -449,7 +449,7 @@
       "Washington Nationals": {
         "games": 30,
         "scored1stPct": 20.0,
-        "allowed1stPct": 33.3
+        "allowed1stPct": 30.0
       },
       "Kansas City Royals": {
         "games": 30,
