@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T07:12:17.293570+09:00",
+  "generatedAt": "2026-09-27T09:41:41.993056+09:00",
   "dateKST": "2026-09-27",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1550
+      "games": 1552
     }
   },
   "games": [
@@ -115,12 +115,12 @@
       "status": "경기전",
       "away": "Los Angeles Dodgers",
       "home": "San Francisco Giants",
-      "awayWins": 98,
+      "awayWins": 99,
       "awayLosses": 62,
       "homeWins": 65,
-      "homeLosses": 95,
-      "awayWinPct": 0.6125,
-      "homeWinPct": 0.4062,
+      "homeLosses": 96,
+      "awayWinPct": 0.6149,
+      "homeWinPct": 0.4037,
       "awayStarter": "",
       "homeStarter": "",
       "awayStarterStatus": "미확인",
@@ -162,9 +162,9 @@
       "awayWinPct": 0.4658,
       "homeWinPct": 0.4845,
       "awayStarter": "Brandon Williamson",
-      "homeStarter": "",
+      "homeStarter": "Max Scherzer",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -295,12 +295,12 @@
       "status": "경기전",
       "away": "Atlanta Braves",
       "home": "Miami Marlins",
-      "awayWins": 93,
+      "awayWins": 94,
       "awayLosses": 67,
       "homeWins": 79,
-      "homeLosses": 81,
-      "awayWinPct": 0.5813,
-      "homeWinPct": 0.4938,
+      "homeLosses": 82,
+      "awayWinPct": 0.5839,
+      "homeWinPct": 0.4907,
       "awayStarter": "JR Ritchie",
       "homeStarter": "Janson Junk",
       "awayStarterStatus": "확인완료",
@@ -408,20 +408,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1550,
-    "evaluatedPicks": 463,
+    "rawGames": 1552,
+    "evaluatedPicks": 464,
     "correct": 253,
-    "accuracy": 54.64,
-    "coverage": 29.87,
+    "accuracy": 54.53,
+    "coverage": 29.9,
     "YRFI": {
       "picks": 269,
       "correct": 142,
       "accuracy": 52.79
     },
     "NRFI": {
-      "picks": 194,
+      "picks": 195,
       "correct": 111,
-      "accuracy": 57.22
+      "accuracy": 56.92
     },
     "window": 20,
     "minGames": 10,
@@ -503,8 +503,8 @@
       },
       "Miami Marlins": {
         "games": 30,
-        "scored1stPct": 13.3,
-        "allowed1stPct": 16.7
+        "scored1stPct": 10.0,
+        "allowed1stPct": 20.0
       },
       "New York Mets": {
         "games": 30,
@@ -533,7 +533,7 @@
       },
       "Atlanta Braves": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 30.0,
         "allowed1stPct": 30.0
       },
       "Cincinnati Reds": {
@@ -543,7 +543,7 @@
       },
       "San Francisco Giants": {
         "games": 30,
-        "scored1stPct": 53.3,
+        "scored1stPct": 50.0,
         "allowed1stPct": 30.0
       },
       "Colorado Rockies": {
@@ -578,7 +578,7 @@
       },
       "Los Angeles Dodgers": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 23.3,
         "allowed1stPct": 20.0
       },
       "American League All-Stars": {
