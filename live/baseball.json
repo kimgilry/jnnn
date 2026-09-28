@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:59:44.443589+09:00",
+  "generatedAt": "2026-09-29T07:30:02.253133+09:00",
   "dateKST": "2026-09-29",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -41,9 +41,9 @@
       "homeLosses": 0,
       "awayWinPct": 0.5,
       "homeWinPct": 0.5,
-      "awayStarter": "",
+      "awayStarter": "Jesús Luzardo",
       "homeStarter": "Chris Sale",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -62,9 +62,9 @@
       "awayWinPct": 0.5,
       "homeWinPct": 0.5,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "AJ Blubaugh",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
