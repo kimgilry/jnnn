@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T00:34:31.951650+09:00",
+  "generatedAt": "2026-09-30T05:13:06.730467+09:00",
   "dateKST": "2026-09-30",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -62,9 +62,9 @@
       "awayWinPct": 0.5,
       "homeWinPct": 0.5,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Hunter Brown",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
