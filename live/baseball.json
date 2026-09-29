@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T05:13:06.730467+09:00",
+  "generatedAt": "2026-09-30T08:46:59.703893+09:00",
   "dateKST": "2026-09-30",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1535
+      "games": 1536
     }
   },
   "games": [
@@ -36,11 +36,11 @@
       "away": "Philadelphia Phillies",
       "home": "Atlanta Braves",
       "awayWins": 0,
-      "awayLosses": 0,
-      "homeWins": 0,
+      "awayLosses": 1,
+      "homeWins": 1,
       "homeLosses": 0,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
+      "awayWinPct": 0.0,
+      "homeWinPct": 1.0,
       "awayStarter": "Cristopher Sánchez",
       "homeStarter": "Tyler Mahle",
       "awayStarterStatus": "확인완료",
@@ -208,11 +208,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1535,
+    "rawGames": 1536,
     "evaluatedPicks": 451,
     "correct": 250,
     "accuracy": 55.43,
-    "coverage": 29.38,
+    "coverage": 29.36,
     "YRFI": {
       "picks": 263,
       "correct": 140,
@@ -248,7 +248,7 @@
       },
       "Philadelphia Phillies": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 33.3,
         "allowed1stPct": 30.0
       },
       "Baltimore Orioles": {
@@ -298,8 +298,8 @@
       },
       "Atlanta Braves": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 30.0
+        "scored1stPct": 23.3,
+        "allowed1stPct": 33.3
       },
       "Chicago White Sox": {
         "games": 30,
