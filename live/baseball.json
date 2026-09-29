@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T17:43:50.830628+09:00",
-  "dateKST": "2026-09-29",
+  "generatedAt": "2026-09-30T00:34:31.951650+09:00",
+  "dateKST": "2026-09-30",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
@@ -22,16 +22,16 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1544
+      "games": 1535
     }
   },
   "games": [
     {
       "source": "MLB StatsAPI",
       "league": "MLB",
-      "gamePk": "849845",
+      "gamePk": "849841",
       "timeKST": "03:00",
-      "startISO": "2026-09-30T03:00:00+09:00",
+      "startISO": "2026-10-01T03:00:00+09:00",
       "status": "경기전",
       "away": "Philadelphia Phillies",
       "home": "Atlanta Braves",
@@ -41,17 +41,17 @@
       "homeLosses": 0,
       "awayWinPct": 0.5,
       "homeWinPct": 0.5,
-      "awayStarter": "Jesús Luzardo",
-      "homeStarter": "Chris Sale",
+      "awayStarter": "Cristopher Sánchez",
+      "homeStarter": "Tyler Mahle",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
       "league": "MLB",
-      "gamePk": "849849",
+      "gamePk": "849846",
       "timeKST": "06:00",
-      "startISO": "2026-09-30T06:00:00+09:00",
+      "startISO": "2026-10-01T06:00:00+09:00",
       "status": "경기전",
       "away": "Chicago White Sox",
       "home": "Houston Astros",
@@ -61,17 +61,17 @@
       "homeLosses": 0,
       "awayWinPct": 0.5,
       "homeWinPct": 0.5,
-      "awayStarter": "Hagen Smith",
-      "homeStarter": "AJ Blubaugh",
-      "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "확인완료"
+      "awayStarter": "",
+      "homeStarter": "",
+      "awayStarterStatus": "미확인",
+      "homeStarterStatus": "미확인"
     },
     {
       "source": "MLB StatsAPI",
       "league": "MLB",
-      "gamePk": "849851",
+      "gamePk": "849848",
       "timeKST": "09:00",
-      "startISO": "2026-09-30T09:00:00+09:00",
+      "startISO": "2026-10-01T09:00:00+09:00",
       "status": "경기전",
       "away": "Boston Red Sox",
       "home": "New York Yankees",
@@ -81,17 +81,17 @@
       "homeLosses": 0,
       "awayWinPct": 0.5,
       "homeWinPct": 0.5,
-      "awayStarter": "Payton Tolle",
-      "homeStarter": "Cam Schlittler",
+      "awayStarter": "Sonny Gray",
+      "homeStarter": "Max Fried",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
       "league": "MLB",
-      "gamePk": "849843",
+      "gamePk": "849842",
       "timeKST": "11:00",
-      "startISO": "2026-09-30T11:00:00+09:00",
+      "startISO": "2026-10-01T11:00:00+09:00",
       "status": "경기전",
       "away": "Chicago Cubs",
       "home": "San Diego Padres",
@@ -101,10 +101,10 @@
       "homeLosses": 0,
       "awayWinPct": 0.5,
       "homeWinPct": 0.5,
-      "awayStarter": "Matthew Boyd",
-      "homeStarter": "Michael King",
-      "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "확인완료"
+      "awayStarter": "",
+      "homeStarter": "",
+      "awayStarterStatus": "미확인",
+      "homeStarterStatus": "미확인"
     },
     {
       "source": "KBO Official",
@@ -208,20 +208,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1544,
-    "evaluatedPicks": 454,
-    "correct": 253,
-    "accuracy": 55.73,
-    "coverage": 29.4,
+    "rawGames": 1535,
+    "evaluatedPicks": 451,
+    "correct": 250,
+    "accuracy": 55.43,
+    "coverage": 29.38,
     "YRFI": {
-      "picks": 267,
-      "correct": 143,
-      "accuracy": 53.56
+      "picks": 263,
+      "correct": 140,
+      "accuracy": 53.23
     },
     "NRFI": {
-      "picks": 187,
+      "picks": 188,
       "correct": 110,
-      "accuracy": 58.82
+      "accuracy": 58.51
     },
     "window": 20,
     "minGames": 10,
@@ -241,6 +241,26 @@
         "scored1stPct": 33.3,
         "allowed1stPct": 23.3
       },
+      "San Diego Padres": {
+        "games": 30,
+        "scored1stPct": 30.0,
+        "allowed1stPct": 26.7
+      },
+      "Philadelphia Phillies": {
+        "games": 30,
+        "scored1stPct": 30.0,
+        "allowed1stPct": 30.0
+      },
+      "Baltimore Orioles": {
+        "games": 30,
+        "scored1stPct": 26.7,
+        "allowed1stPct": 26.7
+      },
+      "Boston Red Sox": {
+        "games": 30,
+        "scored1stPct": 26.7,
+        "allowed1stPct": 40.0
+      },
       "Miami Marlins": {
         "games": 30,
         "scored1stPct": 10.0,
@@ -251,6 +271,16 @@
         "scored1stPct": 23.3,
         "allowed1stPct": 30.0
       },
+      "Cleveland Guardians": {
+        "games": 30,
+        "scored1stPct": 30.0,
+        "allowed1stPct": 40.0
+      },
+      "New York Yankees": {
+        "games": 30,
+        "scored1stPct": 30.0,
+        "allowed1stPct": 20.0
+      },
       "Kansas City Royals": {
         "games": 30,
         "scored1stPct": 50.0,
@@ -260,6 +290,16 @@
         "games": 30,
         "scored1stPct": 26.7,
         "allowed1stPct": 46.7
+      },
+      "Toronto Blue Jays": {
+        "games": 30,
+        "scored1stPct": 36.7,
+        "allowed1stPct": 40.0
+      },
+      "Atlanta Braves": {
+        "games": 30,
+        "scored1stPct": 26.7,
+        "allowed1stPct": 30.0
       },
       "Chicago White Sox": {
         "games": 30,
@@ -291,6 +331,26 @@
         "scored1stPct": 16.7,
         "allowed1stPct": 50.0
       },
+      "Athletics": {
+        "games": 30,
+        "scored1stPct": 26.7,
+        "allowed1stPct": 36.7
+      },
+      "Chicago Cubs": {
+        "games": 30,
+        "scored1stPct": 36.7,
+        "allowed1stPct": 23.3
+      },
+      "Pittsburgh Pirates": {
+        "games": 30,
+        "scored1stPct": 26.7,
+        "allowed1stPct": 16.7
+      },
+      "Houston Astros": {
+        "games": 30,
+        "scored1stPct": 36.7,
+        "allowed1stPct": 16.7
+      },
       "Colorado Rockies": {
         "games": 30,
         "scored1stPct": 26.7,
@@ -320,66 +380,6 @@
         "games": 30,
         "scored1stPct": 30.0,
         "allowed1stPct": 46.7
-      },
-      "San Diego Padres": {
-        "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 26.7
-      },
-      "Philadelphia Phillies": {
-        "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 30.0
-      },
-      "Baltimore Orioles": {
-        "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 26.7
-      },
-      "Boston Red Sox": {
-        "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 40.0
-      },
-      "Cleveland Guardians": {
-        "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 40.0
-      },
-      "New York Yankees": {
-        "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 20.0
-      },
-      "Toronto Blue Jays": {
-        "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 40.0
-      },
-      "Atlanta Braves": {
-        "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 30.0
-      },
-      "Athletics": {
-        "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 36.7
-      },
-      "Chicago Cubs": {
-        "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 23.3
-      },
-      "Pittsburgh Pirates": {
-        "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 16.7
-      },
-      "Houston Astros": {
-        "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 16.7
       },
       "American League All-Stars": {
         "games": 1,
