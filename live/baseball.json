@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T08:46:59.703893+09:00",
+  "generatedAt": "2026-09-30T13:58:52.419939+09:00",
   "dateKST": "2026-09-30",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1536
+      "games": 1539
     }
   },
   "games": [
@@ -55,15 +55,15 @@
       "status": "경기전",
       "away": "Chicago White Sox",
       "home": "Houston Astros",
-      "awayWins": 0,
+      "awayWins": 1,
       "awayLosses": 0,
       "homeWins": 0,
-      "homeLosses": 0,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
-      "awayStarter": "",
+      "homeLosses": 1,
+      "awayWinPct": 1.0,
+      "homeWinPct": 0.0,
+      "awayStarter": "Sean Burke",
       "homeStarter": "Hunter Brown",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
@@ -76,11 +76,11 @@
       "away": "Boston Red Sox",
       "home": "New York Yankees",
       "awayWins": 0,
-      "awayLosses": 0,
-      "homeWins": 0,
+      "awayLosses": 1,
+      "homeWins": 1,
       "homeLosses": 0,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
+      "awayWinPct": 0.0,
+      "homeWinPct": 1.0,
       "awayStarter": "Sonny Gray",
       "homeStarter": "Max Fried",
       "awayStarterStatus": "확인완료",
@@ -96,15 +96,15 @@
       "away": "Chicago Cubs",
       "home": "San Diego Padres",
       "awayWins": 0,
-      "awayLosses": 0,
-      "homeWins": 0,
+      "awayLosses": 1,
+      "homeWins": 1,
       "homeLosses": 0,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
+      "awayWinPct": 0.0,
+      "homeWinPct": 1.0,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Nick Pivetta",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "KBO Official",
@@ -208,11 +208,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1536,
+    "rawGames": 1539,
     "evaluatedPicks": 451,
     "correct": 250,
     "accuracy": 55.43,
-    "coverage": 29.36,
+    "coverage": 29.3,
     "YRFI": {
       "picks": 263,
       "correct": 140,
@@ -243,7 +243,7 @@
       },
       "San Diego Padres": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 33.3,
         "allowed1stPct": 26.7
       },
       "Philadelphia Phillies": {
@@ -259,7 +259,7 @@
       "Boston Red Sox": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 40.0
+        "allowed1stPct": 36.7
       },
       "Miami Marlins": {
         "games": 30,
@@ -278,8 +278,8 @@
       },
       "New York Yankees": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 20.0
+        "scored1stPct": 26.7,
+        "allowed1stPct": 16.7
       },
       "Kansas City Royals": {
         "games": 30,
@@ -303,7 +303,7 @@
       },
       "Chicago White Sox": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 40.0,
         "allowed1stPct": 33.3
       },
       "Minnesota Twins": {
@@ -339,7 +339,7 @@
       "Chicago Cubs": {
         "games": 30,
         "scored1stPct": 36.7,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 26.7
       },
       "Pittsburgh Pirates": {
         "games": 30,
@@ -348,7 +348,7 @@
       },
       "Houston Astros": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 33.3,
         "allowed1stPct": 16.7
       },
       "Colorado Rockies": {
