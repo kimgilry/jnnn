@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T01:51:14.859631+09:00",
+  "generatedAt": "2026-10-01T06:19:59.673237+09:00",
   "dateKST": "2026-10-01",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1524
+      "games": 1525
     }
   },
   "games": [
@@ -188,11 +188,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1524,
+    "rawGames": 1525,
     "evaluatedPicks": 452,
     "correct": 253,
     "accuracy": 55.97,
-    "coverage": 29.66,
+    "coverage": 29.64,
     "YRFI": {
       "picks": 266,
       "correct": 143,
@@ -259,7 +259,7 @@
       "Philadelphia Phillies": {
         "games": 30,
         "scored1stPct": 33.3,
-        "allowed1stPct": 30.0
+        "allowed1stPct": 33.3
       },
       "Baltimore Orioles": {
         "games": 30,
@@ -299,7 +299,7 @@
       "Atlanta Braves": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 33.3
+        "allowed1stPct": 36.7
       },
       "San Francisco Giants": {
         "games": 30,
