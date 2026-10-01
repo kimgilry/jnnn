@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-01T06:19:59.673237+09:00",
+  "generatedAt": "2026-10-01T09:39:02.074692+09:00",
   "dateKST": "2026-10-01",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
     "MLB": {
       "ok": true,
-      "games": 4
+      "games": 3
     },
     "KBO": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1525
+      "games": 1526
     }
   },
   "games": [
@@ -35,32 +35,12 @@
       "status": "경기전",
       "away": "Philadelphia Phillies",
       "home": "Atlanta Braves",
-      "awayWins": 0,
+      "awayWins": 1,
       "awayLosses": 1,
       "homeWins": 1,
-      "homeLosses": 0,
-      "awayWinPct": 0.0,
-      "homeWinPct": 1.0,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
-    },
-    {
-      "source": "MLB StatsAPI",
-      "league": "MLB",
-      "gamePk": "849850",
-      "timeKST": "06:00",
-      "startISO": "2026-10-02T06:00:00+09:00",
-      "status": "경기전",
-      "away": "Chicago White Sox",
-      "home": "Houston Astros",
-      "awayWins": 1,
-      "awayLosses": 0,
-      "homeWins": 0,
       "homeLosses": 1,
-      "awayWinPct": 1.0,
-      "homeWinPct": 0.0,
+      "awayWinPct": 0.5,
+      "homeWinPct": 0.5,
       "awayStarter": "",
       "homeStarter": "",
       "awayStarterStatus": "미확인",
@@ -188,11 +168,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1525,
+    "rawGames": 1526,
     "evaluatedPicks": 452,
     "correct": 253,
     "accuracy": 55.97,
-    "coverage": 29.64,
+    "coverage": 29.62,
     "YRFI": {
       "picks": 266,
       "correct": 143,
@@ -338,8 +318,8 @@
       },
       "Houston Astros": {
         "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 16.7
+        "scored1stPct": 36.7,
+        "allowed1stPct": 20.0
       },
       "Colorado Rockies": {
         "games": 30,
