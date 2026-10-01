@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-01T09:39:02.074692+09:00",
+  "generatedAt": "2026-10-01T15:34:23.230617+09:00",
   "dateKST": "2026-10-01",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
     "MLB": {
       "ok": true,
-      "games": 3
+      "games": 1
     },
     "KBO": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1526
+      "games": 1528
     }
   },
   "games": [
@@ -30,8 +30,8 @@
       "source": "MLB StatsAPI",
       "league": "MLB",
       "gamePk": "849844",
-      "timeKST": "03:00",
-      "startISO": "2026-10-02T03:00:00+09:00",
+      "timeKST": "09:00",
+      "startISO": "2026-10-02T09:00:00+09:00",
       "status": "경기전",
       "away": "Philadelphia Phillies",
       "home": "Atlanta Braves",
@@ -41,46 +41,6 @@
       "homeLosses": 1,
       "awayWinPct": 0.5,
       "homeWinPct": 0.5,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
-    },
-    {
-      "source": "MLB StatsAPI",
-      "league": "MLB",
-      "gamePk": "849847",
-      "timeKST": "09:00",
-      "startISO": "2026-10-02T09:00:00+09:00",
-      "status": "경기전",
-      "away": "Boston Red Sox",
-      "home": "New York Yankees",
-      "awayWins": 0,
-      "awayLosses": 1,
-      "homeWins": 1,
-      "homeLosses": 0,
-      "awayWinPct": 0.0,
-      "homeWinPct": 1.0,
-      "awayStarter": "Ranger Suarez",
-      "homeStarter": "Gerrit Cole",
-      "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "확인완료"
-    },
-    {
-      "source": "MLB StatsAPI",
-      "league": "MLB",
-      "gamePk": "849840",
-      "timeKST": "11:00",
-      "startISO": "2026-10-02T11:00:00+09:00",
-      "status": "경기전",
-      "away": "Chicago Cubs",
-      "home": "San Diego Padres",
-      "awayWins": 0,
-      "awayLosses": 1,
-      "homeWins": 1,
-      "homeLosses": 0,
-      "awayWinPct": 0.0,
-      "homeWinPct": 1.0,
       "awayStarter": "",
       "homeStarter": "",
       "awayStarterStatus": "미확인",
@@ -168,11 +128,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1526,
+    "rawGames": 1528,
     "evaluatedPicks": 452,
     "correct": 253,
     "accuracy": 55.97,
-    "coverage": 29.62,
+    "coverage": 29.58,
     "YRFI": {
       "picks": 266,
       "correct": 143,
