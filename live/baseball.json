@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T11:34:17.542391+09:00",
+  "generatedAt": "2026-10-02T17:59:51.119578+09:00",
   "dateKST": "2026-10-02",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,20 +22,20 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1513
+      "games": 1514
     }
   },
   "games": [],
   "firstInningMLB": {
-    "rawGames": 1513,
-    "evaluatedPicks": 446,
-    "correct": 250,
-    "accuracy": 56.05,
-    "coverage": 29.48,
+    "rawGames": 1514,
+    "evaluatedPicks": 447,
+    "correct": 251,
+    "accuracy": 56.15,
+    "coverage": 29.52,
     "YRFI": {
-      "picks": 258,
-      "correct": 140,
-      "accuracy": 54.26
+      "picks": 259,
+      "correct": 141,
+      "accuracy": 54.44
     },
     "NRFI": {
       "picks": 188,
@@ -97,7 +97,7 @@
       },
       "Atlanta Braves": {
         "games": 30,
-        "scored1stPct": 23.3,
+        "scored1stPct": 26.7,
         "allowed1stPct": 36.7
       },
       "Kansas City Royals": {
