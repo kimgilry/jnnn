@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T05:33:01.920949+09:00",
+  "generatedAt": "2026-10-03T08:59:37.832953+09:00",
   "dateKST": "2026-10-03",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -101,9 +101,9 @@
       "homeLosses": 0,
       "awayWinPct": 0.5,
       "homeWinPct": 0.5,
-      "awayStarter": "",
+      "awayStarter": "Robbie Ray",
       "homeStarter": "Jacob Misiorowski",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     },
     {
