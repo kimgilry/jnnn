@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T03:36:30.486080+09:00",
+  "generatedAt": "2026-10-04T06:45:38.206789+09:00",
   "dateKST": "2026-10-04",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1490
+      "games": 1491
     }
   },
   "games": [
@@ -168,15 +168,15 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1490,
-    "evaluatedPicks": 447,
+    "rawGames": 1491,
+    "evaluatedPicks": 448,
     "correct": 250,
-    "accuracy": 55.93,
-    "coverage": 30.0,
+    "accuracy": 55.8,
+    "coverage": 30.05,
     "YRFI": {
-      "picks": 251,
+      "picks": 252,
       "correct": 137,
-      "accuracy": 54.58
+      "accuracy": 54.37
     },
     "NRFI": {
       "picks": 196,
@@ -243,8 +243,8 @@
       },
       "Chicago White Sox": {
         "games": 30,
-        "scored1stPct": 40.0,
-        "allowed1stPct": 33.3
+        "scored1stPct": 36.7,
+        "allowed1stPct": 30.0
       },
       "Philadelphia Phillies": {
         "games": 30,
@@ -294,7 +294,7 @@
       "Cleveland Guardians": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 40.0
+        "allowed1stPct": 36.7
       },
       "Texas Rangers": {
         "games": 30,
