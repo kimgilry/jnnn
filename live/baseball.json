@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T15:20:04.154094+09:00",
+  "generatedAt": "2026-10-04T21:40:03.195252+09:00",
   "dateKST": "2026-10-04",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -109,12 +109,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "17:00|KT|LOTTE",
+      "gamePk": "17:00|LOTTE|KT",
       "timeKST": "17:00",
       "startISO": "",
       "status": "경기전",
-      "away": "KT",
-      "home": "LOTTE",
+      "away": "LOTTE",
+      "home": "KT",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
