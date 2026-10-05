@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T11:08:01.745409+09:00",
+  "generatedAt": "2026-10-05T18:14:03.794517+09:00",
   "dateKST": "2026-10-05",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1481
+      "games": 1482
     }
   },
   "games": [
@@ -69,12 +69,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "14:00|LG|KIA",
+      "gamePk": "14:00|KIA|LG",
       "timeKST": "14:00",
       "startISO": "",
       "status": "경기전",
-      "away": "LG",
-      "home": "KIA",
+      "away": "KIA",
+      "home": "LG",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
@@ -89,12 +89,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "14:00|SAMSUNG|DOOSAN",
+      "gamePk": "14:00|DOOSAN|SAMSUNG",
       "timeKST": "14:00",
       "startISO": "",
       "status": "경기전",
-      "away": "SAMSUNG",
-      "home": "DOOSAN",
+      "away": "DOOSAN",
+      "home": "SAMSUNG",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
@@ -109,12 +109,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "14:00|KT|LOTTE",
+      "gamePk": "14:00|LOTTE|KT",
       "timeKST": "14:00",
       "startISO": "",
       "status": "경기전",
-      "away": "KT",
-      "home": "LOTTE",
+      "away": "LOTTE",
+      "home": "KT",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
@@ -129,12 +129,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "14:00|NC|SSG",
+      "gamePk": "14:00|SSG|NC",
       "timeKST": "14:00",
       "startISO": "",
       "status": "경기전",
-      "away": "NC",
-      "home": "SSG",
+      "away": "SSG",
+      "home": "NC",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
@@ -149,12 +149,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "14:00|HANWHA|KIWOOM",
+      "gamePk": "14:00|KIWOOM|HANWHA",
       "timeKST": "14:00",
       "startISO": "",
       "status": "경기전",
-      "away": "HANWHA",
-      "home": "KIWOOM",
+      "away": "KIWOOM",
+      "home": "HANWHA",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
@@ -168,11 +168,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1481,
+    "rawGames": 1482,
     "evaluatedPicks": 442,
     "correct": 244,
     "accuracy": 55.2,
-    "coverage": 29.84,
+    "coverage": 29.82,
     "YRFI": {
       "picks": 249,
       "correct": 132,
@@ -198,7 +198,7 @@
       },
       "Atlanta Braves": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 30.0,
         "allowed1stPct": 36.7
       },
       "Chicago White Sox": {
