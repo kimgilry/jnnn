@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T09:19:28.161652+09:00",
+  "generatedAt": "2026-10-06T15:36:36.291568+09:00",
   "dateKST": "2026-10-06",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1468
+      "games": 1469
     }
   },
   "games": [
@@ -168,11 +168,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1468,
+    "rawGames": 1469,
     "evaluatedPicks": 441,
     "correct": 245,
     "accuracy": 55.56,
-    "coverage": 30.04,
+    "coverage": 30.02,
     "YRFI": {
       "picks": 250,
       "correct": 132,
@@ -208,7 +208,7 @@
       },
       "Tampa Bay Rays": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 36.7,
         "allowed1stPct": 23.3
       },
       "New York Yankees": {
