@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T11:28:15.635246+09:00",
+  "generatedAt": "2026-10-07T18:14:46.473256+09:00",
   "dateKST": "2026-10-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1462
+      "games": 1463
     }
   },
   "games": [
@@ -96,15 +96,15 @@
       "away": "Milwaukee Brewers",
       "home": "San Diego Padres",
       "awayWins": 2,
-      "awayLosses": 0,
-      "homeWins": 0,
+      "awayLosses": 1,
+      "homeWins": 1,
       "homeLosses": 2,
-      "awayWinPct": 1.0,
-      "homeWinPct": 0.0,
+      "awayWinPct": 0.6667,
+      "homeWinPct": 0.3333,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Walker Buehler",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "KBO Official",
@@ -208,11 +208,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1462,
+    "rawGames": 1463,
     "evaluatedPicks": 444,
     "correct": 248,
     "accuracy": 55.86,
-    "coverage": 30.37,
+    "coverage": 30.35,
     "YRFI": {
       "picks": 253,
       "correct": 135,
@@ -373,7 +373,7 @@
       },
       "Milwaukee Brewers": {
         "games": 30,
-        "scored1stPct": 40.0,
+        "scored1stPct": 36.7,
         "allowed1stPct": 23.3
       },
       "Athletics": {
