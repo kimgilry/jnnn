@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-07T18:14:46.473256+09:00",
-  "dateKST": "2026-10-07",
+  "generatedAt": "2026-10-08T01:39:43.540745+09:00",
+  "dateKST": "2026-10-08",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
     "MLB": {
       "ok": true,
-      "games": 4
+      "games": 2
     },
     "KBO": {
       "ok": true,
-      "games": 5
+      "games": 0
     },
     "NPB": {
       "ok": true,
@@ -22,16 +22,16 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1463
+      "games": 1448
     }
   },
   "games": [
     {
       "source": "MLB StatsAPI",
       "league": "MLB",
-      "gamePk": "849833",
-      "timeKST": "05:00",
-      "startISO": "2026-10-08T05:00:00+09:00",
+      "gamePk": "849832",
+      "timeKST": "06:00",
+      "startISO": "2026-10-09T06:00:00+09:00",
       "status": "경기전",
       "away": "Cleveland Guardians",
       "home": "Chicago White Sox",
@@ -41,37 +41,17 @@
       "homeLosses": 0,
       "awayWinPct": 0.0,
       "homeWinPct": 1.0,
-      "awayStarter": "Daniel Espino",
-      "homeStarter": "Sean Newcomb",
+      "awayStarter": "Parker Messick",
+      "homeStarter": "",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "확인완료"
+      "homeStarterStatus": "미확인"
     },
     {
       "source": "MLB StatsAPI",
       "league": "MLB",
-      "gamePk": "849822",
-      "timeKST": "07:00",
-      "startISO": "2026-10-08T07:00:00+09:00",
-      "status": "경기전",
-      "away": "Los Angeles Dodgers",
-      "home": "Atlanta Braves",
-      "awayWins": 2,
-      "awayLosses": 1,
-      "homeWins": 1,
-      "homeLosses": 2,
-      "awayWinPct": 0.6667,
-      "homeWinPct": 0.3333,
-      "awayStarter": "Tyler Glasnow",
-      "homeStarter": "Tyler Mahle",
-      "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "확인완료"
-    },
-    {
-      "source": "MLB StatsAPI",
-      "league": "MLB",
-      "gamePk": "849838",
+      "gamePk": "849837",
       "timeKST": "09:00",
-      "startISO": "2026-10-08T09:00:00+09:00",
+      "startISO": "2026-10-09T09:00:00+09:00",
       "status": "경기전",
       "away": "Tampa Bay Rays",
       "home": "New York Yankees",
@@ -81,147 +61,27 @@
       "homeLosses": 2,
       "awayWinPct": 1.0,
       "homeWinPct": 0.0,
-      "awayStarter": "Nick Martinez",
-      "homeStarter": "Max Fried",
-      "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "확인완료"
-    },
-    {
-      "source": "MLB StatsAPI",
-      "league": "MLB",
-      "gamePk": "849827",
-      "timeKST": "11:00",
-      "startISO": "2026-10-08T11:00:00+09:00",
-      "status": "경기전",
-      "away": "Milwaukee Brewers",
-      "home": "San Diego Padres",
-      "awayWins": 2,
-      "awayLosses": 1,
-      "homeWins": 1,
-      "homeLosses": 2,
-      "awayWinPct": 0.6667,
-      "homeWinPct": 0.3333,
       "awayStarter": "",
-      "homeStarter": "Walker Buehler",
+      "homeStarter": "Carlos Rodón",
       "awayStarterStatus": "미확인",
       "homeStarterStatus": "확인완료"
-    },
-    {
-      "source": "KBO Official",
-      "league": "KBO",
-      "gamePk": "18:30|LG|DOOSAN",
-      "timeKST": "18:30",
-      "startISO": "",
-      "status": "경기전",
-      "away": "LG",
-      "home": "DOOSAN",
-      "awayWins": null,
-      "awayLosses": null,
-      "homeWins": null,
-      "homeLosses": null,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
-    },
-    {
-      "source": "KBO Official",
-      "league": "KBO",
-      "gamePk": "18:30|LOTTE|KIA",
-      "timeKST": "18:30",
-      "startISO": "",
-      "status": "경기전",
-      "away": "LOTTE",
-      "home": "KIA",
-      "awayWins": null,
-      "awayLosses": null,
-      "homeWins": null,
-      "homeLosses": null,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
-    },
-    {
-      "source": "KBO Official",
-      "league": "KBO",
-      "gamePk": "18:30|SSG|NC",
-      "timeKST": "18:30",
-      "startISO": "",
-      "status": "경기전",
-      "away": "SSG",
-      "home": "NC",
-      "awayWins": null,
-      "awayLosses": null,
-      "homeWins": null,
-      "homeLosses": null,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
-    },
-    {
-      "source": "KBO Official",
-      "league": "KBO",
-      "gamePk": "18:30|KT|SAMSUNG",
-      "timeKST": "18:30",
-      "startISO": "",
-      "status": "경기전",
-      "away": "KT",
-      "home": "SAMSUNG",
-      "awayWins": null,
-      "awayLosses": null,
-      "homeWins": null,
-      "homeLosses": null,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
-    },
-    {
-      "source": "KBO Official",
-      "league": "KBO",
-      "gamePk": "18:30|KIWOOM|HANWHA",
-      "timeKST": "18:30",
-      "startISO": "",
-      "status": "경기전",
-      "away": "KIWOOM",
-      "home": "HANWHA",
-      "awayWins": null,
-      "awayLosses": null,
-      "homeWins": null,
-      "homeLosses": null,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1463,
-    "evaluatedPicks": 444,
-    "correct": 248,
-    "accuracy": 55.86,
-    "coverage": 30.35,
+    "rawGames": 1448,
+    "evaluatedPicks": 431,
+    "correct": 240,
+    "accuracy": 55.68,
+    "coverage": 29.77,
     "YRFI": {
-      "picks": 253,
-      "correct": 135,
-      "accuracy": 53.36
+      "picks": 237,
+      "correct": 127,
+      "accuracy": 53.59
     },
     "NRFI": {
-      "picks": 191,
+      "picks": 194,
       "correct": 113,
-      "accuracy": 59.16
+      "accuracy": 58.25
     },
     "window": 20,
     "minGames": 10,
@@ -231,6 +91,46 @@
     },
     "note": "각 경기 예측 시 해당 경기 이전 기록만 사용. 미래누설 없음.",
     "teamRatesLast30": {
+      "Boston Red Sox": {
+        "games": 30,
+        "scored1stPct": 26.7,
+        "allowed1stPct": 36.7
+      },
+      "Tampa Bay Rays": {
+        "games": 30,
+        "scored1stPct": 36.7,
+        "allowed1stPct": 23.3
+      },
+      "New York Yankees": {
+        "games": 30,
+        "scored1stPct": 26.7,
+        "allowed1stPct": 16.7
+      },
+      "Cleveland Guardians": {
+        "games": 30,
+        "scored1stPct": 33.3,
+        "allowed1stPct": 33.3
+      },
+      "Washington Nationals": {
+        "games": 30,
+        "scored1stPct": 23.3,
+        "allowed1stPct": 30.0
+      },
+      "San Francisco Giants": {
+        "games": 30,
+        "scored1stPct": 46.7,
+        "allowed1stPct": 30.0
+      },
+      "Cincinnati Reds": {
+        "games": 30,
+        "scored1stPct": 26.7,
+        "allowed1stPct": 46.7
+      },
+      "San Diego Padres": {
+        "games": 30,
+        "scored1stPct": 36.7,
+        "allowed1stPct": 23.3
+      },
       "Seattle Mariners": {
         "games": 30,
         "scored1stPct": 30.0,
@@ -251,16 +151,6 @@
         "scored1stPct": 26.7,
         "allowed1stPct": 16.7
       },
-      "Boston Red Sox": {
-        "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 36.7
-      },
-      "Tampa Bay Rays": {
-        "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 23.3
-      },
       "Minnesota Twins": {
         "games": 30,
         "scored1stPct": 40.0,
@@ -280,16 +170,6 @@
         "games": 30,
         "scored1stPct": 10.0,
         "allowed1stPct": 20.0
-      },
-      "New York Yankees": {
-        "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 16.7
-      },
-      "Cleveland Guardians": {
-        "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 33.3
       },
       "Philadelphia Phillies": {
         "games": 30,
@@ -341,36 +221,6 @@
         "scored1stPct": 26.7,
         "allowed1stPct": 43.3
       },
-      "Houston Astros": {
-        "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 20.0
-      },
-      "Los Angeles Angels": {
-        "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 16.7
-      },
-      "Cincinnati Reds": {
-        "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 46.7
-      },
-      "San Diego Padres": {
-        "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 23.3
-      },
-      "Washington Nationals": {
-        "games": 30,
-        "scored1stPct": 23.3,
-        "allowed1stPct": 30.0
-      },
-      "San Francisco Giants": {
-        "games": 30,
-        "scored1stPct": 46.7,
-        "allowed1stPct": 30.0
-      },
       "Milwaukee Brewers": {
         "games": 30,
         "scored1stPct": 36.7,
@@ -380,6 +230,16 @@
         "games": 30,
         "scored1stPct": 26.7,
         "allowed1stPct": 36.7
+      },
+      "Houston Astros": {
+        "games": 30,
+        "scored1stPct": 36.7,
+        "allowed1stPct": 20.0
+      },
+      "Los Angeles Angels": {
+        "games": 30,
+        "scored1stPct": 33.3,
+        "allowed1stPct": 16.7
       },
       "American League All-Stars": {
         "games": 1,
