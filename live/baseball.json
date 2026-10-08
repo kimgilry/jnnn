@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T06:36:36.506130+09:00",
+  "generatedAt": "2026-10-08T10:18:58.576182+09:00",
   "dateKST": "2026-10-08",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1448
+      "games": 1450
     }
   },
   "games": [
@@ -35,12 +35,12 @@
       "status": "경기전",
       "away": "Cleveland Guardians",
       "home": "Chicago White Sox",
-      "awayWins": 0,
+      "awayWins": 1,
       "awayLosses": 2,
       "homeWins": 2,
-      "homeLosses": 0,
-      "awayWinPct": 0.0,
-      "homeWinPct": 1.0,
+      "homeLosses": 1,
+      "awayWinPct": 0.3333,
+      "homeWinPct": 0.6667,
       "awayStarter": "Parker Messick",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
@@ -61,18 +61,18 @@
       "homeLosses": 2,
       "awayWinPct": 1.0,
       "homeWinPct": 0.0,
-      "awayStarter": "",
+      "awayStarter": "Drew Rasmussen",
       "homeStarter": "Carlos Rodón",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1448,
+    "rawGames": 1450,
     "evaluatedPicks": 431,
     "correct": 240,
     "accuracy": 55.68,
-    "coverage": 29.77,
+    "coverage": 29.72,
     "YRFI": {
       "picks": 237,
       "correct": 127,
@@ -109,7 +109,7 @@
       "Cleveland Guardians": {
         "games": 30,
         "scored1stPct": 33.3,
-        "allowed1stPct": 33.3
+        "allowed1stPct": 36.7
       },
       "Washington Nationals": {
         "games": 30,
@@ -144,7 +144,7 @@
       "Los Angeles Dodgers": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 13.3
+        "allowed1stPct": 16.7
       },
       "Pittsburgh Pirates": {
         "games": 30,
@@ -203,12 +203,12 @@
       },
       "Atlanta Braves": {
         "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 30.0,
         "allowed1stPct": 33.3
       },
       "Chicago White Sox": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 40.0,
         "allowed1stPct": 30.0
       },
       "Chicago Cubs": {
