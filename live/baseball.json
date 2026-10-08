@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-08T10:18:58.576182+09:00",
+  "generatedAt": "2026-10-08T16:37:33.404769+09:00",
   "dateKST": "2026-10-08",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
     "MLB": {
       "ok": true,
-      "games": 2
+      "games": 1
     },
     "KBO": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1450
+      "games": 1452
     }
   },
   "games": [
@@ -30,8 +30,8 @@
       "source": "MLB StatsAPI",
       "league": "MLB",
       "gamePk": "849832",
-      "timeKST": "06:00",
-      "startISO": "2026-10-09T06:00:00+09:00",
+      "timeKST": "09:00",
+      "startISO": "2026-10-09T09:00:00+09:00",
       "status": "경기전",
       "away": "Cleveland Guardians",
       "home": "Chicago White Sox",
@@ -42,37 +42,17 @@
       "awayWinPct": 0.3333,
       "homeWinPct": 0.6667,
       "awayStarter": "Parker Messick",
-      "homeStarter": "",
-      "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
-    },
-    {
-      "source": "MLB StatsAPI",
-      "league": "MLB",
-      "gamePk": "849837",
-      "timeKST": "09:00",
-      "startISO": "2026-10-09T09:00:00+09:00",
-      "status": "경기전",
-      "away": "Tampa Bay Rays",
-      "home": "New York Yankees",
-      "awayWins": 2,
-      "awayLosses": 0,
-      "homeWins": 0,
-      "homeLosses": 2,
-      "awayWinPct": 1.0,
-      "homeWinPct": 0.0,
-      "awayStarter": "Drew Rasmussen",
-      "homeStarter": "Carlos Rodón",
+      "homeStarter": "Hagen Smith",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료"
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1450,
+    "rawGames": 1452,
     "evaluatedPicks": 431,
     "correct": 240,
     "accuracy": 55.68,
-    "coverage": 29.72,
+    "coverage": 29.68,
     "YRFI": {
       "picks": 237,
       "correct": 127,
@@ -98,7 +78,7 @@
       },
       "Tampa Bay Rays": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 33.3,
         "allowed1stPct": 23.3
       },
       "New York Yankees": {
@@ -223,7 +203,7 @@
       },
       "Milwaukee Brewers": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 33.3,
         "allowed1stPct": 23.3
       },
       "Athletics": {
