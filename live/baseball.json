@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T04:45:03.678293+09:00",
+  "generatedAt": "2026-10-10T08:54:21.600495+09:00",
   "dateKST": "2026-10-10",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -42,9 +42,9 @@
       "awayWinPct": 0.5,
       "homeWinPct": 0.5,
       "awayStarter": "Sean Burke",
-      "homeStarter": "",
+      "homeStarter": "Gavin Williams",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "KBO Official",
