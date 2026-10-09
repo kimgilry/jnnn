@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T09:40:29.150456+09:00",
+  "generatedAt": "2026-10-09T16:14:55.472462+09:00",
   "dateKST": "2026-10-09",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,19 +22,19 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1437
+      "games": 1438
     }
   },
   "games": [
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "14:00|LOTTE|LG",
+      "gamePk": "14:00|LG|LOTTE",
       "timeKST": "14:00",
       "startISO": "",
       "status": "경기전",
-      "away": "LOTTE",
-      "home": "LG",
+      "away": "LG",
+      "home": "LOTTE",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
@@ -49,12 +49,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "14:00|SSG|SAMSUNG",
+      "gamePk": "14:00|SAMSUNG|SSG",
       "timeKST": "14:00",
       "startISO": "",
       "status": "경기전",
-      "away": "SSG",
-      "home": "SAMSUNG",
+      "away": "SAMSUNG",
+      "home": "SSG",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
@@ -69,12 +69,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "14:00|NC|KIA",
+      "gamePk": "14:00|KIA|NC",
       "timeKST": "14:00",
       "startISO": "",
       "status": "경기전",
-      "away": "NC",
-      "home": "KIA",
+      "away": "KIA",
+      "home": "NC",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
@@ -88,11 +88,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1437,
+    "rawGames": 1438,
     "evaluatedPicks": 438,
     "correct": 244,
     "accuracy": 55.71,
-    "coverage": 30.48,
+    "coverage": 30.46,
     "YRFI": {
       "picks": 243,
       "correct": 130,
