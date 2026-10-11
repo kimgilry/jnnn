@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T11:12:49.767011+09:00",
+  "generatedAt": "2026-10-11T18:03:08.907412+09:00",
   "dateKST": "2026-10-11",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1416
+      "games": 1417
     }
   },
   "games": [
@@ -49,12 +49,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "14:00|SAMSUNG|KT",
+      "gamePk": "14:00|KT|SAMSUNG",
       "timeKST": "14:00",
       "startISO": "",
       "status": "경기전",
-      "away": "SAMSUNG",
-      "home": "KT",
+      "away": "KT",
+      "home": "SAMSUNG",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
@@ -69,12 +69,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "14:00|KIA|LOTTE",
+      "gamePk": "14:00|LOTTE|KIA",
       "timeKST": "14:00",
       "startISO": "",
       "status": "경기전",
-      "away": "KIA",
-      "home": "LOTTE",
+      "away": "LOTTE",
+      "home": "KIA",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
@@ -88,11 +88,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1416,
+    "rawGames": 1417,
     "evaluatedPicks": 416,
     "correct": 235,
     "accuracy": 56.49,
-    "coverage": 29.38,
+    "coverage": 29.36,
     "YRFI": {
       "picks": 221,
       "correct": 122,
@@ -178,8 +178,8 @@
       },
       "Cleveland Guardians": {
         "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 36.7
+        "scored1stPct": 30.0,
+        "allowed1stPct": 33.3
       },
       "Texas Rangers": {
         "games": 30,
