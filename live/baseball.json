@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T00:48:13.525487+09:00",
+  "generatedAt": "2026-10-12T05:05:12.494751+09:00",
   "dateKST": "2026-10-12",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -42,9 +42,9 @@
       "awayWinPct": 0.5,
       "homeWinPct": 0.5,
       "awayStarter": "Yoshinobu Yamamoto",
-      "homeStarter": "",
+      "homeStarter": "Logan Henderson",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -62,9 +62,9 @@
       "awayWinPct": 0.5,
       "homeWinPct": 0.5,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Drew Rasmussen",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "KBO Official",
