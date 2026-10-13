@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T11:55:19.139616+09:00",
+  "generatedAt": "2026-10-13T19:20:49.989977+09:00",
   "dateKST": "2026-10-13",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1390
+      "games": 1391
     }
   },
   "games": [
@@ -35,12 +35,12 @@
       "status": "경기전",
       "away": "Cleveland Guardians",
       "home": "Tampa Bay Rays",
-      "awayWins": 0,
+      "awayWins": 1,
       "awayLosses": 0,
       "homeWins": 0,
-      "homeLosses": 0,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
+      "homeLosses": 1,
+      "awayWinPct": 1.0,
+      "homeWinPct": 0.0,
       "awayStarter": "Parker Messick",
       "homeStarter": "Freddy Peralta",
       "awayStarterStatus": "확인완료",
@@ -48,11 +48,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1390,
+    "rawGames": 1391,
     "evaluatedPicks": 412,
     "correct": 234,
     "accuracy": 56.8,
-    "coverage": 29.64,
+    "coverage": 29.62,
     "YRFI": {
       "picks": 214,
       "correct": 120,
@@ -163,7 +163,7 @@
       },
       "Tampa Bay Rays": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 36.7,
         "allowed1stPct": 23.3
       },
       "Los Angeles Dodgers": {
@@ -204,7 +204,7 @@
       "Cleveland Guardians": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 33.3
+        "allowed1stPct": 36.7
       },
       "Milwaukee Brewers": {
         "games": 30,
