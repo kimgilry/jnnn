@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T02:47:29.247027+09:00",
+  "generatedAt": "2026-10-14T07:28:07.347770+09:00",
   "dateKST": "2026-10-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -42,9 +42,9 @@
       "awayWinPct": 1.0,
       "homeWinPct": 0.0,
       "awayStarter": "Robert Gasser",
-      "homeStarter": "",
+      "homeStarter": "Blake Snell",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "KBO Official",
