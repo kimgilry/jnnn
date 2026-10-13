@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T06:51:44.885643+09:00",
+  "generatedAt": "2026-10-13T11:55:19.139616+09:00",
   "dateKST": "2026-10-13",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1389
+      "games": 1390
     }
   },
   "games": [
@@ -48,20 +48,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1389,
-    "evaluatedPicks": 411,
+    "rawGames": 1390,
+    "evaluatedPicks": 412,
     "correct": 234,
-    "accuracy": 56.93,
-    "coverage": 29.59,
+    "accuracy": 56.8,
+    "coverage": 29.64,
     "YRFI": {
       "picks": 214,
       "correct": 120,
       "accuracy": 56.07
     },
     "NRFI": {
-      "picks": 197,
+      "picks": 198,
       "correct": 114,
-      "accuracy": 57.87
+      "accuracy": 57.58
     },
     "window": 20,
     "minGames": 10,
@@ -168,8 +168,8 @@
       },
       "Los Angeles Dodgers": {
         "games": 30,
-        "scored1stPct": 23.3,
-        "allowed1stPct": 16.7
+        "scored1stPct": 26.7,
+        "allowed1stPct": 20.0
       },
       "Toronto Blue Jays": {
         "games": 30,
@@ -208,7 +208,7 @@
       },
       "Milwaukee Brewers": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 33.3,
         "allowed1stPct": 23.3
       },
       "Baltimore Orioles": {
