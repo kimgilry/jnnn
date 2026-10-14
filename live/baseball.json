@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T15:42:06.916331+09:00",
+  "generatedAt": "2026-10-14T21:45:54.004299+09:00",
   "dateKST": "2026-10-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -49,12 +49,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "18:30|LG|DOOSAN",
+      "gamePk": "18:30|DOOSAN|LG",
       "timeKST": "18:30",
       "startISO": "",
       "status": "경기전",
-      "away": "LG",
-      "home": "DOOSAN",
+      "away": "DOOSAN",
+      "home": "LG",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
