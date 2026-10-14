@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T02:53:13.504785+09:00",
+  "generatedAt": "2026-10-15T06:27:47.852604+09:00",
   "dateKST": "2026-10-15",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -42,16 +42,16 @@
       "awayWinPct": 0.5,
       "homeWinPct": 0.5,
       "awayStarter": "Griffin Jax",
-      "homeStarter": "",
+      "homeStarter": "Gavin Williams",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
       "league": "MLB",
       "gamePk": "849810",
-      "timeKST": "10:00",
-      "startISO": "2026-10-16T10:00:00+09:00",
+      "timeKST": "09:00",
+      "startISO": "2026-10-16T09:00:00+09:00",
       "status": "경기전",
       "away": "Milwaukee Brewers",
       "home": "Los Angeles Dodgers",
