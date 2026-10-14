@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T10:22:47.401848+09:00",
+  "generatedAt": "2026-10-14T15:42:06.916331+09:00",
   "dateKST": "2026-10-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1381
+      "games": 1382
     }
   },
   "games": [
@@ -68,11 +68,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1381,
+    "rawGames": 1382,
     "evaluatedPicks": 407,
     "correct": 228,
     "accuracy": 56.02,
-    "coverage": 29.47,
+    "coverage": 29.45,
     "YRFI": {
       "picks": 208,
       "correct": 113,
@@ -154,7 +154,7 @@
       "Cleveland Guardians": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 36.7
+        "allowed1stPct": 33.3
       },
       "Milwaukee Brewers": {
         "games": 30,
