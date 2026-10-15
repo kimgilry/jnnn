@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T09:05:59.469574+09:00",
+  "generatedAt": "2026-10-15T13:52:01.775829+09:00",
   "dateKST": "2026-10-15",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1367
+      "games": 1368
     }
   },
   "games": [
@@ -55,10 +55,10 @@
       "status": "경기전",
       "away": "Milwaukee Brewers",
       "home": "Los Angeles Dodgers",
-      "awayWins": 2,
+      "awayWins": 3,
       "awayLosses": 0,
       "homeWins": 0,
-      "homeLosses": 2,
+      "homeLosses": 3,
       "awayWinPct": 1.0,
       "homeWinPct": 0.0,
       "awayStarter": "",
@@ -68,20 +68,20 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1367,
-    "evaluatedPicks": 400,
+    "rawGames": 1368,
+    "evaluatedPicks": 401,
     "correct": 225,
-    "accuracy": 56.25,
-    "coverage": 29.26,
+    "accuracy": 56.11,
+    "coverage": 29.31,
     "YRFI": {
       "picks": 203,
       "correct": 112,
       "accuracy": 55.17
     },
     "NRFI": {
-      "picks": 197,
+      "picks": 198,
       "correct": 113,
-      "accuracy": 57.36
+      "accuracy": 57.07
     },
     "window": 20,
     "minGames": 10,
@@ -158,8 +158,8 @@
       },
       "Los Angeles Dodgers": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 20.0
+        "scored1stPct": 23.3,
+        "allowed1stPct": 23.3
       },
       "Los Angeles Angels": {
         "games": 30,
@@ -198,7 +198,7 @@
       },
       "Milwaukee Brewers": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 36.7,
         "allowed1stPct": 23.3
       },
       "Colorado Rockies": {
