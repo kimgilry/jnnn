@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T03:58:17.690133+09:00",
+  "generatedAt": "2026-10-16T07:08:16.580924+09:00",
   "dateKST": "2026-10-16",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1353
+      "games": 1354
     }
   },
   "games": [
@@ -36,14 +36,14 @@
       "away": "Tampa Bay Rays",
       "home": "Cleveland Guardians",
       "awayWins": 1,
-      "awayLosses": 1,
-      "homeWins": 1,
+      "awayLosses": 2,
+      "homeWins": 2,
       "homeLosses": 1,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
-      "awayStarter": "",
+      "awayWinPct": 0.3333,
+      "homeWinPct": 0.6667,
+      "awayStarter": "Nick Martinez",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
     },
     {
@@ -68,11 +68,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1353,
+    "rawGames": 1354,
     "evaluatedPicks": 403,
     "correct": 226,
     "accuracy": 56.08,
-    "coverage": 29.79,
+    "coverage": 29.76,
     "YRFI": {
       "picks": 201,
       "correct": 113,
@@ -193,8 +193,8 @@
       },
       "Tampa Bay Rays": {
         "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 23.3
+        "scored1stPct": 33.3,
+        "allowed1stPct": 20.0
       },
       "San Francisco Giants": {
         "games": 30,
