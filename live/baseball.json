@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-16T09:28:40.557795+09:00",
+  "generatedAt": "2026-10-16T13:58:36.838091+09:00",
   "dateKST": "2026-10-16",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
     "MLB": {
       "ok": true,
-      "games": 2
+      "games": 1
     },
     "KBO": {
       "ok": true,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1354
+      "games": 1355
     }
   },
   "games": [
@@ -30,8 +30,8 @@
       "source": "MLB StatsAPI",
       "league": "MLB",
       "gamePk": "849817",
-      "timeKST": "07:00",
-      "startISO": "2026-10-17T07:00:00+09:00",
+      "timeKST": "09:00",
+      "startISO": "2026-10-17T09:00:00+09:00",
       "status": "경기전",
       "away": "Tampa Bay Rays",
       "home": "Cleveland Guardians",
@@ -45,43 +45,23 @@
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
-    },
-    {
-      "source": "MLB StatsAPI",
-      "league": "MLB",
-      "gamePk": "849808",
-      "timeKST": "10:00",
-      "startISO": "2026-10-17T10:00:00+09:00",
-      "status": "경기전",
-      "away": "Milwaukee Brewers",
-      "home": "Los Angeles Dodgers",
-      "awayWins": 3,
-      "awayLosses": 0,
-      "homeWins": 0,
-      "homeLosses": 3,
-      "awayWinPct": 1.0,
-      "homeWinPct": 0.0,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1354,
-    "evaluatedPicks": 403,
-    "correct": 226,
-    "accuracy": 56.08,
-    "coverage": 29.76,
+    "rawGames": 1355,
+    "evaluatedPicks": 404,
+    "correct": 227,
+    "accuracy": 56.19,
+    "coverage": 29.82,
     "YRFI": {
       "picks": 201,
       "correct": 113,
       "accuracy": 56.22
     },
     "NRFI": {
-      "picks": 202,
-      "correct": 113,
-      "accuracy": 55.94
+      "picks": 203,
+      "correct": 114,
+      "accuracy": 56.16
     },
     "window": 20,
     "minGames": 10,
@@ -108,8 +88,8 @@
       },
       "Milwaukee Brewers": {
         "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 23.3
+        "scored1stPct": 33.3,
+        "allowed1stPct": 20.0
       },
       "Minnesota Twins": {
         "games": 30,
@@ -239,7 +219,7 @@
       "Los Angeles Dodgers": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 23.3
+        "allowed1stPct": 20.0
       },
       "American League All-Stars": {
         "games": 1,
