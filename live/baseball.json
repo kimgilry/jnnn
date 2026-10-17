@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T17:25:13.024012+09:00",
+  "generatedAt": "2026-10-17T21:24:10.808755+09:00",
   "dateKST": "2026-10-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -30,8 +30,8 @@
       "source": "MLB StatsAPI",
       "league": "MLB",
       "gamePk": "849816",
-      "timeKST": "09:00",
-      "startISO": "2026-10-18T09:00:00+09:00",
+      "timeKST": "09:08",
+      "startISO": "2026-10-18T09:08:00+09:00",
       "status": "경기전",
       "away": "Tampa Bay Rays",
       "home": "Cleveland Guardians",
