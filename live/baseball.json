@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T08:52:23.348298+09:00",
+  "generatedAt": "2026-10-17T12:50:26.141001+09:00",
   "dateKST": "2026-10-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -41,10 +41,10 @@
       "homeLosses": 1,
       "awayWinPct": 0.3333,
       "homeWinPct": 0.6667,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "awayStarter": "Nick Martinez",
+      "homeStarter": "Shawn Armstrong",
+      "awayStarterStatus": "확인완료",
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "KBO Official",
