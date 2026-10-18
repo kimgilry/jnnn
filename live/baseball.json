@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T10:11:56.733278+09:00",
+  "generatedAt": "2026-10-18T15:03:26.604900+09:00",
   "dateKST": "2026-10-18",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1333
+      "games": 1334
     }
   },
   "games": [
@@ -35,26 +35,26 @@
       "status": "경기전",
       "away": "Tampa Bay Rays",
       "home": "Cleveland Guardians",
-      "awayWins": 1,
+      "awayWins": 2,
       "awayLosses": 2,
       "homeWins": 2,
-      "homeLosses": 1,
-      "awayWinPct": 0.3333,
-      "homeWinPct": 0.6667,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeLosses": 2,
+      "awayWinPct": 0.5,
+      "homeWinPct": 0.5,
+      "awayStarter": "Drew Rasmussen",
+      "homeStarter": "Parker Messick",
+      "awayStarterStatus": "확인완료",
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "14:00|KIA|LG",
+      "gamePk": "14:00|LG|KIA",
       "timeKST": "14:00",
       "startISO": "",
       "status": "경기전",
-      "away": "KIA",
-      "home": "LG",
+      "away": "LG",
+      "home": "KIA",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
@@ -68,11 +68,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1333,
+    "rawGames": 1334,
     "evaluatedPicks": 406,
     "correct": 231,
     "accuracy": 56.9,
-    "coverage": 30.46,
+    "coverage": 30.43,
     "YRFI": {
       "picks": 195,
       "correct": 108,
@@ -164,7 +164,7 @@
       "Cleveland Guardians": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 33.3
+        "allowed1stPct": 30.0
       },
       "Houston Astros": {
         "games": 30,
