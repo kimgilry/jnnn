@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T07:35:17.419063+09:00",
+  "generatedAt": "2026-10-19T09:29:02.930523+09:00",
   "dateKST": "2026-10-19",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1320
+      "games": 1321
     }
   },
   "games": [
@@ -36,23 +36,23 @@
       "away": "Cleveland Guardians",
       "home": "Tampa Bay Rays",
       "awayWins": 2,
-      "awayLosses": 2,
-      "homeWins": 2,
+      "awayLosses": 3,
+      "homeWins": 3,
       "homeLosses": 2,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
+      "awayWinPct": 0.4,
+      "homeWinPct": 0.6,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Freddy Peralta",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1320,
+    "rawGames": 1321,
     "evaluatedPicks": 399,
     "correct": 228,
     "accuracy": 57.14,
-    "coverage": 30.23,
+    "coverage": 30.2,
     "YRFI": {
       "picks": 190,
       "correct": 102,
@@ -98,7 +98,7 @@
       },
       "Tampa Bay Rays": {
         "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 36.7,
         "allowed1stPct": 20.0
       },
       "Chicago White Sox": {
@@ -124,7 +124,7 @@
       "Cleveland Guardians": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 30.0
+        "allowed1stPct": 33.3
       },
       "Houston Astros": {
         "games": 30,
