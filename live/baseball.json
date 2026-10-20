@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T20:13:38.572527+09:00",
-  "dateKST": "2026-10-20",
+  "generatedAt": "2026-10-21T00:40:47.009621+09:00",
+  "dateKST": "2026-10-21",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
@@ -10,7 +10,7 @@
     },
     "KBO": {
       "ok": true,
-      "games": 1
+      "games": 0
     },
     "NPB": {
       "ok": true,
@@ -22,46 +22,25 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1308
+      "games": 1296
     }
   },
-  "games": [
-    {
-      "source": "KBO Official",
-      "league": "KBO",
-      "gamePk": "18:30|KIA|LG",
-      "timeKST": "18:30",
-      "startISO": "",
-      "status": "경기전",
-      "away": "KIA",
-      "home": "LG",
-      "awayWins": null,
-      "awayLosses": null,
-      "homeWins": null,
-      "homeLosses": null,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
-    }
-  ],
+  "games": [],
   "firstInningMLB": {
-    "rawGames": 1308,
-    "evaluatedPicks": 389,
-    "correct": 219,
-    "accuracy": 56.3,
-    "coverage": 29.74,
+    "rawGames": 1296,
+    "evaluatedPicks": 382,
+    "correct": 213,
+    "accuracy": 55.76,
+    "coverage": 29.48,
     "YRFI": {
       "picks": 183,
       "correct": 96,
       "accuracy": 52.46
     },
     "NRFI": {
-      "picks": 206,
-      "correct": 123,
-      "accuracy": 59.71
+      "picks": 199,
+      "correct": 117,
+      "accuracy": 58.79
     },
     "window": 20,
     "minGames": 10,
@@ -71,15 +50,25 @@
     },
     "note": "각 경기 예측 시 해당 경기 이전 기록만 사용. 미래누설 없음.",
     "teamRatesLast30": {
-      "New York Yankees": {
+      "Houston Astros": {
+        "games": 30,
+        "scored1stPct": 36.7,
+        "allowed1stPct": 20.0
+      },
+      "Toronto Blue Jays": {
+        "games": 30,
+        "scored1stPct": 36.7,
+        "allowed1stPct": 40.0
+      },
+      "Seattle Mariners": {
+        "games": 30,
+        "scored1stPct": 30.0,
+        "allowed1stPct": 46.7
+      },
+      "Pittsburgh Pirates": {
         "games": 30,
         "scored1stPct": 26.7,
         "allowed1stPct": 16.7
-      },
-      "Detroit Tigers": {
-        "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 40.0
       },
       "Kansas City Royals": {
         "games": 30,
@@ -101,6 +90,16 @@
         "scored1stPct": 10.0,
         "allowed1stPct": 20.0
       },
+      "New York Yankees": {
+        "games": 30,
+        "scored1stPct": 26.7,
+        "allowed1stPct": 16.7
+      },
+      "Detroit Tigers": {
+        "games": 30,
+        "scored1stPct": 33.3,
+        "allowed1stPct": 40.0
+      },
       "Philadelphia Phillies": {
         "games": 30,
         "scored1stPct": 33.3,
@@ -111,14 +110,14 @@
         "scored1stPct": 23.3,
         "allowed1stPct": 30.0
       },
-      "Houston Astros": {
+      "Chicago Cubs": {
         "games": 30,
         "scored1stPct": 36.7,
-        "allowed1stPct": 20.0
+        "allowed1stPct": 26.7
       },
-      "Toronto Blue Jays": {
+      "New York Mets": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 43.3,
         "allowed1stPct": 40.0
       },
       "Milwaukee Brewers": {
@@ -190,26 +189,6 @@
         "games": 30,
         "scored1stPct": 36.7,
         "allowed1stPct": 23.3
-      },
-      "Seattle Mariners": {
-        "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 46.7
-      },
-      "Pittsburgh Pirates": {
-        "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 16.7
-      },
-      "Chicago Cubs": {
-        "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 26.7
-      },
-      "New York Mets": {
-        "games": 30,
-        "scored1stPct": 43.3,
-        "allowed1stPct": 40.0
       },
       "Athletics": {
         "games": 30,
