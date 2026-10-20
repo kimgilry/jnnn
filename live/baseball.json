@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-20T09:59:06.041847+09:00",
+  "generatedAt": "2026-10-20T14:54:58.174887+09:00",
   "dateKST": "2026-10-20",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
     "MLB": {
       "ok": true,
-      "games": 1
+      "games": 0
     },
     "KBO": {
       "ok": true,
@@ -22,30 +22,10 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1307
+      "games": 1308
     }
   },
   "games": [
-    {
-      "source": "MLB StatsAPI",
-      "league": "MLB",
-      "gamePk": "849814",
-      "timeKST": "09:08",
-      "startISO": "2026-10-21T09:08:00+09:00",
-      "status": "경기전",
-      "away": "Cleveland Guardians",
-      "home": "Tampa Bay Rays",
-      "awayWins": 2,
-      "awayLosses": 3,
-      "homeWins": 3,
-      "homeLosses": 2,
-      "awayWinPct": 0.4,
-      "homeWinPct": 0.6,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
-    },
     {
       "source": "KBO Official",
       "league": "KBO",
@@ -68,11 +48,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1307,
+    "rawGames": 1308,
     "evaluatedPicks": 389,
     "correct": 219,
     "accuracy": 56.3,
-    "coverage": 29.76,
+    "coverage": 29.74,
     "YRFI": {
       "picks": 183,
       "correct": 96,
@@ -164,7 +144,7 @@
       "Cleveland Guardians": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 33.3
+        "allowed1stPct": 30.0
       },
       "Chicago White Sox": {
         "games": 30,
