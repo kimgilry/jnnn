@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T08:41:55.809313+09:00",
+  "generatedAt": "2026-10-25T13:05:03.490567+09:00",
   "dateKST": "2026-10-25",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -10,7 +10,7 @@
     },
     "KBO": {
       "ok": true,
-      "games": 1
+      "games": 0
     },
     "NPB": {
       "ok": true,
@@ -22,37 +22,16 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1243
+      "games": 1244
     }
   },
-  "games": [
-    {
-      "source": "KBO Official",
-      "league": "KBO",
-      "gamePk": "14:00|SAMSUNG|KIA",
-      "timeKST": "14:00",
-      "startISO": "",
-      "status": "경기전",
-      "away": "SAMSUNG",
-      "home": "KIA",
-      "awayWins": null,
-      "awayLosses": null,
-      "homeWins": null,
-      "homeLosses": null,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
-    }
-  ],
+  "games": [],
   "firstInningMLB": {
-    "rawGames": 1243,
+    "rawGames": 1244,
     "evaluatedPicks": 374,
     "correct": 214,
     "accuracy": 57.22,
-    "coverage": 30.09,
+    "coverage": 30.06,
     "YRFI": {
       "picks": 182,
       "correct": 97,
@@ -138,8 +117,8 @@
       },
       "Tampa Bay Rays": {
         "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 23.3
+        "scored1stPct": 36.7,
+        "allowed1stPct": 26.7
       },
       "Washington Nationals": {
         "games": 30,
@@ -178,7 +157,7 @@
       },
       "Milwaukee Brewers": {
         "games": 30,
-        "scored1stPct": 36.7,
+        "scored1stPct": 40.0,
         "allowed1stPct": 20.0
       },
       "Miami Marlins": {
