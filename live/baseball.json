@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T14:53:00.167244+09:00",
+  "generatedAt": "2026-10-26T21:36:18.787483+09:00",
   "dateKST": "2026-10-26",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -49,12 +49,12 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "18:30|SAMSUNG|KIA",
+      "gamePk": "18:30|KIA|SAMSUNG",
       "timeKST": "18:30",
       "startISO": "",
       "status": "경기전",
-      "away": "SAMSUNG",
-      "home": "KIA",
+      "away": "KIA",
+      "home": "SAMSUNG",
       "awayWins": null,
       "awayLosses": null,
       "homeWins": null,
