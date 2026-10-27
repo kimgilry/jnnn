@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T23:39:27.991335+09:00",
-  "dateKST": "2026-10-27",
+  "generatedAt": "2026-10-28T04:40:06.574330+09:00",
+  "dateKST": "2026-10-28",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
@@ -10,7 +10,7 @@
     },
     "KBO": {
       "ok": true,
-      "games": 1
+      "games": 0
     },
     "NPB": {
       "ok": true,
@@ -22,16 +22,16 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1215
+      "games": 1202
     }
   },
   "games": [
     {
       "source": "MLB StatsAPI",
       "league": "MLB",
-      "gamePk": "849803",
+      "gamePk": "849799",
       "timeKST": "09:00",
-      "startISO": "2026-10-28T09:00:00+09:00",
+      "startISO": "2026-10-29T09:00:00+09:00",
       "status": "경기전",
       "away": "Milwaukee Brewers",
       "home": "Tampa Bay Rays",
@@ -42,46 +42,26 @@
       "awayWinPct": 1.0,
       "homeWinPct": 0.0,
       "awayStarter": "",
-      "homeStarter": "Griffin Jax",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "확인완료"
-    },
-    {
-      "source": "KBO Official",
-      "league": "KBO",
-      "gamePk": "18:30|KIA|SAMSUNG",
-      "timeKST": "18:30",
-      "startISO": "",
-      "status": "경기전",
-      "away": "KIA",
-      "home": "SAMSUNG",
-      "awayWins": null,
-      "awayLosses": null,
-      "homeWins": null,
-      "homeLosses": null,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
-      "awayStarter": "",
       "homeStarter": "",
       "awayStarterStatus": "미확인",
       "homeStarterStatus": "미확인"
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1215,
-    "evaluatedPicks": 359,
-    "correct": 202,
-    "accuracy": 56.27,
-    "coverage": 29.55,
+    "rawGames": 1202,
+    "evaluatedPicks": 356,
+    "correct": 200,
+    "accuracy": 56.18,
+    "coverage": 29.62,
     "YRFI": {
-      "picks": 175,
-      "correct": 92,
-      "accuracy": 52.57
+      "picks": 172,
+      "correct": 91,
+      "accuracy": 52.91
     },
     "NRFI": {
       "picks": 184,
-      "correct": 110,
-      "accuracy": 59.78
+      "correct": 109,
+      "accuracy": 59.24
     },
     "window": 20,
     "minGames": 10,
@@ -100,6 +80,16 @@
         "games": 30,
         "scored1stPct": 26.7,
         "allowed1stPct": 26.7
+      },
+      "Texas Rangers": {
+        "games": 30,
+        "scored1stPct": 30.0,
+        "allowed1stPct": 33.3
+      },
+      "Cleveland Guardians": {
+        "games": 30,
+        "scored1stPct": 30.0,
+        "allowed1stPct": 30.0
       },
       "Pittsburgh Pirates": {
         "games": 30,
@@ -141,15 +131,25 @@
         "scored1stPct": 26.7,
         "allowed1stPct": 36.7
       },
-      "Texas Rangers": {
+      "St. Louis Cardinals": {
+        "games": 30,
+        "scored1stPct": 16.7,
+        "allowed1stPct": 50.0
+      },
+      "Atlanta Braves": {
         "games": 30,
         "scored1stPct": 30.0,
         "allowed1stPct": 33.3
       },
-      "Cleveland Guardians": {
+      "Tampa Bay Rays": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 30.0
+        "scored1stPct": 33.3,
+        "allowed1stPct": 23.3
+      },
+      "Kansas City Royals": {
+        "games": 30,
+        "scored1stPct": 50.0,
+        "allowed1stPct": 36.7
       },
       "Cincinnati Reds": {
         "games": 30,
@@ -220,26 +220,6 @@
         "games": 30,
         "scored1stPct": 23.3,
         "allowed1stPct": 26.7
-      },
-      "St. Louis Cardinals": {
-        "games": 30,
-        "scored1stPct": 16.7,
-        "allowed1stPct": 50.0
-      },
-      "Atlanta Braves": {
-        "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 33.3
-      },
-      "Tampa Bay Rays": {
-        "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 23.3
-      },
-      "Kansas City Royals": {
-        "games": 30,
-        "scored1stPct": 50.0,
-        "allowed1stPct": 36.7
       },
       "American League All-Stars": {
         "games": 1,
