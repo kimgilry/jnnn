@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T11:09:33.792942+09:00",
+  "generatedAt": "2026-10-27T17:01:24.536219+09:00",
   "dateKST": "2026-10-27",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1214
+      "games": 1215
     }
   },
   "games": [
@@ -35,16 +35,16 @@
       "status": "경기전",
       "away": "Milwaukee Brewers",
       "home": "Tampa Bay Rays",
-      "awayWins": 2,
+      "awayWins": 3,
       "awayLosses": 0,
       "homeWins": 0,
-      "homeLosses": 2,
+      "homeLosses": 3,
       "awayWinPct": 1.0,
       "homeWinPct": 0.0,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Griffin Jax",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "KBO Official",
@@ -68,11 +68,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1214,
+    "rawGames": 1215,
     "evaluatedPicks": 359,
     "correct": 202,
     "accuracy": 56.27,
-    "coverage": 29.57,
+    "coverage": 29.55,
     "YRFI": {
       "picks": 175,
       "correct": 92,
@@ -158,8 +158,8 @@
       },
       "Milwaukee Brewers": {
         "games": 30,
-        "scored1stPct": 40.0,
-        "allowed1stPct": 20.0
+        "scored1stPct": 36.7,
+        "allowed1stPct": 16.7
       },
       "San Diego Padres": {
         "games": 30,
@@ -233,8 +233,8 @@
       },
       "Tampa Bay Rays": {
         "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 26.7
+        "scored1stPct": 33.3,
+        "allowed1stPct": 23.3
       },
       "Kansas City Royals": {
         "games": 30,
