@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T11:35:07.000097+09:00",
+  "generatedAt": "2026-10-28T17:58:23.278836+09:00",
   "dateKST": "2026-10-28",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1202
+      "games": 1203
     }
   },
   "games": [
@@ -36,23 +36,23 @@
       "away": "Milwaukee Brewers",
       "home": "Tampa Bay Rays",
       "awayWins": 3,
-      "awayLosses": 0,
-      "homeWins": 0,
+      "awayLosses": 1,
+      "homeWins": 1,
       "homeLosses": 3,
-      "awayWinPct": 1.0,
-      "homeWinPct": 0.0,
-      "awayStarter": "",
+      "awayWinPct": 0.75,
+      "homeWinPct": 0.25,
+      "awayStarter": "Jacob Misiorowski",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1202,
+    "rawGames": 1203,
     "evaluatedPicks": 356,
     "correct": 200,
     "accuracy": 56.18,
-    "coverage": 29.62,
+    "coverage": 29.59,
     "YRFI": {
       "picks": 172,
       "correct": 91,
@@ -159,7 +159,7 @@
       "Milwaukee Brewers": {
         "games": 30,
         "scored1stPct": 36.7,
-        "allowed1stPct": 16.7
+        "allowed1stPct": 13.3
       },
       "San Diego Padres": {
         "games": 30,
