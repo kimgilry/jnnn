@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T09:41:07.093756+09:00",
+  "generatedAt": "2026-10-29T15:51:35.429907+09:00",
   "dateKST": "2026-10-29",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -22,7 +22,7 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1188
+      "games": 1189
     }
   },
   "games": [
@@ -48,11 +48,11 @@
     }
   ],
   "firstInningMLB": {
-    "rawGames": 1188,
+    "rawGames": 1189,
     "evaluatedPicks": 345,
     "correct": 198,
     "accuracy": 57.39,
-    "coverage": 29.04,
+    "coverage": 29.02,
     "YRFI": {
       "picks": 156,
       "correct": 88,
