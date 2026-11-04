@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T19:41:47.466495+09:00",
-  "dateKST": "2026-11-04",
+  "generatedAt": "2026-11-05T03:31:34.337755+09:00",
+  "dateKST": "2026-11-05",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
@@ -10,7 +10,7 @@
     },
     "KBO": {
       "ok": true,
-      "games": 1
+      "games": 0
     },
     "NPB": {
       "ok": true,
@@ -22,46 +22,25 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1115
+      "games": 1099
     }
   },
-  "games": [
-    {
-      "source": "KBO Official",
-      "league": "KBO",
-      "gamePk": "18:30|SAMSUNG|KT",
-      "timeKST": "18:30",
-      "startISO": "",
-      "status": "경기전",
-      "away": "SAMSUNG",
-      "home": "KT",
-      "awayWins": null,
-      "awayLosses": null,
-      "homeWins": null,
-      "homeLosses": null,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
-    }
-  ],
+  "games": [],
   "firstInningMLB": {
-    "rawGames": 1115,
-    "evaluatedPicks": 331,
-    "correct": 188,
-    "accuracy": 56.8,
-    "coverage": 29.69,
+    "rawGames": 1099,
+    "evaluatedPicks": 324,
+    "correct": 187,
+    "accuracy": 57.72,
+    "coverage": 29.48,
     "YRFI": {
-      "picks": 128,
-      "correct": 70,
-      "accuracy": 54.69
+      "picks": 122,
+      "correct": 68,
+      "accuracy": 55.74
     },
     "NRFI": {
-      "picks": 203,
-      "correct": 118,
-      "accuracy": 58.13
+      "picks": 202,
+      "correct": 119,
+      "accuracy": 58.91
     },
     "window": 20,
     "minGames": 10,
@@ -71,15 +50,15 @@
     },
     "note": "각 경기 예측 시 해당 경기 이전 기록만 사용. 미래누설 없음.",
     "teamRatesLast30": {
-      "Milwaukee Brewers": {
+      "Toronto Blue Jays": {
         "games": 30,
         "scored1stPct": 36.7,
-        "allowed1stPct": 13.3
+        "allowed1stPct": 40.0
       },
-      "St. Louis Cardinals": {
+      "San Francisco Giants": {
         "games": 30,
-        "scored1stPct": 16.7,
-        "allowed1stPct": 50.0
+        "scored1stPct": 46.7,
+        "allowed1stPct": 30.0
       },
       "Chicago Cubs": {
         "games": 30,
@@ -181,6 +160,16 @@
         "scored1stPct": 40.0,
         "allowed1stPct": 30.0
       },
+      "Milwaukee Brewers": {
+        "games": 30,
+        "scored1stPct": 36.7,
+        "allowed1stPct": 13.3
+      },
+      "St. Louis Cardinals": {
+        "games": 30,
+        "scored1stPct": 16.7,
+        "allowed1stPct": 50.0
+      },
       "Los Angeles Angels": {
         "games": 30,
         "scored1stPct": 33.3,
@@ -191,26 +180,6 @@
         "scored1stPct": 30.0,
         "allowed1stPct": 33.3
       },
-      "Arizona Diamondbacks": {
-        "games": 30,
-        "scored1stPct": 23.3,
-        "allowed1stPct": 26.7
-      },
-      "San Diego Padres": {
-        "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 23.3
-      },
-      "Toronto Blue Jays": {
-        "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 40.0
-      },
-      "San Francisco Giants": {
-        "games": 30,
-        "scored1stPct": 46.7,
-        "allowed1stPct": 30.0
-      },
       "Colorado Rockies": {
         "games": 30,
         "scored1stPct": 26.7,
@@ -220,6 +189,16 @@
         "games": 30,
         "scored1stPct": 23.3,
         "allowed1stPct": 20.0
+      },
+      "Arizona Diamondbacks": {
+        "games": 30,
+        "scored1stPct": 23.3,
+        "allowed1stPct": 26.7
+      },
+      "San Diego Padres": {
+        "games": 30,
+        "scored1stPct": 36.7,
+        "allowed1stPct": 23.3
       },
       "American League All-Stars": {
         "games": 1,
