@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T17:46:46.769280+09:00",
-  "dateKST": "2026-11-08",
+  "generatedAt": "2026-11-09T00:52:19.463324+09:00",
+  "dateKST": "2026-11-09",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
@@ -10,7 +10,7 @@
     },
     "KBO": {
       "ok": true,
-      "games": 1
+      "games": 0
     },
     "NPB": {
       "ok": true,
@@ -22,46 +22,25 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1057
+      "games": 1041
     }
   },
-  "games": [
-    {
-      "source": "KBO Official",
-      "league": "KBO",
-      "gamePk": "14:00|KT|SAMSUNG",
-      "timeKST": "14:00",
-      "startISO": "",
-      "status": "경기전",
-      "away": "KT",
-      "home": "SAMSUNG",
-      "awayWins": null,
-      "awayLosses": null,
-      "homeWins": null,
-      "homeLosses": null,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.5,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
-    }
-  ],
+  "games": [],
   "firstInningMLB": {
-    "rawGames": 1057,
-    "evaluatedPicks": 304,
-    "correct": 175,
-    "accuracy": 57.57,
-    "coverage": 28.76,
+    "rawGames": 1041,
+    "evaluatedPicks": 300,
+    "correct": 172,
+    "accuracy": 57.33,
+    "coverage": 28.82,
     "YRFI": {
-      "picks": 124,
+      "picks": 126,
       "correct": 68,
-      "accuracy": 54.84
+      "accuracy": 53.97
     },
     "NRFI": {
-      "picks": 180,
-      "correct": 107,
-      "accuracy": 59.44
+      "picks": 174,
+      "correct": 104,
+      "accuracy": 59.77
     },
     "window": 20,
     "minGames": 10,
@@ -81,35 +60,15 @@
         "scored1stPct": 26.7,
         "allowed1stPct": 16.7
       },
-      "Los Angeles Angels": {
+      "Kansas City Royals": {
         "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 16.7
-      },
-      "Minnesota Twins": {
-        "games": 30,
-        "scored1stPct": 40.0,
-        "allowed1stPct": 40.0
-      },
-      "Athletics": {
-        "games": 30,
-        "scored1stPct": 26.7,
+        "scored1stPct": 50.0,
         "allowed1stPct": 36.7
       },
-      "Chicago White Sox": {
-        "games": 30,
-        "scored1stPct": 40.0,
-        "allowed1stPct": 30.0
-      },
-      "Colorado Rockies": {
+      "Baltimore Orioles": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 43.3
-      },
-      "San Francisco Giants": {
-        "games": 30,
-        "scored1stPct": 46.7,
-        "allowed1stPct": 30.0
+        "allowed1stPct": 26.7
       },
       "New York Yankees": {
         "games": 30,
@@ -120,6 +79,16 @@
         "games": 30,
         "scored1stPct": 23.3,
         "allowed1stPct": 30.0
+      },
+      "Chicago Cubs": {
+        "games": 30,
+        "scored1stPct": 36.7,
+        "allowed1stPct": 26.7
+      },
+      "Cincinnati Reds": {
+        "games": 30,
+        "scored1stPct": 26.7,
+        "allowed1stPct": 46.7
       },
       "Boston Red Sox": {
         "games": 30,
@@ -141,16 +110,6 @@
         "scored1stPct": 33.3,
         "allowed1stPct": 23.3
       },
-      "Cleveland Guardians": {
-        "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 30.0
-      },
-      "Miami Marlins": {
-        "games": 30,
-        "scored1stPct": 10.0,
-        "allowed1stPct": 20.0
-      },
       "Philadelphia Phillies": {
         "games": 30,
         "scored1stPct": 33.3,
@@ -161,35 +120,35 @@
         "scored1stPct": 33.3,
         "allowed1stPct": 40.0
       },
-      "Kansas City Royals": {
-        "games": 30,
-        "scored1stPct": 50.0,
-        "allowed1stPct": 36.7
-      },
-      "Baltimore Orioles": {
-        "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 26.7
-      },
-      "Houston Astros": {
-        "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 20.0
-      },
-      "Texas Rangers": {
+      "Cleveland Guardians": {
         "games": 30,
         "scored1stPct": 30.0,
-        "allowed1stPct": 33.3
+        "allowed1stPct": 30.0
       },
-      "Chicago Cubs": {
+      "Miami Marlins": {
         "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 26.7
+        "scored1stPct": 10.0,
+        "allowed1stPct": 20.0
       },
-      "Cincinnati Reds": {
+      "Los Angeles Angels": {
+        "games": 30,
+        "scored1stPct": 33.3,
+        "allowed1stPct": 16.7
+      },
+      "Minnesota Twins": {
+        "games": 30,
+        "scored1stPct": 40.0,
+        "allowed1stPct": 40.0
+      },
+      "Athletics": {
         "games": 30,
         "scored1stPct": 26.7,
-        "allowed1stPct": 46.7
+        "allowed1stPct": 36.7
+      },
+      "Chicago White Sox": {
+        "games": 30,
+        "scored1stPct": 40.0,
+        "allowed1stPct": 30.0
       },
       "Atlanta Braves": {
         "games": 30,
@@ -201,15 +160,25 @@
         "scored1stPct": 16.7,
         "allowed1stPct": 50.0
       },
-      "Toronto Blue Jays": {
+      "Houston Astros": {
         "games": 30,
         "scored1stPct": 36.7,
-        "allowed1stPct": 40.0
+        "allowed1stPct": 20.0
       },
-      "San Diego Padres": {
+      "Texas Rangers": {
         "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 23.3
+        "scored1stPct": 30.0,
+        "allowed1stPct": 33.3
+      },
+      "Colorado Rockies": {
+        "games": 30,
+        "scored1stPct": 26.7,
+        "allowed1stPct": 43.3
+      },
+      "San Francisco Giants": {
+        "games": 30,
+        "scored1stPct": 46.7,
+        "allowed1stPct": 30.0
       },
       "Arizona Diamondbacks": {
         "games": 30,
@@ -220,6 +189,16 @@
         "games": 30,
         "scored1stPct": 23.3,
         "allowed1stPct": 20.0
+      },
+      "Toronto Blue Jays": {
+        "games": 30,
+        "scored1stPct": 36.7,
+        "allowed1stPct": 40.0
+      },
+      "San Diego Padres": {
+        "games": 30,
+        "scored1stPct": 36.7,
+        "allowed1stPct": 23.3
       },
       "American League All-Stars": {
         "games": 1,
