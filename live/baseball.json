@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T16:37:08.309915+09:00",
-  "dateKST": "2026-11-11",
+  "generatedAt": "2026-11-12T00:37:16.736679+09:00",
+  "dateKST": "2026-11-12",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
@@ -22,16 +22,16 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1026
+      "games": 1025
     }
   },
   "games": [],
   "firstInningMLB": {
-    "rawGames": 1026,
+    "rawGames": 1025,
     "evaluatedPicks": 305,
     "correct": 178,
     "accuracy": 58.36,
-    "coverage": 29.73,
+    "coverage": 29.76,
     "YRFI": {
       "picks": 129,
       "correct": 72,
@@ -50,16 +50,6 @@
     },
     "note": "각 경기 예측 시 해당 경기 이전 기록만 사용. 미래누설 없음.",
     "teamRatesLast30": {
-      "American League All-Stars": {
-        "games": 1,
-        "scored1stPct": 100.0,
-        "allowed1stPct": 0.0
-      },
-      "National League All-Stars": {
-        "games": 1,
-        "scored1stPct": 0.0,
-        "allowed1stPct": 100.0
-      },
       "New York Mets": {
         "games": 30,
         "scored1stPct": 43.3,
