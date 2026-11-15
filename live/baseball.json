@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T23:37:02.461805+09:00",
-  "dateKST": "2026-11-15",
+  "generatedAt": "2026-11-16T04:57:09.946727+09:00",
+  "dateKST": "2026-11-16",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
@@ -22,25 +22,25 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 1010
+      "games": 995
     }
   },
   "games": [],
   "firstInningMLB": {
-    "rawGames": 1010,
-    "evaluatedPicks": 302,
+    "rawGames": 995,
+    "evaluatedPicks": 299,
     "correct": 173,
-    "accuracy": 57.28,
-    "coverage": 29.9,
+    "accuracy": 57.86,
+    "coverage": 30.05,
     "YRFI": {
-      "picks": 131,
-      "correct": 72,
-      "accuracy": 54.96
+      "picks": 132,
+      "correct": 73,
+      "accuracy": 55.3
     },
     "NRFI": {
-      "picks": 171,
-      "correct": 101,
-      "accuracy": 59.06
+      "picks": 167,
+      "correct": 100,
+      "accuracy": 59.88
     },
     "window": 20,
     "minGames": 10,
@@ -50,25 +50,35 @@
     },
     "note": "각 경기 예측 시 해당 경기 이전 기록만 사용. 미래누설 없음.",
     "teamRatesLast30": {
-      "Pittsburgh Pirates": {
+      "Chicago White Sox": {
+        "games": 30,
+        "scored1stPct": 40.0,
+        "allowed1stPct": 30.0
+      },
+      "Toronto Blue Jays": {
+        "games": 30,
+        "scored1stPct": 36.7,
+        "allowed1stPct": 40.0
+      },
+      "Los Angeles Dodgers": {
+        "games": 30,
+        "scored1stPct": 23.3,
+        "allowed1stPct": 20.0
+      },
+      "New York Yankees": {
         "games": 30,
         "scored1stPct": 26.7,
         "allowed1stPct": 16.7
       },
-      "Cleveland Guardians": {
+      "Tampa Bay Rays": {
         "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 30.0
+        "scored1stPct": 33.3,
+        "allowed1stPct": 23.3
       },
-      "Minnesota Twins": {
+      "Boston Red Sox": {
         "games": 30,
-        "scored1stPct": 40.0,
-        "allowed1stPct": 40.0
-      },
-      "Chicago Cubs": {
-        "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 26.7
+        "scored1stPct": 26.7,
+        "allowed1stPct": 36.7
       },
       "New York Mets": {
         "games": 30,
@@ -80,25 +90,25 @@
         "scored1stPct": 33.3,
         "allowed1stPct": 33.3
       },
-      "Chicago White Sox": {
+      "Texas Rangers": {
         "games": 30,
-        "scored1stPct": 40.0,
+        "scored1stPct": 30.0,
+        "allowed1stPct": 33.3
+      },
+      "Atlanta Braves": {
+        "games": 30,
+        "scored1stPct": 30.0,
+        "allowed1stPct": 33.3
+      },
+      "Pittsburgh Pirates": {
+        "games": 30,
+        "scored1stPct": 26.7,
+        "allowed1stPct": 16.7
+      },
+      "Cleveland Guardians": {
+        "games": 30,
+        "scored1stPct": 30.0,
         "allowed1stPct": 30.0
-      },
-      "Toronto Blue Jays": {
-        "games": 30,
-        "scored1stPct": 36.7,
-        "allowed1stPct": 40.0
-      },
-      "Cincinnati Reds": {
-        "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 46.7
-      },
-      "Colorado Rockies": {
-        "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 43.3
       },
       "Baltimore Orioles": {
         "games": 30,
@@ -120,36 +130,6 @@
         "scored1stPct": 50.0,
         "allowed1stPct": 36.7
       },
-      "St. Louis Cardinals": {
-        "games": 30,
-        "scored1stPct": 16.7,
-        "allowed1stPct": 50.0
-      },
-      "Arizona Diamondbacks": {
-        "games": 30,
-        "scored1stPct": 23.3,
-        "allowed1stPct": 26.7
-      },
-      "Tampa Bay Rays": {
-        "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 23.3
-      },
-      "Boston Red Sox": {
-        "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 36.7
-      },
-      "Texas Rangers": {
-        "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 33.3
-      },
-      "Atlanta Braves": {
-        "games": 30,
-        "scored1stPct": 30.0,
-        "allowed1stPct": 33.3
-      },
       "Miami Marlins": {
         "games": 30,
         "scored1stPct": 10.0,
@@ -160,15 +140,25 @@
         "scored1stPct": 36.7,
         "allowed1stPct": 13.3
       },
-      "San Francisco Giants": {
+      "Minnesota Twins": {
         "games": 30,
-        "scored1stPct": 46.7,
-        "allowed1stPct": 30.0
+        "scored1stPct": 40.0,
+        "allowed1stPct": 40.0
       },
-      "Seattle Mariners": {
+      "Chicago Cubs": {
         "games": 30,
-        "scored1stPct": 30.0,
+        "scored1stPct": 36.7,
+        "allowed1stPct": 26.7
+      },
+      "Cincinnati Reds": {
+        "games": 30,
+        "scored1stPct": 26.7,
         "allowed1stPct": 46.7
+      },
+      "Colorado Rockies": {
+        "games": 30,
+        "scored1stPct": 26.7,
+        "allowed1stPct": 43.3
       },
       "Washington Nationals": {
         "games": 30,
@@ -190,15 +180,25 @@
         "scored1stPct": 33.3,
         "allowed1stPct": 16.7
       },
-      "Los Angeles Dodgers": {
+      "San Francisco Giants": {
+        "games": 30,
+        "scored1stPct": 46.7,
+        "allowed1stPct": 30.0
+      },
+      "Seattle Mariners": {
+        "games": 30,
+        "scored1stPct": 30.0,
+        "allowed1stPct": 46.7
+      },
+      "St. Louis Cardinals": {
+        "games": 30,
+        "scored1stPct": 16.7,
+        "allowed1stPct": 50.0
+      },
+      "Arizona Diamondbacks": {
         "games": 30,
         "scored1stPct": 23.3,
-        "allowed1stPct": 20.0
-      },
-      "New York Yankees": {
-        "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 16.7
+        "allowed1stPct": 26.7
       }
     }
   }
