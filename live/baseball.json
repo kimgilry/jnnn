@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T16:25:05.136135+09:00",
-  "dateKST": "2026-11-17",
+  "generatedAt": "2026-11-18T02:03:33.137650+09:00",
+  "dateKST": "2026-11-18",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
@@ -22,25 +22,25 @@
     },
     "MLBFirstInning": {
       "ok": true,
-      "games": 979
+      "games": 964
     }
   },
   "games": [],
   "firstInningMLB": {
-    "rawGames": 979,
-    "evaluatedPicks": 296,
-    "correct": 167,
-    "accuracy": 56.42,
-    "coverage": 30.23,
+    "rawGames": 964,
+    "evaluatedPicks": 288,
+    "correct": 163,
+    "accuracy": 56.6,
+    "coverage": 29.88,
     "YRFI": {
       "picks": 129,
-      "correct": 71,
-      "accuracy": 55.04
+      "correct": 70,
+      "accuracy": 54.26
     },
     "NRFI": {
-      "picks": 167,
-      "correct": 96,
-      "accuracy": 57.49
+      "picks": 159,
+      "correct": 93,
+      "accuracy": 58.49
     },
     "window": 20,
     "minGames": 10,
@@ -60,15 +60,15 @@
         "scored1stPct": 30.0,
         "allowed1stPct": 30.0
       },
-      "Pittsburgh Pirates": {
+      "Los Angeles Dodgers": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 16.7
+        "scored1stPct": 23.3,
+        "allowed1stPct": 20.0
       },
-      "New York Yankees": {
+      "Philadelphia Phillies": {
         "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 16.7
+        "scored1stPct": 33.3,
+        "allowed1stPct": 33.3
       },
       "Tampa Bay Rays": {
         "games": 30,
@@ -79,26 +79,6 @@
         "games": 30,
         "scored1stPct": 36.7,
         "allowed1stPct": 40.0
-      },
-      "Baltimore Orioles": {
-        "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 26.7
-      },
-      "Boston Red Sox": {
-        "games": 30,
-        "scored1stPct": 26.7,
-        "allowed1stPct": 36.7
-      },
-      "Los Angeles Dodgers": {
-        "games": 30,
-        "scored1stPct": 23.3,
-        "allowed1stPct": 20.0
-      },
-      "Philadelphia Phillies": {
-        "games": 30,
-        "scored1stPct": 33.3,
-        "allowed1stPct": 33.3
       },
       "San Diego Padres": {
         "games": 30,
@@ -170,6 +150,16 @@
         "scored1stPct": 26.7,
         "allowed1stPct": 43.3
       },
+      "St. Louis Cardinals": {
+        "games": 30,
+        "scored1stPct": 16.7,
+        "allowed1stPct": 50.0
+      },
+      "Los Angeles Angels": {
+        "games": 30,
+        "scored1stPct": 33.3,
+        "allowed1stPct": 16.7
+      },
       "Athletics": {
         "games": 30,
         "scored1stPct": 26.7,
@@ -190,15 +180,25 @@
         "scored1stPct": 30.0,
         "allowed1stPct": 46.7
       },
-      "St. Louis Cardinals": {
+      "Pittsburgh Pirates": {
         "games": 30,
-        "scored1stPct": 16.7,
-        "allowed1stPct": 50.0
-      },
-      "Los Angeles Angels": {
-        "games": 30,
-        "scored1stPct": 33.3,
+        "scored1stPct": 26.7,
         "allowed1stPct": 16.7
+      },
+      "New York Yankees": {
+        "games": 30,
+        "scored1stPct": 26.7,
+        "allowed1stPct": 16.7
+      },
+      "Baltimore Orioles": {
+        "games": 30,
+        "scored1stPct": 26.7,
+        "allowed1stPct": 26.7
+      },
+      "Boston Red Sox": {
+        "games": 30,
+        "scored1stPct": 26.7,
+        "allowed1stPct": 36.7
       }
     }
   }
